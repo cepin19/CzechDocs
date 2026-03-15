@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="../data/html/html_76/cs/obcanstvi_uk_zkouska-z-ceskych-realii_priprava-ke-zkousce_ucebnice-a-dalsi-literatura-realie.html" source-language="cs" target-language="en-US" datatype="html" okp:inputEncoding="utf-8">
+<body>
+<trans-unit id="tu1" restype="x-title">
+<source xml:lang="cs">Učebnice a další literatura – reálie – Občanství</source>
+<target xml:lang="en-US">Učebnice a další literatura – reálie – Občanství</target>
+</trans-unit>
+<trans-unit id="tu2" restype="x-title">
+<source xml:lang="cs">Občanství » RSS zdroj</source>
+<target xml:lang="en-US">Občanství » RSS zdroj</target>
+</trans-unit>
+<trans-unit id="tu3" restype="x-title">
+<source xml:lang="cs">Občanství » RSS komentářů</source>
+<target xml:lang="en-US">Občanství » RSS komentářů</target>
+</trans-unit>
+<trans-unit id="tu4" restype="x-title">
+<source xml:lang="cs">RSD</source>
+<target xml:lang="en-US">RSD</target>
+</trans-unit>
+<trans-unit id="tu5">
+<source xml:lang="cs"><g id="1"></g></source>
+<target xml:lang="en-US"><g id="1"></g></target>
+</trans-unit>
+<trans-unit id="tu6">
+<source xml:lang="cs"><g id="1">Skip to content</g></source>
+<target xml:lang="en-US"><g id="1">Skip to content</g></target>
+</trans-unit>
+<trans-unit id="tu8" restype="x-alt">
+<source xml:lang="cs">Logo</source>
+<target xml:lang="en-US">Logo</target>
+</trans-unit>
+<trans-unit id="tu7">
+<source xml:lang="cs"><g id="1"><x id="2"/></g></source>
+<target xml:lang="en-US"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu10" restype="x-alt">
+<source xml:lang="cs">CS</source>
+<target xml:lang="en-US">CS</target>
+</trans-unit>
+<trans-unit id="tu9" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></target>
+</trans-unit>
+<trans-unit id="tu12" restype="x-alt">
+<source xml:lang="cs">EN</source>
+<target xml:lang="en-US">EN</target>
+</trans-unit>
+<trans-unit id="tu11" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></target>
+</trans-unit>
+<trans-unit id="tu14" restype="x-alt">
+<source xml:lang="cs">UK</source>
+<target xml:lang="en-US">UK</target>
+</trans-unit>
+<trans-unit id="tu13" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></target>
+</trans-unit>
+<trans-unit id="tu16" restype="x-alt">
+<source xml:lang="cs">RU</source>
+<target xml:lang="en-US">RU</target>
+</trans-unit>
+<trans-unit id="tu15" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></target>
+</trans-unit>
+<trans-unit id="tu18" restype="x-alt">
+<source xml:lang="cs">VI</source>
+<target xml:lang="en-US">VI</target>
+</trans-unit>
+<trans-unit id="tu17" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></target>
+</trans-unit>
+<trans-unit id="tu20" restype="x-alt">
+<source xml:lang="cs">Logo</source>
+<target xml:lang="en-US">Logo</target>
+</trans-unit>
+<trans-unit id="tu19">
+<source xml:lang="cs"><g id="1"><x id="2"/></g></source>
+<target xml:lang="en-US"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu22" restype="x-alt">
+<source xml:lang="cs">CS</source>
+<target xml:lang="en-US">CS</target>
+</trans-unit>
+<trans-unit id="tu21" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></target>
+</trans-unit>
+<trans-unit id="tu24" restype="x-alt">
+<source xml:lang="cs">EN</source>
+<target xml:lang="en-US">EN</target>
+</trans-unit>
+<trans-unit id="tu23" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></target>
+</trans-unit>
+<trans-unit id="tu26" restype="x-alt">
+<source xml:lang="cs">UK</source>
+<target xml:lang="en-US">UK</target>
+</trans-unit>
+<trans-unit id="tu25" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></target>
+</trans-unit>
+<trans-unit id="tu28" restype="x-alt">
+<source xml:lang="cs">RU</source>
+<target xml:lang="en-US">RU</target>
+</trans-unit>
+<trans-unit id="tu27" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></target>
+</trans-unit>
+<trans-unit id="tu30" restype="x-alt">
+<source xml:lang="cs">VI</source>
+<target xml:lang="en-US">VI</target>
+</trans-unit>
+<trans-unit id="tu29" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></target>
+</trans-unit>
+<trans-unit id="tu32" restype="x-alt">
+<source xml:lang="cs">CS</source>
+<target xml:lang="en-US">CS</target>
+</trans-unit>
+<trans-unit id="tu31" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></target>
+</trans-unit>
+<trans-unit id="tu34" restype="x-alt">
+<source xml:lang="cs">EN</source>
+<target xml:lang="en-US">EN</target>
+</trans-unit>
+<trans-unit id="tu33" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></target>
+</trans-unit>
+<trans-unit id="tu36" restype="x-alt">
+<source xml:lang="cs">UK</source>
+<target xml:lang="en-US">UK</target>
+</trans-unit>
+<trans-unit id="tu35" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></target>
+</trans-unit>
+<trans-unit id="tu38" restype="x-alt">
+<source xml:lang="cs">RU</source>
+<target xml:lang="en-US">RU</target>
+</trans-unit>
+<trans-unit id="tu37" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></target>
+</trans-unit>
+<trans-unit id="tu40" restype="x-alt">
+<source xml:lang="cs">VI</source>
+<target xml:lang="en-US">VI</target>
+</trans-unit>
+<trans-unit id="tu39" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></target>
+</trans-unit>
+<trans-unit id="tu41" resname="menu-item-152-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Obecně</g></source>
+<target xml:lang="en-US"><g id="1">Obecně</g></target>
+</trans-unit>
+<trans-unit id="tu42" resname="menu-item-157-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Udělování státního občanství ČR</g></source>
+<target xml:lang="en-US"><g id="1">Udělování státního občanství ČR</g></target>
+</trans-unit>
+<trans-unit id="tu43" resname="menu-item-163-id" restype="x-li">
+<source xml:lang="cs"><g id="1">O zkoušce</g></source>
+<target xml:lang="en-US"><g id="1">O zkoušce</g></target>
+</trans-unit>
+<trans-unit id="tu44" resname="menu-item-167-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Přihlašování ke zkoušce</g></source>
+<target xml:lang="en-US"><g id="1">Přihlašování ke zkoušce</g></target>
+</trans-unit>
+<trans-unit id="tu45" resname="menu-item-165-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Poplatky</g></source>
+<target xml:lang="en-US"><g id="1">Poplatky</g></target>
+</trans-unit>
+<trans-unit id="tu46" resname="menu-item-308-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Termíny zkoušek</g></source>
+<target xml:lang="en-US"><g id="1">Termíny zkoušek</g></target>
+</trans-unit>
+<trans-unit id="tu47" resname="menu-item-324-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Zkušební místa</g></source>
+<target xml:lang="en-US"><g id="1">Zkušební místa</g></target>
+</trans-unit>
+<trans-unit id="tu48" resname="menu-item-164-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Harmonogram zkoušky</g></source>
+<target xml:lang="en-US"><g id="1">Harmonogram zkoušky</g></target>
+</trans-unit>
+<trans-unit id="tu49" resname="menu-item-327-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Výsledky zkoušky</g></source>
+<target xml:lang="en-US"><g id="1">Výsledky zkoušky</g></target>
+</trans-unit>
+<trans-unit id="tu50" resname="menu-item-166-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Pravidla a organizace zkoušky</g></source>
+<target xml:lang="en-US"><g id="1">Pravidla a organizace zkoušky</g></target>
+</trans-unit>
+<trans-unit id="tu51" resname="menu-item-160-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Ostatní</g></source>
+<target xml:lang="en-US"><g id="1">Ostatní</g></target>
+</trans-unit>
+<trans-unit id="tu52" resname="menu-item-161-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Organizace zabývající se poradenstvím pro cizince</g></source>
+<target xml:lang="en-US"><g id="1">Organizace zabývající se poradenstvím pro cizince</g></target>
+</trans-unit>
+<trans-unit id="tu53" resname="menu-item-162-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Užitečné zdroje informací</g></source>
+<target xml:lang="en-US"><g id="1">Užitečné zdroje informací</g></target>
+</trans-unit>
+<trans-unit id="tu54" resname="menu-item-155-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Kontakty</g></source>
+<target xml:lang="en-US"><g id="1">Kontakty</g></target>
+</trans-unit>
+<trans-unit id="tu55" resname="menu-item-154-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Ke stažení</g></source>
+<target xml:lang="en-US"><g id="1">Ke stažení</g></target>
+</trans-unit>
+<trans-unit id="tu56" resname="menu-item-973-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Zkouška z reálií</g></source>
+<target xml:lang="en-US"><g id="1">Zkouška z reálií</g></target>
+</trans-unit>
+<trans-unit id="tu57" resname="menu-item-974-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Informace o zkoušce z českých reálií</g></source>
+<target xml:lang="en-US"><g id="1">Informace o zkoušce z českých reálií</g></target>
+</trans-unit>
+<trans-unit id="tu58" resname="menu-item-343-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Termíny zkoušky z reálií</g></source>
+<target xml:lang="en-US"><g id="1">Termíny zkoušky z reálií</g></target>
+</trans-unit>
+<trans-unit id="tu59" resname="menu-item-194-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Zkušební místa</g></source>
+<target xml:lang="en-US"><g id="1">Zkušební místa</g></target>
+</trans-unit>
+<trans-unit id="tu60" resname="menu-item-183-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Příprava na zkoušku</g></source>
+<target xml:lang="en-US"><g id="1">Příprava na zkoušku</g></target>
+</trans-unit>
+<trans-unit id="tu61" resname="menu-item-186-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Pravidla a organizace zkoušky z českých reálií</g></source>
+<target xml:lang="en-US"><g id="1">Pravidla a organizace zkoušky z českých reálií</g></target>
+</trans-unit>
+<trans-unit id="tu62" resname="menu-item-187-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Specifikace pro zkoušku z českých reálií</g></source>
+<target xml:lang="en-US"><g id="1">Specifikace pro zkoušku z českých reálií</g></target>
+</trans-unit>
+<trans-unit id="tu63" resname="menu-item-418-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Interaktivní modelový test z českých reálií</g></source>
+<target xml:lang="en-US"><g id="1">Interaktivní modelový test z českých reálií</g></target>
+</trans-unit>
+<trans-unit id="tu64" resname="menu-item-420-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Databanka testových úloh z českých reálií</g></source>
+<target xml:lang="en-US"><g id="1">Databanka testových úloh z českých reálií</g></target>
+</trans-unit>
+<trans-unit id="tu65" resname="menu-item-354-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Učebnice a další literatura – reálie</g></source>
+<target xml:lang="en-US"><g id="1">Učebnice a další literatura – reálie</g></target>
+</trans-unit>
+<trans-unit id="tu66" resname="menu-item-182-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Ke stažení</g></source>
+<target xml:lang="en-US"><g id="1">Ke stažení</g></target>
+</trans-unit>
+<trans-unit id="tu67" resname="menu-item-196-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Databanka</g></source>
+<target xml:lang="en-US"><g id="1">Databanka</g></target>
+</trans-unit>
+<trans-unit id="tu68" resname="menu-item-197-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Modelový test</g></source>
+<target xml:lang="en-US"><g id="1">Modelový test</g></target>
+</trans-unit>
+<trans-unit id="tu69" resname="menu-item-173-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Zkouška z jazyka</g></source>
+<target xml:lang="en-US"><g id="1">Zkouška z jazyka</g></target>
+</trans-unit>
+<trans-unit id="tu70" resname="menu-item-978-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Informace o zkoušce z českého jazyka</g></source>
+<target xml:lang="en-US"><g id="1">Informace o zkoušce z českého jazyka</g></target>
+</trans-unit>
+<trans-unit id="tu71" resname="menu-item-342-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Termíny zkoušky z jazyka</g></source>
+<target xml:lang="en-US"><g id="1">Termíny zkoušky z jazyka</g></target>
+</trans-unit>
+<trans-unit id="tu72" resname="menu-item-332-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Zkušební místa</g></source>
+<target xml:lang="en-US"><g id="1">Zkušební místa</g></target>
+</trans-unit>
+<trans-unit id="tu73" resname="menu-item-176-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Příprava na zkoušku</g></source>
+<target xml:lang="en-US"><g id="1">Příprava na zkoušku</g></target>
+</trans-unit>
+<trans-unit id="tu74" resname="menu-item-178-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Pravidla a organizace zkoušky z českého jazyka</g></source>
+<target xml:lang="en-US"><g id="1">Pravidla a organizace zkoušky z českého jazyka</g></target>
+</trans-unit>
+<trans-unit id="tu75" resname="menu-item-177-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Modelová varianta zkoušky z českého jazyka</g></source>
+<target xml:lang="en-US"><g id="1">Modelová varianta zkoušky z českého jazyka</g></target>
+</trans-unit>
+<trans-unit id="tu76" resname="menu-item-355-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Učebnice a další literatura – jazyk</g></source>
+<target xml:lang="en-US"><g id="1">Učebnice a další literatura – jazyk</g></target>
+</trans-unit>
+<trans-unit id="tu77" resname="menu-item-175-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Ke stažení</g></source>
+<target xml:lang="en-US"><g id="1">Ke stažení</g></target>
+</trans-unit>
+<trans-unit id="tu78">
+<source xml:lang="cs"><g id="1"><x id="2"/></g></source>
+<target xml:lang="en-US"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu79" restype="x-h1">
+<source xml:lang="cs">Učebnice a další literatura – reálie</source>
+<target xml:lang="en-US">Učebnice a další literatura – reálie</target>
+</trans-unit>
+<trans-unit id="tu80" restype="x-paragraph">
+<source xml:lang="cs"><g id="1">Seznam učebnic a dalších materiálů vhodných pro výuku českých reálií a pro získání nebo upevnění znalostí českých reálií.</g></source>
+<target xml:lang="en-US"><g id="1">Seznam učebnic a dalších materiálů vhodných pro výuku českých reálií a pro získání nebo upevnění znalostí českých reálií.</g></target>
+</trans-unit>
+<trans-unit id="tu81" restype="x-li">
+<source xml:lang="cs">ke stažení <g id="1">zde</g></source>
+<target xml:lang="en-US">ke stažení <g id="1">zde</g></target>
+</trans-unit>
+</body>
+</file>
+</xliff>

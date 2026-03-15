@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="../data/html/html_59/vn/obcanstvi_uk_terminy-zkousek.html" source-language="vn" target-language="en-US" datatype="html" okp:inputEncoding="utf-8">
+<body>
+<trans-unit id="tu1" restype="x-title">
+<source xml:lang="vn">Những thời hạn thi trong năm – Občanství</source>
+<target xml:lang="en-US">Những thời hạn thi trong năm – Občanství</target>
+</trans-unit>
+<trans-unit id="tu2" restype="x-title">
+<source xml:lang="vn">Občanství » RSS zdroj</source>
+<target xml:lang="en-US">Občanství » RSS zdroj</target>
+</trans-unit>
+<trans-unit id="tu3" restype="x-title">
+<source xml:lang="vn">Občanství » RSS komentářů</source>
+<target xml:lang="en-US">Občanství » RSS komentářů</target>
+</trans-unit>
+<trans-unit id="tu4" restype="x-title">
+<source xml:lang="vn">RSD</source>
+<target xml:lang="en-US">RSD</target>
+</trans-unit>
+<trans-unit id="tu5">
+<source xml:lang="vn"><g id="1"></g></source>
+<target xml:lang="en-US"><g id="1"></g></target>
+</trans-unit>
+<trans-unit id="tu6">
+<source xml:lang="vn"><g id="1">Skip to content</g></source>
+<target xml:lang="en-US"><g id="1">Skip to content</g></target>
+</trans-unit>
+<trans-unit id="tu8" restype="x-alt">
+<source xml:lang="vn">Logo</source>
+<target xml:lang="en-US">Logo</target>
+</trans-unit>
+<trans-unit id="tu7">
+<source xml:lang="vn"><g id="1"><x id="2"/></g></source>
+<target xml:lang="en-US"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu10" restype="x-alt">
+<source xml:lang="vn">CS</source>
+<target xml:lang="en-US">CS</target>
+</trans-unit>
+<trans-unit id="tu9" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></target>
+</trans-unit>
+<trans-unit id="tu12" restype="x-alt">
+<source xml:lang="vn">EN</source>
+<target xml:lang="en-US">EN</target>
+</trans-unit>
+<trans-unit id="tu11" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></target>
+</trans-unit>
+<trans-unit id="tu14" restype="x-alt">
+<source xml:lang="vn">UK</source>
+<target xml:lang="en-US">UK</target>
+</trans-unit>
+<trans-unit id="tu13" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></target>
+</trans-unit>
+<trans-unit id="tu16" restype="x-alt">
+<source xml:lang="vn">RU</source>
+<target xml:lang="en-US">RU</target>
+</trans-unit>
+<trans-unit id="tu15" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></target>
+</trans-unit>
+<trans-unit id="tu18" restype="x-alt">
+<source xml:lang="vn">VI</source>
+<target xml:lang="en-US">VI</target>
+</trans-unit>
+<trans-unit id="tu17" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></target>
+</trans-unit>
+<trans-unit id="tu20" restype="x-alt">
+<source xml:lang="vn">Logo</source>
+<target xml:lang="en-US">Logo</target>
+</trans-unit>
+<trans-unit id="tu19">
+<source xml:lang="vn"><g id="1"><x id="2"/></g></source>
+<target xml:lang="en-US"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu22" restype="x-alt">
+<source xml:lang="vn">CS</source>
+<target xml:lang="en-US">CS</target>
+</trans-unit>
+<trans-unit id="tu21" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></target>
+</trans-unit>
+<trans-unit id="tu24" restype="x-alt">
+<source xml:lang="vn">EN</source>
+<target xml:lang="en-US">EN</target>
+</trans-unit>
+<trans-unit id="tu23" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></target>
+</trans-unit>
+<trans-unit id="tu26" restype="x-alt">
+<source xml:lang="vn">UK</source>
+<target xml:lang="en-US">UK</target>
+</trans-unit>
+<trans-unit id="tu25" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></target>
+</trans-unit>
+<trans-unit id="tu28" restype="x-alt">
+<source xml:lang="vn">RU</source>
+<target xml:lang="en-US">RU</target>
+</trans-unit>
+<trans-unit id="tu27" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></target>
+</trans-unit>
+<trans-unit id="tu30" restype="x-alt">
+<source xml:lang="vn">VI</source>
+<target xml:lang="en-US">VI</target>
+</trans-unit>
+<trans-unit id="tu29" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></target>
+</trans-unit>
+<trans-unit id="tu32" restype="x-alt">
+<source xml:lang="vn">CS</source>
+<target xml:lang="en-US">CS</target>
+</trans-unit>
+<trans-unit id="tu31" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></target>
+</trans-unit>
+<trans-unit id="tu34" restype="x-alt">
+<source xml:lang="vn">EN</source>
+<target xml:lang="en-US">EN</target>
+</trans-unit>
+<trans-unit id="tu33" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></target>
+</trans-unit>
+<trans-unit id="tu36" restype="x-alt">
+<source xml:lang="vn">UK</source>
+<target xml:lang="en-US">UK</target>
+</trans-unit>
+<trans-unit id="tu35" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></target>
+</trans-unit>
+<trans-unit id="tu38" restype="x-alt">
+<source xml:lang="vn">RU</source>
+<target xml:lang="en-US">RU</target>
+</trans-unit>
+<trans-unit id="tu37" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></target>
+</trans-unit>
+<trans-unit id="tu40" restype="x-alt">
+<source xml:lang="vn">VI</source>
+<target xml:lang="en-US">VI</target>
+</trans-unit>
+<trans-unit id="tu39" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></target>
+</trans-unit>
+<trans-unit id="tu41" resname="menu-item-152-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Các thông tin chung</g></source>
+<target xml:lang="en-US"><g id="1">Các thông tin chung</g></target>
+</trans-unit>
+<trans-unit id="tu42" resname="menu-item-157-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Cấp quốc tịch nước Cộng Hòa Czech</g></source>
+<target xml:lang="en-US"><g id="1">Cấp quốc tịch nước Cộng Hòa Czech</g></target>
+</trans-unit>
+<trans-unit id="tu43" resname="menu-item-163-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Thi với mục đích cấp quốc tịch nước Cộng Hòa Czech</g></source>
+<target xml:lang="en-US"><g id="1">Thi với mục đích cấp quốc tịch nước Cộng Hòa Czech</g></target>
+</trans-unit>
+<trans-unit id="tu44" resname="menu-item-167-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Đăng ký thi</g></source>
+<target xml:lang="en-US"><g id="1">Đăng ký thi</g></target>
+</trans-unit>
+<trans-unit id="tu45" resname="menu-item-165-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Lệ phí</g></source>
+<target xml:lang="en-US"><g id="1">Lệ phí</g></target>
+</trans-unit>
+<trans-unit id="tu46" resname="menu-item-308-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Những thời hạn thi trong năm</g></source>
+<target xml:lang="en-US"><g id="1">Những thời hạn thi trong năm</g></target>
+</trans-unit>
+<trans-unit id="tu47" resname="menu-item-324-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Những điểm thi trong năm</g></source>
+<target xml:lang="en-US"><g id="1">Những điểm thi trong năm</g></target>
+</trans-unit>
+<trans-unit id="tu48" resname="menu-item-164-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Lịch trình thi</g></source>
+<target xml:lang="en-US"><g id="1">Lịch trình thi</g></target>
+</trans-unit>
+<trans-unit id="tu49" resname="menu-item-327-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Kết quả thi</g></source>
+<target xml:lang="en-US"><g id="1">Kết quả thi</g></target>
+</trans-unit>
+<trans-unit id="tu50" resname="menu-item-166-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Qui chế và tổ chức khi thi</g></source>
+<target xml:lang="en-US"><g id="1">Qui chế và tổ chức khi thi</g></target>
+</trans-unit>
+<trans-unit id="tu51" resname="menu-item-160-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Những điều còn lại</g></source>
+<target xml:lang="en-US"><g id="1">Những điều còn lại</g></target>
+</trans-unit>
+<trans-unit id="tu52" resname="menu-item-161-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Các tổ chức tư vấn cho người nước ngoài</g></source>
+<target xml:lang="en-US"><g id="1">Các tổ chức tư vấn cho người nước ngoài</g></target>
+</trans-unit>
+<trans-unit id="tu53" resname="menu-item-162-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Những nguồn thông tin bổ ích</g></source>
+<target xml:lang="en-US"><g id="1">Những nguồn thông tin bổ ích</g></target>
+</trans-unit>
+<trans-unit id="tu54" resname="menu-item-155-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Liên hệ</g></source>
+<target xml:lang="en-US"><g id="1">Liên hệ</g></target>
+</trans-unit>
+<trans-unit id="tu55" resname="menu-item-154-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Tải về từ trang internet</g></source>
+<target xml:lang="en-US"><g id="1">Tải về từ trang internet</g></target>
+</trans-unit>
+<trans-unit id="tu56" resname="menu-item-973-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Thi về cuộc sống và các tổ chức của nước Cộng Hòa Czech</g></source>
+<target xml:lang="en-US"><g id="1">Thi về cuộc sống và các tổ chức của nước Cộng Hòa Czech</g></target>
+</trans-unit>
+<trans-unit id="tu57" resname="menu-item-974-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Thông tin cho cuộc thi về cuộc sống và các tổ chức của Czech</g></source>
+<target xml:lang="en-US"><g id="1">Thông tin cho cuộc thi về cuộc sống và các tổ chức của Czech</g></target>
+</trans-unit>
+<trans-unit id="tu58" resname="menu-item-343-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Lịch thi về cuộc sống, xã hội séc</g></source>
+<target xml:lang="en-US"><g id="1">Lịch thi về cuộc sống, xã hội séc</g></target>
+</trans-unit>
+<trans-unit id="tu59" resname="menu-item-194-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Các điểm thi trong năm</g></source>
+<target xml:lang="en-US"><g id="1">Các điểm thi trong năm</g></target>
+</trans-unit>
+<trans-unit id="tu60" resname="menu-item-183-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Chuẩn bị cho cuộc thi</g></source>
+<target xml:lang="en-US"><g id="1">Chuẩn bị cho cuộc thi</g></target>
+</trans-unit>
+<trans-unit id="tu61" resname="menu-item-186-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Các qui chế và tổ chức thi về cuộc sống và tổ chức của Czech</g></source>
+<target xml:lang="en-US"><g id="1">Các qui chế và tổ chức thi về cuộc sống và tổ chức của Czech</g></target>
+</trans-unit>
+<trans-unit id="tu62" resname="menu-item-187-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Các qui định riêng cho thi về cuộc sống và tổ chức của Czech</g></source>
+<target xml:lang="en-US"><g id="1">Các qui định riêng cho thi về cuộc sống và tổ chức của Czech</g></target>
+</trans-unit>
+<trans-unit id="tu63" resname="menu-item-418-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Mô hình thử nghiệm về cuộc sống và tổ chức của Czech</g></source>
+<target xml:lang="en-US"><g id="1">Mô hình thử nghiệm về cuộc sống và tổ chức của Czech</g></target>
+</trans-unit>
+<trans-unit id="tu64" resname="menu-item-420-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Dữ liệu những bài tập về cuộc sống và tổ chức của Czech</g></source>
+<target xml:lang="en-US"><g id="1">Dữ liệu những bài tập về cuộc sống và tổ chức của Czech</g></target>
+</trans-unit>
+<trans-unit id="tu65" resname="menu-item-354-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Sách giáo khoa và các tài liệu khác – cuộc sống, xã hội</g></source>
+<target xml:lang="en-US"><g id="1">Sách giáo khoa và các tài liệu khác – cuộc sống, xã hội</g></target>
+</trans-unit>
+<trans-unit id="tu66" resname="menu-item-182-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Tải</g></source>
+<target xml:lang="en-US"><g id="1">Tải</g></target>
+</trans-unit>
+<trans-unit id="tu67" resname="menu-item-196-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Cơ sở dữ liệu</g></source>
+<target xml:lang="en-US"><g id="1">Cơ sở dữ liệu</g></target>
+</trans-unit>
+<trans-unit id="tu68" resname="menu-item-197-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Mô hình thử nghiệm</g></source>
+<target xml:lang="en-US"><g id="1">Mô hình thử nghiệm</g></target>
+</trans-unit>
+<trans-unit id="tu69" resname="menu-item-173-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Thi tiếng Czech</g></source>
+<target xml:lang="en-US"><g id="1">Thi tiếng Czech</g></target>
+</trans-unit>
+<trans-unit id="tu70" resname="menu-item-978-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Thông tin về thi tiếng Czech</g></source>
+<target xml:lang="en-US"><g id="1">Thông tin về thi tiếng Czech</g></target>
+</trans-unit>
+<trans-unit id="tu71" resname="menu-item-342-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Ngày kiểm tra tiếng Séc</g></source>
+<target xml:lang="en-US"><g id="1">Ngày kiểm tra tiếng Séc</g></target>
+</trans-unit>
+<trans-unit id="tu72" resname="menu-item-332-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Các điểm thi trong năm</g></source>
+<target xml:lang="en-US"><g id="1">Các điểm thi trong năm</g></target>
+</trans-unit>
+<trans-unit id="tu73" resname="menu-item-176-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Chuẩn bị cho cuộc thi</g></source>
+<target xml:lang="en-US"><g id="1">Chuẩn bị cho cuộc thi</g></target>
+</trans-unit>
+<trans-unit id="tu74" resname="menu-item-178-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Qui chế và tổ chức thi tiếng Czech</g></source>
+<target xml:lang="en-US"><g id="1">Qui chế và tổ chức thi tiếng Czech</g></target>
+</trans-unit>
+<trans-unit id="tu75" resname="menu-item-177-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Các dạng mẫu thi tiếng Chech</g></source>
+<target xml:lang="en-US"><g id="1">Các dạng mẫu thi tiếng Chech</g></target>
+</trans-unit>
+<trans-unit id="tu76" resname="menu-item-355-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Sách giáo khoa và các tài liệu khác – ngôn ngữ</g></source>
+<target xml:lang="en-US"><g id="1">Sách giáo khoa và các tài liệu khác – ngôn ngữ</g></target>
+</trans-unit>
+<trans-unit id="tu77" resname="menu-item-175-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Tải</g></source>
+<target xml:lang="en-US"><g id="1">Tải</g></target>
+</trans-unit>
+<trans-unit id="tu78">
+<source xml:lang="vn"><g id="1"><x id="2"/></g></source>
+<target xml:lang="en-US"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu79" restype="x-h1">
+<source xml:lang="vn">Những thời hạn thi trong năm</source>
+<target xml:lang="en-US">Những thời hạn thi trong năm</target>
+</trans-unit>
+<trans-unit id="tu80" restype="x-aria-label">
+<source xml:lang="vn">Breadcrumbs</source>
+<target xml:lang="en-US">Breadcrumbs</target>
+</trans-unit>
+<trans-unit id="tu81" restype="x-li">
+<source xml:lang="vn"><g id="1"><g id="2">Home</g></g></source>
+<target xml:lang="en-US"><g id="1"><g id="2">Home</g></g></target>
+</trans-unit>
+<trans-unit id="tu82" restype="x-li">
+<source xml:lang="vn"><g id="1"><g id="2">Những thời hạn thi trong năm</g></g></source>
+<target xml:lang="en-US"><g id="1"><g id="2">Những thời hạn thi trong năm</g></g></target>
+</trans-unit>
+<trans-unit id="tu83" restype="x-paragraph">
+<source xml:lang="vn">Thi cho việc cấp quốc tịch nước Cộng Hòa Czech có thể tiến hành tại <g id="1"><g id="2">những điểm thi.</g></g></source>
+<target xml:lang="en-US">Thi cho việc cấp quốc tịch nước Cộng Hòa Czech có thể tiến hành tại <g id="1"><g id="2">những điểm thi.</g></g></target>
+</trans-unit>
+<trans-unit id="tu84" restype="x-paragraph">
+<source xml:lang="vn"><g id="1"><g id="2">Thi được tiến hành vào:</g></g></source>
+<target xml:lang="en-US"><g id="1"><g id="2">Thi được tiến hành vào:</g></g></target>
+</trans-unit>
+<trans-unit id="tu85" restype="x-li">
+<source xml:lang="vn"><g id="1">vào ngày thứ tư, thứ sáu hoặc thứ bảy</g></source>
+<target xml:lang="en-US"><g id="1">vào ngày thứ tư, thứ sáu hoặc thứ bảy</g></target>
+</trans-unit>
+<trans-unit id="tu86" restype="x-li">
+<source xml:lang="vn"><g id="1">thi về cuộc sống, xã hội Czech bắt đầu lúc 10:00<g id="2">,</g></g></source>
+<target xml:lang="en-US"><g id="1">thi về cuộc sống, xã hội Czech bắt đầu lúc 10:00<g id="2">,</g></g></target>
+</trans-unit>
+<trans-unit id="tu87" restype="x-li">
+<source xml:lang="vn"><g id="1"><g id="2">thi tiếng Czech bắt đầu lúc 11:00.</g></g></source>
+<target xml:lang="en-US"><g id="1"><g id="2">thi tiếng Czech bắt đầu lúc 11:00.</g></g></target>
+</trans-unit>
+<trans-unit id="tu88" restype="x-paragraph">
+<source xml:lang="vn">Vào ngày thi thì các bạn phải đến đăng ký ít nhất là 30 phút trước khi thi. </source>
+<target xml:lang="en-US">Vào ngày thi thì các bạn phải đến đăng ký ít nhất là 30 phút trước khi thi. </target>
+</trans-unit>
+<trans-unit id="tu89" restype="x-th">
+<source xml:lang="vn">Ngày</source>
+<target xml:lang="en-US">Ngày</target>
+</trans-unit>
+<trans-unit id="tu90" restype="x-th">
+<source xml:lang="vn"><g id="1">Môn thi</g></source>
+<target xml:lang="en-US"><g id="1">Môn thi</g></target>
+</trans-unit>
+<trans-unit id="tu91" restype="x-th">
+<source xml:lang="vn"><g id="1">Địa điểm</g></source>
+<target xml:lang="en-US"><g id="1">Địa điểm</g></target>
+</trans-unit>
+<trans-unit id="tu92" restype="x-td">
+<source xml:lang="vn"><g id="1">thứ bảy 18. 1. 2025</g></source>
+<target xml:lang="en-US"><g id="1">thứ bảy 18. 1. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu93" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu94" restype="x-td">
+<source xml:lang="vn">Praha, Liberec, Poděbrady, Brno, Hradec Králové, Olomouc, Ostrava, Plzeň</source>
+<target xml:lang="en-US">Praha, Liberec, Poděbrady, Brno, Hradec Králové, Olomouc, Ostrava, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu95" restype="x-td">
+<source xml:lang="vn"><g id="1">thứ sáu 31. 1. 2025</g></source>
+<target xml:lang="en-US"><g id="1">thứ sáu 31. 1. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu96" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu97" restype="x-td">
+<source xml:lang="vn">Praha, Poděbrady, Brno, České Budějovice, Olomouc, Plzeň</source>
+<target xml:lang="en-US">Praha, Poděbrady, Brno, České Budějovice, Olomouc, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu98" restype="x-td">
+<source xml:lang="vn"><g id="1">thứ bảy 22. 2. 2025</g></source>
+<target xml:lang="en-US"><g id="1">thứ bảy 22. 2. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu99" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu100" restype="x-td">
+<source xml:lang="vn">Praha, Liberec, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Ostrava, Plzeň</source>
+<target xml:lang="en-US">Praha, Liberec, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Ostrava, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu101" restype="x-td">
+<source xml:lang="vn"><g id="1">thứ bảy 22. 3. 2025</g></source>
+<target xml:lang="en-US"><g id="1">thứ bảy 22. 3. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu102" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu103" restype="x-td">
+<source xml:lang="vn">Praha, Liberec, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Ostrava, Plzeň</source>
+<target xml:lang="en-US">Praha, Liberec, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Ostrava, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu104" restype="x-td">
+<source xml:lang="vn"><g id="1">thứ bảy 12. 4. 2025</g></source>
+<target xml:lang="en-US"><g id="1">thứ bảy 12. 4. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu105" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu106" restype="x-td">
+<source xml:lang="vn">Praha, Liberec, Poděbrady, Brno, Hradec Králové, Olomouc, Ostrava, Plzeň</source>
+<target xml:lang="en-US">Praha, Liberec, Poděbrady, Brno, Hradec Králové, Olomouc, Ostrava, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu107" restype="x-td">
+<source xml:lang="vn"><x id="1"/><g id="2">thứ tư ngày 23. 4. + ngày 30. 4. 2025</g></source>
+<target xml:lang="en-US"><x id="1"/><g id="2">thứ tư ngày 23. 4. + ngày 30. 4. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu108" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu109" restype="x-td">
+<source xml:lang="vn">Praha</source>
+<target xml:lang="en-US">Praha</target>
+</trans-unit>
+<trans-unit id="tu110" restype="x-td">
+<source xml:lang="vn"><x id="1"/><g id="2">thứ tư ngày 14. 5. + ngày 21. 5. 2025</g></source>
+<target xml:lang="en-US"><x id="1"/><g id="2">thứ tư ngày 14. 5. + ngày 21. 5. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu111" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu112" restype="x-td">
+<source xml:lang="vn">Praha</source>
+<target xml:lang="en-US">Praha</target>
+</trans-unit>
+<trans-unit id="tu113" restype="x-td">
+<source xml:lang="vn"><g id="1">thứ bảy 24. 5. 2025</g></source>
+<target xml:lang="en-US"><g id="1">thứ bảy 24. 5. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu114" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu115" restype="x-td">
+<source xml:lang="vn">Praha, Liberec, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Ostrava, Plzeň</source>
+<target xml:lang="en-US">Praha, Liberec, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Ostrava, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu116" restype="x-td">
+<source xml:lang="vn"><x id="1"/><g id="2">thứ tư ngày 11. 6. + ngày 18. 6. 2025</g></source>
+<target xml:lang="en-US"><x id="1"/><g id="2">thứ tư ngày 11. 6. + ngày 18. 6. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu117" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu118" restype="x-td">
+<source xml:lang="vn">Praha</source>
+<target xml:lang="en-US">Praha</target>
+</trans-unit>
+<trans-unit id="tu119" restype="x-td">
+<source xml:lang="vn"><g id="1">thứ tư ngày 11. 6. 2025</g></source>
+<target xml:lang="en-US"><g id="1">thứ tư ngày 11. 6. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu120" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu121" restype="x-td">
+<source xml:lang="vn">Brno</source>
+<target xml:lang="en-US">Brno</target>
+</trans-unit>
+<trans-unit id="tu122" restype="x-td">
+<source xml:lang="vn"><g id="1">thứ sáu 20. 6. 2025</g></source>
+<target xml:lang="en-US"><g id="1">thứ sáu 20. 6. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu123" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu124" restype="x-td">
+<source xml:lang="vn">Praha, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Plzeň</source>
+<target xml:lang="en-US">Praha, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu125" restype="x-td">
+<source xml:lang="vn"><x id="1"/><g id="2">thứ tư ngày 27. 8. + ngày 3. 9. 2025</g></source>
+<target xml:lang="en-US"><x id="1"/><g id="2">thứ tư ngày 27. 8. + ngày 3. 9. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu126" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu127" restype="x-td">
+<source xml:lang="vn">Praha</source>
+<target xml:lang="en-US">Praha</target>
+</trans-unit>
+<trans-unit id="tu128" restype="x-td">
+<source xml:lang="vn"><g id="1">thứ bảy 6. 9. 2025</g></source>
+<target xml:lang="en-US"><g id="1">thứ bảy 6. 9. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu129" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu130" restype="x-td">
+<source xml:lang="vn">Praha, Liberec, Poděbrady, Brno, České Budějovice, Olomouc</source>
+<target xml:lang="en-US">Praha, Liberec, Poděbrady, Brno, České Budějovice, Olomouc</target>
+</trans-unit>
+<trans-unit id="tu131" restype="x-td">
+<source xml:lang="vn"><x id="1"/><g id="2">thứ tư ngày 10. 9. + ngày 17. 9. 2025</g></source>
+<target xml:lang="en-US"><x id="1"/><g id="2">thứ tư ngày 10. 9. + ngày 17. 9. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu132" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu133" restype="x-td">
+<source xml:lang="vn">Praha</source>
+<target xml:lang="en-US">Praha</target>
+</trans-unit>
+<trans-unit id="tu134" restype="x-td">
+<source xml:lang="vn"><g id="1">thứ tư ngày 10. 9. 2025</g></source>
+<target xml:lang="en-US"><g id="1">thứ tư ngày 10. 9. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu135" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu136" restype="x-td">
+<source xml:lang="vn">Brno</source>
+<target xml:lang="en-US">Brno</target>
+</trans-unit>
+<trans-unit id="tu137" restype="x-td">
+<source xml:lang="vn"><x id="1"/><g id="2">thứ bảy 27. 9. 2025</g></source>
+<target xml:lang="en-US"><x id="1"/><g id="2">thứ bảy 27. 9. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu138" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu139" restype="x-td">
+<source xml:lang="vn">Praha, Liberec, Poděbrady, Brno, Hradec Králové, Olomouc, Ostrava, Plzeň</source>
+<target xml:lang="en-US">Praha, Liberec, Poděbrady, Brno, Hradec Králové, Olomouc, Ostrava, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu140" restype="x-td">
+<source xml:lang="vn"><g id="1">thứ bảy 18. 10. 2025</g></source>
+<target xml:lang="en-US"><g id="1">thứ bảy 18. 10. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu141" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu142" restype="x-td">
+<source xml:lang="vn">Praha, Liberec, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Ostrava, Plzeň</source>
+<target xml:lang="en-US">Praha, Liberec, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Ostrava, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu143" restype="x-td">
+<source xml:lang="vn"><x id="1"/><g id="2">thứ tư ngày 22. 10. + ngày 29. 10. 2025</g></source>
+<target xml:lang="en-US"><x id="1"/><g id="2">thứ tư ngày 22. 10. + ngày 29. 10. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu144" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu145" restype="x-td">
+<source xml:lang="vn">Praha</source>
+<target xml:lang="en-US">Praha</target>
+</trans-unit>
+<trans-unit id="tu146" restype="x-td">
+<source xml:lang="vn"><x id="1"/><g id="2">thứ tư ngày 5. 11. + ngày 12. 11. 2025</g></source>
+<target xml:lang="en-US"><x id="1"/><g id="2">thứ tư ngày 5. 11. + ngày 12. 11. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu147" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu148" restype="x-td">
+<source xml:lang="vn">Praha</source>
+<target xml:lang="en-US">Praha</target>
+</trans-unit>
+<trans-unit id="tu149" restype="x-td">
+<source xml:lang="vn"><g id="1">thứ bảy 8. 11. 2025</g></source>
+<target xml:lang="en-US"><g id="1">thứ bảy 8. 11. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu150" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu151" restype="x-td">
+<source xml:lang="vn">Praha, Liberec, Poděbrady, Brno, Hradec Králové, Plzeň</source>
+<target xml:lang="en-US">Praha, Liberec, Poděbrady, Brno, Hradec Králové, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu152" restype="x-td">
+<source xml:lang="vn"><g id="1">thứ bảy 29. 11. 2025</g></source>
+<target xml:lang="en-US"><g id="1">thứ bảy 29. 11. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu153" restype="x-td">
+<source xml:lang="vn">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</source>
+<target xml:lang="en-US">Thực tế của CH Séc +<x id="1"/>Tiếng Séc</target>
+</trans-unit>
+<trans-unit id="tu154" restype="x-td">
+<source xml:lang="vn">Praha, Liberec, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Ostrava, Plzeň</source>
+<target xml:lang="en-US">Praha, Liberec, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Ostrava, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu155" restype="x-paragraph">
+<source xml:lang="vn">Việc chọn ngày thi cụ thể là phần của <g id="1">đơn</g> <g id="2">đăng ký thi</g>. Thí sinh đánh dấu ngày mình ưu tiên và sau khi các ngày thi cụ thể được mở, hệ thống sẽ tự động xếp thí sinh vào các ngày trống theo nguyện vọng mà thí sinh đã đăng ký. Không có đơn đăng ký, thí sinh không thể tham gia cuộc thi.</source>
+<target xml:lang="en-US">Việc chọn ngày thi cụ thể là phần của <g id="1">đơn</g> <g id="2">đăng ký thi</g>. Thí sinh đánh dấu ngày mình ưu tiên và sau khi các ngày thi cụ thể được mở, hệ thống sẽ tự động xếp thí sinh vào các ngày trống theo nguyện vọng mà thí sinh đã đăng ký. Không có đơn đăng ký, thí sinh không thể tham gia cuộc thi.</target>
+</trans-unit>
+<trans-unit id="tu156" restype="x-paragraph">
+<source xml:lang="vn">Thí sinh có thể đăng ký thi <g id="1">trực tuyến</g> bất cứ lúc nào qua đơn đăng ký trực tuyến trên trang web của <g id="2">ÚJOP UK</g>.</source>
+<target xml:lang="en-US">Thí sinh có thể đăng ký thi <g id="1">trực tuyến</g> bất cứ lúc nào qua đơn đăng ký trực tuyến trên trang web của <g id="2">ÚJOP UK</g>.</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

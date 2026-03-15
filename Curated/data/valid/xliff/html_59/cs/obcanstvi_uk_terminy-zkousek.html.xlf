@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="../data/html/html_59/cs/obcanstvi_uk_terminy-zkousek.html" source-language="cs" target-language="en-US" datatype="html" okp:inputEncoding="utf-8">
+<body>
+<trans-unit id="tu1" restype="x-title">
+<source xml:lang="cs">Termíny zkoušky – Občanství</source>
+<target xml:lang="en-US">Termíny zkoušky – Občanství</target>
+</trans-unit>
+<trans-unit id="tu2" restype="x-title">
+<source xml:lang="cs">Občanství » RSS zdroj</source>
+<target xml:lang="en-US">Občanství » RSS zdroj</target>
+</trans-unit>
+<trans-unit id="tu3" restype="x-title">
+<source xml:lang="cs">Občanství » RSS komentářů</source>
+<target xml:lang="en-US">Občanství » RSS komentářů</target>
+</trans-unit>
+<trans-unit id="tu4" restype="x-title">
+<source xml:lang="cs">RSD</source>
+<target xml:lang="en-US">RSD</target>
+</trans-unit>
+<trans-unit id="tu5">
+<source xml:lang="cs"><g id="1"></g></source>
+<target xml:lang="en-US"><g id="1"></g></target>
+</trans-unit>
+<trans-unit id="tu6">
+<source xml:lang="cs"><g id="1">Skip to content</g></source>
+<target xml:lang="en-US"><g id="1">Skip to content</g></target>
+</trans-unit>
+<trans-unit id="tu8" restype="x-alt">
+<source xml:lang="cs">Logo</source>
+<target xml:lang="en-US">Logo</target>
+</trans-unit>
+<trans-unit id="tu7">
+<source xml:lang="cs"><g id="1"><x id="2"/></g></source>
+<target xml:lang="en-US"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu10" restype="x-alt">
+<source xml:lang="cs">CS</source>
+<target xml:lang="en-US">CS</target>
+</trans-unit>
+<trans-unit id="tu9" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></target>
+</trans-unit>
+<trans-unit id="tu12" restype="x-alt">
+<source xml:lang="cs">EN</source>
+<target xml:lang="en-US">EN</target>
+</trans-unit>
+<trans-unit id="tu11" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></target>
+</trans-unit>
+<trans-unit id="tu14" restype="x-alt">
+<source xml:lang="cs">UK</source>
+<target xml:lang="en-US">UK</target>
+</trans-unit>
+<trans-unit id="tu13" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></target>
+</trans-unit>
+<trans-unit id="tu16" restype="x-alt">
+<source xml:lang="cs">RU</source>
+<target xml:lang="en-US">RU</target>
+</trans-unit>
+<trans-unit id="tu15" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></target>
+</trans-unit>
+<trans-unit id="tu18" restype="x-alt">
+<source xml:lang="cs">VI</source>
+<target xml:lang="en-US">VI</target>
+</trans-unit>
+<trans-unit id="tu17" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></target>
+</trans-unit>
+<trans-unit id="tu20" restype="x-alt">
+<source xml:lang="cs">Logo</source>
+<target xml:lang="en-US">Logo</target>
+</trans-unit>
+<trans-unit id="tu19">
+<source xml:lang="cs"><g id="1"><x id="2"/></g></source>
+<target xml:lang="en-US"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu22" restype="x-alt">
+<source xml:lang="cs">CS</source>
+<target xml:lang="en-US">CS</target>
+</trans-unit>
+<trans-unit id="tu21" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></target>
+</trans-unit>
+<trans-unit id="tu24" restype="x-alt">
+<source xml:lang="cs">EN</source>
+<target xml:lang="en-US">EN</target>
+</trans-unit>
+<trans-unit id="tu23" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></target>
+</trans-unit>
+<trans-unit id="tu26" restype="x-alt">
+<source xml:lang="cs">UK</source>
+<target xml:lang="en-US">UK</target>
+</trans-unit>
+<trans-unit id="tu25" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></target>
+</trans-unit>
+<trans-unit id="tu28" restype="x-alt">
+<source xml:lang="cs">RU</source>
+<target xml:lang="en-US">RU</target>
+</trans-unit>
+<trans-unit id="tu27" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></target>
+</trans-unit>
+<trans-unit id="tu30" restype="x-alt">
+<source xml:lang="cs">VI</source>
+<target xml:lang="en-US">VI</target>
+</trans-unit>
+<trans-unit id="tu29" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></target>
+</trans-unit>
+<trans-unit id="tu32" restype="x-alt">
+<source xml:lang="cs">CS</source>
+<target xml:lang="en-US">CS</target>
+</trans-unit>
+<trans-unit id="tu31" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></target>
+</trans-unit>
+<trans-unit id="tu34" restype="x-alt">
+<source xml:lang="cs">EN</source>
+<target xml:lang="en-US">EN</target>
+</trans-unit>
+<trans-unit id="tu33" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></target>
+</trans-unit>
+<trans-unit id="tu36" restype="x-alt">
+<source xml:lang="cs">UK</source>
+<target xml:lang="en-US">UK</target>
+</trans-unit>
+<trans-unit id="tu35" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></target>
+</trans-unit>
+<trans-unit id="tu38" restype="x-alt">
+<source xml:lang="cs">RU</source>
+<target xml:lang="en-US">RU</target>
+</trans-unit>
+<trans-unit id="tu37" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></target>
+</trans-unit>
+<trans-unit id="tu40" restype="x-alt">
+<source xml:lang="cs">VI</source>
+<target xml:lang="en-US">VI</target>
+</trans-unit>
+<trans-unit id="tu39" restype="x-li">
+<source xml:lang="cs"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></target>
+</trans-unit>
+<trans-unit id="tu41" resname="menu-item-152-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Obecně</g></source>
+<target xml:lang="en-US"><g id="1">Obecně</g></target>
+</trans-unit>
+<trans-unit id="tu42" resname="menu-item-157-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Udělování státního občanství ČR</g></source>
+<target xml:lang="en-US"><g id="1">Udělování státního občanství ČR</g></target>
+</trans-unit>
+<trans-unit id="tu43" resname="menu-item-163-id" restype="x-li">
+<source xml:lang="cs"><g id="1">O zkoušce</g></source>
+<target xml:lang="en-US"><g id="1">O zkoušce</g></target>
+</trans-unit>
+<trans-unit id="tu44" resname="menu-item-167-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Přihlašování ke zkoušce</g></source>
+<target xml:lang="en-US"><g id="1">Přihlašování ke zkoušce</g></target>
+</trans-unit>
+<trans-unit id="tu45" resname="menu-item-165-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Poplatky</g></source>
+<target xml:lang="en-US"><g id="1">Poplatky</g></target>
+</trans-unit>
+<trans-unit id="tu46" resname="menu-item-308-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Termíny zkoušek</g></source>
+<target xml:lang="en-US"><g id="1">Termíny zkoušek</g></target>
+</trans-unit>
+<trans-unit id="tu47" resname="menu-item-324-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Zkušební místa</g></source>
+<target xml:lang="en-US"><g id="1">Zkušební místa</g></target>
+</trans-unit>
+<trans-unit id="tu48" resname="menu-item-164-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Harmonogram zkoušky</g></source>
+<target xml:lang="en-US"><g id="1">Harmonogram zkoušky</g></target>
+</trans-unit>
+<trans-unit id="tu49" resname="menu-item-327-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Výsledky zkoušky</g></source>
+<target xml:lang="en-US"><g id="1">Výsledky zkoušky</g></target>
+</trans-unit>
+<trans-unit id="tu50" resname="menu-item-166-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Pravidla a organizace zkoušky</g></source>
+<target xml:lang="en-US"><g id="1">Pravidla a organizace zkoušky</g></target>
+</trans-unit>
+<trans-unit id="tu51" resname="menu-item-160-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Ostatní</g></source>
+<target xml:lang="en-US"><g id="1">Ostatní</g></target>
+</trans-unit>
+<trans-unit id="tu52" resname="menu-item-161-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Organizace zabývající se poradenstvím pro cizince</g></source>
+<target xml:lang="en-US"><g id="1">Organizace zabývající se poradenstvím pro cizince</g></target>
+</trans-unit>
+<trans-unit id="tu53" resname="menu-item-162-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Užitečné zdroje informací</g></source>
+<target xml:lang="en-US"><g id="1">Užitečné zdroje informací</g></target>
+</trans-unit>
+<trans-unit id="tu54" resname="menu-item-155-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Kontakty</g></source>
+<target xml:lang="en-US"><g id="1">Kontakty</g></target>
+</trans-unit>
+<trans-unit id="tu55" resname="menu-item-154-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Ke stažení</g></source>
+<target xml:lang="en-US"><g id="1">Ke stažení</g></target>
+</trans-unit>
+<trans-unit id="tu56" resname="menu-item-973-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Zkouška z reálií</g></source>
+<target xml:lang="en-US"><g id="1">Zkouška z reálií</g></target>
+</trans-unit>
+<trans-unit id="tu57" resname="menu-item-974-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Informace o zkoušce z českých reálií</g></source>
+<target xml:lang="en-US"><g id="1">Informace o zkoušce z českých reálií</g></target>
+</trans-unit>
+<trans-unit id="tu58" resname="menu-item-343-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Termíny zkoušky z reálií</g></source>
+<target xml:lang="en-US"><g id="1">Termíny zkoušky z reálií</g></target>
+</trans-unit>
+<trans-unit id="tu59" resname="menu-item-194-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Zkušební místa</g></source>
+<target xml:lang="en-US"><g id="1">Zkušební místa</g></target>
+</trans-unit>
+<trans-unit id="tu60" resname="menu-item-183-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Příprava na zkoušku</g></source>
+<target xml:lang="en-US"><g id="1">Příprava na zkoušku</g></target>
+</trans-unit>
+<trans-unit id="tu61" resname="menu-item-186-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Pravidla a organizace zkoušky z českých reálií</g></source>
+<target xml:lang="en-US"><g id="1">Pravidla a organizace zkoušky z českých reálií</g></target>
+</trans-unit>
+<trans-unit id="tu62" resname="menu-item-187-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Specifikace pro zkoušku z českých reálií</g></source>
+<target xml:lang="en-US"><g id="1">Specifikace pro zkoušku z českých reálií</g></target>
+</trans-unit>
+<trans-unit id="tu63" resname="menu-item-418-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Interaktivní modelový test z českých reálií</g></source>
+<target xml:lang="en-US"><g id="1">Interaktivní modelový test z českých reálií</g></target>
+</trans-unit>
+<trans-unit id="tu64" resname="menu-item-420-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Databanka testových úloh z českých reálií</g></source>
+<target xml:lang="en-US"><g id="1">Databanka testových úloh z českých reálií</g></target>
+</trans-unit>
+<trans-unit id="tu65" resname="menu-item-354-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Učebnice a další literatura – reálie</g></source>
+<target xml:lang="en-US"><g id="1">Učebnice a další literatura – reálie</g></target>
+</trans-unit>
+<trans-unit id="tu66" resname="menu-item-182-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Ke stažení</g></source>
+<target xml:lang="en-US"><g id="1">Ke stažení</g></target>
+</trans-unit>
+<trans-unit id="tu67" resname="menu-item-196-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Databanka</g></source>
+<target xml:lang="en-US"><g id="1">Databanka</g></target>
+</trans-unit>
+<trans-unit id="tu68" resname="menu-item-197-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Modelový test</g></source>
+<target xml:lang="en-US"><g id="1">Modelový test</g></target>
+</trans-unit>
+<trans-unit id="tu69" resname="menu-item-173-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Zkouška z jazyka</g></source>
+<target xml:lang="en-US"><g id="1">Zkouška z jazyka</g></target>
+</trans-unit>
+<trans-unit id="tu70" resname="menu-item-978-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Informace o zkoušce z českého jazyka</g></source>
+<target xml:lang="en-US"><g id="1">Informace o zkoušce z českého jazyka</g></target>
+</trans-unit>
+<trans-unit id="tu71" resname="menu-item-342-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Termíny zkoušky z jazyka</g></source>
+<target xml:lang="en-US"><g id="1">Termíny zkoušky z jazyka</g></target>
+</trans-unit>
+<trans-unit id="tu72" resname="menu-item-332-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Zkušební místa</g></source>
+<target xml:lang="en-US"><g id="1">Zkušební místa</g></target>
+</trans-unit>
+<trans-unit id="tu73" resname="menu-item-176-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Příprava na zkoušku</g></source>
+<target xml:lang="en-US"><g id="1">Příprava na zkoušku</g></target>
+</trans-unit>
+<trans-unit id="tu74" resname="menu-item-178-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Pravidla a organizace zkoušky z českého jazyka</g></source>
+<target xml:lang="en-US"><g id="1">Pravidla a organizace zkoušky z českého jazyka</g></target>
+</trans-unit>
+<trans-unit id="tu75" resname="menu-item-177-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Modelová varianta zkoušky z českého jazyka</g></source>
+<target xml:lang="en-US"><g id="1">Modelová varianta zkoušky z českého jazyka</g></target>
+</trans-unit>
+<trans-unit id="tu76" resname="menu-item-355-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Učebnice a další literatura – jazyk</g></source>
+<target xml:lang="en-US"><g id="1">Učebnice a další literatura – jazyk</g></target>
+</trans-unit>
+<trans-unit id="tu77" resname="menu-item-175-id" restype="x-li">
+<source xml:lang="cs"><g id="1">Ke stažení</g></source>
+<target xml:lang="en-US"><g id="1">Ke stažení</g></target>
+</trans-unit>
+<trans-unit id="tu78">
+<source xml:lang="cs"><g id="1"><x id="2"/></g></source>
+<target xml:lang="en-US"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu79" restype="x-h1">
+<source xml:lang="cs">Termíny zkoušky</source>
+<target xml:lang="en-US">Termíny zkoušky</target>
+</trans-unit>
+<trans-unit id="tu80" restype="x-paragraph">
+<source xml:lang="cs">Zkoušku pro účely udělování státního občanství České republiky je možné složit v <g id="1"><g id="2">místech konání zkoušky</g></g>.</source>
+<target xml:lang="en-US">Zkoušku pro účely udělování státního občanství České republiky je možné složit v <g id="1"><g id="2">místech konání zkoušky</g></g>.</target>
+</trans-unit>
+<trans-unit id="tu81" restype="x-paragraph">
+<source xml:lang="cs"><g id="1">Zkouška se koná:</g></source>
+<target xml:lang="en-US"><g id="1">Zkouška se koná:</g></target>
+</trans-unit>
+<trans-unit id="tu82" restype="x-li">
+<source xml:lang="cs"><g id="1">ve středu, v pátek nebo v sobotu,</g></source>
+<target xml:lang="en-US"><g id="1">ve středu, v pátek nebo v sobotu,</g></target>
+</trans-unit>
+<trans-unit id="tu83" restype="x-li">
+<source xml:lang="cs"><g id="1">zkouška z českých reálií začíná v 10:00,</g></source>
+<target xml:lang="en-US"><g id="1">zkouška z českých reálií začíná v 10:00,</g></target>
+</trans-unit>
+<trans-unit id="tu84" restype="x-li">
+<source xml:lang="cs"><g id="1">zkouška z českého jazyka začíná v 11:00.</g></source>
+<target xml:lang="en-US"><g id="1">zkouška z českého jazyka začíná v 11:00.</g></target>
+</trans-unit>
+<trans-unit id="tu85" restype="x-paragraph">
+<source xml:lang="cs">V den zkoušky se musíte k registraci dostavit nejméně 30 minut před začátkem zkoušky.</source>
+<target xml:lang="en-US">V den zkoušky se musíte k registraci dostavit nejméně 30 minut před začátkem zkoušky.</target>
+</trans-unit>
+<trans-unit id="tu86" restype="x-th">
+<source xml:lang="cs">Datum</source>
+<target xml:lang="en-US">Datum</target>
+</trans-unit>
+<trans-unit id="tu87" restype="x-th">
+<source xml:lang="cs">Zkouška</source>
+<target xml:lang="en-US">Zkouška</target>
+</trans-unit>
+<trans-unit id="tu88" restype="x-th">
+<source xml:lang="cs">Místo</source>
+<target xml:lang="en-US">Místo</target>
+</trans-unit>
+<trans-unit id="tu89" restype="x-td">
+<source xml:lang="cs"><g id="1">sobota 18. 1. 2025</g></source>
+<target xml:lang="en-US"><g id="1">sobota 18. 1. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu90" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu91" restype="x-td">
+<source xml:lang="cs">Praha, Liberec, Poděbrady, Brno, Hradec Králové, Olomouc, Ostrava, Plzeň</source>
+<target xml:lang="en-US">Praha, Liberec, Poděbrady, Brno, Hradec Králové, Olomouc, Ostrava, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu92" restype="x-td">
+<source xml:lang="cs"><g id="1">pátek 31. 1. 2025</g></source>
+<target xml:lang="en-US"><g id="1">pátek 31. 1. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu93" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu94" restype="x-td">
+<source xml:lang="cs">Praha, Poděbrady, Brno, České Budějovice, Olomouc, Plzeň</source>
+<target xml:lang="en-US">Praha, Poděbrady, Brno, České Budějovice, Olomouc, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu95" restype="x-td">
+<source xml:lang="cs"><g id="1">sobota 22. 2. 2025</g></source>
+<target xml:lang="en-US"><g id="1">sobota 22. 2. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu96" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu97" restype="x-td">
+<source xml:lang="cs">Praha, Liberec, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Ostrava, Plzeň</source>
+<target xml:lang="en-US">Praha, Liberec, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Ostrava, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu98" restype="x-td">
+<source xml:lang="cs"><g id="1">sobota 22. 3. 2025</g></source>
+<target xml:lang="en-US"><g id="1">sobota 22. 3. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu99" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu100" restype="x-td">
+<source xml:lang="cs">Praha, Liberec, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Ostrava, Plzeň</source>
+<target xml:lang="en-US">Praha, Liberec, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Ostrava, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu101" restype="x-td">
+<source xml:lang="cs"><g id="1">sobota 12. 4. 2025</g></source>
+<target xml:lang="en-US"><g id="1">sobota 12. 4. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu102" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu103" restype="x-td">
+<source xml:lang="cs">Praha, Liberec, Poděbrady, Brno, Hradec Králové, Olomouc, Ostrava, Plzeň</source>
+<target xml:lang="en-US">Praha, Liberec, Poděbrady, Brno, Hradec Králové, Olomouc, Ostrava, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu104" restype="x-td">
+<source xml:lang="cs"><g id="1">středa 23. 4. + 30</g>. <g id="2">4. 2025</g></source>
+<target xml:lang="en-US"><g id="1">středa 23. 4. + 30</g>. <g id="2">4. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu105" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu106" restype="x-td">
+<source xml:lang="cs">Praha</source>
+<target xml:lang="en-US">Praha</target>
+</trans-unit>
+<trans-unit id="tu107" restype="x-td">
+<source xml:lang="cs"><g id="1">středa 14. 5. + 21. 5. 2025</g></source>
+<target xml:lang="en-US"><g id="1">středa 14. 5. + 21. 5. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu108" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu109" restype="x-td">
+<source xml:lang="cs">Praha</source>
+<target xml:lang="en-US">Praha</target>
+</trans-unit>
+<trans-unit id="tu110" restype="x-td">
+<source xml:lang="cs"><g id="1">sobota 24. 5. 2025</g></source>
+<target xml:lang="en-US"><g id="1">sobota 24. 5. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu111" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu112" restype="x-td">
+<source xml:lang="cs">Praha, Liberec, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Ostrava, Plzeň</source>
+<target xml:lang="en-US">Praha, Liberec, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Ostrava, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu113" restype="x-td">
+<source xml:lang="cs"><g id="1">středa 11. 6. + 18. 6. 2025</g></source>
+<target xml:lang="en-US"><g id="1">středa 11. 6. + 18. 6. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu114" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu115" restype="x-td">
+<source xml:lang="cs">Praha</source>
+<target xml:lang="en-US">Praha</target>
+</trans-unit>
+<trans-unit id="tu116" restype="x-td">
+<source xml:lang="cs"><g id="1">středa 11. 6. 2025</g></source>
+<target xml:lang="en-US"><g id="1">středa 11. 6. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu117" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu118" restype="x-td">
+<source xml:lang="cs">Brno</source>
+<target xml:lang="en-US">Brno</target>
+</trans-unit>
+<trans-unit id="tu119" restype="x-td">
+<source xml:lang="cs"><g id="1">pátek 20. 6. 2025</g></source>
+<target xml:lang="en-US"><g id="1">pátek 20. 6. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu120" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu121" restype="x-td">
+<source xml:lang="cs">Praha, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Plzeň</source>
+<target xml:lang="en-US">Praha, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu122" restype="x-td">
+<source xml:lang="cs"><g id="1">středa 27. 8. + 3. 9. 2025</g></source>
+<target xml:lang="en-US"><g id="1">středa 27. 8. + 3. 9. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu123" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu124" restype="x-td">
+<source xml:lang="cs">Praha</source>
+<target xml:lang="en-US">Praha</target>
+</trans-unit>
+<trans-unit id="tu125" restype="x-td">
+<source xml:lang="cs"><g id="1">sobota 6. 9. 2025</g></source>
+<target xml:lang="en-US"><g id="1">sobota 6. 9. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu126" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu127" restype="x-td">
+<source xml:lang="cs">Praha, Liberec, Poděbrady, Brno, České Budějovice, Olomouc</source>
+<target xml:lang="en-US">Praha, Liberec, Poděbrady, Brno, České Budějovice, Olomouc</target>
+</trans-unit>
+<trans-unit id="tu128" restype="x-td">
+<source xml:lang="cs"><g id="1">středa 10. 9. + 17. 9. 2025</g></source>
+<target xml:lang="en-US"><g id="1">středa 10. 9. + 17. 9. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu129" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu130" restype="x-td">
+<source xml:lang="cs">Praha</source>
+<target xml:lang="en-US">Praha</target>
+</trans-unit>
+<trans-unit id="tu131" restype="x-td">
+<source xml:lang="cs"><g id="1">středa 10. 9. 2025</g></source>
+<target xml:lang="en-US"><g id="1">středa 10. 9. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu132" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu133" restype="x-td">
+<source xml:lang="cs">Brno</source>
+<target xml:lang="en-US">Brno</target>
+</trans-unit>
+<trans-unit id="tu134" restype="x-td">
+<source xml:lang="cs"><g id="1">sobota 27. 9. 2025</g></source>
+<target xml:lang="en-US"><g id="1">sobota 27. 9. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu135" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu136" restype="x-td">
+<source xml:lang="cs">Praha, Liberec, Poděbrady, Brno, Hradec Králové, Olomouc, Ostrava, Plzeň</source>
+<target xml:lang="en-US">Praha, Liberec, Poděbrady, Brno, Hradec Králové, Olomouc, Ostrava, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu137" restype="x-td">
+<source xml:lang="cs"><g id="1">sobota 18. 10. 2025</g></source>
+<target xml:lang="en-US"><g id="1">sobota 18. 10. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu138" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu139" restype="x-td">
+<source xml:lang="cs">Praha, Liberec, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Ostrava, Plzeň</source>
+<target xml:lang="en-US">Praha, Liberec, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Ostrava, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu140" restype="x-td">
+<source xml:lang="cs"><g id="1">středa 22. 10. + 29. 10. 2025</g></source>
+<target xml:lang="en-US"><g id="1">středa 22. 10. + 29. 10. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu141" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu142" restype="x-td">
+<source xml:lang="cs">Praha</source>
+<target xml:lang="en-US">Praha</target>
+</trans-unit>
+<trans-unit id="tu143" restype="x-td">
+<source xml:lang="cs"><g id="1">středa 5. 11. + 12. 11. 2025</g></source>
+<target xml:lang="en-US"><g id="1">středa 5. 11. + 12. 11. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu144" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu145" restype="x-td">
+<source xml:lang="cs">Praha</source>
+<target xml:lang="en-US">Praha</target>
+</trans-unit>
+<trans-unit id="tu146" restype="x-td">
+<source xml:lang="cs"><g id="1">sobota 8. 11. 2025</g></source>
+<target xml:lang="en-US"><g id="1">sobota 8. 11. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu147" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu148" restype="x-td">
+<source xml:lang="cs">Praha, Liberec, Poděbrady, Brno, Hradec Králové, Plzeň</source>
+<target xml:lang="en-US">Praha, Liberec, Poděbrady, Brno, Hradec Králové, Plzeň</target>
+</trans-unit>
+<trans-unit id="tu149" restype="x-td">
+<source xml:lang="cs"><g id="1">sobota 29. 11. 2025</g></source>
+<target xml:lang="en-US"><g id="1">sobota 29. 11. 2025</g></target>
+</trans-unit>
+<trans-unit id="tu150" restype="x-td">
+<source xml:lang="cs">České reálie + Český jazyk</source>
+<target xml:lang="en-US">České reálie + Český jazyk</target>
+</trans-unit>
+<trans-unit id="tu151" restype="x-td">
+<source xml:lang="cs">Praha, Liberec, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Ostrava, Plzeň</source>
+<target xml:lang="en-US">Praha, Liberec, Poděbrady, Brno, České Budějovice, Hradec Králové, Olomouc, Ostrava, Plzeň</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

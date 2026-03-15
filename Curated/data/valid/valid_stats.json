@@ -1,0 +1,252 @@
+{
+  "by_language": {
+    "ru": {
+      "documents": 8,
+      "mos_files": 8,
+      "html_files": 8,
+      "segments": 2749,
+      "words": 6984,
+      "tags": 6978,
+      "segments_with_tags": 3395,
+      "avg_words_per_segment": 2.5405602037104402,
+      "avg_tags_per_segment": 2.5383775918515825,
+      "tag_type_count": 4
+    },
+    "cs": {
+      "documents": 19,
+      "mos_files": 19,
+      "html_files": 19,
+      "segments": 3770,
+      "words": 10441,
+      "tags": 9014,
+      "segments_with_tags": 4094,
+      "avg_words_per_segment": 2.769496021220159,
+      "avg_tags_per_segment": 2.390981432360743,
+      "tag_type_count": 4
+    },
+    "vi": {
+      "documents": 19,
+      "mos_files": 19,
+      "html_files": 19,
+      "segments": 3770,
+      "words": 15398,
+      "tags": 9059,
+      "segments_with_tags": 4119,
+      "avg_words_per_segment": 4.084350132625994,
+      "avg_tags_per_segment": 2.4029177718832893,
+      "tag_type_count": 4
+    },
+    "uk": {
+      "documents": 19,
+      "mos_files": 19,
+      "html_files": 19,
+      "segments": 3770,
+      "words": 10749,
+      "tags": 9023,
+      "segments_with_tags": 4098,
+      "avg_words_per_segment": 2.8511936339522546,
+      "avg_tags_per_segment": 2.393368700265252,
+      "tag_type_count": 4
+    },
+    "en": {
+      "documents": 8,
+      "mos_files": 8,
+      "html_files": 8,
+      "segments": 2749,
+      "words": 7239,
+      "tags": 6981,
+      "segments_with_tags": 3395,
+      "avg_words_per_segment": 2.6333212077118953,
+      "avg_tags_per_segment": 2.539468897781011,
+      "tag_type_count": 4
+    },
+    "vn": {
+      "documents": 22,
+      "mos_files": 11,
+      "html_files": 22,
+      "segments": 1076,
+      "words": 5787,
+      "tags": 2347,
+      "segments_with_tags": 783,
+      "avg_words_per_segment": 5.378252788104089,
+      "avg_tags_per_segment": 2.1812267657992566,
+      "tag_type_count": 2
+    }
+  },
+  "totals": {
+    "documents": 95,
+    "mos_files": 84,
+    "plaintext_files": 84,
+    "html_files": 95,
+    "pdf_files": 0,
+    "docx_files": 0,
+    "segments": 17884,
+    "empty_segments": 7395,
+    "non_empty_segments": 17884,
+    "words": 56598,
+    "tags": 43402,
+    "segments_with_tags": 19884
+  },
+  "languages": [
+    "ru",
+    "cs",
+    "vi",
+    "uk",
+    "en",
+    "vn"
+  ],
+  "num_languages": 6,
+  "document_pairs": {
+    "html_26": [
+      "cs",
+      "ru",
+      "uk",
+      "vi",
+      "en"
+    ],
+    "html_21": [
+      "cs",
+      "ru",
+      "uk",
+      "vi",
+      "en"
+    ],
+    "html_72": [
+      "uk",
+      "vi",
+      "cs",
+      "vn"
+    ],
+    "html_12": [
+      "cs",
+      "ru",
+      "uk",
+      "vi",
+      "en"
+    ],
+    "html_70": [
+      "uk",
+      "vi",
+      "cs",
+      "vn"
+    ],
+    "html_47": [
+      "uk",
+      "vi",
+      "cs",
+      "vn"
+    ],
+    "html_18": [
+      "cs",
+      "ru",
+      "uk",
+      "vi",
+      "en"
+    ],
+    "html_49": [
+      "uk",
+      "vi",
+      "cs",
+      "vn"
+    ],
+    "html_76": [
+      "uk",
+      "vi",
+      "cs",
+      "vn"
+    ],
+    "html_13": [
+      "cs",
+      "ru",
+      "uk",
+      "vi",
+      "en"
+    ],
+    "html_25": [
+      "cs",
+      "ru",
+      "uk",
+      "vi",
+      "en"
+    ],
+    "html_59": [
+      "uk",
+      "vi",
+      "cs",
+      "vn"
+    ],
+    "html_62": [
+      "uk",
+      "vi",
+      "cs",
+      "vn"
+    ],
+    "html_46": [
+      "uk",
+      "vi",
+      "cs",
+      "vn"
+    ],
+    "html_57": [
+      "uk",
+      "vi",
+      "cs",
+      "vn"
+    ],
+    "html_45": [
+      "uk",
+      "vi",
+      "cs",
+      "vn"
+    ],
+    "html_28": [
+      "cs",
+      "ru",
+      "uk",
+      "vi",
+      "en"
+    ],
+    "html_20": [
+      "cs",
+      "ru",
+      "uk",
+      "vi",
+      "en"
+    ],
+    "html_65": [
+      "uk",
+      "vi",
+      "cs",
+      "vn"
+    ]
+  },
+  "lang_pair_counts": {
+    "cs-ru": 8,
+    "cs-uk": 19,
+    "cs-vi": 19,
+    "cs-en": 8,
+    "ru-uk": 8,
+    "ru-vi": 8,
+    "uk-vi": 19,
+    "en-ru": 8,
+    "en-uk": 8,
+    "en-vi": 8,
+    "uk-vn": 11,
+    "vi-vn": 11,
+    "cs-vn": 11
+  },
+  "tag_type_distribution": {
+    "g": 35664,
+    "x": 7125,
+    "ex": 333,
+    "bx": 280
+  },
+  "segment_length_distribution": {
+    "min": 1,
+    "p25": 1.0,
+    "median": 1.0,
+    "p75": 3.0,
+    "p95": 10.0,
+    "max": 168
+  }
+}

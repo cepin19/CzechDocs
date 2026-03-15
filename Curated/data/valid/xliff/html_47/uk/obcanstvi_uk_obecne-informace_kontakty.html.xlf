@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="../data/html/html_47/uk/obcanstvi_uk_obecne-informace_kontakty.html" source-language="uk" target-language="en-US" datatype="html" okp:inputEncoding="utf-8">
+<body>
+<trans-unit id="tu1" restype="x-title">
+<source xml:lang="uk">Контакти – Občanství</source>
+<target xml:lang="en-US">Контакти – Občanství</target>
+</trans-unit>
+<trans-unit id="tu2" restype="x-title">
+<source xml:lang="uk">Občanství » RSS zdroj</source>
+<target xml:lang="en-US">Občanství » RSS zdroj</target>
+</trans-unit>
+<trans-unit id="tu3" restype="x-title">
+<source xml:lang="uk">Občanství » RSS komentářů</source>
+<target xml:lang="en-US">Občanství » RSS komentářů</target>
+</trans-unit>
+<trans-unit id="tu4" restype="x-title">
+<source xml:lang="uk">RSD</source>
+<target xml:lang="en-US">RSD</target>
+</trans-unit>
+<trans-unit id="tu5">
+<source xml:lang="uk"><g id="1"></g></source>
+<target xml:lang="en-US"><g id="1"></g></target>
+</trans-unit>
+<trans-unit id="tu6">
+<source xml:lang="uk"><g id="1">Skip to content</g></source>
+<target xml:lang="en-US"><g id="1">Skip to content</g></target>
+</trans-unit>
+<trans-unit id="tu8" restype="x-alt">
+<source xml:lang="uk">Logo</source>
+<target xml:lang="en-US">Logo</target>
+</trans-unit>
+<trans-unit id="tu7">
+<source xml:lang="uk"><g id="1"><x id="2"/></g></source>
+<target xml:lang="en-US"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu10" restype="x-alt">
+<source xml:lang="uk">CS</source>
+<target xml:lang="en-US">CS</target>
+</trans-unit>
+<trans-unit id="tu9" restype="x-li">
+<source xml:lang="uk"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></target>
+</trans-unit>
+<trans-unit id="tu12" restype="x-alt">
+<source xml:lang="uk">EN</source>
+<target xml:lang="en-US">EN</target>
+</trans-unit>
+<trans-unit id="tu11" restype="x-li">
+<source xml:lang="uk"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></target>
+</trans-unit>
+<trans-unit id="tu14" restype="x-alt">
+<source xml:lang="uk">UK</source>
+<target xml:lang="en-US">UK</target>
+</trans-unit>
+<trans-unit id="tu13" restype="x-li">
+<source xml:lang="uk"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></target>
+</trans-unit>
+<trans-unit id="tu16" restype="x-alt">
+<source xml:lang="uk">RU</source>
+<target xml:lang="en-US">RU</target>
+</trans-unit>
+<trans-unit id="tu15" restype="x-li">
+<source xml:lang="uk"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></target>
+</trans-unit>
+<trans-unit id="tu18" restype="x-alt">
+<source xml:lang="uk">VI</source>
+<target xml:lang="en-US">VI</target>
+</trans-unit>
+<trans-unit id="tu17" restype="x-li">
+<source xml:lang="uk"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></target>
+</trans-unit>
+<trans-unit id="tu20" restype="x-alt">
+<source xml:lang="uk">Logo</source>
+<target xml:lang="en-US">Logo</target>
+</trans-unit>
+<trans-unit id="tu19">
+<source xml:lang="uk"><g id="1"><x id="2"/></g></source>
+<target xml:lang="en-US"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu22" restype="x-alt">
+<source xml:lang="uk">CS</source>
+<target xml:lang="en-US">CS</target>
+</trans-unit>
+<trans-unit id="tu21" restype="x-li">
+<source xml:lang="uk"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></target>
+</trans-unit>
+<trans-unit id="tu24" restype="x-alt">
+<source xml:lang="uk">EN</source>
+<target xml:lang="en-US">EN</target>
+</trans-unit>
+<trans-unit id="tu23" restype="x-li">
+<source xml:lang="uk"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></target>
+</trans-unit>
+<trans-unit id="tu26" restype="x-alt">
+<source xml:lang="uk">UK</source>
+<target xml:lang="en-US">UK</target>
+</trans-unit>
+<trans-unit id="tu25" restype="x-li">
+<source xml:lang="uk"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></target>
+</trans-unit>
+<trans-unit id="tu28" restype="x-alt">
+<source xml:lang="uk">RU</source>
+<target xml:lang="en-US">RU</target>
+</trans-unit>
+<trans-unit id="tu27" restype="x-li">
+<source xml:lang="uk"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></target>
+</trans-unit>
+<trans-unit id="tu30" restype="x-alt">
+<source xml:lang="uk">VI</source>
+<target xml:lang="en-US">VI</target>
+</trans-unit>
+<trans-unit id="tu29" restype="x-li">
+<source xml:lang="uk"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></target>
+</trans-unit>
+<trans-unit id="tu32" restype="x-alt">
+<source xml:lang="uk">CS</source>
+<target xml:lang="en-US">CS</target>
+</trans-unit>
+<trans-unit id="tu31" restype="x-li">
+<source xml:lang="uk"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></target>
+</trans-unit>
+<trans-unit id="tu34" restype="x-alt">
+<source xml:lang="uk">EN</source>
+<target xml:lang="en-US">EN</target>
+</trans-unit>
+<trans-unit id="tu33" restype="x-li">
+<source xml:lang="uk"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></target>
+</trans-unit>
+<trans-unit id="tu36" restype="x-alt">
+<source xml:lang="uk">UK</source>
+<target xml:lang="en-US">UK</target>
+</trans-unit>
+<trans-unit id="tu35" restype="x-li">
+<source xml:lang="uk"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></target>
+</trans-unit>
+<trans-unit id="tu38" restype="x-alt">
+<source xml:lang="uk">RU</source>
+<target xml:lang="en-US">RU</target>
+</trans-unit>
+<trans-unit id="tu37" restype="x-li">
+<source xml:lang="uk"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></target>
+</trans-unit>
+<trans-unit id="tu40" restype="x-alt">
+<source xml:lang="uk">VI</source>
+<target xml:lang="en-US">VI</target>
+</trans-unit>
+<trans-unit id="tu39" restype="x-li">
+<source xml:lang="uk"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></target>
+</trans-unit>
+<trans-unit id="tu41" resname="menu-item-152-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Загальна інформація</g></source>
+<target xml:lang="en-US"><g id="1">Загальна інформація</g></target>
+</trans-unit>
+<trans-unit id="tu42" resname="menu-item-157-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Надання громадянства ЧР</g></source>
+<target xml:lang="en-US"><g id="1">Надання громадянства ЧР</g></target>
+</trans-unit>
+<trans-unit id="tu43" resname="menu-item-163-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Іспит для цілей надання громадянства ЧР</g></source>
+<target xml:lang="en-US"><g id="1">Іспит для цілей надання громадянства ЧР</g></target>
+</trans-unit>
+<trans-unit id="tu44" resname="menu-item-167-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Запис на іспит</g></source>
+<target xml:lang="en-US"><g id="1">Запис на іспит</g></target>
+</trans-unit>
+<trans-unit id="tu45" resname="menu-item-165-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Платежі</g></source>
+<target xml:lang="en-US"><g id="1">Платежі</g></target>
+</trans-unit>
+<trans-unit id="tu46" resname="menu-item-308-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Терміни іспиту</g></source>
+<target xml:lang="en-US"><g id="1">Терміни іспиту</g></target>
+</trans-unit>
+<trans-unit id="tu47" resname="menu-item-324-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Місця складання іспиту</g></source>
+<target xml:lang="en-US"><g id="1">Місця складання іспиту</g></target>
+</trans-unit>
+<trans-unit id="tu48" resname="menu-item-164-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Графік проведення іспиту</g></source>
+<target xml:lang="en-US"><g id="1">Графік проведення іспиту</g></target>
+</trans-unit>
+<trans-unit id="tu49" resname="menu-item-327-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Результати іспиту</g></source>
+<target xml:lang="en-US"><g id="1">Результати іспиту</g></target>
+</trans-unit>
+<trans-unit id="tu50" resname="menu-item-166-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Правила і організація іспиту</g></source>
+<target xml:lang="en-US"><g id="1">Правила і організація іспиту</g></target>
+</trans-unit>
+<trans-unit id="tu51" resname="menu-item-160-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Різне</g></source>
+<target xml:lang="en-US"><g id="1">Різне</g></target>
+</trans-unit>
+<trans-unit id="tu52" resname="menu-item-161-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Організації, що надають консультації іноземцям</g></source>
+<target xml:lang="en-US"><g id="1">Організації, що надають консультації іноземцям</g></target>
+</trans-unit>
+<trans-unit id="tu53" resname="menu-item-162-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Посилання на джерела інформації</g></source>
+<target xml:lang="en-US"><g id="1">Посилання на джерела інформації</g></target>
+</trans-unit>
+<trans-unit id="tu54" resname="menu-item-155-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Контакти</g></source>
+<target xml:lang="en-US"><g id="1">Контакти</g></target>
+</trans-unit>
+<trans-unit id="tu55" resname="menu-item-154-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Завантажити</g></source>
+<target xml:lang="en-US"><g id="1">Завантажити</g></target>
+</trans-unit>
+<trans-unit id="tu56" resname="menu-item-973-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Іспит зі знання чеських реалій</g></source>
+<target xml:lang="en-US"><g id="1">Іспит зі знання чеських реалій</g></target>
+</trans-unit>
+<trans-unit id="tu57" resname="menu-item-974-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Інформація про іспит зі знання чеських реалій</g></source>
+<target xml:lang="en-US"><g id="1">Інформація про іспит зі знання чеських реалій</g></target>
+</trans-unit>
+<trans-unit id="tu58" resname="menu-item-343-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Дати іспиту зі знання чеських реалій</g></source>
+<target xml:lang="en-US"><g id="1">Дати іспиту зі знання чеських реалій</g></target>
+</trans-unit>
+<trans-unit id="tu59" resname="menu-item-194-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Місця складання іспиту</g></source>
+<target xml:lang="en-US"><g id="1">Місця складання іспиту</g></target>
+</trans-unit>
+<trans-unit id="tu60" resname="menu-item-183-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Підготовка до іспиту</g></source>
+<target xml:lang="en-US"><g id="1">Підготовка до іспиту</g></target>
+</trans-unit>
+<trans-unit id="tu61" resname="menu-item-186-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Правила і організація іспиту зі знання чеських реалій</g></source>
+<target xml:lang="en-US"><g id="1">Правила і організація іспиту зі знання чеських реалій</g></target>
+</trans-unit>
+<trans-unit id="tu62" resname="menu-item-187-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Специфікації для іспиту зі знання чеських реалій</g></source>
+<target xml:lang="en-US"><g id="1">Специфікації для іспиту зі знання чеських реалій</g></target>
+</trans-unit>
+<trans-unit id="tu63" resname="menu-item-418-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Інтерактивний модельний тест на знання чеських реалій</g></source>
+<target xml:lang="en-US"><g id="1">Інтерактивний модельний тест на знання чеських реалій</g></target>
+</trans-unit>
+<trans-unit id="tu64" resname="menu-item-420-id" restype="x-li">
+<source xml:lang="uk"><g id="1">База даних тестових завдань на знання чеських реалій</g></source>
+<target xml:lang="en-US"><g id="1">База даних тестових завдань на знання чеських реалій</g></target>
+</trans-unit>
+<trans-unit id="tu65" resname="menu-item-354-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Підручники та інша література – реалії</g></source>
+<target xml:lang="en-US"><g id="1">Підручники та інша література – реалії</g></target>
+</trans-unit>
+<trans-unit id="tu66" resname="menu-item-182-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Завантажити</g></source>
+<target xml:lang="en-US"><g id="1">Завантажити</g></target>
+</trans-unit>
+<trans-unit id="tu67" resname="menu-item-196-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Банк завдань</g></source>
+<target xml:lang="en-US"><g id="1">Банк завдань</g></target>
+</trans-unit>
+<trans-unit id="tu68" resname="menu-item-197-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Модельний тест</g></source>
+<target xml:lang="en-US"><g id="1">Модельний тест</g></target>
+</trans-unit>
+<trans-unit id="tu69" resname="menu-item-173-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Іспит з чеської мови</g></source>
+<target xml:lang="en-US"><g id="1">Іспит з чеської мови</g></target>
+</trans-unit>
+<trans-unit id="tu70" resname="menu-item-978-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Інформація про іспит з чеської мови</g></source>
+<target xml:lang="en-US"><g id="1">Інформація про іспит з чеської мови</g></target>
+</trans-unit>
+<trans-unit id="tu71" resname="menu-item-342-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Дати іспиту з чеської мови</g></source>
+<target xml:lang="en-US"><g id="1">Дати іспиту з чеської мови</g></target>
+</trans-unit>
+<trans-unit id="tu72" resname="menu-item-332-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Місця складання іспиту</g></source>
+<target xml:lang="en-US"><g id="1">Місця складання іспиту</g></target>
+</trans-unit>
+<trans-unit id="tu73" resname="menu-item-176-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Підготовка до іспиту</g></source>
+<target xml:lang="en-US"><g id="1">Підготовка до іспиту</g></target>
+</trans-unit>
+<trans-unit id="tu74" resname="menu-item-178-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Правила і організація іспиту з чеської мови</g></source>
+<target xml:lang="en-US"><g id="1">Правила і організація іспиту з чеської мови</g></target>
+</trans-unit>
+<trans-unit id="tu75" resname="menu-item-177-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Модельний варіант іспиту з чеської мови</g></source>
+<target xml:lang="en-US"><g id="1">Модельний варіант іспиту з чеської мови</g></target>
+</trans-unit>
+<trans-unit id="tu76" resname="menu-item-355-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Підручники та інша література – мова</g></source>
+<target xml:lang="en-US"><g id="1">Підручники та інша література – мова</g></target>
+</trans-unit>
+<trans-unit id="tu77" resname="menu-item-175-id" restype="x-li">
+<source xml:lang="uk"><g id="1">Завантажити</g></source>
+<target xml:lang="en-US"><g id="1">Завантажити</g></target>
+</trans-unit>
+<trans-unit id="tu78">
+<source xml:lang="uk"><g id="1"><x id="2"/></g></source>
+<target xml:lang="en-US"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu79" restype="x-h1">
+<source xml:lang="uk">Контакти</source>
+<target xml:lang="en-US">Контакти</target>
+</trans-unit>
+<trans-unit id="tu80" restype="x-h4">
+<source xml:lang="uk">Міністерство внутрішніх справ</source>
+<target xml:lang="en-US">Міністерство внутрішніх справ</target>
+</trans-unit>
+<trans-unit id="tu81" restype="x-td">
+<source xml:lang="uk"></source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="tu82" restype="x-paragraph">
+<source xml:lang="uk">Ministerstvo vnitra<x id="1"/> Nad Štolou 3<x id="2"/> poštovní schránka 21<x id="3"/> 170 34 Praha 7</source>
+<target xml:lang="en-US">Ministerstvo vnitra<x id="1"/> Nad Štolou 3<x id="2"/> poštovní schránka 21<x id="3"/> 170 34 Praha 7</target>
+</trans-unit>
+<trans-unit id="tu83" restype="x-paragraph">
+<source xml:lang="uk"><g id="1">www.mvcr.cz</g><x id="2"/> <g id="3">posta@mvcr.cz</g><x id="4"/> <g id="5">obcanmat@mvcr.cz</g></source>
+<target xml:lang="en-US"><g id="1">www.mvcr.cz</g><x id="2"/> <g id="3">posta@mvcr.cz</g><x id="4"/> <g id="5">obcanmat@mvcr.cz</g></target>
+</trans-unit>
+<trans-unit id="tu84" restype="x-paragraph">
+<source xml:lang="uk">За цією контактною адресою звертайтеся, якщо маєте питання:</source>
+<target xml:lang="en-US">За цією контактною адресою звертайтеся, якщо маєте питання:</target>
+</trans-unit>
+<trans-unit id="tu85" restype="x-li">
+<source xml:lang="uk">щодо Закону № 186/2013 Зб. «Про громадянство Чеської Республіки та про зміну деяких законів (закон про громадянство Чеської Республіки)»</source>
+<target xml:lang="en-US">щодо Закону № 186/2013 Зб. «Про громадянство Чеської Республіки та про зміну деяких законів (закон про громадянство Чеської Республіки)»</target>
+</trans-unit>
+<trans-unit id="tu86" restype="x-li">
+<source xml:lang="uk">щодо заяви про надання громадянства Чеської Республіки</source>
+<target xml:lang="en-US">щодо заяви про надання громадянства Чеської Республіки</target>
+</trans-unit>
+<trans-unit id="tu87" restype="x-li">
+<source xml:lang="uk">щодо адміністративного збору за надання громадянства Чеської Республіки</source>
+<target xml:lang="en-US">щодо адміністративного збору за надання громадянства Чеської Республіки</target>
+</trans-unit>
+<trans-unit id="tu88" restype="x-h4">
+<source xml:lang="uk"><g id="1">Міністерство освіти, молоді та спорту</g></source>
+<target xml:lang="en-US"><g id="1">Міністерство освіти, молоді та спорту</g></target>
+</trans-unit>
+<trans-unit id="tu89" restype="x-td">
+<source xml:lang="uk">Ministerstvo školství, mládeže a tělovýchovy<x id="1"/> Karmelitská 7<x id="2"/> 118 12 Praha 1</source>
+<target xml:lang="en-US">Ministerstvo školství, mládeže a tělovýchovy<x id="1"/> Karmelitská 7<x id="2"/> 118 12 Praha 1</target>
+</trans-unit>
+<trans-unit id="tu90" restype="x-paragraph">
+<source xml:lang="uk"><g id="1">www.msmt.cz</g><x id="2"/> <g id="3">posta@msmt.cz</g><x id="4"/> <g id="5">marie.cernikova@msmt.cz</g></source>
+<target xml:lang="en-US"><g id="1">www.msmt.cz</g><x id="2"/> <g id="3">posta@msmt.cz</g><x id="4"/> <g id="5">marie.cernikova@msmt.cz</g></target>
+</trans-unit>
+<trans-unit id="tu91" restype="x-paragraph">
+<source xml:lang="uk">За цією контактною адресою звертайтеся, якщо маєте питання:</source>
+<target xml:lang="en-US">За цією контактною адресою звертайтеся, якщо маєте питання:</target>
+</trans-unit>
+<trans-unit id="tu92" restype="x-li">
+<source xml:lang="uk">щодо постанови про підтвердження знання чеської мови та чеських реалій для цілей надання громадянства ЧР</source>
+<target xml:lang="en-US">щодо постанови про підтвердження знання чеської мови та чеських реалій для цілей надання громадянства ЧР</target>
+</trans-unit>
+<trans-unit id="tu93" restype="x-li">
+<source xml:lang="uk">щодо концепції іспиту з чеської мови та чеських реалій</source>
+<target xml:lang="en-US">щодо концепції іспиту з чеської мови та чеських реалій</target>
+</trans-unit>
+<trans-unit id="tu94" restype="x-h4">
+<source xml:lang="uk"><g id="1">Інститут мовної та професійної підготовки Карлового університету</g></source>
+<target xml:lang="en-US"><g id="1">Інститут мовної та професійної підготовки Карлового університету</g></target>
+</trans-unit>
+<trans-unit id="tu95" restype="x-td">
+<source xml:lang="uk">Univerzita Karlova<x id="1"/> Ústav jazykové a odborné přípravy<x id="2"/> Výzkumné a testovací centrum<x id="3"/> Vratislavova 29/10<x id="4"/> 128 00 Praha 2</source>
+<target xml:lang="en-US">Univerzita Karlova<x id="1"/> Ústav jazykové a odborné přípravy<x id="2"/> Výzkumné a testovací centrum<x id="3"/> Vratislavova 29/10<x id="4"/> 128 00 Praha 2</target>
+</trans-unit>
+<trans-unit id="tu96" restype="x-paragraph">
+<source xml:lang="uk"><g id="1">http://www.ujop.cuni.cz/</g><x id="2"/> <g id="3">http://ujop.cuni.cz/obcanstvi</g><x id="4"/> <g id="5">obcanstvi@ujop.cuni.cz</g></source>
+<target xml:lang="en-US"><g id="1">http://www.ujop.cuni.cz/</g><x id="2"/> <g id="3">http://ujop.cuni.cz/obcanstvi</g><x id="4"/> <g id="5">obcanstvi@ujop.cuni.cz</g></target>
+</trans-unit>
+<trans-unit id="tu97" restype="x-paragraph">
+<source xml:lang="uk">За цією контактною адресою звертайтеся, якщо маєте питання:</source>
+<target xml:lang="en-US">За цією контактною адресою звертайтеся, якщо маєте питання:</target>
+</trans-unit>
+<trans-unit id="tu98" restype="x-li">
+<source xml:lang="uk">щодо організації іспиту з чеської мови та іспиту зі знання чеських реалій (терміни й місця складання, заявки, оплата, сертифікати)</source>
+<target xml:lang="en-US">щодо організації іспиту з чеської мови та іспиту зі знання чеських реалій (терміни й місця складання, заявки, оплата, сертифікати)</target>
+</trans-unit>
+<trans-unit id="tu99" restype="x-li">
+<source xml:lang="uk">щодо проведення іспиту (форма іспиту, оцінка, інформація для кандидатів, порядок проведення іспиту)</source>
+<target xml:lang="en-US">щодо проведення іспиту (форма іспиту, оцінка, інформація для кандидатів, порядок проведення іспиту)</target>
+</trans-unit>
+<trans-unit id="tu100" restype="x-li">
+<source xml:lang="uk">щодо змісту іспиту з чеської мови</source>
+<target xml:lang="en-US">щодо змісту іспиту з чеської мови</target>
+</trans-unit>
+<trans-unit id="tu101" restype="x-li">
+<source xml:lang="uk">щодо підготовки до іспиту з чеської мови</source>
+<target xml:lang="en-US">щодо підготовки до іспиту з чеської мови</target>
+</trans-unit>
+<trans-unit id="tu102" restype="x-h4">
+<source xml:lang="uk">Національний педагогічний інститут Чеської Республіки</source>
+<target xml:lang="en-US">Національний педагогічний інститут Чеської Республіки</target>
+</trans-unit>
+<trans-unit id="tu103" restype="x-td">
+<source xml:lang="uk">Národní pedagogický institut České republiky<x id="1"/> Senovážné náměstí 872/25<x id="2"/> 110 00 Praha 1<x id="3"/> Pracoviště Hostivař<x id="4"/> Weilova 1271/6<x id="5"/> 102 00 Praha 10</source>
+<target xml:lang="en-US">Národní pedagogický institut České republiky<x id="1"/> Senovážné náměstí 872/25<x id="2"/> 110 00 Praha 1<x id="3"/> Pracoviště Hostivař<x id="4"/> Weilova 1271/6<x id="5"/> 102 00 Praha 10</target>
+</trans-unit>
+<trans-unit id="tu104" restype="x-paragraph">
+<source xml:lang="uk"><g id="1">https://www.npi.cz/</g><x id="2"/> <g id="3">https://cestina-pro-cizince.cz/obcanstvi/</g><x id="4"/> <g id="5">obcanstvi@cestina-pro-cizince.cz</g></source>
+<target xml:lang="en-US"><g id="1">https://www.npi.cz/</g><x id="2"/> <g id="3">https://cestina-pro-cizince.cz/obcanstvi/</g><x id="4"/> <g id="5">obcanstvi@cestina-pro-cizince.cz</g></target>
+</trans-unit>
+<trans-unit id="tu105" restype="x-paragraph">
+<source xml:lang="uk">За цією контактною адресою звертайтеся, якщо маєте питання:</source>
+<target xml:lang="en-US">За цією контактною адресою звертайтеся, якщо маєте питання:</target>
+</trans-unit>
+<trans-unit id="tu106" restype="x-li">
+<source xml:lang="uk">щодо змісту іспиту зі знання чеських реалій</source>
+<target xml:lang="en-US">щодо змісту іспиту зі знання чеських реалій</target>
+</trans-unit>
+<trans-unit id="tu107" restype="x-li">
+<source xml:lang="uk">щодо цього сайту</source>
+<target xml:lang="en-US">щодо цього сайту</target>
+</trans-unit>
+<trans-unit id="tu108" restype="x-h2">
+<source xml:lang="uk">Журналісти можуть звертатися в такі департаменти або відділи преси:</source>
+<target xml:lang="en-US">Журналісти можуть звертатися в такі департаменти або відділи преси:</target>
+</trans-unit>
+<trans-unit id="tu109" restype="x-li">
+<source xml:lang="uk">Міністерство внутрішніх справ: <g id="1">Департамент преси та зв’язків з громадськістю</g></source>
+<target xml:lang="en-US">Міністерство внутрішніх справ: <g id="1">Департамент преси та зв’язків з громадськістю</g></target>
+</trans-unit>
+<trans-unit id="tu110" restype="x-li">
+<source xml:lang="uk">Міністерство освіти, молоді та спорту: <g id="1">Департамент зовнішніх зносин та комунікації</g></source>
+<target xml:lang="en-US">Міністерство освіти, молоді та спорту: <g id="1">Департамент зовнішніх зносин та комунікації</g></target>
+</trans-unit>
+<trans-unit id="tu111" restype="x-li">
+<source xml:lang="uk">Інститут мовної та професійної підготовки Карлового університету в Празі: <g id="1">Центр досліджень і тестування</g></source>
+<target xml:lang="en-US">Інститут мовної та професійної підготовки Карлового університету в Празі: <g id="1">Центр досліджень і тестування</g></target>
+</trans-unit>
+<trans-unit id="tu112" restype="x-li">
+<source xml:lang="uk">Національний педагогічний інститут Чеської Республіки: <g id="1">press@npi.cz</g></source>
+<target xml:lang="en-US">Національний педагогічний інститут Чеської Республіки: <g id="1">press@npi.cz</g></target>
+</trans-unit>
+<trans-unit id="tu113" resname="skoly-id" restype="x-h3">
+<source xml:lang="uk">Список шкіл</source>
+<target xml:lang="en-US">Список шкіл</target>
+</trans-unit>
+<trans-unit id="tu114">
+<source xml:lang="uk">Адреса</source>
+<target xml:lang="en-US">Адреса</target>
+</trans-unit>
+<trans-unit id="tu115">
+<source xml:lang="uk">Телефон</source>
+<target xml:lang="en-US">Телефон</target>
+</trans-unit>
+<trans-unit id="tu116">
+<source xml:lang="uk">+420 387 773 222</source>
+<target xml:lang="en-US">+420 387 773 222</target>
+</trans-unit>
+<trans-unit id="tu117">
+<source xml:lang="uk">Електронна пошта</source>
+<target xml:lang="en-US">Електронна пошта</target>
+</trans-unit>
+<trans-unit id="tu118">
+<source xml:lang="uk">peclova@pf.jcu.cz</source>
+<target xml:lang="en-US">peclova@pf.jcu.cz</target>
+</trans-unit>
+<trans-unit id="tu119">
+<source xml:lang="uk">Адреса</source>
+<target xml:lang="en-US">Адреса</target>
+</trans-unit>
+<trans-unit id="tu120">
+<source xml:lang="uk">Телефон</source>
+<target xml:lang="en-US">Телефон</target>
+</trans-unit>
+<trans-unit id="tu121">
+<source xml:lang="uk">+420 549 495 970</source>
+<target xml:lang="en-US">+420 549 495 970</target>
+</trans-unit>
+<trans-unit id="tu122">
+<source xml:lang="uk">Електронна пошта</source>
+<target xml:lang="en-US">Електронна пошта</target>
+</trans-unit>
+<trans-unit id="tu123">
+<source xml:lang="uk">kabcest@phil.muni.cz</source>
+<target xml:lang="en-US">kabcest@phil.muni.cz</target>
+</trans-unit>
+<trans-unit id="tu124">
+<source xml:lang="uk"><g id="1">Ostravská univerzita v Ostravě</g></source>
+<target xml:lang="en-US"><g id="1">Ostravská univerzita v Ostravě</g></target>
+</trans-unit>
+<trans-unit id="tu125">
+<source xml:lang="uk">Адреса</source>
+<target xml:lang="en-US">Адреса</target>
+</trans-unit>
+<trans-unit id="tu126">
+<source xml:lang="uk">Телефон</source>
+<target xml:lang="en-US">Телефон</target>
+</trans-unit>
+<trans-unit id="tu127">
+<source xml:lang="uk">+420 731 305 178</source>
+<target xml:lang="en-US">+420 731 305 178</target>
+</trans-unit>
+<trans-unit id="tu128">
+<source xml:lang="uk">Електронна пошта</source>
+<target xml:lang="en-US">Електронна пошта</target>
+</trans-unit>
+<trans-unit id="tu129">
+<source xml:lang="uk">kristyna.kovarova@osu.cz</source>
+<target xml:lang="en-US">kristyna.kovarova@osu.cz</target>
+</trans-unit>
+<trans-unit id="tu130">
+<source xml:lang="uk">Адреса</source>
+<target xml:lang="en-US">Адреса</target>
+</trans-unit>
+<trans-unit id="tu131">
+<source xml:lang="uk">Телефон</source>
+<target xml:lang="en-US">Телефон</target>
+</trans-unit>
+<trans-unit id="tu132">
+<source xml:lang="uk">+420 773 749 951</source>
+<target xml:lang="en-US">+420 773 749 951</target>
+</trans-unit>
+<trans-unit id="tu133">
+<source xml:lang="uk">Електронна пошта</source>
+<target xml:lang="en-US">Електронна пошта</target>
+</trans-unit>
+<trans-unit id="tu134">
+<source xml:lang="uk">radka.stejskalova@ujop.cuni.cz</source>
+<target xml:lang="en-US">radka.stejskalova@ujop.cuni.cz</target>
+</trans-unit>
+<trans-unit id="tu135">
+<source xml:lang="uk"><g id="1">ÚJOP UK Krystal</g></source>
+<target xml:lang="en-US"><g id="1">ÚJOP UK Krystal</g></target>
+</trans-unit>
+<trans-unit id="tu136">
+<source xml:lang="uk">Адреса</source>
+<target xml:lang="en-US">Адреса</target>
+</trans-unit>
+<trans-unit id="tu137">
+<source xml:lang="uk">Ústav jazykové a odborné přípravy<x id="1"/> Studijní středisko Praha-Krystal<x id="2"/> budova C<x id="3"/> José Martího 2/407<x id="4"/> 160 00 Praha 6</source>
+<target xml:lang="en-US">Ústav jazykové a odborné přípravy<x id="1"/> Studijní středisko Praha-Krystal<x id="2"/> budova C<x id="3"/> José Martího 2/407<x id="4"/> 160 00 Praha 6</target>
+</trans-unit>
+<trans-unit id="tu138">
+<source xml:lang="uk">Телефон</source>
+<target xml:lang="en-US">Телефон</target>
+</trans-unit>
+<trans-unit id="tu139">
+<source xml:lang="uk">+420 212 245 245</source>
+<target xml:lang="en-US">+420 212 245 245</target>
+</trans-unit>
+<trans-unit id="tu140">
+<source xml:lang="uk">Електронна пошта</source>
+<target xml:lang="en-US">Електронна пошта</target>
+</trans-unit>
+<trans-unit id="tu141">
+<source xml:lang="uk">praha.obcanstvi@ujop.cuni.cz</source>
+<target xml:lang="en-US">praha.obcanstvi@ujop.cuni.cz</target>
+</trans-unit>
+<trans-unit id="tu142">
+<source xml:lang="uk">Адреса</source>
+<target xml:lang="en-US">Адреса</target>
+</trans-unit>
+<trans-unit id="tu143">
+<source xml:lang="uk">Ústav jazykové a odborné přípravy<x id="1"/> Studijní středisko Poděbrady<x id="2"/> Jiřího náměstí 1/I<x id="3"/> 290 01 Poděbrady</source>
+<target xml:lang="en-US">Ústav jazykové a odborné přípravy<x id="1"/> Studijní středisko Poděbrady<x id="2"/> Jiřího náměstí 1/I<x id="3"/> 290 01 Poděbrady</target>
+</trans-unit>
+<trans-unit id="tu144">
+<source xml:lang="uk">Телефон</source>
+<target xml:lang="en-US">Телефон</target>
+</trans-unit>
+<trans-unit id="tu145">
+<source xml:lang="uk">+420 325 614 452</source>
+<target xml:lang="en-US">+420 325 614 452</target>
+</trans-unit>
+<trans-unit id="tu146">
+<source xml:lang="uk">Електронна пошта</source>
+<target xml:lang="en-US">Електронна пошта</target>
+</trans-unit>
+<trans-unit id="tu147">
+<source xml:lang="uk">ivana.stikova@ujop.cuni.cz</source>
+<target xml:lang="en-US">ivana.stikova@ujop.cuni.cz</target>
+</trans-unit>
+<trans-unit id="tu148">
+<source xml:lang="uk">Адреса</source>
+<target xml:lang="en-US">Адреса</target>
+</trans-unit>
+<trans-unit id="tu149">
+<source xml:lang="uk">Ústav jazykové a odborné přípravy<x id="1"/> Studijní středisko Praha-Voršilská<x id="2"/> Voršilská 144/1<x id="3"/> 110 00 Praha 1<x id="4"/></source>
+<target xml:lang="en-US">Ústav jazykové a odborné přípravy<x id="1"/> Studijní středisko Praha-Voršilská<x id="2"/> Voršilská 144/1<x id="3"/> 110 00 Praha 1<x id="4"/></target>
+</trans-unit>
+<trans-unit id="tu150">
+<source xml:lang="uk">Телефон</source>
+<target xml:lang="en-US">Телефон</target>
+</trans-unit>
+<trans-unit id="tu151">
+<source xml:lang="uk">+420 212 245 245</source>
+<target xml:lang="en-US">+420 212 245 245</target>
+</trans-unit>
+<trans-unit id="tu152">
+<source xml:lang="uk">Електронна пошта</source>
+<target xml:lang="en-US">Електронна пошта</target>
+</trans-unit>
+<trans-unit id="tu153">
+<source xml:lang="uk">praha.obcanstvi@ujop.cuni.cz</source>
+<target xml:lang="en-US">praha.obcanstvi@ujop.cuni.cz</target>
+</trans-unit>
+<trans-unit id="tu154">
+<source xml:lang="uk">Адреса</source>
+<target xml:lang="en-US">Адреса</target>
+</trans-unit>
+<trans-unit id="tu155">
+<source xml:lang="uk">Телефон</source>
+<target xml:lang="en-US">Телефон</target>
+</trans-unit>
+<trans-unit id="tu156">
+<source xml:lang="uk">+420 493 332 219</source>
+<target xml:lang="en-US">+420 493 332 219</target>
+</trans-unit>
+<trans-unit id="tu157">
+<source xml:lang="uk">Електронна пошта</source>
+<target xml:lang="en-US">Електронна пошта</target>
+</trans-unit>
+<trans-unit id="tu158">
+<source xml:lang="uk">andrea.liberska@uhk.cz</source>
+<target xml:lang="en-US">andrea.liberska@uhk.cz</target>
+</trans-unit>
+<trans-unit id="tu159">
+<source xml:lang="uk">Адреса</source>
+<target xml:lang="en-US">Адреса</target>
+</trans-unit>
+<trans-unit id="tu160">
+<source xml:lang="uk">Телефон</source>
+<target xml:lang="en-US">Телефон</target>
+</trans-unit>
+<trans-unit id="tu161">
+<source xml:lang="uk">+420 736 446 727</source>
+<target xml:lang="en-US">+420 736 446 727</target>
+</trans-unit>
+<trans-unit id="tu162">
+<source xml:lang="uk">Електронна пошта</source>
+<target xml:lang="en-US">Електронна пошта</target>
+</trans-unit>
+<trans-unit id="tu163">
+<source xml:lang="uk">darina.hradilova@upol.cz</source>
+<target xml:lang="en-US">darina.hradilova@upol.cz</target>
+</trans-unit>
+<trans-unit id="tu164">
+<source xml:lang="uk"><g id="1">Západočeská univerzita v Plzni</g></source>
+<target xml:lang="en-US"><g id="1">Západočeská univerzita v Plzni</g></target>
+</trans-unit>
+<trans-unit id="tu165">
+<source xml:lang="uk">Адреса</source>
+<target xml:lang="en-US">Адреса</target>
+</trans-unit>
+<trans-unit id="tu166">
+<source xml:lang="uk">Západočeská univerzita v Plzni<x id="1"/> Pedagogická fakulta<x id="2"/> Veleslavínova 42<x id="3"/> 301 00 Plzeň</source>
+<target xml:lang="en-US">Západočeská univerzita v Plzni<x id="1"/> Pedagogická fakulta<x id="2"/> Veleslavínova 42<x id="3"/> 301 00 Plzeň</target>
+</trans-unit>
+<trans-unit id="tu167">
+<source xml:lang="uk">Телефон</source>
+<target xml:lang="en-US">Телефон</target>
+</trans-unit>
+<trans-unit id="tu168">
+<source xml:lang="uk">+420 377 636 021</source>
+<target xml:lang="en-US">+420 377 636 021</target>
+</trans-unit>
+<trans-unit id="tu169">
+<source xml:lang="uk">Електронна пошта</source>
+<target xml:lang="en-US">Електронна пошта</target>
+</trans-unit>
+<trans-unit id="tu170">
+<source xml:lang="uk">ghruba@fpe.zcu.cz</source>
+<target xml:lang="en-US">ghruba@fpe.zcu.cz</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

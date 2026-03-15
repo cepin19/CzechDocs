@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="../data/html/html_47/vi/obcanstvi_uk_obecne-informace_kontakty.html" source-language="vi" target-language="en-US" datatype="html" okp:inputEncoding="utf-8">
+<body>
+<trans-unit id="tu1" restype="x-title">
+<source xml:lang="vi">Liên hệ – Občanství</source>
+<target xml:lang="en-US">Liên hệ – Občanství</target>
+</trans-unit>
+<trans-unit id="tu2" restype="x-title">
+<source xml:lang="vi">Občanství » RSS zdroj</source>
+<target xml:lang="en-US">Občanství » RSS zdroj</target>
+</trans-unit>
+<trans-unit id="tu3" restype="x-title">
+<source xml:lang="vi">Občanství » RSS komentářů</source>
+<target xml:lang="en-US">Občanství » RSS komentářů</target>
+</trans-unit>
+<trans-unit id="tu4" restype="x-title">
+<source xml:lang="vi">RSD</source>
+<target xml:lang="en-US">RSD</target>
+</trans-unit>
+<trans-unit id="tu5">
+<source xml:lang="vi"><g id="1"></g></source>
+<target xml:lang="en-US"><g id="1"></g></target>
+</trans-unit>
+<trans-unit id="tu6">
+<source xml:lang="vi"><g id="1">Skip to content</g></source>
+<target xml:lang="en-US"><g id="1">Skip to content</g></target>
+</trans-unit>
+<trans-unit id="tu8" restype="x-alt">
+<source xml:lang="vi">Logo</source>
+<target xml:lang="en-US">Logo</target>
+</trans-unit>
+<trans-unit id="tu7">
+<source xml:lang="vi"><g id="1"><x id="2"/></g></source>
+<target xml:lang="en-US"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu10" restype="x-alt">
+<source xml:lang="vi">CS</source>
+<target xml:lang="en-US">CS</target>
+</trans-unit>
+<trans-unit id="tu9" restype="x-li">
+<source xml:lang="vi"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></target>
+</trans-unit>
+<trans-unit id="tu12" restype="x-alt">
+<source xml:lang="vi">EN</source>
+<target xml:lang="en-US">EN</target>
+</trans-unit>
+<trans-unit id="tu11" restype="x-li">
+<source xml:lang="vi"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></target>
+</trans-unit>
+<trans-unit id="tu14" restype="x-alt">
+<source xml:lang="vi">UK</source>
+<target xml:lang="en-US">UK</target>
+</trans-unit>
+<trans-unit id="tu13" restype="x-li">
+<source xml:lang="vi"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></target>
+</trans-unit>
+<trans-unit id="tu16" restype="x-alt">
+<source xml:lang="vi">RU</source>
+<target xml:lang="en-US">RU</target>
+</trans-unit>
+<trans-unit id="tu15" restype="x-li">
+<source xml:lang="vi"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></target>
+</trans-unit>
+<trans-unit id="tu18" restype="x-alt">
+<source xml:lang="vi">VI</source>
+<target xml:lang="en-US">VI</target>
+</trans-unit>
+<trans-unit id="tu17" restype="x-li">
+<source xml:lang="vi"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></target>
+</trans-unit>
+<trans-unit id="tu20" restype="x-alt">
+<source xml:lang="vi">Logo</source>
+<target xml:lang="en-US">Logo</target>
+</trans-unit>
+<trans-unit id="tu19">
+<source xml:lang="vi"><g id="1"><x id="2"/></g></source>
+<target xml:lang="en-US"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu22" restype="x-alt">
+<source xml:lang="vi">CS</source>
+<target xml:lang="en-US">CS</target>
+</trans-unit>
+<trans-unit id="tu21" restype="x-li">
+<source xml:lang="vi"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></target>
+</trans-unit>
+<trans-unit id="tu24" restype="x-alt">
+<source xml:lang="vi">EN</source>
+<target xml:lang="en-US">EN</target>
+</trans-unit>
+<trans-unit id="tu23" restype="x-li">
+<source xml:lang="vi"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></target>
+</trans-unit>
+<trans-unit id="tu26" restype="x-alt">
+<source xml:lang="vi">UK</source>
+<target xml:lang="en-US">UK</target>
+</trans-unit>
+<trans-unit id="tu25" restype="x-li">
+<source xml:lang="vi"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></target>
+</trans-unit>
+<trans-unit id="tu28" restype="x-alt">
+<source xml:lang="vi">RU</source>
+<target xml:lang="en-US">RU</target>
+</trans-unit>
+<trans-unit id="tu27" restype="x-li">
+<source xml:lang="vi"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></target>
+</trans-unit>
+<trans-unit id="tu30" restype="x-alt">
+<source xml:lang="vi">VI</source>
+<target xml:lang="en-US">VI</target>
+</trans-unit>
+<trans-unit id="tu29" restype="x-li">
+<source xml:lang="vi"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></target>
+</trans-unit>
+<trans-unit id="tu32" restype="x-alt">
+<source xml:lang="vi">CS</source>
+<target xml:lang="en-US">CS</target>
+</trans-unit>
+<trans-unit id="tu31" restype="x-li">
+<source xml:lang="vi"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></target>
+</trans-unit>
+<trans-unit id="tu34" restype="x-alt">
+<source xml:lang="vi">EN</source>
+<target xml:lang="en-US">EN</target>
+</trans-unit>
+<trans-unit id="tu33" restype="x-li">
+<source xml:lang="vi"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></target>
+</trans-unit>
+<trans-unit id="tu36" restype="x-alt">
+<source xml:lang="vi">UK</source>
+<target xml:lang="en-US">UK</target>
+</trans-unit>
+<trans-unit id="tu35" restype="x-li">
+<source xml:lang="vi"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></target>
+</trans-unit>
+<trans-unit id="tu38" restype="x-alt">
+<source xml:lang="vi">RU</source>
+<target xml:lang="en-US">RU</target>
+</trans-unit>
+<trans-unit id="tu37" restype="x-li">
+<source xml:lang="vi"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></target>
+</trans-unit>
+<trans-unit id="tu40" restype="x-alt">
+<source xml:lang="vi">VI</source>
+<target xml:lang="en-US">VI</target>
+</trans-unit>
+<trans-unit id="tu39" restype="x-li">
+<source xml:lang="vi"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></target>
+</trans-unit>
+<trans-unit id="tu41" resname="menu-item-152-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Các thông tin chung</g></source>
+<target xml:lang="en-US"><g id="1">Các thông tin chung</g></target>
+</trans-unit>
+<trans-unit id="tu42" resname="menu-item-157-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Cấp quốc tịch nước Cộng Hòa Czech</g></source>
+<target xml:lang="en-US"><g id="1">Cấp quốc tịch nước Cộng Hòa Czech</g></target>
+</trans-unit>
+<trans-unit id="tu43" resname="menu-item-163-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Thi với mục đích cấp quốc tịch nước Cộng Hòa Czech</g></source>
+<target xml:lang="en-US"><g id="1">Thi với mục đích cấp quốc tịch nước Cộng Hòa Czech</g></target>
+</trans-unit>
+<trans-unit id="tu44" resname="menu-item-167-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Đăng ký thi</g></source>
+<target xml:lang="en-US"><g id="1">Đăng ký thi</g></target>
+</trans-unit>
+<trans-unit id="tu45" resname="menu-item-165-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Lệ phí</g></source>
+<target xml:lang="en-US"><g id="1">Lệ phí</g></target>
+</trans-unit>
+<trans-unit id="tu46" resname="menu-item-308-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Những thời hạn thi trong năm</g></source>
+<target xml:lang="en-US"><g id="1">Những thời hạn thi trong năm</g></target>
+</trans-unit>
+<trans-unit id="tu47" resname="menu-item-324-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Những điểm thi trong năm</g></source>
+<target xml:lang="en-US"><g id="1">Những điểm thi trong năm</g></target>
+</trans-unit>
+<trans-unit id="tu48" resname="menu-item-164-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Lịch trình thi</g></source>
+<target xml:lang="en-US"><g id="1">Lịch trình thi</g></target>
+</trans-unit>
+<trans-unit id="tu49" resname="menu-item-327-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Kết quả thi</g></source>
+<target xml:lang="en-US"><g id="1">Kết quả thi</g></target>
+</trans-unit>
+<trans-unit id="tu50" resname="menu-item-166-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Qui chế và tổ chức khi thi</g></source>
+<target xml:lang="en-US"><g id="1">Qui chế và tổ chức khi thi</g></target>
+</trans-unit>
+<trans-unit id="tu51" resname="menu-item-160-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Những điều còn lại</g></source>
+<target xml:lang="en-US"><g id="1">Những điều còn lại</g></target>
+</trans-unit>
+<trans-unit id="tu52" resname="menu-item-161-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Các tổ chức tư vấn cho người nước ngoài</g></source>
+<target xml:lang="en-US"><g id="1">Các tổ chức tư vấn cho người nước ngoài</g></target>
+</trans-unit>
+<trans-unit id="tu53" resname="menu-item-162-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Những nguồn thông tin bổ ích</g></source>
+<target xml:lang="en-US"><g id="1">Những nguồn thông tin bổ ích</g></target>
+</trans-unit>
+<trans-unit id="tu54" resname="menu-item-155-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Liên hệ</g></source>
+<target xml:lang="en-US"><g id="1">Liên hệ</g></target>
+</trans-unit>
+<trans-unit id="tu55" resname="menu-item-154-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Tải về từ trang internet</g></source>
+<target xml:lang="en-US"><g id="1">Tải về từ trang internet</g></target>
+</trans-unit>
+<trans-unit id="tu56" resname="menu-item-973-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Thi về cuộc sống và các tổ chức của nước Cộng Hòa Czech</g></source>
+<target xml:lang="en-US"><g id="1">Thi về cuộc sống và các tổ chức của nước Cộng Hòa Czech</g></target>
+</trans-unit>
+<trans-unit id="tu57" resname="menu-item-974-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Thông tin cho cuộc thi về cuộc sống và các tổ chức của Czech</g></source>
+<target xml:lang="en-US"><g id="1">Thông tin cho cuộc thi về cuộc sống và các tổ chức của Czech</g></target>
+</trans-unit>
+<trans-unit id="tu58" resname="menu-item-343-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Lịch thi về cuộc sống, xã hội séc</g></source>
+<target xml:lang="en-US"><g id="1">Lịch thi về cuộc sống, xã hội séc</g></target>
+</trans-unit>
+<trans-unit id="tu59" resname="menu-item-194-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Các điểm thi trong năm</g></source>
+<target xml:lang="en-US"><g id="1">Các điểm thi trong năm</g></target>
+</trans-unit>
+<trans-unit id="tu60" resname="menu-item-183-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Chuẩn bị cho cuộc thi</g></source>
+<target xml:lang="en-US"><g id="1">Chuẩn bị cho cuộc thi</g></target>
+</trans-unit>
+<trans-unit id="tu61" resname="menu-item-186-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Các qui chế và tổ chức thi về cuộc sống và tổ chức của Czech</g></source>
+<target xml:lang="en-US"><g id="1">Các qui chế và tổ chức thi về cuộc sống và tổ chức của Czech</g></target>
+</trans-unit>
+<trans-unit id="tu62" resname="menu-item-187-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Các qui định riêng cho thi về cuộc sống và tổ chức của Czech</g></source>
+<target xml:lang="en-US"><g id="1">Các qui định riêng cho thi về cuộc sống và tổ chức của Czech</g></target>
+</trans-unit>
+<trans-unit id="tu63" resname="menu-item-418-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Mô hình thử nghiệm về cuộc sống và tổ chức của Czech</g></source>
+<target xml:lang="en-US"><g id="1">Mô hình thử nghiệm về cuộc sống và tổ chức của Czech</g></target>
+</trans-unit>
+<trans-unit id="tu64" resname="menu-item-420-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Dữ liệu những bài tập về cuộc sống và tổ chức của Czech</g></source>
+<target xml:lang="en-US"><g id="1">Dữ liệu những bài tập về cuộc sống và tổ chức của Czech</g></target>
+</trans-unit>
+<trans-unit id="tu65" resname="menu-item-354-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Sách giáo khoa và các tài liệu khác – cuộc sống, xã hội</g></source>
+<target xml:lang="en-US"><g id="1">Sách giáo khoa và các tài liệu khác – cuộc sống, xã hội</g></target>
+</trans-unit>
+<trans-unit id="tu66" resname="menu-item-182-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Tải</g></source>
+<target xml:lang="en-US"><g id="1">Tải</g></target>
+</trans-unit>
+<trans-unit id="tu67" resname="menu-item-196-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Cơ sở dữ liệu</g></source>
+<target xml:lang="en-US"><g id="1">Cơ sở dữ liệu</g></target>
+</trans-unit>
+<trans-unit id="tu68" resname="menu-item-197-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Mô hình thử nghiệm</g></source>
+<target xml:lang="en-US"><g id="1">Mô hình thử nghiệm</g></target>
+</trans-unit>
+<trans-unit id="tu69" resname="menu-item-173-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Thi tiếng Czech</g></source>
+<target xml:lang="en-US"><g id="1">Thi tiếng Czech</g></target>
+</trans-unit>
+<trans-unit id="tu70" resname="menu-item-978-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Thông tin về thi tiếng Czech</g></source>
+<target xml:lang="en-US"><g id="1">Thông tin về thi tiếng Czech</g></target>
+</trans-unit>
+<trans-unit id="tu71" resname="menu-item-342-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Ngày kiểm tra tiếng Séc</g></source>
+<target xml:lang="en-US"><g id="1">Ngày kiểm tra tiếng Séc</g></target>
+</trans-unit>
+<trans-unit id="tu72" resname="menu-item-332-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Các điểm thi trong năm</g></source>
+<target xml:lang="en-US"><g id="1">Các điểm thi trong năm</g></target>
+</trans-unit>
+<trans-unit id="tu73" resname="menu-item-176-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Chuẩn bị cho cuộc thi</g></source>
+<target xml:lang="en-US"><g id="1">Chuẩn bị cho cuộc thi</g></target>
+</trans-unit>
+<trans-unit id="tu74" resname="menu-item-178-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Qui chế và tổ chức thi tiếng Czech</g></source>
+<target xml:lang="en-US"><g id="1">Qui chế và tổ chức thi tiếng Czech</g></target>
+</trans-unit>
+<trans-unit id="tu75" resname="menu-item-177-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Các dạng mẫu thi tiếng Chech</g></source>
+<target xml:lang="en-US"><g id="1">Các dạng mẫu thi tiếng Chech</g></target>
+</trans-unit>
+<trans-unit id="tu76" resname="menu-item-355-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Sách giáo khoa và các tài liệu khác – ngôn ngữ</g></source>
+<target xml:lang="en-US"><g id="1">Sách giáo khoa và các tài liệu khác – ngôn ngữ</g></target>
+</trans-unit>
+<trans-unit id="tu77" resname="menu-item-175-id" restype="x-li">
+<source xml:lang="vi"><g id="1">Tải</g></source>
+<target xml:lang="en-US"><g id="1">Tải</g></target>
+</trans-unit>
+<trans-unit id="tu78">
+<source xml:lang="vi"><g id="1"><x id="2"/></g></source>
+<target xml:lang="en-US"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu79" restype="x-h1">
+<source xml:lang="vi">Liên hệ</source>
+<target xml:lang="en-US">Liên hệ</target>
+</trans-unit>
+<trans-unit id="tu80" restype="x-h4">
+<source xml:lang="vi">Bộ Nội Vụ</source>
+<target xml:lang="en-US">Bộ Nội Vụ</target>
+</trans-unit>
+<trans-unit id="tu81" restype="x-td">
+<source xml:lang="vi"></source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="tu82" restype="x-paragraph">
+<source xml:lang="vi">Ministerstvo vnitra<x id="1"/> Nad Štolou 3<x id="2"/> poštovní schránka 21<x id="3"/> 170 34 Praha 7</source>
+<target xml:lang="en-US">Ministerstvo vnitra<x id="1"/> Nad Štolou 3<x id="2"/> poštovní schránka 21<x id="3"/> 170 34 Praha 7</target>
+</trans-unit>
+<trans-unit id="tu83" restype="x-paragraph">
+<source xml:lang="vi"><g id="1">www.mvcr.cz</g><x id="2"/> <g id="3">posta@mvcr.cz</g><x id="4"/> <g id="5">obcanmat@mvcr.cz</g></source>
+<target xml:lang="en-US"><g id="1">www.mvcr.cz</g><x id="2"/> <g id="3">posta@mvcr.cz</g><x id="4"/> <g id="5">obcanmat@mvcr.cz</g></target>
+</trans-unit>
+<trans-unit id="tu84" restype="x-paragraph">
+<source xml:lang="vi">Bạn hãy liên hệ nếu có thắc mắc về:</source>
+<target xml:lang="en-US">Bạn hãy liên hệ nếu có thắc mắc về:</target>
+</trans-unit>
+<trans-unit id="tu85" restype="x-li">
+<source xml:lang="vi">bộ luật số 186/2013 Sb., về quốc tịch nước Cộng Hòa Czech và về những sửa đổi một số điều luật (điều luật về quốc tịch nước Cộng Hòa Czech)</source>
+<target xml:lang="en-US">bộ luật số 186/2013 Sb., về quốc tịch nước Cộng Hòa Czech và về những sửa đổi một số điều luật (điều luật về quốc tịch nước Cộng Hòa Czech)</target>
+</trans-unit>
+<trans-unit id="tu86" restype="x-li">
+<source xml:lang="vi">đơn xin quốc tịch nước Cộng Hòa Czech</source>
+<target xml:lang="en-US">đơn xin quốc tịch nước Cộng Hòa Czech</target>
+</trans-unit>
+<trans-unit id="tu87" restype="x-li">
+<source xml:lang="vi">lệ phí hành chính có liên quan đến việc cấp quốc tịch nước Cộng Hòa Czech</source>
+<target xml:lang="en-US">lệ phí hành chính có liên quan đến việc cấp quốc tịch nước Cộng Hòa Czech</target>
+</trans-unit>
+<trans-unit id="tu88" restype="x-h4">
+<source xml:lang="vi">Bộ Giáo Dục, Thanh Niên và Thể Dục</source>
+<target xml:lang="en-US">Bộ Giáo Dục, Thanh Niên và Thể Dục</target>
+</trans-unit>
+<trans-unit id="tu89" restype="x-td">
+<source xml:lang="vi">Ministerstvo školství, mládeže a tělovýchovy<x id="1"/> Karmelitská 7<x id="2"/> 118 12 Praha 1</source>
+<target xml:lang="en-US">Ministerstvo školství, mládeže a tělovýchovy<x id="1"/> Karmelitská 7<x id="2"/> 118 12 Praha 1</target>
+</trans-unit>
+<trans-unit id="tu90" restype="x-paragraph">
+<source xml:lang="vi"><g id="1">www.msmt.cz</g><x id="2"/> <g id="3">posta@msmt.cz</g><x id="4"/> <g id="5">marie.cernikova@msmt.cz</g></source>
+<target xml:lang="en-US"><g id="1">www.msmt.cz</g><x id="2"/> <g id="3">posta@msmt.cz</g><x id="4"/> <g id="5">marie.cernikova@msmt.cz</g></target>
+</trans-unit>
+<trans-unit id="tu91" restype="x-paragraph">
+<source xml:lang="vi">Bạn hãy liên hệ nếu có thắc mắc về:</source>
+<target xml:lang="en-US">Bạn hãy liên hệ nếu có thắc mắc về:</target>
+</trans-unit>
+<trans-unit id="tu92" restype="x-li">
+<source xml:lang="vi">Thông báo cho việc chứng minh trình độ tiếng Czech và cuộc sống, xã hội Czech với mục đích xin cấp quốc tịch nước Cộng Hòa Czech</source>
+<target xml:lang="en-US">Thông báo cho việc chứng minh trình độ tiếng Czech và cuộc sống, xã hội Czech với mục đích xin cấp quốc tịch nước Cộng Hòa Czech</target>
+</trans-unit>
+<trans-unit id="tu93" restype="x-li">
+<source xml:lang="vi">Phương thức thi tiếng Czech và về cuộc sống, xã hội Czech </source>
+<target xml:lang="en-US">Phương thức thi tiếng Czech và về cuộc sống, xã hội Czech </target>
+</trans-unit>
+<trans-unit id="tu94" restype="x-h4">
+<source xml:lang="vi">Viện ngôn ngữ và bộ phận chuyên ngành của trường đại học Charles</source>
+<target xml:lang="en-US">Viện ngôn ngữ và bộ phận chuyên ngành của trường đại học Charles</target>
+</trans-unit>
+<trans-unit id="tu95" restype="x-td">
+<source xml:lang="vi">Univerzita Karlova<x id="1"/> Ústav jazykové a odborné přípravy<x id="2"/> Výzkumné a testovací centrum<x id="3"/> Vratislavova 29/10<x id="4"/> 128 00 Praha 2</source>
+<target xml:lang="en-US">Univerzita Karlova<x id="1"/> Ústav jazykové a odborné přípravy<x id="2"/> Výzkumné a testovací centrum<x id="3"/> Vratislavova 29/10<x id="4"/> 128 00 Praha 2</target>
+</trans-unit>
+<trans-unit id="tu96" restype="x-paragraph">
+<source xml:lang="vi"><g id="1">http://www.ujop.cuni.cz/</g><x id="2"/> <g id="3">http://ujop.cuni.cz/obcanstvi</g><x id="4"/> <g id="5">obcanstvi@ujop.cuni.cz</g></source>
+<target xml:lang="en-US"><g id="1">http://www.ujop.cuni.cz/</g><x id="2"/> <g id="3">http://ujop.cuni.cz/obcanstvi</g><x id="4"/> <g id="5">obcanstvi@ujop.cuni.cz</g></target>
+</trans-unit>
+<trans-unit id="tu97" restype="x-paragraph">
+<source xml:lang="vi">Bạn hãy liên hệ nếu có thắc mắc về:</source>
+<target xml:lang="en-US">Bạn hãy liên hệ nếu có thắc mắc về:</target>
+</trans-unit>
+<trans-unit id="tu98" restype="x-li">
+<source xml:lang="vi"><g id="1">việc tổ chức thi tiếng Czech và thi về cuộc sống, xã hội Czech (thời gian thi, địa điểm thi, đăng ký, lệ phí, chứng chỉ)Bạn hãy liên hệ nếu có thắc mắc về:</g></source>
+<target xml:lang="en-US"><g id="1">việc tổ chức thi tiếng Czech và thi về cuộc sống, xã hội Czech (thời gian thi, địa điểm thi, đăng ký, lệ phí, chứng chỉ)Bạn hãy liên hệ nếu có thắc mắc về:</g></target>
+</trans-unit>
+<trans-unit id="tu99" restype="x-li">
+<source xml:lang="vi">quá trình thi (hình thức thi, đánh giá, thông tin cho các thí sinh, Qui chế thi) </source>
+<target xml:lang="en-US">quá trình thi (hình thức thi, đánh giá, thông tin cho các thí sinh, Qui chế thi) </target>
+</trans-unit>
+<trans-unit id="tu100" restype="x-li">
+<source xml:lang="vi">nội dung thi tiếng Czech</source>
+<target xml:lang="en-US">nội dung thi tiếng Czech</target>
+</trans-unit>
+<trans-unit id="tu101" restype="x-li">
+<source xml:lang="vi">khâu chuẩn bị thi tiếng Czech</source>
+<target xml:lang="en-US">khâu chuẩn bị thi tiếng Czech</target>
+</trans-unit>
+<trans-unit id="tu102" restype="x-h4">
+<source xml:lang="vi">Học viện sư phạm quốc gia Cộng hoà Séc</source>
+<target xml:lang="en-US">Học viện sư phạm quốc gia Cộng hoà Séc</target>
+</trans-unit>
+<trans-unit id="tu103" restype="x-td">
+<source xml:lang="vi">Národní pedagogický institut České republiky<x id="1"/> Senovážné náměstí 872/25<x id="2"/> 110 00 Praha 1<x id="3"/> Pracoviště Hostivař<x id="4"/> Weilova 1271/6<x id="5"/> 102 00 Praha 10</source>
+<target xml:lang="en-US">Národní pedagogický institut České republiky<x id="1"/> Senovážné náměstí 872/25<x id="2"/> 110 00 Praha 1<x id="3"/> Pracoviště Hostivař<x id="4"/> Weilova 1271/6<x id="5"/> 102 00 Praha 10</target>
+</trans-unit>
+<trans-unit id="tu104" restype="x-paragraph">
+<source xml:lang="vi"><g id="1">https://www.npi.cz/</g><x id="2"/> <g id="3">https://cestina-pro-cizince.cz/obcanstvi/</g><x id="4"/> <g id="5">obcanstvi@cestina-pro-cizince.cz</g></source>
+<target xml:lang="en-US"><g id="1">https://www.npi.cz/</g><x id="2"/> <g id="3">https://cestina-pro-cizince.cz/obcanstvi/</g><x id="4"/> <g id="5">obcanstvi@cestina-pro-cizince.cz</g></target>
+</trans-unit>
+<trans-unit id="tu105" restype="x-paragraph">
+<source xml:lang="vi">Bạn hãy liên hệ nếu có thắc mắc về:</source>
+<target xml:lang="en-US">Bạn hãy liên hệ nếu có thắc mắc về:</target>
+</trans-unit>
+<trans-unit id="tu106" restype="x-li">
+<source xml:lang="vi">nội dung thi tiếng Czech</source>
+<target xml:lang="en-US">nội dung thi tiếng Czech</target>
+</trans-unit>
+<trans-unit id="tu107" restype="x-li">
+<source xml:lang="vi">những trang internet      </source>
+<target xml:lang="en-US">những trang internet      </target>
+</trans-unit>
+<trans-unit id="tu108" restype="x-h2">
+<source xml:lang="vi">Nếu bạn là nhà báo, xin vui lòng liên hệ với phòng phát ngôn hoặc những bộ phận sau:</source>
+<target xml:lang="en-US">Nếu bạn là nhà báo, xin vui lòng liên hệ với phòng phát ngôn hoặc những bộ phận sau:</target>
+</trans-unit>
+<trans-unit id="tu109" restype="x-li">
+<source xml:lang="vi">Bộ Nội Vụ: <g id="1">Cục báo chí và quan hệ xã hội</g> (Odbor tisku a public relations)</source>
+<target xml:lang="en-US">Bộ Nội Vụ: <g id="1">Cục báo chí và quan hệ xã hội</g> (Odbor tisku a public relations)</target>
+</trans-unit>
+<trans-unit id="tu110" restype="x-li">
+<source xml:lang="vi">Bộ Giáo Dục, Thanh Niên và Thể Dục: <g id="1">Cục quan hệ xã hội và truyền thông</g> (Odbor vnějších vztahů a komunikace)</source>
+<target xml:lang="en-US">Bộ Giáo Dục, Thanh Niên và Thể Dục: <g id="1">Cục quan hệ xã hội và truyền thông</g> (Odbor vnějších vztahů a komunikace)</target>
+</trans-unit>
+<trans-unit id="tu111" restype="x-li">
+<source xml:lang="vi">Viện ngôn ngữ và bộ phận chuyên ngành của trường đại học Charles tại Praha: <g id="1">Trung tâm nghiên cứu và thử nghiệm</g> (Výzkumné a testovací centrum)</source>
+<target xml:lang="en-US">Viện ngôn ngữ và bộ phận chuyên ngành của trường đại học Charles tại Praha: <g id="1">Trung tâm nghiên cứu và thử nghiệm</g> (Výzkumné a testovací centrum)</target>
+</trans-unit>
+<trans-unit id="tu112" restype="x-li">
+<source xml:lang="vi">Học viện sư phạm quốc gia Cộng hoà Séc: <g id="1">press@npi.cz</g></source>
+<target xml:lang="en-US">Học viện sư phạm quốc gia Cộng hoà Séc: <g id="1">press@npi.cz</g></target>
+</trans-unit>
+<trans-unit id="tu113" restype="x-paragraph">
+<source xml:lang="vi"></source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="tu114" resname="skoly-id" restype="x-h3">
+<source xml:lang="vi">Seznam škol</source>
+<target xml:lang="en-US">Seznam škol</target>
+</trans-unit>
+<trans-unit id="tu115">
+<source xml:lang="vi">Adresa</source>
+<target xml:lang="en-US">Adresa</target>
+</trans-unit>
+<trans-unit id="tu116">
+<source xml:lang="vi">Telefon</source>
+<target xml:lang="en-US">Telefon</target>
+</trans-unit>
+<trans-unit id="tu117">
+<source xml:lang="vi">+420 387 773 222</source>
+<target xml:lang="en-US">+420 387 773 222</target>
+</trans-unit>
+<trans-unit id="tu118">
+<source xml:lang="vi">E-mail</source>
+<target xml:lang="en-US">E-mail</target>
+</trans-unit>
+<trans-unit id="tu119">
+<source xml:lang="vi">peclova@pf.jcu.cz</source>
+<target xml:lang="en-US">peclova@pf.jcu.cz</target>
+</trans-unit>
+<trans-unit id="tu120">
+<source xml:lang="vi">Adresa</source>
+<target xml:lang="en-US">Adresa</target>
+</trans-unit>
+<trans-unit id="tu121">
+<source xml:lang="vi">Telefon</source>
+<target xml:lang="en-US">Telefon</target>
+</trans-unit>
+<trans-unit id="tu122">
+<source xml:lang="vi">+420 549 495 970</source>
+<target xml:lang="en-US">+420 549 495 970</target>
+</trans-unit>
+<trans-unit id="tu123">
+<source xml:lang="vi">E-mail</source>
+<target xml:lang="en-US">E-mail</target>
+</trans-unit>
+<trans-unit id="tu124">
+<source xml:lang="vi">kabcest@phil.muni.cz</source>
+<target xml:lang="en-US">kabcest@phil.muni.cz</target>
+</trans-unit>
+<trans-unit id="tu125">
+<source xml:lang="vi"><g id="1">Ostravská univerzita v Ostravě</g></source>
+<target xml:lang="en-US"><g id="1">Ostravská univerzita v Ostravě</g></target>
+</trans-unit>
+<trans-unit id="tu126">
+<source xml:lang="vi">Adresa</source>
+<target xml:lang="en-US">Adresa</target>
+</trans-unit>
+<trans-unit id="tu127">
+<source xml:lang="vi">Telefon</source>
+<target xml:lang="en-US">Telefon</target>
+</trans-unit>
+<trans-unit id="tu128">
+<source xml:lang="vi">+420 731 305 178</source>
+<target xml:lang="en-US">+420 731 305 178</target>
+</trans-unit>
+<trans-unit id="tu129">
+<source xml:lang="vi">E-mail</source>
+<target xml:lang="en-US">E-mail</target>
+</trans-unit>
+<trans-unit id="tu130">
+<source xml:lang="vi">kristyna.kovarova@osu.cz</source>
+<target xml:lang="en-US">kristyna.kovarova@osu.cz</target>
+</trans-unit>
+<trans-unit id="tu131">
+<source xml:lang="vi">Adresa</source>
+<target xml:lang="en-US">Adresa</target>
+</trans-unit>
+<trans-unit id="tu132">
+<source xml:lang="vi">Telefon</source>
+<target xml:lang="en-US">Telefon</target>
+</trans-unit>
+<trans-unit id="tu133">
+<source xml:lang="vi">+420 773 749 951</source>
+<target xml:lang="en-US">+420 773 749 951</target>
+</trans-unit>
+<trans-unit id="tu134">
+<source xml:lang="vi">E-mail</source>
+<target xml:lang="en-US">E-mail</target>
+</trans-unit>
+<trans-unit id="tu135">
+<source xml:lang="vi">radka.stejskalova@ujop.cuni.cz</source>
+<target xml:lang="en-US">radka.stejskalova@ujop.cuni.cz</target>
+</trans-unit>
+<trans-unit id="tu136">
+<source xml:lang="vi"><g id="1">ÚJOP UK Krystal</g></source>
+<target xml:lang="en-US"><g id="1">ÚJOP UK Krystal</g></target>
+</trans-unit>
+<trans-unit id="tu137">
+<source xml:lang="vi">Adresa</source>
+<target xml:lang="en-US">Adresa</target>
+</trans-unit>
+<trans-unit id="tu138">
+<source xml:lang="vi">Ústav jazykové a odborné přípravy<x id="1"/> Studijní středisko Praha-Krystal<x id="2"/> budova C<x id="3"/> José Martího 2/407<x id="4"/> 160 00 Praha 6</source>
+<target xml:lang="en-US">Ústav jazykové a odborné přípravy<x id="1"/> Studijní středisko Praha-Krystal<x id="2"/> budova C<x id="3"/> José Martího 2/407<x id="4"/> 160 00 Praha 6</target>
+</trans-unit>
+<trans-unit id="tu139">
+<source xml:lang="vi">Telefon</source>
+<target xml:lang="en-US">Telefon</target>
+</trans-unit>
+<trans-unit id="tu140">
+<source xml:lang="vi">+420 212 245 245</source>
+<target xml:lang="en-US">+420 212 245 245</target>
+</trans-unit>
+<trans-unit id="tu141">
+<source xml:lang="vi">E-mail</source>
+<target xml:lang="en-US">E-mail</target>
+</trans-unit>
+<trans-unit id="tu142">
+<source xml:lang="vi">praha.obcanstvi@ujop.cuni.cz</source>
+<target xml:lang="en-US">praha.obcanstvi@ujop.cuni.cz</target>
+</trans-unit>
+<trans-unit id="tu143">
+<source xml:lang="vi">Adresa</source>
+<target xml:lang="en-US">Adresa</target>
+</trans-unit>
+<trans-unit id="tu144">
+<source xml:lang="vi">Ústav jazykové a odborné přípravy<x id="1"/> Studijní středisko Poděbrady<x id="2"/> Jiřího náměstí 1/I<x id="3"/> 290 01 Poděbrady</source>
+<target xml:lang="en-US">Ústav jazykové a odborné přípravy<x id="1"/> Studijní středisko Poděbrady<x id="2"/> Jiřího náměstí 1/I<x id="3"/> 290 01 Poděbrady</target>
+</trans-unit>
+<trans-unit id="tu145">
+<source xml:lang="vi">Telefon</source>
+<target xml:lang="en-US">Telefon</target>
+</trans-unit>
+<trans-unit id="tu146">
+<source xml:lang="vi">+420 325 614 452</source>
+<target xml:lang="en-US">+420 325 614 452</target>
+</trans-unit>
+<trans-unit id="tu147">
+<source xml:lang="vi">E-mail</source>
+<target xml:lang="en-US">E-mail</target>
+</trans-unit>
+<trans-unit id="tu148">
+<source xml:lang="vi">ivana.stikova@ujop.cuni.cz</source>
+<target xml:lang="en-US">ivana.stikova@ujop.cuni.cz</target>
+</trans-unit>
+<trans-unit id="tu149">
+<source xml:lang="vi">Adresa</source>
+<target xml:lang="en-US">Adresa</target>
+</trans-unit>
+<trans-unit id="tu150">
+<source xml:lang="vi">Ústav jazykové a odborné přípravy<x id="1"/> Studijní středisko Praha-Voršilská<x id="2"/> Voršilská 144/1<x id="3"/> 110 00 Praha 1<x id="4"/></source>
+<target xml:lang="en-US">Ústav jazykové a odborné přípravy<x id="1"/> Studijní středisko Praha-Voršilská<x id="2"/> Voršilská 144/1<x id="3"/> 110 00 Praha 1<x id="4"/></target>
+</trans-unit>
+<trans-unit id="tu151">
+<source xml:lang="vi">Telefon</source>
+<target xml:lang="en-US">Telefon</target>
+</trans-unit>
+<trans-unit id="tu152">
+<source xml:lang="vi">+420 212 245 245</source>
+<target xml:lang="en-US">+420 212 245 245</target>
+</trans-unit>
+<trans-unit id="tu153">
+<source xml:lang="vi">E-mail</source>
+<target xml:lang="en-US">E-mail</target>
+</trans-unit>
+<trans-unit id="tu154">
+<source xml:lang="vi">praha.obcanstvi@ujop.cuni.cz</source>
+<target xml:lang="en-US">praha.obcanstvi@ujop.cuni.cz</target>
+</trans-unit>
+<trans-unit id="tu155">
+<source xml:lang="vi">Adresa</source>
+<target xml:lang="en-US">Adresa</target>
+</trans-unit>
+<trans-unit id="tu156">
+<source xml:lang="vi">Telefon</source>
+<target xml:lang="en-US">Telefon</target>
+</trans-unit>
+<trans-unit id="tu157">
+<source xml:lang="vi">+420 493 332 219</source>
+<target xml:lang="en-US">+420 493 332 219</target>
+</trans-unit>
+<trans-unit id="tu158">
+<source xml:lang="vi">E-mail</source>
+<target xml:lang="en-US">E-mail</target>
+</trans-unit>
+<trans-unit id="tu159">
+<source xml:lang="vi">andrea.liberska@uhk.cz</source>
+<target xml:lang="en-US">andrea.liberska@uhk.cz</target>
+</trans-unit>
+<trans-unit id="tu160">
+<source xml:lang="vi">Adresa</source>
+<target xml:lang="en-US">Adresa</target>
+</trans-unit>
+<trans-unit id="tu161">
+<source xml:lang="vi">Telefon</source>
+<target xml:lang="en-US">Telefon</target>
+</trans-unit>
+<trans-unit id="tu162">
+<source xml:lang="vi">+420 736 446 727</source>
+<target xml:lang="en-US">+420 736 446 727</target>
+</trans-unit>
+<trans-unit id="tu163">
+<source xml:lang="vi">E-mail</source>
+<target xml:lang="en-US">E-mail</target>
+</trans-unit>
+<trans-unit id="tu164">
+<source xml:lang="vi">darina.hradilova@upol.cz</source>
+<target xml:lang="en-US">darina.hradilova@upol.cz</target>
+</trans-unit>
+<trans-unit id="tu165">
+<source xml:lang="vi"><g id="1">Západočeská univerzita v Plzni</g></source>
+<target xml:lang="en-US"><g id="1">Západočeská univerzita v Plzni</g></target>
+</trans-unit>
+<trans-unit id="tu166">
+<source xml:lang="vi">Adresa</source>
+<target xml:lang="en-US">Adresa</target>
+</trans-unit>
+<trans-unit id="tu167">
+<source xml:lang="vi">Západočeská univerzita v Plzni<x id="1"/> Pedagogická fakulta<x id="2"/> Veleslavínova 42<x id="3"/> 301 00 Plzeň</source>
+<target xml:lang="en-US">Západočeská univerzita v Plzni<x id="1"/> Pedagogická fakulta<x id="2"/> Veleslavínova 42<x id="3"/> 301 00 Plzeň</target>
+</trans-unit>
+<trans-unit id="tu168">
+<source xml:lang="vi">Telefon</source>
+<target xml:lang="en-US">Telefon</target>
+</trans-unit>
+<trans-unit id="tu169">
+<source xml:lang="vi">+420 377 636 021</source>
+<target xml:lang="en-US">+420 377 636 021</target>
+</trans-unit>
+<trans-unit id="tu170">
+<source xml:lang="vi">E-mail</source>
+<target xml:lang="en-US">E-mail</target>
+</trans-unit>
+<trans-unit id="tu171">
+<source xml:lang="vi">ghruba@fpe.zcu.cz</source>
+<target xml:lang="en-US">ghruba@fpe.zcu.cz</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

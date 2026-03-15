@@ -1,0 +1,629 @@
+{
+  "by_language": {
+    "cs": {
+      "documents": 58,
+      "mos_files": 39,
+      "html_files": 34,
+      "segments": 9878,
+      "words": 50776,
+      "tags": 15835,
+      "segments_with_tags": 6994,
+      "avg_words_per_segment": 5.140311804008909,
+      "avg_tags_per_segment": 1.6030572990483904,
+      "tag_type_count": 4
+    },
+    "es": {
+      "documents": 3,
+      "mos_files": 1,
+      "html_files": 0,
+      "segments": 329,
+      "words": 2691,
+      "tags": 101,
+      "segments_with_tags": 42,
+      "avg_words_per_segment": 8.179331306990882,
+      "avg_tags_per_segment": 0.3069908814589666,
+      "tag_type_count": 2
+    },
+    "en": {
+      "documents": 16,
+      "mos_files": 13,
+      "html_files": 12,
+      "segments": 5622,
+      "words": 22629,
+      "tags": 10865,
+      "segments_with_tags": 5302,
+      "avg_words_per_segment": 4.025080042689434,
+      "avg_tags_per_segment": 1.932586268231946,
+      "tag_type_count": 4
+    },
+    "fr": {
+      "documents": 3,
+      "mos_files": 1,
+      "html_files": 0,
+      "segments": 334,
+      "words": 2643,
+      "tags": 51,
+      "segments_with_tags": 33,
+      "avg_words_per_segment": 7.913173652694611,
+      "avg_tags_per_segment": 0.15269461077844312,
+      "tag_type_count": 2
+    },
+    "uk": {
+      "documents": 56,
+      "mos_files": 38,
+      "html_files": 34,
+      "segments": 10300,
+      "words": 49974,
+      "tags": 16189,
+      "segments_with_tags": 7067,
+      "avg_words_per_segment": 4.851844660194175,
+      "avg_tags_per_segment": 1.571747572815534,
+      "tag_type_count": 4
+    },
+    "vn": {
+      "documents": 38,
+      "mos_files": 19,
+      "html_files": 36,
+      "segments": 3121,
+      "words": 26701,
+      "tags": 4929,
+      "segments_with_tags": 1591,
+      "avg_words_per_segment": 8.55527074655559,
+      "avg_tags_per_segment": 1.5793015059275872,
+      "tag_type_count": 2
+    },
+    "vi": {
+      "documents": 29,
+      "mos_files": 29,
+      "html_files": 29,
+      "segments": 6416,
+      "words": 32154,
+      "tags": 14213,
+      "segments_with_tags": 6443,
+      "avg_words_per_segment": 5.011533665835412,
+      "avg_tags_per_segment": 2.2152431421446384,
+      "tag_type_count": 4
+    },
+    "ru": {
+      "documents": 14,
+      "mos_files": 12,
+      "html_files": 12,
+      "segments": 5376,
+      "words": 19209,
+      "tags": 10829,
+      "segments_with_tags": 5277,
+      "avg_words_per_segment": 3.5731026785714284,
+      "avg_tags_per_segment": 2.0143229166666665,
+      "tag_type_count": 4
+    },
+    "ar": {
+      "documents": 1,
+      "mos_files": 0,
+      "html_files": 0,
+      "segments": 123,
+      "words": 218,
+      "tags": 0,
+      "segments_with_tags": 0,
+      "avg_words_per_segment": 1.7723577235772359,
+      "avg_tags_per_segment": 0.0,
+      "tag_type_count": 0
+    },
+    "sr": {
+      "documents": 1,
+      "mos_files": 0,
+      "html_files": 0,
+      "segments": 141,
+      "words": 481,
+      "tags": 0,
+      "segments_with_tags": 0,
+      "avg_words_per_segment": 3.4113475177304964,
+      "avg_tags_per_segment": 0.0,
+      "tag_type_count": 0
+    },
+    "mn": {
+      "documents": 1,
+      "mos_files": 0,
+      "html_files": 0,
+      "segments": 128,
+      "words": 457,
+      "tags": 0,
+      "segments_with_tags": 0,
+      "avg_words_per_segment": 3.5703125,
+      "avg_tags_per_segment": 0.0,
+      "tag_type_count": 0
+    },
+    "bg": {
+      "documents": 1,
+      "mos_files": 0,
+      "html_files": 0,
+      "segments": 87,
+      "words": 463,
+      "tags": 0,
+      "segments_with_tags": 0,
+      "avg_words_per_segment": 5.32183908045977,
+      "avg_tags_per_segment": 0.0,
+      "tag_type_count": 0
+    },
+    "de": {
+      "documents": 1,
+      "mos_files": 0,
+      "html_files": 0,
+      "segments": 84,
+      "words": 522,
+      "tags": 0,
+      "segments_with_tags": 0,
+      "avg_words_per_segment": 6.214285714285714,
+      "avg_tags_per_segment": 0.0,
+      "tag_type_count": 0
+    },
+    "ro": {
+      "documents": 1,
+      "mos_files": 0,
+      "html_files": 0,
+      "segments": 88,
+      "words": 584,
+      "tags": 0,
+      "segments_with_tags": 0,
+      "avg_words_per_segment": 6.636363636363637,
+      "avg_tags_per_segment": 0.0,
+      "tag_type_count": 0
+    },
+    "pl": {
+      "documents": 1,
+      "mos_files": 0,
+      "html_files": 0,
+      "segments": 81,
+      "words": 525,
+      "tags": 0,
+      "segments_with_tags": 0,
+      "avg_words_per_segment": 6.481481481481482,
+      "avg_tags_per_segment": 0.0,
+      "tag_type_count": 0
+    }
+  },
+  "totals": {
+    "documents": 224,
+    "mos_files": 152,
+    "plaintext_files": 207,
+    "html_files": 157,
+    "pdf_files": 55,
+    "docx_files": 12,
+    "segments": 42108,
+    "empty_segments": 12053,
+    "non_empty_segments": 42108,
+    "words": 210027,
+    "tags": 73012,
+    "segments_with_tags": 32749
+  },
+  "languages": [
+    "cs",
+    "es",
+    "en",
+    "fr",
+    "uk",
+    "vn",
+    "vi",
+    "ru",
+    "ar",
+    "sr",
+    "mn",
+    "bg",
+    "de",
+    "ro",
+    "pl"
+  ],
+  "num_languages": 15,
+  "document_pairs": {
+    "html_51": [
+      "cs",
+      "vn",
+      "uk",
+      "vi"
+    ],
+    "html_72": [
+      "cs",
+      "vn",
+      "uk",
+      "vi"
+    ],
+    "html_10": [
+      "ru",
+      "vi",
+      "uk",
+      "cs",
+      "en"
+    ],
+    "html_75": [
+      "cs",
+      "vn",
+      "uk",
+      "vi"
+    ],
+    "html_74": [
+      "cs",
+      "vn",
+      "uk",
+      "vi"
+    ],
+    "html_44": [
+      "cs",
+      "vn",
+      "uk",
+      "vi"
+    ],
+    "html_15": [
+      "ru",
+      "vi",
+      "uk",
+      "cs",
+      "en"
+    ],
+    "html_61": [
+      "cs",
+      "vn",
+      "uk",
+      "vi"
+    ],
+    "html_27": [
+      "ru",
+      "vi",
+      "uk",
+      "cs",
+      "en"
+    ],
+    "html_4": [
+      "cs",
+      "uk"
+    ],
+    "html_60": [
+      "cs",
+      "vn",
+      "uk",
+      "vi"
+    ],
+    "html_68": [
+      "cs",
+      "vn",
+      "uk",
+      "vi"
+    ],
+    "html_55": [
+      "cs",
+      "vn",
+      "uk",
+      "vi"
+    ],
+    "html_14": [
+      "ru",
+      "vi",
+      "uk",
+      "cs",
+      "en"
+    ],
+    "html_11": [
+      "ru",
+      "vi",
+      "uk",
+      "cs",
+      "en"
+    ],
+    "html_67": [
+      "cs",
+      "vn",
+      "uk",
+      "vi"
+    ],
+    "html_24": [
+      "ru",
+      "vi",
+      "uk",
+      "cs",
+      "en"
+    ],
+    "html_29": [
+      "ru",
+      "vi",
+      "uk",
+      "cs",
+      "en"
+    ],
+    "html_71": [
+      "cs",
+      "vn",
+      "uk",
+      "vi"
+    ],
+    "html_52": [
+      "cs",
+      "vn",
+      "uk",
+      "vi"
+    ],
+    "html_6": [
+      "cs",
+      "vn",
+      "uk"
+    ],
+    "html_1": [
+      "cs",
+      "uk"
+    ],
+    "html_5": [
+      "cs",
+      "vn",
+      "uk"
+    ],
+    "html_56": [
+      "cs",
+      "vn",
+      "uk",
+      "vi"
+    ],
+    "html_73": [
+      "cs",
+      "vn",
+      "uk",
+      "vi"
+    ],
+    "html_16": [
+      "ru",
+      "vi",
+      "uk",
+      "cs",
+      "en"
+    ],
+    "html_17": [
+      "ru",
+      "vi",
+      "uk",
+      "cs",
+      "en"
+    ],
+    "html_20": [
+      "ru",
+      "vi",
+      "uk",
+      "cs",
+      "en"
+    ],
+    "html_3": [
+      "cs",
+      "uk"
+    ],
+    "html_23": [
+      "ru",
+      "vi",
+      "uk",
+      "cs",
+      "en"
+    ],
+    "html_50": [
+      "cs",
+      "vn",
+      "uk",
+      "vi"
+    ],
+    "html_69": [
+      "cs",
+      "vn",
+      "uk",
+      "vi"
+    ],
+    "html_22": [
+      "ru",
+      "vi",
+      "uk",
+      "cs",
+      "en"
+    ],
+    "html_41": [
+      "cs",
+      "vn",
+      "uk",
+      "vi"
+    ],
+    "docx_93": [
+      "cs",
+      "fr",
+      "es",
+      "en"
+    ],
+    "docx_2": [
+      "cs",
+      "uk"
+    ],
+    "docx_92": [
+      "cs",
+      "uk"
+    ],
+    "docx_1": [
+      "cs",
+      "uk"
+    ],
+    "docx_91": [
+      "cs",
+      "uk"
+    ],
+    "pdf_85": [
+      "cs",
+      "uk"
+    ],
+    "pdf_94": [
+      "cs",
+      "uk"
+    ],
+    "pdf_95": [
+      "cs",
+      "uk"
+    ],
+    "pdf_89": [
+      "cs",
+      "uk"
+    ],
+    "pdf_81": [
+      "cs",
+      "uk"
+    ],
+    "pdf_8": [
+      "fr",
+      "ru",
+      "mn",
+      "uk",
+      "sr",
+      "cs",
+      "ar",
+      "es",
+      "vn",
+      "en"
+    ],
+    "pdf_90": [
+      "cs",
+      "uk"
+    ],
+    "pdf_82": [
+      "cs",
+      "uk"
+    ],
+    "pdf_10": [
+      "fr",
+      "de",
+      "pl",
+      "bg",
+      "cs",
+      "es",
+      "ro",
+      "en"
+    ],
+    "pdf_83": [
+      "cs",
+      "uk"
+    ],
+    "pdf_78": [
+      "cs",
+      "uk"
+    ],
+    "pdf_84": [
+      "cs",
+      "uk"
+    ],
+    "pdf_77": [
+      "cs",
+      "uk"
+    ],
+    "pdf_86": [
+      "cs",
+      "uk"
+    ],
+    "pdf_80": [
+      "cs",
+      "uk"
+    ],
+    "pdf_79": [
+      "cs",
+      "uk"
+    ],
+    "pdf_87": [
+      "cs",
+      "uk"
+    ],
+    "pdf_88": [
+      "cs",
+      "uk"
+    ],
+    "pdf_9": [
+      "ru",
+      "uk",
+      "cs",
+      "vn",
+      "en"
+    ]
+  },
+  "lang_pair_counts": {
+    "cs-vn": 21,
+    "cs-uk": 56,
+    "cs-vi": 29,
+    "uk-vn": 21,
+    "uk-vi": 29,
+    "vi-vn": 17,
+    "ru-vi": 12,
+    "ru-uk": 14,
+    "cs-ru": 14,
+    "cs-en": 16,
+    "en-ru": 14,
+    "en-vi": 12,
+    "en-uk": 14,
+    "cs-fr": 3,
+    "cs-es": 3,
+    "es-fr": 3,
+    "en-fr": 3,
+    "en-es": 3,
+    "fr-ru": 1,
+    "fr-mn": 1,
+    "fr-uk": 1,
+    "fr-sr": 1,
+    "fr-vn": 1,
+    "ru-sr": 1,
+    "ru-vn": 2,
+    "mn-ru": 1,
+    "mn-uk": 1,
+    "mn-sr": 1,
+    "mn-vn": 1,
+    "sr-uk": 1,
+    "sr-vn": 1,
+    "cs-mn": 1,
+    "cs-sr": 1,
+    "ar-fr": 1,
+    "ar-ru": 1,
+    "ar-mn": 1,
+    "ar-uk": 1,
+    "ar-sr": 1,
+    "ar-cs": 1,
+    "ar-es": 1,
+    "ar-vn": 1,
+    "ar-en": 1,
+    "es-ru": 1,
+    "es-mn": 1,
+    "es-uk": 1,
+    "es-sr": 1,
+    "es-vn": 1,
+    "en-mn": 1,
+    "en-sr": 1,
+    "en-vn": 2,
+    "fr-pl": 1,
+    "fr-ro": 1,
+    "de-fr": 1,
+    "de-pl": 1,
+    "de-es": 1,
+    "de-ro": 1,
+    "de-en": 1,
+    "pl-ro": 1,
+    "bg-fr": 1,
+    "bg-de": 1,
+    "bg-pl": 1,
+    "bg-cs": 1,
+    "bg-es": 1,
+    "bg-ro": 1,
+    "bg-en": 1,
+    "cs-de": 1,
+    "cs-pl": 1,
+    "cs-ro": 1,
+    "es-pl": 1,
+    "es-ro": 1,
+    "en-pl": 1,
+    "en-ro": 1
+  },
+  "tag_type_distribution": {
+    "g": 60848,
+    "x": 11084,
+    "ex": 564,
+    "bx": 516
+  },
+  "segment_length_distribution": {
+    "min": 1,
+    "p25": 1.0,
+    "median": 2.0,
+    "p75": 4.0,
+    "p95": 20.0,
+    "max": 235
+  }
+}

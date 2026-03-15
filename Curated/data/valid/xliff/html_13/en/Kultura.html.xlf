@@ -1,0 +1,2127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="../data/html/html_13/en/Kultura.html" source-language="en" target-language="fr" datatype="html" okp:inputEncoding="utf-8">
+<body>
+<trans-unit id="tu1" restype="x-title">
+<source xml:lang="en">Culture – Prague is our home</source>
+<target xml:lang="fr">Culture – Prague is our home</target>
+</trans-unit>
+<trans-unit id="tu2" restype="x-title">
+<source xml:lang="en">V Praze jsme doma » Feed</source>
+<target xml:lang="fr">V Praze jsme doma » Feed</target>
+</trans-unit>
+<trans-unit id="tu3" restype="x-title">
+<source xml:lang="en">V Praze jsme doma » Comments Feed</source>
+<target xml:lang="fr">V Praze jsme doma » Comments Feed</target>
+</trans-unit>
+<trans-unit id="tu4" restype="x-title">
+<source xml:lang="en">JSON</source>
+<target xml:lang="fr">JSON</target>
+</trans-unit>
+<trans-unit id="tu5" restype="x-title">
+<source xml:lang="en">RSD</source>
+<target xml:lang="fr">RSD</target>
+</trans-unit>
+<trans-unit id="tu6" restype="x-title">
+<source xml:lang="en">oEmbed (JSON)</source>
+<target xml:lang="fr">oEmbed (JSON)</target>
+</trans-unit>
+<trans-unit id="tu7" restype="x-title">
+<source xml:lang="en">oEmbed (XML)</source>
+<target xml:lang="fr">oEmbed (XML)</target>
+</trans-unit>
+<trans-unit id="tu8" restype="x-content">
+<source xml:lang="en">Explore an overview of the most significant cultural institutions where foreigners can participate in social life.</source>
+<target xml:lang="fr">Explore an overview of the most significant cultural institutions where foreigners can participate in social life.</target>
+</trans-unit>
+<trans-unit id="tu10" restype="x-alt">
+<source xml:lang="en">V Praze jsme doma</source>
+<target xml:lang="fr">V Praze jsme doma</target>
+</trans-unit>
+<trans-unit id="tu9">
+<source xml:lang="en"><g id="1"><x id="2"/></g></source>
+<target xml:lang="fr"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu11" restype="x-aria-label">
+<source xml:lang="en">Navigace Main</source>
+<target xml:lang="fr">Navigace Main</target>
+</trans-unit>
+<trans-unit id="tu13" restype="x-aria-label">
+<source xml:lang="en">Open menu</source>
+<target xml:lang="fr">Open menu</target>
+</trans-unit>
+<trans-unit id="tu12">
+<source xml:lang="en"><bx id="1"/></source>
+<target xml:lang="fr"><bx id="1"/></target>
+</trans-unit>
+<trans-unit id="tu14">
+<source xml:lang="en"><ex id="1"/></source>
+<target xml:lang="fr"><ex id="1"/></target>
+</trans-unit>
+<trans-unit id="tu16" restype="x-aria-label">
+<source xml:lang="en">Close menu</source>
+<target xml:lang="fr">Close menu</target>
+</trans-unit>
+<trans-unit id="tu15">
+<source xml:lang="en"><bx id="1"/></source>
+<target xml:lang="fr"><bx id="1"/></target>
+</trans-unit>
+<trans-unit id="tu17">
+<source xml:lang="en"><ex id="1"/></source>
+<target xml:lang="fr"><ex id="1"/></target>
+</trans-unit>
+<trans-unit id="tu19" restype="x-aria-label">
+<source xml:lang="en">Topics submenu</source>
+<target xml:lang="fr">Topics submenu</target>
+</trans-unit>
+<trans-unit id="tu18" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Topics</g></g><bx id="3"/></source>
+<target xml:lang="fr"><g id="1"><g id="2">Topics</g></g><bx id="3"/></target>
+</trans-unit>
+<trans-unit id="tu20">
+<source xml:lang="en"><ex id="1"/></source>
+<target xml:lang="fr"><ex id="1"/></target>
+</trans-unit>
+<trans-unit id="tu21" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Prague</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">Prague</g></g></target>
+</trans-unit>
+<trans-unit id="tu22" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Residence in the Czech Republic</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">Residence in the Czech Republic</g></g></target>
+</trans-unit>
+<trans-unit id="tu23" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Social Security</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">Social Security</g></g></target>
+</trans-unit>
+<trans-unit id="tu24" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Family and Children</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">Family and Children</g></g></target>
+</trans-unit>
+<trans-unit id="tu25" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Education</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">Education</g></g></target>
+</trans-unit>
+<trans-unit id="tu26" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Czech Language Courses</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">Czech Language Courses</g></g></target>
+</trans-unit>
+<trans-unit id="tu27" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Healthcare</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">Healthcare</g></g></target>
+</trans-unit>
+<trans-unit id="tu28" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Work</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">Work</g></g></target>
+</trans-unit>
+<trans-unit id="tu29" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Solving Crisis Situations</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">Solving Crisis Situations</g></g></target>
+</trans-unit>
+<trans-unit id="tu30" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Transport</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">Transport</g></g></target>
+</trans-unit>
+<trans-unit id="tu31" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Culture</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">Culture</g></g></target>
+</trans-unit>
+<trans-unit id="tu32" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Assistance for Foreigners</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">Assistance for Foreigners</g></g></target>
+</trans-unit>
+<trans-unit id="tu33" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Volunteering</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">Volunteering</g></g></target>
+</trans-unit>
+<trans-unit id="tu34" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Videos</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">Videos</g></g></target>
+</trans-unit>
+<trans-unit id="tu35" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Communication cards</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">Communication cards</g></g></target>
+</trans-unit>
+<trans-unit id="tu36" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">About Us</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">About Us</g></g></target>
+</trans-unit>
+<trans-unit id="tu37" restype="x-li">
+<source xml:lang="en"></source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu38">
+<source xml:lang="en"><bx id="1"/></source>
+<target xml:lang="fr"><bx id="1"/></target>
+</trans-unit>
+<trans-unit id="tu40" restype="x-alt">
+<source xml:lang="en">wpml-ls-flag</source>
+<target xml:lang="fr">wpml-ls-flag</target>
+</trans-unit>
+<trans-unit id="tu39">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu41">
+<source xml:lang="en"><bx id="1"/></source>
+<target xml:lang="fr"><bx id="1"/></target>
+</trans-unit>
+<trans-unit id="tu42">
+<source xml:lang="en"><ex id="1"/><ex id="2"/></source>
+<target xml:lang="fr"><ex id="1"/><ex id="2"/></target>
+</trans-unit>
+<trans-unit id="tu43" restype="x-li">
+<source xml:lang="en"></source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu45" restype="x-alt">
+<source xml:lang="en">wpml-ls-flag</source>
+<target xml:lang="fr">wpml-ls-flag</target>
+</trans-unit>
+<trans-unit id="tu44">
+<source xml:lang="en"><g id="1"><x id="2"/></g></source>
+<target xml:lang="fr"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu46" restype="x-li">
+<source xml:lang="en"></source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu48" restype="x-alt">
+<source xml:lang="en">wpml-ls-flag</source>
+<target xml:lang="fr">wpml-ls-flag</target>
+</trans-unit>
+<trans-unit id="tu47">
+<source xml:lang="en"><g id="1"><x id="2"/></g></source>
+<target xml:lang="fr"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu49" restype="x-li">
+<source xml:lang="en"></source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu51" restype="x-alt">
+<source xml:lang="en">wpml-ls-flag</source>
+<target xml:lang="fr">wpml-ls-flag</target>
+</trans-unit>
+<trans-unit id="tu50">
+<source xml:lang="en"><g id="1"><x id="2"/></g></source>
+<target xml:lang="fr"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu52" restype="x-li">
+<source xml:lang="en"></source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu54" restype="x-alt">
+<source xml:lang="en">wpml-ls-flag</source>
+<target xml:lang="fr">wpml-ls-flag</target>
+</trans-unit>
+<trans-unit id="tu53">
+<source xml:lang="en"><g id="1"><x id="2"/></g></source>
+<target xml:lang="fr"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu55">
+<source xml:lang="en"><x id="1"/><g id="2"></g><ex id="3"/></source>
+<target xml:lang="fr"><x id="1"/><g id="2"></g><ex id="3"/></target>
+</trans-unit>
+<trans-unit id="tu56" restype="x-h1">
+<source xml:lang="en">Culture</source>
+<target xml:lang="fr">Culture</target>
+</trans-unit>
+<trans-unit id="tu57" restype="x-h5">
+<source xml:lang="en">Page contents:</source>
+<target xml:lang="fr">Page contents:</target>
+</trans-unit>
+<trans-unit id="tu59" restype="x-title">
+<source xml:lang="en">YouTube video player</source>
+<target xml:lang="fr">YouTube video player</target>
+</trans-unit>
+<trans-unit id="tu60" restype="x-title">
+<source xml:lang="en">YouTube video player</source>
+<target xml:lang="fr">YouTube video player</target>
+</trans-unit>
+<trans-unit id="tu61" restype="x-title">
+<source xml:lang="en">YouTube video player</source>
+<target xml:lang="fr">YouTube video player</target>
+</trans-unit>
+<trans-unit id="tu62" restype="x-title">
+<source xml:lang="en">YouTube video player</source>
+<target xml:lang="fr">YouTube video player</target>
+</trans-unit>
+<trans-unit id="tu63" restype="x-title">
+<source xml:lang="en">YouTube video player</source>
+<target xml:lang="fr">YouTube video player</target>
+</trans-unit>
+<trans-unit id="tu64" restype="x-title">
+<source xml:lang="en">YouTube video player</source>
+<target xml:lang="fr">YouTube video player</target>
+</trans-unit>
+<trans-unit id="tu58">
+<source xml:lang="en"><g id="1"></g> <g id="2"></g> <g id="3"></g> <g id="4"></g> <g id="5"></g> <g id="6"></g></source>
+<target xml:lang="fr"><g id="1"></g> <g id="2"></g> <g id="3"></g> <g id="4"></g> <g id="5"></g> <g id="6"></g></target>
+</trans-unit>
+<trans-unit id="tu65" restype="x-paragraph">
+<source xml:lang="en">Engaging in cultural and social life is one of the key aspects of integration. Prague offers a wide network of cultural venues, such as theaters, clubs, music halls, and dance venues.</source>
+<target xml:lang="fr">Engaging in cultural and social life is one of the key aspects of integration. Prague offers a wide network of cultural venues, such as theaters, clubs, music halls, and dance venues.</target>
+</trans-unit>
+<trans-unit id="tu66" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">The Prague City Gallery</g></g> provides not only permanent exhibits and exhibitions but also accompanying programs.</source>
+<target xml:lang="fr"><g id="1"><g id="2">The Prague City Gallery</g></g> provides not only permanent exhibits and exhibitions but also accompanying programs.</target>
+</trans-unit>
+<trans-unit id="tu67" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">The National Museum</g></g> is the largest museum in the Czech Republic, consisting of five institutions: the Natural Science Museum, the Historical Museum, the Czech Museum of Music, the Náprstek Museum of Asian, African, and American Cultures, and the National Museum Library.</source>
+<target xml:lang="fr"><g id="1"><g id="2">The National Museum</g></g> is the largest museum in the Czech Republic, consisting of five institutions: the Natural Science Museum, the Historical Museum, the Czech Museum of Music, the Náprstek Museum of Asian, African, and American Cultures, and the National Museum Library.</target>
+</trans-unit>
+<trans-unit id="tu68" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">The National Gallery Prague</g></g> manages the largest collection of fine art in the Czech Republic, offering various events and educational programs for children and adults.</source>
+<target xml:lang="fr"><g id="1"><g id="2">The National Gallery Prague</g></g> manages the largest collection of fine art in the Czech Republic, offering various events and educational programs for children and adults.</target>
+</trans-unit>
+<trans-unit id="tu69" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">The Prague City Museum</g></g> offers educational programs, including lectures, guided tours, and workshops for visitors.</source>
+<target xml:lang="fr"><g id="1"><g id="2">The Prague City Museum</g></g> offers educational programs, including lectures, guided tours, and workshops for visitors.</target>
+</trans-unit>
+<trans-unit id="tu70" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Museum Kampa</g></g> features a significant collection of modern and contemporary art.</source>
+<target xml:lang="fr"><g id="1"><g id="2">Museum Kampa</g></g> features a significant collection of modern and contemporary art.</target>
+</trans-unit>
+<trans-unit id="tu71" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">The National Museum of Agriculture</g></g> is a great place for the whole family, with a number of interactive exhibits to keep both children and adults entertained. </source>
+<target xml:lang="fr"><g id="1"><g id="2">The National Museum of Agriculture</g></g> is a great place for the whole family, with a number of interactive exhibits to keep both children and adults entertained. </target>
+</trans-unit>
+<trans-unit id="tu72" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">The National Technical Museum</g></g> offers extensive exhibitions focused on the history and development of technology, covering transportation, astronomy, photography, architecture, and other scientific and technical fields. There are even technical afterschool clubs for children.</source>
+<target xml:lang="fr"><g id="1"><g id="2">The National Technical Museum</g></g> offers extensive exhibitions focused on the history and development of technology, covering transportation, astronomy, photography, architecture, and other scientific and technical fields. There are even technical afterschool clubs for children.</target>
+</trans-unit>
+<trans-unit id="tu73" restype="x-li">
+<source xml:lang="en">At <g id="1"><g id="2">the Municipal Library of Prague</g></g> you can borrow not only books in Czech and other languages but also e-readers, music, movies, and art. It also hosts cultural events, children’s programs, lectures, workshops, concerts, and theater performances. Free internet access is available at all library branches.</source>
+<target xml:lang="fr">At <g id="1"><g id="2">the Municipal Library of Prague</g></g> you can borrow not only books in Czech and other languages but also e-readers, music, movies, and art. It also hosts cultural events, children’s programs, lectures, workshops, concerts, and theater performances. Free internet access is available at all library branches.</target>
+</trans-unit>
+<trans-unit id="tu74" restype="x-paragraph">
+<source xml:lang="en">Don’t know where to go today? Check out the <g id="1">What to do in Prague</g> or <g id="2">Kudy z nudy.cz</g> websites for ideas.</source>
+<target xml:lang="fr">Don’t know where to go today? Check out the <g id="1">What to do in Prague</g> or <g id="2">Kudy z nudy.cz</g> websites for ideas.</target>
+</trans-unit>
+<trans-unit id="tu75" restype="x-paragraph">
+<source xml:lang="en"></source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu76">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu77" restype="x-h5">
+<source xml:lang="en">Find out what you need to arrange after arriving in Prague…</source>
+<target xml:lang="fr">Find out what you need to arrange after arriving in Prague…</target>
+</trans-unit>
+<trans-unit id="tu78" restype="x-h5">
+<source xml:lang="en">Page contents:</source>
+<target xml:lang="fr">Page contents:</target>
+</trans-unit>
+<trans-unit id="tu79" restype="x-h5">
+<source xml:lang="en">Download:</source>
+<target xml:lang="fr">Download:</target>
+</trans-unit>
+<trans-unit id="tu80" resname="tp-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Print / download as PDF</g></source>
+<target xml:lang="fr"><g id="1">Print / download as PDF</g></target>
+</trans-unit>
+<trans-unit id="tu81" restype="x-h5">
+<source xml:lang="en">Detailed information:</source>
+<target xml:lang="fr">Detailed information:</target>
+</trans-unit>
+<trans-unit id="tu82" restype="x-paragraph">
+<source xml:lang="en"><g id="1">https://metropolevsech.eu/cs/o-nas/</g></source>
+<target xml:lang="fr"><g id="1">https://metropolevsech.eu/cs/o-nas/</g></target>
+</trans-unit>
+<trans-unit id="tu84" restype="x-title">
+<source xml:lang="en">YouTube video player</source>
+<target xml:lang="fr">YouTube video player</target>
+</trans-unit>
+<trans-unit id="tu83">
+<source xml:lang="en"><g id="1"></g></source>
+<target xml:lang="fr"><g id="1"></g></target>
+</trans-unit>
+<trans-unit id="tu85" restype="x-h5">
+<source xml:lang="en">Communication card:</source>
+<target xml:lang="fr">Communication card:</target>
+</trans-unit>
+<trans-unit id="tu86" resname="o-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">MOI Department of Asylum and Migration Policy (OAMP)</g></source>
+<target xml:lang="fr"><g id="1">MOI Department of Asylum and Migration Policy (OAMP)</g></target>
+</trans-unit>
+<trans-unit id="tu87" restype="x-h5">
+<source xml:lang="en">Download:</source>
+<target xml:lang="fr">Download:</target>
+</trans-unit>
+<trans-unit id="tu88" resname="tpcr-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Print / download as PDF</g></source>
+<target xml:lang="fr"><g id="1">Print / download as PDF</g></target>
+</trans-unit>
+<trans-unit id="tu89" restype="x-h5">
+<source xml:lang="en">Detailed information:</source>
+<target xml:lang="fr">Detailed information:</target>
+</trans-unit>
+<trans-unit id="tu90" restype="x-paragraph">
+<source xml:lang="en"><g id="1">https://metropolevsech.eu/cs/potrebuji-resit/pobyt-na-uzemi-ceske-republiky/</g></source>
+<target xml:lang="fr"><g id="1">https://metropolevsech.eu/cs/potrebuji-resit/pobyt-na-uzemi-ceske-republiky/</g></target>
+</trans-unit>
+<trans-unit id="tu91" restype="x-h5">
+<source xml:lang="en">Communication card:</source>
+<target xml:lang="fr">Communication card:</target>
+</trans-unit>
+<trans-unit id="tu92" resname="kup-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Labour offices</g></source>
+<target xml:lang="fr"><g id="1">Labour offices</g></target>
+</trans-unit>
+<trans-unit id="tu93" restype="x-h5">
+<source xml:lang="en">Download:</source>
+<target xml:lang="fr">Download:</target>
+</trans-unit>
+<trans-unit id="tu94" resname="tsz-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Print / download as PDF</g></source>
+<target xml:lang="fr"><g id="1">Print / download as PDF</g></target>
+</trans-unit>
+<trans-unit id="tu95" restype="x-h5">
+<source xml:lang="en">Communication card:</source>
+<target xml:lang="fr">Communication card:</target>
+</trans-unit>
+<trans-unit id="tu96" resname="k-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Municipal Library</g></source>
+<target xml:lang="fr"><g id="1">Municipal Library</g></target>
+</trans-unit>
+<trans-unit id="tu97" resname="d-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Children and Youth Centers</g></source>
+<target xml:lang="fr"><g id="1">Children and Youth Centers</g></target>
+</trans-unit>
+<trans-unit id="tu98" restype="x-h5">
+<source xml:lang="en">Download:</source>
+<target xml:lang="fr">Download:</target>
+</trans-unit>
+<trans-unit id="tu99" resname="trd-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Print / download as PDF</g></source>
+<target xml:lang="fr"><g id="1">Print / download as PDF</g></target>
+</trans-unit>
+<trans-unit id="tu100" resname="lddm-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Information about Prague Children and Youth Centres (DDM) </g></source>
+<target xml:lang="fr"><g id="1">Information about Prague Children and Youth Centres (DDM) </g></target>
+</trans-unit>
+<trans-unit id="tu101" resname="lghmp-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Information about the Prague City Gallery </g></source>
+<target xml:lang="fr"><g id="1">Information about the Prague City Gallery </g></target>
+</trans-unit>
+<trans-unit id="tu102" resname="lmkp-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Information about the Municipal Library of Prague</g></source>
+<target xml:lang="fr"><g id="1">Information about the Municipal Library of Prague</g></target>
+</trans-unit>
+<trans-unit id="tu103" restype="x-h5">
+<source xml:lang="en">Detailed information:</source>
+<target xml:lang="fr">Detailed information:</target>
+</trans-unit>
+<trans-unit id="tu104" restype="x-paragraph">
+<source xml:lang="en"><g id="1">https://metropolevsech.eu/cs/potrebuji-resit/manzelstvi-registrovane-partnerstvi-a-rodicovstvi/</g></source>
+<target xml:lang="fr"><g id="1">https://metropolevsech.eu/cs/potrebuji-resit/manzelstvi-registrovane-partnerstvi-a-rodicovstvi/</g></target>
+</trans-unit>
+<trans-unit id="tu106" restype="x-title">
+<source xml:lang="en">YouTube video player</source>
+<target xml:lang="fr">YouTube video player</target>
+</trans-unit>
+<trans-unit id="tu105">
+<source xml:lang="en"><g id="1"></g></source>
+<target xml:lang="fr"><g id="1"></g></target>
+</trans-unit>
+<trans-unit id="tu107" restype="x-h5">
+<source xml:lang="en">Communication card:</source>
+<target xml:lang="fr">Communication card:</target>
+</trans-unit>
+<trans-unit id="tu108" resname="n-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Nostrification</g></source>
+<target xml:lang="fr"><g id="1">Nostrification</g></target>
+</trans-unit>
+<trans-unit id="tu109" restype="x-h5">
+<source xml:lang="en">Download:</source>
+<target xml:lang="fr">Download:</target>
+</trans-unit>
+<trans-unit id="tu110" resname="tv-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Print / download as PDF</g></source>
+<target xml:lang="fr"><g id="1">Print / download as PDF</g></target>
+</trans-unit>
+<trans-unit id="tu111" restype="x-h5">
+<source xml:lang="en">Detailed information:</source>
+<target xml:lang="fr">Detailed information:</target>
+</trans-unit>
+<trans-unit id="tu112" restype="x-paragraph">
+<source xml:lang="en"><g id="1">https://metropolevsech.eu/cs/potrebuji-resit/vzdelavani-a-nostrifikace-diplomu/</g></source>
+<target xml:lang="fr"><g id="1">https://metropolevsech.eu/cs/potrebuji-resit/vzdelavani-a-nostrifikace-diplomu/</g></target>
+</trans-unit>
+<trans-unit id="tu114" restype="x-title">
+<source xml:lang="en">YouTube video player</source>
+<target xml:lang="fr">YouTube video player</target>
+</trans-unit>
+<trans-unit id="tu113">
+<source xml:lang="en"><g id="1"></g></source>
+<target xml:lang="fr"><g id="1"></g></target>
+</trans-unit>
+<trans-unit id="tu115" restype="x-h5">
+<source xml:lang="en">Download:</source>
+<target xml:lang="fr">Download:</target>
+</trans-unit>
+<trans-unit id="tu116" resname="tkcj-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Print / download as PDF</g></source>
+<target xml:lang="fr"><g id="1">Print / download as PDF</g></target>
+</trans-unit>
+<trans-unit id="tu117" restype="x-h5">
+<source xml:lang="en">Detailed information:</source>
+<target xml:lang="fr">Detailed information:</target>
+</trans-unit>
+<trans-unit id="tu118" restype="x-paragraph">
+<source xml:lang="en"><g id="1">https://metropolevsech.eu/cs/potrebuji-resit/vzdelavani-a-nostrifikace-diplomu/kurzy-ceskeho-jazyka/</g></source>
+<target xml:lang="fr"><g id="1">https://metropolevsech.eu/cs/potrebuji-resit/vzdelavani-a-nostrifikace-diplomu/kurzy-ceskeho-jazyka/</g></target>
+</trans-unit>
+<trans-unit id="tu119" restype="x-h5">
+<source xml:lang="en">Communication card:</source>
+<target xml:lang="fr">Communication card:</target>
+</trans-unit>
+<trans-unit id="tu120" resname="p-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Labour and delivery</g></source>
+<target xml:lang="fr"><g id="1">Labour and delivery</g></target>
+</trans-unit>
+<trans-unit id="tu121" restype="x-h5">
+<source xml:lang="en">Download:</source>
+<target xml:lang="fr">Download:</target>
+</trans-unit>
+<trans-unit id="tu122" resname="tz-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Print / download as PDF</g></source>
+<target xml:lang="fr"><g id="1">Print / download as PDF</g></target>
+</trans-unit>
+<trans-unit id="tu123" restype="x-h5">
+<source xml:lang="en">Detailed information:</source>
+<target xml:lang="fr">Detailed information:</target>
+</trans-unit>
+<trans-unit id="tu124" restype="x-paragraph">
+<source xml:lang="en"><g id="1">https://metropolevsech.eu/cs/potrebuji-resit/zdravotnictvi-zdravotni-a-socialni-pojisteni/</g></source>
+<target xml:lang="fr"><g id="1">https://metropolevsech.eu/cs/potrebuji-resit/zdravotnictvi-zdravotni-a-socialni-pojisteni/</g></target>
+</trans-unit>
+<trans-unit id="tu125" restype="x-paragraph">
+<source xml:lang="en"><g id="1">https://mzd.gov.cz/komunikacni-karty-pro-pacienty-cizince-a-zdravotniky/</g></source>
+<target xml:lang="fr"><g id="1">https://mzd.gov.cz/komunikacni-karty-pro-pacienty-cizince-a-zdravotniky/</g></target>
+</trans-unit>
+<trans-unit id="tu126" restype="x-h5">
+<source xml:lang="en">Communication card:</source>
+<target xml:lang="fr">Communication card:</target>
+</trans-unit>
+<trans-unit id="tu127" resname="zu-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Trade license</g></source>
+<target xml:lang="fr"><g id="1">Trade license</g></target>
+</trans-unit>
+<trans-unit id="tu128" restype="x-h5">
+<source xml:lang="en">Download:</source>
+<target xml:lang="fr">Download:</target>
+</trans-unit>
+<trans-unit id="tu129" resname="tprace-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Print / download as PDF</g></source>
+<target xml:lang="fr"><g id="1">Print / download as PDF</g></target>
+</trans-unit>
+<trans-unit id="tu130" restype="x-h5">
+<source xml:lang="en">Detailed information:</source>
+<target xml:lang="fr">Detailed information:</target>
+</trans-unit>
+<trans-unit id="tu131" restype="x-paragraph">
+<source xml:lang="en"><g id="1">https://metropolevsech.eu/cs/potrebuji-resit/zamestnani/</g></source>
+<target xml:lang="fr"><g id="1">https://metropolevsech.eu/cs/potrebuji-resit/zamestnani/</g></target>
+</trans-unit>
+<trans-unit id="tu133" restype="x-title">
+<source xml:lang="en">YouTube video player</source>
+<target xml:lang="fr">YouTube video player</target>
+</trans-unit>
+<trans-unit id="tu132">
+<source xml:lang="en"><g id="1"></g></source>
+<target xml:lang="fr"><g id="1"></g></target>
+</trans-unit>
+<trans-unit id="tu134" restype="x-h5">
+<source xml:lang="en">Download:</source>
+<target xml:lang="fr">Download:</target>
+</trans-unit>
+<trans-unit id="tu135" resname="trks-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Print / download as PDF</g></source>
+<target xml:lang="fr"><g id="1">Print / download as PDF</g></target>
+</trans-unit>
+<trans-unit id="tu136" restype="x-h5">
+<source xml:lang="en">Detailed information:</source>
+<target xml:lang="fr">Detailed information:</target>
+</trans-unit>
+<trans-unit id="tu137" restype="x-paragraph">
+<source xml:lang="en"><g id="1">https://metropolevsech.eu/cs/potrebuji-resit/krizove-situace-2/krizove-situace/</g></source>
+<target xml:lang="fr"><g id="1">https://metropolevsech.eu/cs/potrebuji-resit/krizove-situace-2/krizove-situace/</g></target>
+</trans-unit>
+<trans-unit id="tu138" restype="x-h5">
+<source xml:lang="en">Communication card:</source>
+<target xml:lang="fr">Communication card:</target>
+</trans-unit>
+<trans-unit id="tu139" resname="rp-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Driver’s License</g></source>
+<target xml:lang="fr"><g id="1">Driver’s License</g></target>
+</trans-unit>
+<trans-unit id="tu140" restype="x-h5">
+<source xml:lang="en">Download:</source>
+<target xml:lang="fr">Download:</target>
+</trans-unit>
+<trans-unit id="tu141" resname="td-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Print / download as PDF</g></source>
+<target xml:lang="fr"><g id="1">Print / download as PDF</g></target>
+</trans-unit>
+<trans-unit id="tu142" restype="x-h5">
+<source xml:lang="en">Detailed information:</source>
+<target xml:lang="fr">Detailed information:</target>
+</trans-unit>
+<trans-unit id="tu143" restype="x-paragraph">
+<source xml:lang="en"><g id="1">https://metropolevsech.eu/cs/praha/doprava-v-praze/</g></source>
+<target xml:lang="fr"><g id="1">https://metropolevsech.eu/cs/praha/doprava-v-praze/</g></target>
+</trans-unit>
+<trans-unit id="tu145" restype="x-title">
+<source xml:lang="en">YouTube video player</source>
+<target xml:lang="fr">YouTube video player</target>
+</trans-unit>
+<trans-unit id="tu144">
+<source xml:lang="en"><g id="1"></g></source>
+<target xml:lang="fr"><g id="1"></g></target>
+</trans-unit>
+<trans-unit id="tu146" restype="x-h5">
+<source xml:lang="en">Download:</source>
+<target xml:lang="fr">Download:</target>
+</trans-unit>
+<trans-unit id="tu147" resname="tk-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Print / download as PDF</g></source>
+<target xml:lang="fr"><g id="1">Print / download as PDF</g></target>
+</trans-unit>
+<trans-unit id="tu148" restype="x-h5">
+<source xml:lang="en">Detailed information:</source>
+<target xml:lang="fr">Detailed information:</target>
+</trans-unit>
+<trans-unit id="tu149" restype="x-paragraph">
+<source xml:lang="en"><g id="1">https://metropolevsech.eu/cs/praha/volny-cas/</g></source>
+<target xml:lang="fr"><g id="1">https://metropolevsech.eu/cs/praha/volny-cas/</g></target>
+</trans-unit>
+<trans-unit id="tu151" restype="x-title">
+<source xml:lang="en">YouTube video player</source>
+<target xml:lang="fr">YouTube video player</target>
+</trans-unit>
+<trans-unit id="tu150">
+<source xml:lang="en"><g id="1"></g></source>
+<target xml:lang="fr"><g id="1"></g></target>
+</trans-unit>
+<trans-unit id="tu152" restype="x-h5">
+<source xml:lang="en">Download:</source>
+<target xml:lang="fr">Download:</target>
+</trans-unit>
+<trans-unit id="tu153" resname="tpc-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Print / download as PDF</g></source>
+<target xml:lang="fr"><g id="1">Print / download as PDF</g></target>
+</trans-unit>
+<trans-unit id="tu154" restype="x-h5">
+<source xml:lang="en">Detailed information:</source>
+<target xml:lang="fr">Detailed information:</target>
+</trans-unit>
+<trans-unit id="tu155" restype="x-paragraph">
+<source xml:lang="en"><g id="1">https://metropolevsech.eu/cs/kontakty/nevladni-neziskove-organizace/</g></source>
+<target xml:lang="fr"><g id="1">https://metropolevsech.eu/cs/kontakty/nevladni-neziskove-organizace/</g></target>
+</trans-unit>
+<trans-unit id="tu156" restype="x-h5">
+<source xml:lang="en">Download:</source>
+<target xml:lang="fr">Download:</target>
+</trans-unit>
+<trans-unit id="tu157" resname="tdob-id" restype="x-paragraph">
+<source xml:lang="en"><g id="1">Print / download as PDF</g></source>
+<target xml:lang="fr"><g id="1">Print / download as PDF</g></target>
+</trans-unit>
+<trans-unit id="tu158" restype="x-h5">
+<source xml:lang="en">Topics:</source>
+<target xml:lang="fr">Topics:</target>
+</trans-unit>
+<trans-unit id="tu159" restype="x-li">
+<source xml:lang="en"><g id="1">Prague</g></source>
+<target xml:lang="fr"><g id="1">Prague</g></target>
+</trans-unit>
+<trans-unit id="tu160" restype="x-li">
+<source xml:lang="en"><g id="1">Residence in the Czech Republic</g></source>
+<target xml:lang="fr"><g id="1">Residence in the Czech Republic</g></target>
+</trans-unit>
+<trans-unit id="tu161" restype="x-li">
+<source xml:lang="en"><g id="1">Social Security</g></source>
+<target xml:lang="fr"><g id="1">Social Security</g></target>
+</trans-unit>
+<trans-unit id="tu162" restype="x-li">
+<source xml:lang="en"><g id="1">Family and Children</g></source>
+<target xml:lang="fr"><g id="1">Family and Children</g></target>
+</trans-unit>
+<trans-unit id="tu163" restype="x-li">
+<source xml:lang="en"><g id="1">Education</g></source>
+<target xml:lang="fr"><g id="1">Education</g></target>
+</trans-unit>
+<trans-unit id="tu164" restype="x-li">
+<source xml:lang="en"><g id="1">Czech Language Courses</g></source>
+<target xml:lang="fr"><g id="1">Czech Language Courses</g></target>
+</trans-unit>
+<trans-unit id="tu165" restype="x-li">
+<source xml:lang="en"><g id="1">Healthcare</g></source>
+<target xml:lang="fr"><g id="1">Healthcare</g></target>
+</trans-unit>
+<trans-unit id="tu166" restype="x-li">
+<source xml:lang="en"><g id="1">Work</g></source>
+<target xml:lang="fr"><g id="1">Work</g></target>
+</trans-unit>
+<trans-unit id="tu167" restype="x-li">
+<source xml:lang="en"><g id="1">Solving Crisis Situations</g></source>
+<target xml:lang="fr"><g id="1">Solving Crisis Situations</g></target>
+</trans-unit>
+<trans-unit id="tu168" restype="x-li">
+<source xml:lang="en"><g id="1">Transport</g></source>
+<target xml:lang="fr"><g id="1">Transport</g></target>
+</trans-unit>
+<trans-unit id="tu169" restype="x-li">
+<source xml:lang="en"><g id="1">Culture</g></source>
+<target xml:lang="fr"><g id="1">Culture</g></target>
+</trans-unit>
+<trans-unit id="tu170" restype="x-li">
+<source xml:lang="en"><g id="1">Assistance for Foreigners</g></source>
+<target xml:lang="fr"><g id="1">Assistance for Foreigners</g></target>
+</trans-unit>
+<trans-unit id="tu171" restype="x-li">
+<source xml:lang="en"><g id="1">Volunteering</g></source>
+<target xml:lang="fr"><g id="1">Volunteering</g></target>
+</trans-unit>
+<trans-unit id="tu172">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu173">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu174">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu175">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu176" restype="x-paragraph">
+<source xml:lang="en"><g id="1">info@newinprague.cz</g></source>
+<target xml:lang="fr"><g id="1">info@newinprague.cz</g></target>
+</trans-unit>
+<trans-unit id="tu177" restype="x-h5">
+<source xml:lang="en">Privacy</source>
+<target xml:lang="fr">Privacy</target>
+</trans-unit>
+<trans-unit id="tu178" restype="x-aria-label">
+<source xml:lang="en">Navigace 6</source>
+<target xml:lang="fr">Navigace 6</target>
+</trans-unit>
+<trans-unit id="tu180" restype="x-aria-label">
+<source xml:lang="en">Open menu</source>
+<target xml:lang="fr">Open menu</target>
+</trans-unit>
+<trans-unit id="tu179">
+<source xml:lang="en"><bx id="1"/></source>
+<target xml:lang="fr"><bx id="1"/></target>
+</trans-unit>
+<trans-unit id="tu181">
+<source xml:lang="en"><ex id="1"/></source>
+<target xml:lang="fr"><ex id="1"/></target>
+</trans-unit>
+<trans-unit id="tu183" restype="x-aria-label">
+<source xml:lang="en">Close menu</source>
+<target xml:lang="fr">Close menu</target>
+</trans-unit>
+<trans-unit id="tu182">
+<source xml:lang="en"><bx id="1"/></source>
+<target xml:lang="fr"><bx id="1"/></target>
+</trans-unit>
+<trans-unit id="tu184">
+<source xml:lang="en"><ex id="1"/></source>
+<target xml:lang="fr"><ex id="1"/></target>
+</trans-unit>
+<trans-unit id="tu185" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Privacy Policy</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">Privacy Policy</g></g></target>
+</trans-unit>
+<trans-unit id="tu186" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Accessibility Statement</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">Accessibility Statement</g></g></target>
+</trans-unit>
+<trans-unit id="tu187" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Feedback</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">Feedback</g></g></target>
+</trans-unit>
+<trans-unit id="tu188" restype="x-h5">
+<source xml:lang="en">Social media</source>
+<target xml:lang="fr">Social media</target>
+</trans-unit>
+<trans-unit id="tu189" restype="x-aria-label">
+<source xml:lang="en">Navigace - social</source>
+<target xml:lang="fr">Navigace - social</target>
+</trans-unit>
+<trans-unit id="tu190" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Facebook</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">Facebook</g></g></target>
+</trans-unit>
+<trans-unit id="tu191" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">Instagram</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">Instagram</g></g></target>
+</trans-unit>
+<trans-unit id="tu192" restype="x-li">
+<source xml:lang="en"><g id="1"><g id="2">LinkedIn</g></g></source>
+<target xml:lang="fr"><g id="1"><g id="2">LinkedIn</g></g></target>
+</trans-unit>
+<trans-unit id="tu193">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu194">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu195">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu196">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu197">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu198">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu199">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu200">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu201">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu202">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu203">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu204">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu205">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu206">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu207">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu208">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu209">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu210">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu211">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu212">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu213">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu214">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu215">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu216">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu217">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu218">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu219">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu220">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu221" restype="x-paragraph">
+<source xml:lang="en"> </source>
+<target xml:lang="fr"> </target>
+</trans-unit>
+<trans-unit id="tu222">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu223">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu224">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu225">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu226">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu227">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu228">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu229">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu230">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu231">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu232">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu233">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu234">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu235">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu236">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu237">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu238">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu239">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu240">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu241">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu242">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu243">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu244">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu245">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu246">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu247">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu248">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu249">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu250">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu251">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu252">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu253">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu254">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu255">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu256">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu257">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu258">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu259">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu260">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu261">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu262">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu263">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu264">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu265">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu266">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu267">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu268">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu269">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu270">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu271">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu272">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu273">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu274">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu275">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu276">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu277">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu278">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu279">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu280">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu281">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu282">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu283">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu284">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu285">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu286">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu287">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu288">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu289">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu290">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu291">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu292">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu293">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu294">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu295">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu296">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu297">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu298">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu299">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu300">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu301">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu302">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu303">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu304">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu305">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu306">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu307">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu308">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu309">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu310">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu311">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu312">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu313">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu314">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu315">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu316">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu317">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu318">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu319">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu320">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu321">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu322">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu323">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu324">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu325">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu326">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu327">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu328">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu329">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu330">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu331">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu332">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu333">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu334">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu335">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu336">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu337">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu338">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu339">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu340">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu341">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu342">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu343">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu344">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu345">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu346">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu347">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu348">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu349">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu350">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu351">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu352">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu353">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu354">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu355">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu356">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu357">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu358">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu359">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu360">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu361">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu362">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu363">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu364">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu365">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu366">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu367">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu368">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu369">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu370">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu371">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu372">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu373">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu374">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu375">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu376" restype="x-paragraph">
+<source xml:lang="en"> </source>
+<target xml:lang="fr"> </target>
+</trans-unit>
+<trans-unit id="tu377">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu378">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu379">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu380">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu381">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu382">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu383">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu384">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu385">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu386">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu387">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu388" restype="x-paragraph">
+<source xml:lang="en"> </source>
+<target xml:lang="fr"> </target>
+</trans-unit>
+<trans-unit id="tu389">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu390">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu391">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu392">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu393">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu394">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu395">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu396">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu397">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu398" restype="x-paragraph">
+<source xml:lang="en"> </source>
+<target xml:lang="fr"> </target>
+</trans-unit>
+<trans-unit id="tu399">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu400">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu401">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu402">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu403">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu404">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu405">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu406">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu407">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu408">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu409">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu410" restype="x-paragraph">
+<source xml:lang="en"> </source>
+<target xml:lang="fr"> </target>
+</trans-unit>
+<trans-unit id="tu411">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu412">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu413">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu414">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu415">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu416">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu417">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu418">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu419">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu420" restype="x-paragraph">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu421">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu422">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu423">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu424">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu425">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu426">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu427">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu428">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu429">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu430">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu431">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu432">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu433">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu434" restype="x-paragraph">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu435">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu436">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu437">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu438">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu439">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu440">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu441">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu442">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu443">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu444">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu445">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu446">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu447">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu448" restype="x-paragraph">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu449">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu450">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu451">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu452">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu453">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu454">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu455">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu456">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu457">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu458">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu459">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu460">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu461">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu462" restype="x-paragraph">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu463">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu464">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu465">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu466">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu467">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu468">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu469">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu470">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu471">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu472">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu473">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu474">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu475">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu476" restype="x-paragraph">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu477">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu478">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu479">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu480">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu481">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu482">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu483">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu484">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu485">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu486">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu487">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu488">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu489">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu490" restype="x-paragraph">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu491">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu492">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu493">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu494">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu495">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu496">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu497">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu498">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu499">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu500">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu501">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu502">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu503">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu504" restype="x-paragraph">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu505">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu506">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu507">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu508">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu509">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu510">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu511">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu512">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu513">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu514">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu515">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu516">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu517">
+<source xml:lang="en"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></source>
+<target xml:lang="fr"><g id="1"> <g id="2"></g> <g id="3">Close this module</g> </g></target>
+</trans-unit>
+<trans-unit id="tu518" restype="x-paragraph">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu519">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu520">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu521">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu522">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu523">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu524">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu525">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu526">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu527">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+<trans-unit id="tu528">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu529">
+<source xml:lang="en"><g id="1">.png</g></source>
+<target xml:lang="fr"><g id="1">.png</g></target>
+</trans-unit>
+<trans-unit id="tu530">
+<source xml:lang="en"><g id="1">.pdf</g></source>
+<target xml:lang="fr"><g id="1">.pdf</g></target>
+</trans-unit>
+</body>
+</file>
+</xliff>

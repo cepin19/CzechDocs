@@ -1,0 +1,940 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>HTML Segment Aligner</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Outfit:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #0f0f12;
+      --surface: #1a1a1f;
+      --border: #2a2a32;
+      --text: #e8e6e3;
+      --muted: #8b8685;
+      --accent: #7c9eff;
+      --accent-dim: #5a7ad4;
+      --success: #6ee7b7;
+      --error: #f87171;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Outfit", system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 1rem 1.5rem;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+    .toolbar label { font-size: 0.9rem; color: var(--muted); }
+    select {
+      font-family: inherit;
+      padding: 0.4rem 0.75rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--text);
+      font-size: 0.9rem;
+    }
+    select:focus { outline: none; border-color: var(--accent); }
+    button {
+      font-family: inherit;
+      padding: 0.5rem 1rem;
+      border-radius: 6px;
+      border: none;
+      cursor: pointer;
+      font-weight: 500;
+      font-size: 0.9rem;
+      transition: opacity 0.15s, background 0.15s;
+    }
+    button:hover { opacity: 0.9; }
+    button.primary {
+      background: var(--accent);
+      color: #0f0f12;
+    }
+    button.secondary {
+      background: var(--border);
+      color: var(--text);
+    }
+    button:disabled { opacity: 0.5; cursor: not-allowed; }
+    .table-wrap {
+      overflow: auto;
+      min-height: 60vh;
+    }
+    .grid-header {
+      display: grid;
+      gap: 0;
+      background: var(--surface);
+      border-bottom: 2px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 2;
+    }
+    .grid-body {
+      display: grid;
+      gap: 0;
+    }
+    .col-header {
+      padding: 0.6rem 0.75rem;
+      background: var(--surface);
+      font-weight: 600;
+      font-size: 0.85rem;
+    }
+    .col-header.idx { min-width: 80px; }
+    .cell {
+      padding: 0.5rem 0.75rem;
+      border-bottom: 1px solid var(--border);
+      font-family: "JetBrains Mono", monospace;
+      font-size: 0.8rem;
+      line-height: 1.4;
+      overflow-wrap: break-word;
+    }
+    .cell.idx {
+      color: var(--muted);
+      font-size: 0.75rem;
+    }
+    .cell.translation { background: rgba(124, 158, 255, 0.06); }
+    .cell { position: relative; }
+    .cell .chrf-score { position: absolute; bottom: 2px; right: 6px; font-size: 0.65rem; color: var(--muted); }
+    .cell.chrf-good { background: rgba(110, 231, 183, 0.15) !important; }
+    .cell.chrf-bad { background: rgba(248, 113, 113, 0.2) !important; }
+    .cell-editable { position: relative; }
+    .cell-editable .cell-content {
+      min-height: 1.5em;
+      outline: none;
+      white-space: pre-wrap;
+    }
+    .cell-editable .cell-content:focus { background: rgba(124, 158, 255, 0.08); }
+    .cell-editable .btn-clear {
+      position: absolute;
+      top: 2px;
+      right: 2px;
+      opacity: 0;
+      padding: 0.15rem 0.4rem;
+      font-size: 0.7rem;
+      background: var(--border);
+      color: var(--muted);
+      border-radius: 4px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .cell-editable:hover .btn-clear { opacity: 1; }
+    .cell-editable .btn-clear:hover { background: var(--error); color: #fff; }
+    .empty { text-align: center; padding: 3rem; color: var(--muted); }
+    .status { font-size: 0.85rem; color: var(--muted); margin-left: auto; }
+    .status.loading { color: var(--accent); }
+    .status.error { color: var(--error); }
+    .status.ok { color: var(--success); }
+    .seg-row:hover .cell:not(.idx) { background: rgba(255,255,255,0.02); }
+    .lang-controls {
+      padding: 0.75rem 1.5rem;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+    }
+    .lang-controls label { display: block; font-size: 0.85rem; color: var(--muted); margin-bottom: 0.5rem; }
+    .lang-controls ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; }
+    .lang-controls li {
+      display: flex;
+      align-items: center;
+      gap: 0.25rem;
+      padding: 0.25rem 0.5rem;
+      background: var(--bg);
+      border-radius: 4px;
+      font-size: 0.85rem;
+    }
+    .lang-controls li input[type="checkbox"] { margin: 0; cursor: pointer; }
+    .lang-controls .drag-handle { cursor: grab; color: var(--muted); }
+    .lang-controls .order-btn { padding: 0.15rem 0.4rem; font-size: 0.75rem; }
+    .lang-controls .view-toggle { margin-left: 0.25rem; font-size: 0.75rem; }
+    .lang-controls .view-toggle select { padding: 0.2rem 0.4rem; font-size: 0.75rem; }
+    .lang-controls .btn-translate { padding: 0.2rem 0.5rem; font-size: 0.7rem; }
+    .debug-panel {
+      margin: 1rem 1.5rem;
+      padding: 1rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-family: "JetBrains Mono", monospace;
+      font-size: 0.75rem;
+      max-height: 300px;
+      overflow: auto;
+    }
+    .debug-panel summary { cursor: pointer; font-weight: 500; }
+    .debug-panel pre { white-space: pre-wrap; word-break: break-all; margin: 0.25rem 0; }
+    .alignment-overview {
+      padding: 1rem 1.5rem;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      font-size: 0.9rem;
+    }
+    .alignment-overview .stats { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+    .alignment-overview .stat { color: var(--muted); }
+    .alignment-overview .stat span { color: var(--accent); font-weight: 600; }
+    .cell.excluded { opacity: 0.5; background: rgba(248,113,113,0.1) !important; }
+    .cell.will-remove { opacity: 0.6; background: rgba(248,113,113,0.15); text-decoration: line-through; }
+    .row-exclude { padding: 0.2rem; }
+    .btn-merge { padding: 0.2rem 0.4rem; font-size: 0.7rem; }
+    .btn-add-below { padding: 0.2rem 0.4rem; font-size: 0.7rem; margin-left: 0.2rem; }
+  </style>
+</head>
+<body>
+  <div class="toolbar">
+    <label>Document</label>
+    <select id="docSelect">
+      <option value="">-- Select --</option>
+    </select>
+    <label>Mode</label>
+    <select id="modeSelect">
+      <option value="browse">Browse (MOS)</option>
+      <option value="alignment">Alignment (MOS)</option>
+    </select>
+    <button class="primary" id="btnTranslate">Translate to first language</button>
+    <button class="secondary" id="btnTranslateAll">Translate all documents (cache)</button>
+    <button class="secondary" id="btnRefresh">Refresh MOS files</button>
+    <button class="secondary" id="btnReexport">Reexport originals (tikal)</button>
+    <button class="primary" id="btnApply" style="display:none">Apply to MOS</button>
+    <span class="status" id="status"></span>
+  </div>
+
+  <div id="alignmentOverview" class="alignment-overview" style="display:none">
+    <div class="stats">
+      <span class="stat">Per language: <span id="alignCounts">-</span></span>
+      <span class="stat">Common (aligned): <span id="alignCommon">-</span></span>
+      <button class="btn-add-below secondary" id="btnAddAtStart" title="Add empty segment at start">+ at start</button>
+      <button class="secondary" id="btnHideScheduled" title="Hide cells scheduled for per-lang deletion (only in the language they are deleted in)">Hide scheduled deletions</button>
+    </div>
+  </div>
+
+  <div id="langControls" class="lang-controls" style="display:none">
+    <label>Languages (first = translation target; Translate = translate that language to target; drag to reorder, uncheck to hide)</label>
+    <ul id="langList"></ul>
+  </div>
+
+  <div id="content">
+    <div class="empty">Select a document to view aligned segments.</div>
+  </div>
+
+  <script>
+    const API = "";
+    const CHRF_GOOD = 95;
+    const CHRF_BAD = 30;
+    function setStatus(msg, cls = "") {
+      const el = document.getElementById("status");
+      el.textContent = msg;
+      el.className = "status " + cls;
+    }
+    async function fetchJSON(url) {
+      const r = await fetch(API + url);
+      if (!r.ok) throw new Error(await r.text());
+      return r.json();
+    }
+
+    async function loadDocs() {
+      setStatus("Loading…", "loading");
+      try {
+        const docs = await fetchJSON("/api/documents");
+        const sel = document.getElementById("docSelect");
+        const prev = sel.value;
+        sel.innerHTML = '<option value="">-- Select --</option>';
+        for (const d of docs) {
+          const opt = document.createElement("option");
+          opt.value = JSON.stringify({ doc_id: d.doc_id, base_name: d.base_name, languages: d.languages, reexported: !!d.reexported });
+          opt.textContent = `${d.doc_id} / ${d.base_name} (${d.languages.join(", ")})${d.reexported ? " [reexported]" : ""}`;
+          sel.appendChild(opt);
+        }
+        if (prev) {
+          const hasPrev = Array.from(sel.options).some(o => o.value === prev);
+          if (hasPrev) sel.value = prev;
+        }
+        setStatus("", "");
+      } catch (e) {
+        setStatus("Error: " + e.message, "error");
+      }
+    }
+
+    function getVisibleLanguages() {
+      const items = document.querySelectorAll("#langList li");
+      return Array.from(items).filter(li => li.querySelector("input[type=checkbox]")?.checked).map(li => li.dataset.lang);
+    }
+
+    function getLanguageOrder() {
+      const items = document.querySelectorAll("#langList li");
+      return Array.from(items).map(li => li.dataset.lang);
+    }
+
+    function getViewMode(lang) {
+      window._viewModes = window._viewModes || {};
+      return window._viewModes[lang] || "original";
+    }
+
+    function setViewMode(lang, mode) {
+      window._viewModes = window._viewModes || {};
+      window._viewModes[lang] = mode;
+    }
+
+    function renderLangControls(allLangs, translations = null) {
+      const panel = document.getElementById("langControls");
+      const ul = document.getElementById("langList");
+      ul.innerHTML = "";
+      const trans = translations || window._segmentData?.translations || {};
+      const tgtLang = allLangs[0] || null;
+      const LANG_NAMES = { cs: "Czech", en: "English", uk: "Ukrainian", ru: "Russian", vi: "Vietnamese" };
+      allLangs.forEach((lang, idx) => {
+        const li = document.createElement("li");
+        li.dataset.lang = lang;
+        const cb = document.createElement("input");
+        cb.type = "checkbox";
+        cb.checked = true;
+        cb.title = "Show/hide column";
+        const span = document.createElement("span");
+        span.textContent = (LANG_NAMES[lang] || lang) + " (" + lang + ")";
+        const up = document.createElement("button");
+        up.className = "order-btn secondary";
+        up.textContent = "↑";
+        up.title = "Move up";
+        const down = document.createElement("button");
+        down.className = "order-btn secondary";
+        down.textContent = "↓";
+        down.title = "Move down";
+        cb.onchange = () => { if (window._segmentData) renderGrid(window._segmentData.data, window._segmentData.translations); };
+        up.onclick = () => moveLang(ul, li, -1);
+        down.onclick = () => moveLang(ul, li, 1);
+        li.append(cb, span, up, down);
+        if (idx > 0 && tgtLang) {
+          const btnTr = document.createElement("button");
+          btnTr.className = "btn-translate primary";
+          btnTr.textContent = "Translate";
+          btnTr.title = "Translate " + lang + " → " + tgtLang;
+          btnTr.onclick = () => doTranslateOne(lang);
+          li.appendChild(btnTr);
+        }
+        if (trans[lang]) {
+          const toggle = document.createElement("span");
+          toggle.className = "view-toggle";
+          const sel = document.createElement("select");
+          sel.title = "Original or machine translation";
+          sel.appendChild(new Option("Original", "original"));
+          sel.appendChild(new Option("MT", "mt"));
+          sel.value = getViewMode(lang);
+          sel.onchange = () => {
+            setViewMode(lang, sel.value);
+            if (window._segmentData) renderGrid(window._segmentData.data, window._segmentData.translations);
+          };
+          toggle.appendChild(sel);
+          li.appendChild(toggle);
+        }
+        ul.appendChild(li);
+      });
+      panel.style.display = "block";
+    }
+
+    function moveLang(ul, li, delta) {
+      const items = Array.from(ul.children);
+      const idx = items.indexOf(li);
+      const newIdx = Math.max(0, Math.min(items.length - 1, idx + delta));
+      if (newIdx !== idx) {
+        ul.insertBefore(li, items[newIdx]);
+        if (window._segmentData) {
+          renderGrid(window._segmentData.data, window._segmentData.translations);
+        }
+      }
+    }
+
+    async function loadSegments(docId, baseName, reexported = false) {
+      setStatus("Loading segments…", "loading");
+      try {
+        const reexportedParam = reexported ? "&reexported=true" : "";
+        const data = await fetchJSON(`/api/segments?doc_id=${encodeURIComponent(docId)}&base_name=${encodeURIComponent(baseName)}${reexportedParam}`);
+        window._segmentData = { data, translations: null, debug: null, translationSource: null, translationTarget: null, chrfScores: {} };
+        renderLangControls([...Object.keys(data)].sort());
+        renderGrid(data);
+        setStatus("", "");
+      } catch (e) {
+        setStatus("Error: " + e.message, "error");
+        document.getElementById("content").innerHTML = `<div class="empty">Failed to load segments.</div>`;
+      }
+    }
+
+    function renderGrid(data, translations = null) {
+      const langs = getVisibleLanguages();
+      const trans = translations || window._segmentData?.translations || {};
+      renderLangControls(getLanguageOrder(), trans);
+
+      if (!langs.length) {
+        document.getElementById("content").innerHTML = `<div class="empty">No visible languages. Enable at least one in the list above.</div>`;
+        window._segmentData = window._segmentData || {};
+        window._segmentData.translations = trans;
+        return;
+      }
+      const n = Math.max(...langs.map(l => data[l]?.length || 0), 0);
+
+      const cols = ["#", ...langs];
+      const colTemplate = `80px repeat(${cols.length - 1}, minmax(200px, 1fr))`;
+
+      const wrap = document.createElement("div");
+      wrap.className = "table-wrap";
+
+      const headerDiv = document.createElement("div");
+      headerDiv.className = "grid-header";
+      headerDiv.style.gridTemplateColumns = colTemplate;
+      cols.forEach(h => {
+        const th = document.createElement("div");
+        th.className = "col-header " + (h === "#" ? "idx" : "");
+        if (h !== "#" && trans[h] && getViewMode(h) === "mt") {
+          th.textContent = h + " (MT)";
+        } else {
+          th.textContent = h;
+        }
+        headerDiv.appendChild(th);
+      });
+
+      const bodyDiv = document.createElement("div");
+      bodyDiv.className = "grid-body";
+      bodyDiv.style.gridTemplateColumns = colTemplate;
+      for (let i = 0; i < n; i++) {
+        const idxCell = document.createElement("div");
+        idxCell.className = "cell idx";
+        idxCell.textContent = i + 1;
+        bodyDiv.appendChild(idxCell);
+        for (const lang of langs) {
+          const cell = document.createElement("div");
+          cell.className = "cell";
+          const showMt = trans[lang] && getViewMode(lang) === "mt";
+          cell.textContent = showMt ? (trans[lang][i] ?? "") : (data[lang]?.[i] ?? "");
+          if (showMt) {
+            cell.classList.add("translation");
+            const chrfScores = window._segmentData?.chrfScores?.[lang];
+            const score = chrfScores?.[i];
+            if (score != null) {
+              const span = document.createElement("span");
+              span.className = "chrf-score";
+              span.textContent = "chrF " + score;
+              cell.appendChild(span);
+              if (score >= CHRF_GOOD) cell.classList.add("chrf-good");
+              else if (score < CHRF_BAD) cell.classList.add("chrf-bad");
+            }
+          }
+          bodyDiv.appendChild(cell);
+        }
+      }
+
+      wrap.appendChild(headerDiv);
+      wrap.appendChild(bodyDiv);
+      document.getElementById("content").innerHTML = "";
+      document.getElementById("content").appendChild(wrap);
+      window._segmentData = window._segmentData || {};
+      window._segmentData.translations = trans;
+      if (window._segmentData.debug) showDebugPanel(window._segmentData.debug);
+    }
+
+    function showDebugPanel(debug) {
+      const existing = document.getElementById("debugPanel");
+      if (existing) existing.remove();
+      const details = document.createElement("details");
+      details.id = "debugPanel";
+      details.className = "debug-panel";
+      details.innerHTML = "<summary>Translation debug output</summary>";
+      const pre = document.createElement("pre");
+      pre.textContent = JSON.stringify(debug, null, 2);
+      details.appendChild(pre);
+      document.getElementById("content").appendChild(details);
+    }
+
+    async function fetchChrfScores(references, hypotheses) {
+      try {
+        const r = await fetch(API + "/api/chrf", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ references, hypotheses }),
+        });
+        if (!r.ok) return null;
+        const { scores } = await r.json();
+        return scores;
+      } catch (e) {
+        return null;
+      }
+    }
+
+    async function doTranslateOne(srcLang) {
+      const { data, translations: existing } = window._segmentData || {};
+      if (!data) return;
+      const langs = getVisibleLanguages();
+      const tgt = langs[0];
+      if (!tgt || srcLang === tgt) return;
+      const n = data[srcLang]?.length ?? 0;
+      const texts = [];
+      for (let i = 0; i < n; i++) {
+        texts.push(data[srcLang][i] ?? "");
+      }
+      setStatus("Translating " + srcLang + " → " + tgt + "…", "loading");
+      try {
+        const r = await fetch(API + "/api/translate", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ texts, source_lang: srcLang, target_lang: tgt }),
+        });
+        if (!r.ok) throw new Error(await r.text());
+        const resp = await r.json();
+        window._segmentData.debug = resp.debug;
+        const trans = { ...(existing || {}), [srcLang]: resp.translations };
+        window._segmentData.translations = trans;
+        setStatus("Computing chrF…", "loading");
+        const refs = (data[tgt] || []).slice(0, n);
+        const hyps = resp.translations;
+        const chrfScores = await fetchChrfScores(refs, hyps);
+        window._segmentData.chrfScores = window._segmentData.chrfScores || {};
+        if (chrfScores) window._segmentData.chrfScores[srcLang] = chrfScores;
+        renderGrid(data, trans);
+        setStatus("Done", "ok");
+      } catch (e) {
+        setStatus("Translation error: " + e.message, "error");
+      }
+    }
+
+    async function doTranslate() {
+      if (isAlignmentMode()) {
+        const { segments } = window._alignmentData || {};
+        if (!segments) return;
+        const langs = [...Object.keys(segments)].sort();
+        const firstLang = langs[0];
+        const others = langs.filter(l => l !== firstLang);
+        if (!others.length) return;
+        setStatus("Translating to " + firstLang + "…", "loading");
+        const trans = window._alignmentData.translations || {};
+        try {
+          for (const srcLang of others) {
+            const texts = (segments[srcLang] || []).map(s => s || "");
+            const r = await fetch(API + "/api/translate", {
+              method: "POST",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({ texts, source_lang: srcLang, target_lang: firstLang }),
+            });
+            if (!r.ok) throw new Error(await r.text());
+            const resp = await r.json();
+            trans[srcLang] = resp.translations || [];
+          }
+          window._alignmentData.translations = trans;
+          renderAlignmentGrid({ tu_ids: window._alignmentData.tu_ids, segments });
+          setStatus("Done. Hover over segments for translation tooltip.", "ok");
+        } catch (e) {
+          setStatus("Translation error: " + e.message, "error");
+        }
+        return;
+      }
+      const { data } = window._segmentData || {};
+      if (!data) return;
+      const langs = getVisibleLanguages();
+      if (langs.length < 2) {
+        setStatus("Need at least 2 visible languages (first = target).", "error");
+        return;
+      }
+      await doTranslateOne(langs[1]);
+    }
+
+    async function doRefresh() {
+      setStatus("Refreshing MOS files…", "loading");
+      document.getElementById("btnRefresh").disabled = true;
+      try {
+        const r = await fetch(API + "/api/refresh", { method: "POST" });
+        const body = await r.text();
+        if (!r.ok) throw new Error(body);
+        setStatus("Refresh complete", "ok");
+        await loadDocs();
+      } catch (e) {
+        setStatus("Refresh failed: " + e.message, "error");
+      } finally {
+        document.getElementById("btnRefresh").disabled = false;
+      }
+    }
+
+    async function doTranslateAllDocs() {
+      setStatus("Translating all documents (caching MT)…", "loading");
+      try {
+        const inAlignment = isAlignmentMode();
+        const r = await fetch(API + "/api/translate_all", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ reexported: false }),
+        });
+        const body = await r.text();
+        if (!r.ok) throw new Error(body);
+        setStatus("Translate-all finished (cache populated).", "ok");
+      } catch (e) {
+        setStatus("Translate-all failed: " + e.message, "error");
+      }
+    }
+
+    function isAlignmentMode() { return document.getElementById("modeSelect").value === "alignment"; }
+
+    function resetAlignmentState() {
+      window._alignmentExcluded = [];
+      window._alignmentMerges = [];
+      window._alignmentEdits = {};
+      window._alignmentRemoveInLang = [];
+      window._alignmentInserts = [];
+      window._alignmentHideScheduledDeletions = false;
+      window._alignmentData = null;
+    }
+
+    function updatePendingStatus() {
+      const excl = (window._alignmentExcluded || []).length;
+      const merges = (window._alignmentMerges || []).length;
+      const edits = Object.keys(window._alignmentEdits || {}).length;
+      const inserts = (window._alignmentInserts || []).length;
+      const removals = (window._alignmentRemoveInLang || []).length;
+      const parts = [];
+      if (excl) parts.push(`${excl} excluded`);
+      if (merges) parts.push(`${merges} merges`);
+      if (edits) parts.push(`${edits} per-lang edits`);
+      if (removals) parts.push(`${removals} per-lang delete(s)`);
+      if (inserts) parts.push(`${inserts} new segment(s)`);
+      setStatus(parts.length ? "Pending: " + parts.join(", ") : "", parts.length ? "ok" : "");
+    }
+
+    async function loadAlignment(docId, reexported = false) {
+      setStatus("Loading alignment…", "loading");
+      try {
+        const reexportedParam = reexported ? "&reexported=true" : "";
+        const subset = await fetchJSON(`/api/alignment/subset?doc_id=${encodeURIComponent(docId)}${reexportedParam}`);
+        document.getElementById("alignCounts").textContent = Object.entries(subset.counts_per_lang || {}).map(([l,n]) => `${l}:${n}`).join(", ");
+        document.getElementById("alignCommon").textContent = subset.common_count || 0;
+        document.getElementById("alignmentOverview").style.display = "block";
+        const excludeIds = window._alignmentExcluded || [];
+        const data = await fetchJSON(`/api/alignment/segments?doc_id=${encodeURIComponent(docId)}&exclude_ids=${excludeIds.join(",")}${reexportedParam}`);
+        window._alignmentData = { docId, reexported, ...data };
+        const firstLang = Object.keys(data.segments || {})[0];
+        if (firstLang && data.segments) {
+          setStatus("Computing chrF…", "loading");
+          const refs = data.segments[firstLang] || [];
+          const otherLangs = Object.keys(data.segments).filter(l => l !== firstLang);
+          const results = await Promise.all(
+            otherLangs.map(lang => fetchChrfScores(refs, data.segments[lang] || []))
+          );
+          const chrfScores = {};
+          otherLangs.forEach((lang, idx) => { if (results[idx]) chrfScores[lang] = results[idx]; });
+          window._alignmentData.chrfScores = chrfScores;
+        }
+        renderAlignmentGrid(data);
+        document.getElementById("btnApply").style.display = "inline-block";
+        setStatus("", "");
+      } catch (e) {
+        setStatus("Alignment error: " + e.message, "error");
+        document.getElementById("content").innerHTML = `<div class="empty">Failed to load alignment. Ensure MOS files exist.</div>`;
+      }
+    }
+
+    function renderAlignmentGrid(data) {
+      const { tu_ids, segments } = data;
+      const langs = [...Object.keys(segments)].sort();
+      if (!tu_ids || !langs.length) {
+        document.getElementById("content").innerHTML = `<div class="empty">No aligned segments.</div>`;
+        return;
+      }
+      const excluded = new Set(window._alignmentExcluded || []);
+      const removeInLang = window._alignmentRemoveInLang || [];
+      const hideScheduled = window._alignmentHideScheduledDeletions || false;
+      const removeInLangSet = new Set((window._alignmentRemoveInLang || []).map(x => `${x.lang}:${x.idx}`));
+      let rowsToShow = tu_ids.map((tuId, origIdx) => ({ tuId, origIdx }));
+      let compressedByLang = null;
+      if (hideScheduled) {
+        const rowsSource = tu_ids.map((tuId, origIdx) => ({ tuId, origIdx }));
+        compressedByLang = {};
+        for (const lang of langs) {
+          compressedByLang[lang] = rowsSource.filter(r => !removeInLangSet.has(`${lang}:${r.tuId}`));
+        }
+        const maxRows = Math.max(...Object.values(compressedByLang).map(a => a.length), 0);
+        rowsToShow = [];
+        for (let r = 0; r < maxRows; r++) {
+          const from = langs.find(l => compressedByLang[l][r]);
+          rowsToShow.push(from ? compressedByLang[from][r] : { tuId: String(r), origIdx: r });
+        }
+      }
+      const cols = ["#", "tu-id", "Include", ...langs];
+      const colTemplate = `50px 70px 60px repeat(${langs.length}, minmax(200px, 1fr))`;
+      const wrap = document.createElement("div");
+      wrap.className = "table-wrap";
+      const headerDiv = document.createElement("div");
+      headerDiv.className = "grid-header";
+      headerDiv.style.gridTemplateColumns = colTemplate;
+      cols.forEach(h => {
+        const th = document.createElement("div");
+        th.className = "col-header";
+        th.textContent = h;
+        headerDiv.appendChild(th);
+      });
+      const bodyDiv = document.createElement("div");
+      bodyDiv.className = "grid-body";
+      bodyDiv.style.gridTemplateColumns = colTemplate;
+      for (let rowIdx = 0; rowIdx < rowsToShow.length; rowIdx++) {
+        const { tuId, origIdx: i } = rowsToShow[rowIdx];
+        const isExcl = excluded.has(tuId);
+        const idxCell = document.createElement("div");
+        idxCell.className = "cell idx";
+        idxCell.textContent = rowIdx + 1;
+        bodyDiv.appendChild(idxCell);
+        const tuCell = document.createElement("div");
+        tuCell.className = "cell";
+        tuCell.textContent = tuId;
+        bodyDiv.appendChild(tuCell);
+        const incCell = document.createElement("div");
+        incCell.className = "cell row-exclude";
+        const cb = document.createElement("input");
+        cb.type = "checkbox";
+        cb.checked = !isExcl;
+        cb.dataset.tuId = tuId;
+        cb.onchange = () => {
+          window._alignmentExcluded = window._alignmentExcluded || [];
+          if (cb.checked) {
+            window._alignmentExcluded = window._alignmentExcluded.filter(x => x !== tuId);
+          } else {
+            window._alignmentExcluded.push(tuId);
+          }
+          updatePendingStatus();
+          if (window._alignmentData) loadAlignment(window._alignmentData.docId, window._alignmentData.reexported);
+        };
+        const mergeBtn = document.createElement("button");
+        mergeBtn.className = "btn-merge secondary";
+        mergeBtn.textContent = "Merge↓";
+        mergeBtn.title = "Merge with next row";
+        mergeBtn.onclick = () => {
+          window._alignmentMerges = window._alignmentMerges || [];
+          const nextId = rowsToShow[rowIdx + 1]?.tuId;
+          if (nextId) window._alignmentMerges.push({ from_id: nextId, into_id: tuId });
+          updatePendingStatus();
+        };
+        const addBtn = document.createElement("button");
+        addBtn.className = "btn-add-below secondary";
+        addBtn.textContent = "+";
+        addBtn.title = "Add empty segment below";
+        addBtn.onclick = () => {
+          window._alignmentInserts = window._alignmentInserts || [];
+          window._alignmentInserts.push(tuId);
+          updatePendingStatus();
+        };
+        incCell.append(cb, mergeBtn, addBtn);
+        bodyDiv.appendChild(incCell);
+        const firstLang = langs[0];
+        const chrfScores = window._alignmentData?.chrfScores || {};
+        const translations = window._alignmentData?.translations || {};
+        for (const lang of langs) {
+          const cellWrap = document.createElement("div");
+          let displayIdx, displayTuId;
+          if (hideScheduled && compressedByLang) {
+            const comp = compressedByLang[lang][rowIdx];
+            if (comp) {
+              displayIdx = comp.origIdx;
+              displayTuId = comp.tuId;
+            } else {
+              displayIdx = -1;
+              displayTuId = tuId;
+            }
+          } else {
+            displayIdx = i;
+            displayTuId = tuId;
+          }
+          const isScheduledRemove = removeInLangSet.has(`${lang}:${displayTuId}`);
+          cellWrap.className = "cell cell-editable" + (isExcl ? " excluded" : "");
+          if (isScheduledRemove && !hideScheduled) cellWrap.classList.add("will-remove");
+          const transText = displayIdx >= 0 && lang !== firstLang && translations[lang]?.[displayIdx] ? translations[lang][displayIdx].trim() : null;
+          if (transText) cellWrap.title = "Translation → " + firstLang + ": " + transText;
+          const edits = window._alignmentEdits || {};
+          const editKey = `${lang}:${displayTuId}`;
+          const displayText = displayIdx >= 0 ? (editKey in edits ? edits[editKey] : (segments[lang][displayIdx] ?? "")) : "";
+          const content = document.createElement("div");
+          content.className = "cell-content";
+          content.contentEditable = !isExcl;
+          content.textContent = displayText;
+          content.dataset.lang = lang;
+          content.dataset.tuId = displayTuId;
+          content.onblur = () => {
+            window._alignmentEdits = window._alignmentEdits || {};
+            window._alignmentEdits[editKey] = content.textContent.trimEnd();
+            updatePendingStatus();
+          };
+          const score = displayIdx >= 0 && lang !== firstLang ? chrfScores[lang]?.[displayIdx] : null;
+          if (score != null && typeof score === "number") {
+            const span = document.createElement("span");
+            span.className = "chrf-score";
+            span.textContent = "chrF " + score;
+            cellWrap.appendChild(span);
+            if (score >= CHRF_GOOD) cellWrap.classList.add("chrf-good");
+            else if (score < CHRF_BAD) cellWrap.classList.add("chrf-bad");
+          }
+          const clearBtn = document.createElement("button");
+          clearBtn.className = "btn-clear";
+          clearBtn.textContent = "×";
+          clearBtn.title = "Delete this segment in " + lang + " only (remove from MOS; click again to undo)";
+          clearBtn.onclick = (e) => {
+            e.preventDefault();
+            window._alignmentRemoveInLang = window._alignmentRemoveInLang || [];
+            const targetId = displayTuId;
+            const idx = window._alignmentRemoveInLang.findIndex(x => x.lang === lang && x.idx === targetId);
+            if (idx >= 0) {
+              window._alignmentRemoveInLang.splice(idx, 1);
+            } else {
+              window._alignmentRemoveInLang.push({ lang, idx: targetId });
+            }
+            updatePendingStatus();
+            if (window._alignmentData) {
+              renderAlignmentGrid({ tu_ids: window._alignmentData.tu_ids, segments: window._alignmentData.segments });
+            }
+          };
+          cellWrap.appendChild(content);
+          cellWrap.appendChild(clearBtn);
+          bodyDiv.appendChild(cellWrap);
+        }
+      }
+      wrap.appendChild(headerDiv);
+      wrap.appendChild(bodyDiv);
+      document.getElementById("content").innerHTML = "";
+      document.getElementById("content").appendChild(wrap);
+    }
+
+    async function doApply() {
+      const { docId, segments } = window._alignmentData || {};
+      if (!docId) return;
+      const excludeIds = window._alignmentExcluded || [];
+      const merges = window._alignmentMerges || [];
+      const insertAfter = window._alignmentInserts || [];
+      const removeInLang = window._alignmentRemoveInLang || [];
+      const editsMap = window._alignmentEdits || {};
+      const edits = Object.entries(editsMap).map(([key, text]) => {
+        const [lang, idx] = key.split(":");
+        return { lang, idx, text };
+      });
+      const firstLang = segments && Object.keys(segments)[0];
+      setStatus("Applying to MOS…", "loading");
+      document.getElementById("btnApply").disabled = true;
+      try {
+        const reexported = !!(window._alignmentData && window._alignmentData.reexported);
+        const r = await fetch(API + "/api/mos/apply", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            doc_id: docId,
+            exclude_ids: excludeIds,
+            merges,
+            edits,
+            insert_after: insertAfter,
+            remove_in_lang: removeInLang,
+            first_lang: firstLang,
+            reexported,
+          }),
+        });
+        if (!r.ok) throw new Error(await r.text());
+        setStatus("Applied. Refreshing…", "ok");
+        window._alignmentExcluded = [];
+        window._alignmentMerges = [];
+        window._alignmentEdits = {};
+        window._alignmentRemoveInLang = [];
+        window._alignmentInserts = [];
+        await loadDocs();
+        if (isAlignmentMode()) loadAlignment(docId, reexported);
+      } catch (e) {
+        setStatus("Apply failed: " + e.message, "error");
+      } finally {
+        document.getElementById("btnApply").disabled = false;
+      }
+    }
+
+    document.getElementById("docSelect").addEventListener("change", (e) => {
+      const v = e.target.value;
+      // Switching documents: forget all alignment state from the previous one.
+      resetAlignmentState();
+      if (!v) {
+        document.getElementById("content").innerHTML = `<div class="empty">Select a document.</div>`;
+        document.getElementById("alignmentOverview").style.display = "none";
+        document.getElementById("btnApply").style.display = "none";
+        return;
+      }
+      const { doc_id, base_name, reexported } = JSON.parse(v);
+      const isReexported = !!reexported;
+      if (isAlignmentMode()) {
+        loadAlignment(doc_id, isReexported);
+        document.getElementById("langControls").style.display = "none";
+      } else {
+        loadSegments(doc_id, base_name, isReexported);
+        document.getElementById("alignmentOverview").style.display = "none";
+        document.getElementById("btnApply").style.display = "none";
+      }
+    });
+    document.getElementById("modeSelect").addEventListener("change", () => {
+      const v = document.getElementById("docSelect").value;
+      if (!v) {
+        document.getElementById("content").innerHTML = `<div class="empty">Select a document.</div>`;
+        document.getElementById("alignmentOverview").style.display = "none";
+        document.getElementById("langControls").style.display = "none";
+        document.getElementById("btnApply").style.display = "none";
+        return;
+      }
+      const { doc_id, base_name, reexported } = JSON.parse(v);
+      const isReexported = !!reexported;
+      if (isAlignmentMode()) {
+        loadAlignment(doc_id, isReexported);
+        document.getElementById("langControls").style.display = "none";
+        document.getElementById("alignmentOverview").style.display = "block";
+        document.getElementById("btnApply").style.display = "inline-block";
+      } else {
+        loadSegments(doc_id, base_name, isReexported);
+        document.getElementById("alignmentOverview").style.display = "none";
+        document.getElementById("btnApply").style.display = "none";
+      }
+    });
+    document.getElementById("btnTranslate").addEventListener("click", doTranslate);
+    document.getElementById("btnTranslateAll").addEventListener("click", doTranslateAllDocs);
+    document.getElementById("btnRefresh").addEventListener("click", doRefresh);
+    document.getElementById("btnApply").addEventListener("click", doApply);
+    document.getElementById("btnAddAtStart").addEventListener("click", () => {
+      window._alignmentInserts = window._alignmentInserts || [];
+      window._alignmentInserts.unshift("-1");
+      updatePendingStatus();
+    });
+    document.getElementById("btnReexport").addEventListener("click", async () => {
+      const v = document.getElementById("docSelect").value;
+      if (!v) {
+        setStatus("Select a document to reexport.", "error");
+        return;
+      }
+      const { doc_id, reexported } = JSON.parse(v);
+      const reexportedParam = reexported ? "&reexported=true" : "";
+      setStatus("Reexporting (MOS → HTML)…", "loading");
+      document.getElementById("btnReexport").disabled = true;
+      try {
+        const r = await fetch(API + `/api/reexport?doc_id=${encodeURIComponent(doc_id)}${reexportedParam}`, {
+          method: "POST",
+        });
+        const body = await r.text();
+        if (!r.ok) throw new Error(body);
+        setStatus("Reexport complete.", "ok");
+      } catch (e) {
+        setStatus("Reexport failed: " + e.message, "error");
+      } finally {
+        document.getElementById("btnReexport").disabled = false;
+      }
+    });
+    document.getElementById("btnHideScheduled").addEventListener("click", () => {
+      window._alignmentHideScheduledDeletions = !window._alignmentHideScheduledDeletions;
+      const btn = document.getElementById("btnHideScheduled");
+      btn.textContent = window._alignmentHideScheduledDeletions ? "Show scheduled deletions" : "Hide scheduled deletions";
+      if (window._alignmentData) {
+        renderAlignmentGrid({ tu_ids: window._alignmentData.tu_ids, segments: window._alignmentData.segments });
+      }
+    });
+
+    loadDocs();
+  </script>
+</body>
+</html>

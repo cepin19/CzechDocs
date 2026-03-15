@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="../data/html/html_45/vn/obcanstvi_uk_obecne-informace.html" source-language="vn" target-language="en-US" datatype="html" okp:inputEncoding="utf-8">
+<body>
+<trans-unit id="tu1" restype="x-title">
+<source xml:lang="vn">Các thông tin chung – Občanství</source>
+<target xml:lang="en-US">Các thông tin chung – Občanství</target>
+</trans-unit>
+<trans-unit id="tu2" restype="x-title">
+<source xml:lang="vn">Občanství » RSS zdroj</source>
+<target xml:lang="en-US">Občanství » RSS zdroj</target>
+</trans-unit>
+<trans-unit id="tu3" restype="x-title">
+<source xml:lang="vn">Občanství » RSS komentářů</source>
+<target xml:lang="en-US">Občanství » RSS komentářů</target>
+</trans-unit>
+<trans-unit id="tu4" restype="x-title">
+<source xml:lang="vn">RSD</source>
+<target xml:lang="en-US">RSD</target>
+</trans-unit>
+<trans-unit id="tu5">
+<source xml:lang="vn"><g id="1"></g></source>
+<target xml:lang="en-US"><g id="1"></g></target>
+</trans-unit>
+<trans-unit id="tu6">
+<source xml:lang="vn"><g id="1">Skip to content</g></source>
+<target xml:lang="en-US"><g id="1">Skip to content</g></target>
+</trans-unit>
+<trans-unit id="tu8" restype="x-alt">
+<source xml:lang="vn">Logo</source>
+<target xml:lang="en-US">Logo</target>
+</trans-unit>
+<trans-unit id="tu7">
+<source xml:lang="vn"><g id="1"><x id="2"/></g></source>
+<target xml:lang="en-US"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu10" restype="x-alt">
+<source xml:lang="vn">CS</source>
+<target xml:lang="en-US">CS</target>
+</trans-unit>
+<trans-unit id="tu9" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></target>
+</trans-unit>
+<trans-unit id="tu12" restype="x-alt">
+<source xml:lang="vn">EN</source>
+<target xml:lang="en-US">EN</target>
+</trans-unit>
+<trans-unit id="tu11" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></target>
+</trans-unit>
+<trans-unit id="tu14" restype="x-alt">
+<source xml:lang="vn">UK</source>
+<target xml:lang="en-US">UK</target>
+</trans-unit>
+<trans-unit id="tu13" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></target>
+</trans-unit>
+<trans-unit id="tu16" restype="x-alt">
+<source xml:lang="vn">RU</source>
+<target xml:lang="en-US">RU</target>
+</trans-unit>
+<trans-unit id="tu15" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></target>
+</trans-unit>
+<trans-unit id="tu18" restype="x-alt">
+<source xml:lang="vn">VI</source>
+<target xml:lang="en-US">VI</target>
+</trans-unit>
+<trans-unit id="tu17" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></target>
+</trans-unit>
+<trans-unit id="tu20" restype="x-alt">
+<source xml:lang="vn">Logo</source>
+<target xml:lang="en-US">Logo</target>
+</trans-unit>
+<trans-unit id="tu19">
+<source xml:lang="vn"><g id="1"><x id="2"/></g></source>
+<target xml:lang="en-US"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu22" restype="x-alt">
+<source xml:lang="vn">CS</source>
+<target xml:lang="en-US">CS</target>
+</trans-unit>
+<trans-unit id="tu21" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></target>
+</trans-unit>
+<trans-unit id="tu24" restype="x-alt">
+<source xml:lang="vn">EN</source>
+<target xml:lang="en-US">EN</target>
+</trans-unit>
+<trans-unit id="tu23" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></target>
+</trans-unit>
+<trans-unit id="tu26" restype="x-alt">
+<source xml:lang="vn">UK</source>
+<target xml:lang="en-US">UK</target>
+</trans-unit>
+<trans-unit id="tu25" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></target>
+</trans-unit>
+<trans-unit id="tu28" restype="x-alt">
+<source xml:lang="vn">RU</source>
+<target xml:lang="en-US">RU</target>
+</trans-unit>
+<trans-unit id="tu27" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></target>
+</trans-unit>
+<trans-unit id="tu30" restype="x-alt">
+<source xml:lang="vn">VI</source>
+<target xml:lang="en-US">VI</target>
+</trans-unit>
+<trans-unit id="tu29" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></target>
+</trans-unit>
+<trans-unit id="tu32" restype="x-alt">
+<source xml:lang="vn">CS</source>
+<target xml:lang="en-US">CS</target>
+</trans-unit>
+<trans-unit id="tu31" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">CS</g> </g></target>
+</trans-unit>
+<trans-unit id="tu34" restype="x-alt">
+<source xml:lang="vn">EN</source>
+<target xml:lang="en-US">EN</target>
+</trans-unit>
+<trans-unit id="tu33" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">EN</g> </g></target>
+</trans-unit>
+<trans-unit id="tu36" restype="x-alt">
+<source xml:lang="vn">UK</source>
+<target xml:lang="en-US">UK</target>
+</trans-unit>
+<trans-unit id="tu35" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">UK</g> </g></target>
+</trans-unit>
+<trans-unit id="tu38" restype="x-alt">
+<source xml:lang="vn">RU</source>
+<target xml:lang="en-US">RU</target>
+</trans-unit>
+<trans-unit id="tu37" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">RU</g> </g></target>
+</trans-unit>
+<trans-unit id="tu40" restype="x-alt">
+<source xml:lang="vn">VI</source>
+<target xml:lang="en-US">VI</target>
+</trans-unit>
+<trans-unit id="tu39" restype="x-li">
+<source xml:lang="vn"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></source>
+<target xml:lang="en-US"><g id="1"> <x id="2"/> <g id="3">VI</g> </g></target>
+</trans-unit>
+<trans-unit id="tu41" resname="menu-item-152-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Các thông tin chung</g></source>
+<target xml:lang="en-US"><g id="1">Các thông tin chung</g></target>
+</trans-unit>
+<trans-unit id="tu42" resname="menu-item-157-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Cấp quốc tịch nước Cộng Hòa Czech</g></source>
+<target xml:lang="en-US"><g id="1">Cấp quốc tịch nước Cộng Hòa Czech</g></target>
+</trans-unit>
+<trans-unit id="tu43" resname="menu-item-163-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Thi với mục đích cấp quốc tịch nước Cộng Hòa Czech</g></source>
+<target xml:lang="en-US"><g id="1">Thi với mục đích cấp quốc tịch nước Cộng Hòa Czech</g></target>
+</trans-unit>
+<trans-unit id="tu44" resname="menu-item-167-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Đăng ký thi</g></source>
+<target xml:lang="en-US"><g id="1">Đăng ký thi</g></target>
+</trans-unit>
+<trans-unit id="tu45" resname="menu-item-165-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Lệ phí</g></source>
+<target xml:lang="en-US"><g id="1">Lệ phí</g></target>
+</trans-unit>
+<trans-unit id="tu46" resname="menu-item-308-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Những thời hạn thi trong năm</g></source>
+<target xml:lang="en-US"><g id="1">Những thời hạn thi trong năm</g></target>
+</trans-unit>
+<trans-unit id="tu47" resname="menu-item-324-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Những điểm thi trong năm</g></source>
+<target xml:lang="en-US"><g id="1">Những điểm thi trong năm</g></target>
+</trans-unit>
+<trans-unit id="tu48" resname="menu-item-164-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Lịch trình thi</g></source>
+<target xml:lang="en-US"><g id="1">Lịch trình thi</g></target>
+</trans-unit>
+<trans-unit id="tu49" resname="menu-item-327-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Kết quả thi</g></source>
+<target xml:lang="en-US"><g id="1">Kết quả thi</g></target>
+</trans-unit>
+<trans-unit id="tu50" resname="menu-item-166-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Qui chế và tổ chức khi thi</g></source>
+<target xml:lang="en-US"><g id="1">Qui chế và tổ chức khi thi</g></target>
+</trans-unit>
+<trans-unit id="tu51" resname="menu-item-160-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Những điều còn lại</g></source>
+<target xml:lang="en-US"><g id="1">Những điều còn lại</g></target>
+</trans-unit>
+<trans-unit id="tu52" resname="menu-item-161-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Các tổ chức tư vấn cho người nước ngoài</g></source>
+<target xml:lang="en-US"><g id="1">Các tổ chức tư vấn cho người nước ngoài</g></target>
+</trans-unit>
+<trans-unit id="tu53" resname="menu-item-162-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Những nguồn thông tin bổ ích</g></source>
+<target xml:lang="en-US"><g id="1">Những nguồn thông tin bổ ích</g></target>
+</trans-unit>
+<trans-unit id="tu54" resname="menu-item-155-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Liên hệ</g></source>
+<target xml:lang="en-US"><g id="1">Liên hệ</g></target>
+</trans-unit>
+<trans-unit id="tu55" resname="menu-item-154-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Tải về từ trang internet</g></source>
+<target xml:lang="en-US"><g id="1">Tải về từ trang internet</g></target>
+</trans-unit>
+<trans-unit id="tu56" resname="menu-item-973-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Thi về cuộc sống và các tổ chức của nước Cộng Hòa Czech</g></source>
+<target xml:lang="en-US"><g id="1">Thi về cuộc sống và các tổ chức của nước Cộng Hòa Czech</g></target>
+</trans-unit>
+<trans-unit id="tu57" resname="menu-item-974-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Thông tin cho cuộc thi về cuộc sống và các tổ chức của Czech</g></source>
+<target xml:lang="en-US"><g id="1">Thông tin cho cuộc thi về cuộc sống và các tổ chức của Czech</g></target>
+</trans-unit>
+<trans-unit id="tu58" resname="menu-item-343-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Lịch thi về cuộc sống, xã hội séc</g></source>
+<target xml:lang="en-US"><g id="1">Lịch thi về cuộc sống, xã hội séc</g></target>
+</trans-unit>
+<trans-unit id="tu59" resname="menu-item-194-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Các điểm thi trong năm</g></source>
+<target xml:lang="en-US"><g id="1">Các điểm thi trong năm</g></target>
+</trans-unit>
+<trans-unit id="tu60" resname="menu-item-183-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Chuẩn bị cho cuộc thi</g></source>
+<target xml:lang="en-US"><g id="1">Chuẩn bị cho cuộc thi</g></target>
+</trans-unit>
+<trans-unit id="tu61" resname="menu-item-186-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Các qui chế và tổ chức thi về cuộc sống và tổ chức của Czech</g></source>
+<target xml:lang="en-US"><g id="1">Các qui chế và tổ chức thi về cuộc sống và tổ chức của Czech</g></target>
+</trans-unit>
+<trans-unit id="tu62" resname="menu-item-187-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Các qui định riêng cho thi về cuộc sống và tổ chức của Czech</g></source>
+<target xml:lang="en-US"><g id="1">Các qui định riêng cho thi về cuộc sống và tổ chức của Czech</g></target>
+</trans-unit>
+<trans-unit id="tu63" resname="menu-item-418-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Mô hình thử nghiệm về cuộc sống và tổ chức của Czech</g></source>
+<target xml:lang="en-US"><g id="1">Mô hình thử nghiệm về cuộc sống và tổ chức của Czech</g></target>
+</trans-unit>
+<trans-unit id="tu64" resname="menu-item-420-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Dữ liệu những bài tập về cuộc sống và tổ chức của Czech</g></source>
+<target xml:lang="en-US"><g id="1">Dữ liệu những bài tập về cuộc sống và tổ chức của Czech</g></target>
+</trans-unit>
+<trans-unit id="tu65" resname="menu-item-354-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Sách giáo khoa và các tài liệu khác – cuộc sống, xã hội</g></source>
+<target xml:lang="en-US"><g id="1">Sách giáo khoa và các tài liệu khác – cuộc sống, xã hội</g></target>
+</trans-unit>
+<trans-unit id="tu66" resname="menu-item-182-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Tải</g></source>
+<target xml:lang="en-US"><g id="1">Tải</g></target>
+</trans-unit>
+<trans-unit id="tu67" resname="menu-item-196-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Cơ sở dữ liệu</g></source>
+<target xml:lang="en-US"><g id="1">Cơ sở dữ liệu</g></target>
+</trans-unit>
+<trans-unit id="tu68" resname="menu-item-197-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Mô hình thử nghiệm</g></source>
+<target xml:lang="en-US"><g id="1">Mô hình thử nghiệm</g></target>
+</trans-unit>
+<trans-unit id="tu69" resname="menu-item-173-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Thi tiếng Czech</g></source>
+<target xml:lang="en-US"><g id="1">Thi tiếng Czech</g></target>
+</trans-unit>
+<trans-unit id="tu70" resname="menu-item-978-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Thông tin về thi tiếng Czech</g></source>
+<target xml:lang="en-US"><g id="1">Thông tin về thi tiếng Czech</g></target>
+</trans-unit>
+<trans-unit id="tu71" resname="menu-item-342-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Ngày kiểm tra tiếng Séc</g></source>
+<target xml:lang="en-US"><g id="1">Ngày kiểm tra tiếng Séc</g></target>
+</trans-unit>
+<trans-unit id="tu72" resname="menu-item-332-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Các điểm thi trong năm</g></source>
+<target xml:lang="en-US"><g id="1">Các điểm thi trong năm</g></target>
+</trans-unit>
+<trans-unit id="tu73" resname="menu-item-176-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Chuẩn bị cho cuộc thi</g></source>
+<target xml:lang="en-US"><g id="1">Chuẩn bị cho cuộc thi</g></target>
+</trans-unit>
+<trans-unit id="tu74" resname="menu-item-178-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Qui chế và tổ chức thi tiếng Czech</g></source>
+<target xml:lang="en-US"><g id="1">Qui chế và tổ chức thi tiếng Czech</g></target>
+</trans-unit>
+<trans-unit id="tu75" resname="menu-item-177-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Các dạng mẫu thi tiếng Chech</g></source>
+<target xml:lang="en-US"><g id="1">Các dạng mẫu thi tiếng Chech</g></target>
+</trans-unit>
+<trans-unit id="tu76" resname="menu-item-355-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Sách giáo khoa và các tài liệu khác – ngôn ngữ</g></source>
+<target xml:lang="en-US"><g id="1">Sách giáo khoa và các tài liệu khác – ngôn ngữ</g></target>
+</trans-unit>
+<trans-unit id="tu77" resname="menu-item-175-id" restype="x-li">
+<source xml:lang="vn"><g id="1">Tải</g></source>
+<target xml:lang="en-US"><g id="1">Tải</g></target>
+</trans-unit>
+<trans-unit id="tu78">
+<source xml:lang="vn"><g id="1"><x id="2"/></g></source>
+<target xml:lang="en-US"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="tu79" restype="x-h1">
+<source xml:lang="vn">Các thông tin chung</source>
+<target xml:lang="en-US">Các thông tin chung</target>
+</trans-unit>
+<trans-unit id="tu80" restype="x-aria-label">
+<source xml:lang="vn">Breadcrumbs</source>
+<target xml:lang="en-US">Breadcrumbs</target>
+</trans-unit>
+<trans-unit id="tu81" restype="x-li">
+<source xml:lang="vn"><g id="1"><g id="2">Home</g></g></source>
+<target xml:lang="en-US"><g id="1"><g id="2">Home</g></g></target>
+</trans-unit>
+<trans-unit id="tu82" restype="x-li">
+<source xml:lang="vn"><g id="1"><g id="2">Các thông tin chung</g></g></source>
+<target xml:lang="en-US"><g id="1"><g id="2">Các thông tin chung</g></g></target>
+</trans-unit>
+<trans-unit id="tu83" restype="x-h1">
+<source xml:lang="vn">Luật về quốc tịch của Cộng Hòa Czech</source>
+<target xml:lang="en-US">Luật về quốc tịch của Cộng Hòa Czech</target>
+</trans-unit>
+<trans-unit id="tu84" restype="x-paragraph">
+<source xml:lang="vn">1. Từ tháng 1. 2014 <g id="1">Bộ luật số 186/2013 Sb., về quốc tịch và về việc sửa đổi một số bộ luật (luật về quốc tịch nước Cộng Hòa Czech)</g> bắt đầu có hiệu lực. Bộ luật này sử đổi phương thức cấp hoặc miễn hồi quốc tịch nước Cộng Hòa Czech. Văn bản về luật quốc tịch nước Cộng Hòa Czech có tại những trang website sau:</source>
+<target xml:lang="en-US">1. Từ tháng 1. 2014 <g id="1">Bộ luật số 186/2013 Sb., về quốc tịch và về việc sửa đổi một số bộ luật (luật về quốc tịch nước Cộng Hòa Czech)</g> bắt đầu có hiệu lực. Bộ luật này sử đổi phương thức cấp hoặc miễn hồi quốc tịch nước Cộng Hòa Czech. Văn bản về luật quốc tịch nước Cộng Hòa Czech có tại những trang website sau:</target>
+</trans-unit>
+<trans-unit id="tu85" restype="x-li">
+<source xml:lang="vn"><g id="1">https://www.e-sbirka.cz/sb/2013/186/2022-02-01</g></source>
+<target xml:lang="en-US"><g id="1">https://www.e-sbirka.cz/sb/2013/186/2022-02-01</g></target>
+</trans-unit>
+<trans-unit id="tu86" restype="x-li">
+<source xml:lang="vn"><g id="1">http://www.sagit.cz/_texty/sb13186.htm</g></source>
+<target xml:lang="en-US"><g id="1">http://www.sagit.cz/_texty/sb13186.htm</g></target>
+</trans-unit>
+<trans-unit id="tu87" restype="x-li">
+<source xml:lang="vn"><g id="1">http://www.epravo.cz/top/zakony/sbirka-zakonu/zakon-ze-dne-11-cervna-2013-o-statnim-obcanstvi-ceske-republiky-a-o-zmene-nekterych-zakonu-zakon-o-statnim-obcanstvi-ceske-republiky-19597.html</g></source>
+<target xml:lang="en-US"><g id="1">http://www.epravo.cz/top/zakony/sbirka-zakonu/zakon-ze-dne-11-cervna-2013-o-statnim-obcanstvi-ceske-republiky-a-o-zmene-nekterych-zakonu-zakon-o-statnim-obcanstvi-ceske-republiky-19597.html</g></target>
+</trans-unit>
+<trans-unit id="tu88" restype="x-li">
+<source xml:lang="vn"><g id="1">http://www.zakonyprolidi.cz/cs/2013-186</g></source>
+<target xml:lang="en-US"><g id="1">http://www.zakonyprolidi.cz/cs/2013-186</g></target>
+</trans-unit>
+<trans-unit id="tu89" restype="x-paragraph">
+<source xml:lang="vn">Theo § 14 của bộ luật nêu trên thì một trong những điều kiện cho việc cấp quốc tịch nước Cộng Hòa Czech là <g id="1">chứng minh kiến thức về ngôn ngữ Czech</g> (điều khoản 4) <g id="2">và kiến thức cơ bản về hệ thống hiến pháp của nước Cộng Hòa Czech và kiế thức cơ bản về văn hóa – xã hội, địa lý và lịch sử của nước Cộng Hòa Czech </g>(điều khoản 5). Kiến thức này được chứng minh bằng <g id="3">kết quả tốt trong kỳ thi với mục đích được cấp quốc tịch Czech.</g></source>
+<target xml:lang="en-US">Theo § 14 của bộ luật nêu trên thì một trong những điều kiện cho việc cấp quốc tịch nước Cộng Hòa Czech là <g id="1">chứng minh kiến thức về ngôn ngữ Czech</g> (điều khoản 4) <g id="2">và kiến thức cơ bản về hệ thống hiến pháp của nước Cộng Hòa Czech và kiế thức cơ bản về văn hóa – xã hội, địa lý và lịch sử của nước Cộng Hòa Czech </g>(điều khoản 5). Kiến thức này được chứng minh bằng <g id="3">kết quả tốt trong kỳ thi với mục đích được cấp quốc tịch Czech.</g></target>
+</trans-unit>
+<trans-unit id="tu90" restype="x-paragraph">
+<source xml:lang="vn">Bộ luật về quốc tịch Czech ấn định rõ ràng là việc cấp quốc tịch nước Cộng Hòa Czech không phải là quyền lợi dĩ nhiên.</source>
+<target xml:lang="en-US">Bộ luật về quốc tịch Czech ấn định rõ ràng là việc cấp quốc tịch nước Cộng Hòa Czech không phải là quyền lợi dĩ nhiên.</target>
+</trans-unit>
+<trans-unit id="tu91" restype="x-paragraph">
+<source xml:lang="vn"><g id="1"><g id="2">Để biết thêm những thông tin cho bộ luật mới về quốc tịch thì </g>các bạn có thể tham khảo thêm ở trang <g id="3">Bộ Nội Vụ nước Cộng Hòa Czech.</g></g></source>
+<target xml:lang="en-US"><g id="1"><g id="2">Để biết thêm những thông tin cho bộ luật mới về quốc tịch thì </g>các bạn có thể tham khảo thêm ở trang <g id="3">Bộ Nội Vụ nước Cộng Hòa Czech.</g></g></target>
+</trans-unit>
+<trans-unit id="tu92" restype="x-h1">
+<source xml:lang="vn">Thông báo của Bộ Giáo Dục – Thanh Niên và Thể Thao</source>
+<target xml:lang="en-US">Thông báo của Bộ Giáo Dục – Thanh Niên và Thể Thao</target>
+</trans-unit>
+<trans-unit id="tu93" restype="x-paragraph">
+<source xml:lang="vn">Kết hợp với việc áp dụng <g id="1">bộ luật số 186/2013 Sb., về quốc tịch nước Cộng Hòa Czech và về sửa đổi của một số luật (luật về quốc tịch nước Cộng Hòa Czech)</g> từ ngày 1.01.2014 nước Cộng Hòa Czech đã bổ xung<g id="2"> chứng chỉ về kiến thức tiếng czech và kiến thức về xã hội như một đòi hỏi cần thiết cho việc cấp quốc tịch nước Cộng Hòa Czech.</g> Theo điều khoản ủy quyền § 78 của bộ luật số 186/2013 Sb., Bộ Giáo Dục – Thanh Niên và Thể Thao ra qui chế <g id="3">Tuyên bố số 433/2013 Sb., cho việc chứng minh kiến thức tiếng Czech và về xã hội, cuộc sống Czech với mục đích cấp quốc tịch nước Cộng Hòa Czech</g>:</source>
+<target xml:lang="en-US">Kết hợp với việc áp dụng <g id="1">bộ luật số 186/2013 Sb., về quốc tịch nước Cộng Hòa Czech và về sửa đổi của một số luật (luật về quốc tịch nước Cộng Hòa Czech)</g> từ ngày 1.01.2014 nước Cộng Hòa Czech đã bổ xung<g id="2"> chứng chỉ về kiến thức tiếng czech và kiến thức về xã hội như một đòi hỏi cần thiết cho việc cấp quốc tịch nước Cộng Hòa Czech.</g> Theo điều khoản ủy quyền § 78 của bộ luật số 186/2013 Sb., Bộ Giáo Dục – Thanh Niên và Thể Thao ra qui chế <g id="3">Tuyên bố số 433/2013 Sb., cho việc chứng minh kiến thức tiếng Czech và về xã hội, cuộc sống Czech với mục đích cấp quốc tịch nước Cộng Hòa Czech</g>:</target>
+</trans-unit>
+<trans-unit id="tu94" restype="x-li">
+<source xml:lang="vn">mức độ hiểu biết tiếng Czech, kiến thức cơ bản về hệ thống hiến pháp của nước Cộng Hòa Czech và kiến thức cơ bản về hoàn cảnh văn hóa-xã hội, địa lý và lịch sử của Czech cho mục đích thi tiếng và tổ chức xã hội,</source>
+<target xml:lang="en-US">mức độ hiểu biết tiếng Czech, kiến thức cơ bản về hệ thống hiến pháp của nước Cộng Hòa Czech và kiến thức cơ bản về hoàn cảnh văn hóa-xã hội, địa lý và lịch sử của Czech cho mục đích thi tiếng và tổ chức xã hội,</target>
+</trans-unit>
+<trans-unit id="tu95" restype="x-li">
+<source xml:lang="vn">tìm hiểu kỹ hơn các qui chế tổ chức cho việc thi tiếng và tổ chức xã hội, bao gồm qui định thi và việc công bố thông tin về tổ chức thi,</source>
+<target xml:lang="en-US">tìm hiểu kỹ hơn các qui chế tổ chức cho việc thi tiếng và tổ chức xã hội, bao gồm qui định thi và việc công bố thông tin về tổ chức thi,</target>
+</trans-unit>
+<trans-unit id="tu96" restype="x-li">
+<source xml:lang="vn">mẫu xác nhận kết quả thi tiếng và tổ chức xã hội,</source>
+<target xml:lang="en-US">mẫu xác nhận kết quả thi tiếng và tổ chức xã hội,</target>
+</trans-unit>
+<trans-unit id="tu97" restype="x-li">
+<source xml:lang="vn">thi tiếng có giá trị tương đương với kỳ thi tiếng trong phần thi ngôn ngữ và tổ chức xã hội.</source>
+<target xml:lang="en-US">thi tiếng có giá trị tương đương với kỳ thi tiếng trong phần thi ngôn ngữ và tổ chức xã hội.</target>
+</trans-unit>
+<trans-unit id="tu98" restype="x-paragraph">
+<source xml:lang="vn">Các bạn có thể tìm hiểu những thông tin chi tiết về kiểm tra trong mục <g id="1"><g id="2">Thi về cuộc sống và các tổ chức của Czech</g> </g>và trong mục <g id="3"><g id="4">Thi tiếng Czech</g>.</g></source>
+<target xml:lang="en-US">Các bạn có thể tìm hiểu những thông tin chi tiết về kiểm tra trong mục <g id="1"><g id="2">Thi về cuộc sống và các tổ chức của Czech</g> </g>và trong mục <g id="3"><g id="4">Thi tiếng Czech</g>.</g></target>
+</trans-unit>
+</body>
+</file>
+</xliff>
