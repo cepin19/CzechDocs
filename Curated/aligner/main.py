@@ -5,6 +5,7 @@ Uses MOS format for alignment (no XLIFF).
 """
 import logging
 import os
+import re
 import subprocess
 from pathlib import Path
 import json
@@ -21,18 +22,97 @@ from sacrebleu import sentence_chrf
 
 # Paths relative to Curated/
 BASE = Path(__file__).resolve().parent.parent
-HTML_DIR = BASE / "data" / "html"
-HTML_REEXPORTED_DIR = BASE / "data" / "html_reexported"
-DOCX_DIR = BASE / "data" / "docx"
-DOCX_REEXPORTED_DIR = BASE / "data" / "docx_reexported"
-MOS_DIR = BASE / "data" / "mos"
-MOS_REEXPORTED_DIR = BASE / "data" / "mos_reexported"
-MT_CACHE_DIR = BASE / "data" / "mt_cache"
-XLIFF_DIR = BASE / "data" / "xliff"
+DATA_DIR = BASE / "data"
+MT_CACHE_DIR = DATA_DIR / "mt_cache"
+XLIFF_DIR = DATA_DIR / "xliff"
 SCRIPTS_DIR = BASE / "scripts"
 ALL_SEGS_SCRIPT = SCRIPTS_DIR / "all_segs.sh"
 TIKAL_SCRIPT = BASE.parent / "tikal.sh"
 SEGMENTATION_SRX = BASE.parent / "config" / "defaultSegmentation.srx"
+
+
+def _data_root_candidates() -> list[Path]:
+    """
+    Discover possible dataset roots.
+
+    New layout:
+      Curated/data/valid/<type>/
+      Curated/data/split/<type>/
+
+    Legacy layout:
+      Curated/data/<type>/
+    """
+    roots: list[Path] = []
+    for name in ("valid", "split"):
+        p = DATA_DIR / name
+        if p.exists():
+            roots.append(p)
+    # Legacy (pre test/valid split)
+    if (DATA_DIR / "mos").exists() or (DATA_DIR / "html").exists() or (DATA_DIR / "docx").exists():
+        roots.append(DATA_DIR)
+    return roots or [DATA_DIR]
+
+
+def _orig_html_dir(data_root: Path) -> Path:
+    return data_root / "html"
+
+
+def _orig_docx_dir(data_root: Path) -> Path:
+    return data_root / "docx"
+
+
+def _orig_mos_dir(data_root: Path) -> Path:
+    return data_root / "mos"
+
+
+def _re_html_dir(data_root: Path) -> Path:
+    return data_root / "html_reexported"
+
+
+def _re_docx_dir(data_root: Path) -> Path:
+    return data_root / "docx_reexported"
+
+
+def _re_mos_dir(data_root: Path) -> Path:
+    return data_root / "mos_reexported"
+
+
+def _resolve_mos_doc_path(doc_id: str, reexported: bool) -> Path | None:
+    """Return the MOS doc directory if it exists in any known data root."""
+    for data_root in _data_root_candidates():
+        mos_doc = (_re_mos_dir(data_root) if reexported else _orig_mos_dir(data_root)) / doc_id
+        if mos_doc.exists():
+            return mos_doc
+    return None
+
+
+def _resolve_mos_doc_container(doc_id: str, reexported: bool) -> tuple[Path, Path] | None:
+    """
+    Return (data_root, mos_doc_path) for the MOS doc if it exists in any known data root.
+    """
+    for data_root in _data_root_candidates():
+        mos_doc = (_re_mos_dir(data_root) if reexported else _orig_mos_dir(data_root)) / doc_id
+        if mos_doc.exists():
+            return data_root, mos_doc
+    return None
+
+
+def _resolve_reexport_input_root(doc_id: str) -> tuple[Path, Path] | None:
+    """
+    Return (data_root, reexport_input_dir) where reexport_input_dir contains language subdirs.
+
+    Input can come from either:
+      data_root/html_reexported/<doc_id>
+      data_root/docx_reexported/<doc_id>
+    """
+    for data_root in _data_root_candidates():
+        html_root = _re_html_dir(data_root) / doc_id
+        if html_root.exists():
+            return data_root, html_root
+        docx_root = _re_docx_dir(data_root) / doc_id
+        if docx_root.exists():
+            return data_root, docx_root
+    return None
 
 # OpenAI client - uses OPENAI_API_KEY from env
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY", "")) if os.environ.get("OPENAI_API_KEY") else None
@@ -44,13 +124,21 @@ app = FastAPI(title="HTML Segment Aligner")
 def discover_documents():
     """Find all document sets (original from MOS, reexported from html_reexported)."""
     docs = []
-    if MOS_DIR.exists():
-        for doc_path in sorted(MOS_DIR.iterdir()):
+    seen: set[tuple[str, bool]] = set()
+
+    # Original docs: discover from MOS
+    for data_root in _data_root_candidates():
+        mos_root = _orig_mos_dir(data_root)
+        if not mos_root.exists():
+            continue
+        for doc_path in sorted(mos_root.iterdir()):
             if not doc_path.is_dir():
                 continue
             doc_id = doc_path.name
-            langs = []
-            base_name = None
+            if (doc_id, False) in seen:
+                continue
+            langs: list[str] = []
+            base_name: str | None = None
             for sub in sorted(doc_path.iterdir()):
                 if not sub.is_dir():
                     continue
@@ -67,29 +155,67 @@ def discover_documents():
                     "languages": sorted(langs),
                     "reexported": False,
                 })
-    if HTML_REEXPORTED_DIR.exists():
-        for doc_path in sorted(HTML_REEXPORTED_DIR.iterdir()):
-            if not doc_path.is_dir():
-                continue
-            doc_id = doc_path.name
-            langs = []
-            base_name = None
-            for sub in sorted(doc_path.iterdir()):
-                if not sub.is_dir():
+                seen.add((doc_id, False))
+
+    # Reexported docs: prefer MOS if it exists, otherwise fall back to HTML/DOCX skeletons.
+    for data_root in _data_root_candidates():
+        mos_reexported_root = _re_mos_dir(data_root)
+        if mos_reexported_root.exists():
+            for doc_path in sorted(mos_reexported_root.iterdir()):
+                if not doc_path.is_dir():
                     continue
-                lang = sub.name
-                html_files = list(sub.glob("*.html"))
-                if html_files:
-                    langs.append(lang)
-                    if base_name is None:
-                        base_name = html_files[0].stem
-            if base_name and langs:
-                docs.append({
-                    "doc_id": doc_id,
-                    "base_name": base_name,
-                    "languages": sorted(langs),
-                    "reexported": True,
-                })
+                doc_id = doc_path.name
+                if (doc_id, True) in seen:
+                    continue
+                langs: list[str] = []
+                base_name: str | None = None
+                for sub in sorted(doc_path.iterdir()):
+                    if not sub.is_dir():
+                        continue
+                    lang = sub.name
+                    mos_files = list(sub.glob("*.mos"))
+                    if mos_files:
+                        langs.append(lang)
+                        if base_name is None:
+                            base_name = mos_files[0].stem
+                if base_name and langs:
+                    docs.append({
+                        "doc_id": doc_id,
+                        "base_name": base_name,
+                        "languages": sorted(langs),
+                        "reexported": True,
+                    })
+                    seen.add((doc_id, True))
+
+        # Skeleton-based fallback (MOS might not be generated yet)
+        for skeleton_root in (_re_html_dir(data_root), _re_docx_dir(data_root)):
+            if not skeleton_root.exists():
+                continue
+            for doc_path in sorted(skeleton_root.iterdir()):
+                if not doc_path.is_dir():
+                    continue
+                doc_id = doc_path.name
+                if (doc_id, True) in seen:
+                    continue
+                langs: list[str] = []
+                base_name: str | None = None
+                for sub in sorted(doc_path.iterdir()):
+                    if not sub.is_dir():
+                        continue
+                    lang = sub.name
+                    html_files = list(sub.glob("*.html"))
+                    if html_files:
+                        langs.append(lang)
+                        if base_name is None:
+                            base_name = html_files[0].stem
+                if base_name and langs:
+                    docs.append({
+                        "doc_id": doc_id,
+                        "base_name": base_name,
+                        "languages": sorted(langs),
+                        "reexported": True,
+                    })
+                    seen.add((doc_id, True))
     return docs
 
 
@@ -102,19 +228,29 @@ def _get_mos_file(doc_path: Path, lang: str) -> Path | None:
     return mos_files[0] if mos_files else None
 
 
-def ensure_reexported_mos(doc_id: str) -> None:
-    """Generate MOS from reexported HTML/DOCX for doc_id into mos_reexported."""
-    html_root = HTML_REEXPORTED_DIR / doc_id
-    docx_root = DOCX_REEXPORTED_DIR / doc_id
-    if html_root.exists():
-        reexport_root = html_root
-    elif docx_root.exists():
-        reexport_root = docx_root
-    else:
-        raise HTTPException(404, f"Reexported document {doc_id} not found in html_reexported or docx_reexported")
+def ensure_reexported_mos(doc_id: str) -> list[str]:
+    """
+    Generate MOS from reexported HTML/DOCX for doc_id into mos_reexported.
+    Returns a list of human-readable warnings for any per-file MOS generation
+    failures; these are non-fatal (other languages/files may still succeed).
+    """
+    warnings: list[str] = []
+    resolved = _resolve_reexport_input_root(doc_id)
+    if not resolved:
+        raise HTTPException(
+            404,
+            f"Cannot generate MOS for reexported document '{doc_id}': not found under html_reexported/ "
+            "or docx_reexported/ in any data root. Re-export the original document first.",
+        )
+    data_root, reexport_root = resolved
+    is_docx = reexport_root.parent.name == "docx_reexported"
+    reexport_ext = ".docx" if is_docx else ".html"
     if not TIKAL_SCRIPT.exists():
-        raise HTTPException(503, "tikal.sh not found; cannot generate MOS for reexported")
-    mos_root = MOS_REEXPORTED_DIR / doc_id
+        raise HTTPException(
+            503,
+            f"Cannot generate MOS for reexported document '{doc_id}': tikal.sh not found at {TIKAL_SCRIPT}.",
+        )
+    mos_root = _re_mos_dir(data_root) / doc_id
     mos_root.mkdir(parents=True, exist_ok=True)
     for lang_dir in sorted(reexport_root.iterdir()):
         if not lang_dir.is_dir():
@@ -122,35 +258,43 @@ def ensure_reexported_mos(doc_id: str) -> None:
         lang = lang_dir.name
         out_lang_dir = mos_root / lang
         out_lang_dir.mkdir(parents=True, exist_ok=True)
-        for html_file in lang_dir.glob("*.html"):
-            base_name = html_file.stem
+        for src_file in lang_dir.glob(f"*{reexport_ext}"):
+            base_name = src_file.stem
             out_mos = out_lang_dir / f"{base_name}.mos"
-            cmd = [str(TIKAL_SCRIPT), "-xm", str(html_file), "-sl", lang, "-tl", lang, "-ie", "utf8", "-oe", "utf8"]
+            cmd = [str(TIKAL_SCRIPT), "-xm", str(src_file), "-sl", lang, "-tl", lang, "-ie", "utf8", "-oe", "utf8"]
             if SEGMENTATION_SRX.exists():
                 cmd.extend(["-seg", str(SEGMENTATION_SRX)])
             cmd.extend(["-to", str(out_lang_dir / f"{base_name}.mos")])
             try:
                 proc = subprocess.run(cmd, cwd=str(BASE), capture_output=True, text=True, timeout=120)
                 if proc.returncode != 0:
-                    log.warning("Tikal -xm failed for %s: %s", html_file, proc.stderr or proc.stdout)
+                    detail = (proc.stderr or proc.stdout or "no output from Tikal").strip()
+                    msg = f"MOS generation failed for '{lang}/{src_file.name}' (exit {proc.returncode}): {detail}"
+                    log.warning(msg)
+                    warnings.append(msg)
                     continue
                 mos_lang = out_lang_dir / f"{base_name}.mos.{lang}"
                 if mos_lang.exists():
                     mos_lang.rename(out_mos)
             except subprocess.TimeoutExpired:
-                log.warning("Tikal -xm timed out for %s", html_file)
+                msg = f"MOS generation timed out for '{lang}/{src_file.name}' after 120s"
+                log.warning(msg)
+                warnings.append(msg)
             except Exception as e:
-                log.exception("Tikal -xm error for %s: %s", html_file, e)
+                msg = f"MOS generation error for '{lang}/{src_file.name}': {e}"
+                log.exception(msg)
+                warnings.append(msg)
+    return warnings
 
 
 def load_segments(doc_id: str, base_name: str | None = None, languages: list[str] | None = None, reexported: bool = False):
     """Load aligned segments from mos files. Returns {lang: [seg1, seg2, ...]}. If reexported, uses mos_reexported and ensures MOS exists."""
     if reexported:
         ensure_reexported_mos(doc_id)
-        doc_path = MOS_REEXPORTED_DIR / doc_id
+        doc_path = _resolve_mos_doc_path(doc_id, True)
     else:
-        doc_path = MOS_DIR / doc_id
-    if not doc_path.exists():
+        doc_path = _resolve_mos_doc_path(doc_id, False)
+    if not doc_path:
         raise HTTPException(404, f"Document {doc_id} not found")
     result = {}
     all_langs = sorted([d.name for d in doc_path.iterdir() if d.is_dir()]) if not languages else sorted(languages)
@@ -168,10 +312,10 @@ def load_mos_alignment(doc_id: str, languages: list[str] | None = None, reexport
     """Load MOS segments per language. If reexported, uses mos_reexported and ensures MOS exists."""
     if reexported:
         ensure_reexported_mos(doc_id)
-        doc_path = MOS_REEXPORTED_DIR / doc_id
+        doc_path = _resolve_mos_doc_path(doc_id, True)
     else:
-        doc_path = MOS_DIR / doc_id
-    if not doc_path.exists():
+        doc_path = _resolve_mos_doc_path(doc_id, False)
+    if not doc_path:
         raise HTTPException(404, f"Document {doc_id} not found")
     result = {}
     all_langs = sorted([d.name for d in doc_path.iterdir() if d.is_dir()]) if not languages else sorted(languages)
@@ -424,9 +568,9 @@ def translate_all_documents(req: TranslateAllRequest):
 class MosApplyRequest(BaseModel):
     doc_id: str
     exclude_ids: list[str] = []
-    merges: list[dict] = []
-    edits: list[dict] = []
-    insert_after: list[str] = []
+    merges: list[dict] = []  # [{lang, from_id, into_id}] - per language
+    edits: list[dict] = []  # [{lang, idx, text}]
+    insert_after: list[dict] = []  # [{lang, after_id, text}] - per language; after_id "-1" = start
     remove_in_lang: list[dict] = []
     first_lang: str | None = None
     reexported: bool = False
@@ -446,17 +590,18 @@ def _apply_mos_edits(
     exclude_ids: set[str],
     merges: list[dict],
     edits_map: dict[int, str] | None = None,
-    insert_after: set[int] | None = None,
+    inserts: list[dict] | None = None,
     remove_indices: set[int] | None = None,
 ) -> list[str]:
     """
     Apply exclude, merge, edits, and inserts.
     Excluded / per-language-removed / merge-source segments are omitted from the
     output (lines are deleted from the MOS, not replaced with empty lines).
+    `inserts` is a list of {"after_id": int, "text": str}; after_id -1 = insert
+    at the very start.
     """
     n = len(lines)
     exclude_set = {int(x) for x in exclude_ids if x.isdigit()}
-    insert_after_set = insert_after or set()
     remove_set = remove_indices or set()
     merge_from_to: dict[int, int] = {}
     for m in merges:
@@ -482,9 +627,17 @@ def _apply_mos_edits(
                 result_j.append(j)
         return sorted(result_j)
 
+    inserts_by_anchor: dict[int, list[str]] = {}
+    for ins in inserts or []:
+        try:
+            anchor = int(ins.get("after_id"))
+        except (TypeError, ValueError):
+            continue
+        inserts_by_anchor.setdefault(anchor, []).append(ins.get("text", ""))
+
     result: list[str] = []
-    if -1 in insert_after_set:
-        result.append("")
+    for text in inserts_by_anchor.get(-1, []):
+        result.append(text)
     for i in range(n):
         # Omit excluded, per-lang removed, and merge-source segments entirely (no line in output).
         if i in exclude_set or i in remove_set or i in merge_from_to:
@@ -504,8 +657,8 @@ def _apply_mos_edits(
             text = edits_map[i]
 
         result.append(text)
-        if i in insert_after_set:
-            result.append("")
+        for ins_text in inserts_by_anchor.get(i, []):
+            result.append(ins_text)
     return result
 
 
@@ -513,22 +666,33 @@ def _apply_mos_edits(
 def api_mos_apply(req: MosApplyRequest):
     if req.reexported:
         ensure_reexported_mos(req.doc_id)
-        doc_path = MOS_REEXPORTED_DIR / req.doc_id
+        resolved = _resolve_mos_doc_container(req.doc_id, True)
+        if not resolved:
+            raise HTTPException(404, f"Document {req.doc_id} not found in mos_reexported")
+        _, doc_path = resolved
         out_doc_id = req.doc_id
-        out_doc_path = MOS_REEXPORTED_DIR / out_doc_id
+        out_doc_path = doc_path
     else:
-        doc_path = MOS_DIR / req.doc_id
+        resolved = _resolve_mos_doc_container(req.doc_id, False)
+        if not resolved:
+            raise HTTPException(404, f"Document {req.doc_id} not found")
+        _, doc_path = resolved
         out_doc_id = f"{req.doc_id}_remerged"
-        out_doc_path = MOS_DIR / out_doc_id
-    if not doc_path.exists():
-        raise HTTPException(404, f"Document {req.doc_id} not found")
+        out_doc_path = doc_path.parent / out_doc_id
     exclude_set = set(req.exclude_ids)
-    insert_after_set: set[int] = set()
+    merges_by_lang: dict[str, list[dict]] = {}
+    for m in req.merges:
+        lang = m.get("lang")
+        if lang is None:
+            continue
+        merges_by_lang.setdefault(lang, []).append(m)
+    inserts_by_lang: dict[str, list[dict]] = {}
     for x in req.insert_after:
-        try:
-            insert_after_set.add(int(x))
-        except ValueError:
-            pass
+        lang = x.get("lang")
+        after_id = x.get("after_id")
+        if lang is None or after_id is None:
+            continue
+        inserts_by_lang.setdefault(lang, []).append({"after_id": after_id, "text": x.get("text", "")})
     edits_by_lang: dict[str, dict[int, str]] = {}
     for e in req.edits:
         lang = e.get("lang")
@@ -572,8 +736,10 @@ def api_mos_apply(req: MosApplyRequest):
             lines = [line.rstrip("\n") for line in f]
         edits_map = edits_by_lang.get(lang_dir.name)
         remove_indices = remove_by_lang.get(lang_dir.name)
+        lang_merges = merges_by_lang.get(lang_dir.name, [])
+        lang_inserts = inserts_by_lang.get(lang_dir.name, [])
         # Do NOT pad/trim other languages to match first language; keep original segment counts.
-        new_lines = _apply_mos_edits(lines, exclude_set, req.merges, edits_map, insert_after_set, remove_indices)
+        new_lines = _apply_mos_edits(lines, exclude_set, lang_merges, edits_map, lang_inserts, remove_indices)
         out_lang_dir = out_doc_path / lang_dir.name
         out_lang_dir.mkdir(parents=True, exist_ok=True)
         out_mos_path = out_lang_dir / mos_path.name
@@ -588,7 +754,7 @@ def api_mos_apply(req: MosApplyRequest):
         except Exception as e:
             # Do not fail apply if debug printing breaks for any reason.
             log.warning("Failed to print MOS for debug: %s", e)
-    return {"status": "ok", "message": f"Applied edits to {out_doc_id}"}
+    return {"status": "ok", "out_doc_id": out_doc_id, "message": f"Applied edits to {out_doc_id}"}
 
 
 @app.post("/api/refresh")
@@ -612,39 +778,272 @@ def refresh_mos():
         raise HTTPException(500, str(e))
 
 
+def _tikal_merge_one(lang: str, mos_path: Path, skeleton_file: Path, out_file: Path) -> None:
+    """Run a single Tikal -lm merge (MOS segments -> skeleton document), raising a
+    descriptive HTTPException on any failure."""
+    cmd = [
+        str(TIKAL_SCRIPT),
+        "-lm", str(skeleton_file),
+        "-from", str(mos_path),
+        "-to", str(out_file),
+        "-sl", lang,
+        "-tl", lang,
+        "-ie", "utf8",
+        "-oe", "utf8",
+        "-overtrg",
+    ]
+    if SEGMENTATION_SRX.exists():
+        cmd.extend(["-seg", str(SEGMENTATION_SRX)])
+    try:
+        proc = subprocess.run(cmd, cwd=str(BASE), capture_output=True, text=True, timeout=120)
+        if proc.returncode != 0:
+            detail = (proc.stderr or proc.stdout or "no output from Tikal").strip()
+            raise HTTPException(
+                500,
+                f"Tikal -lm failed merging '{lang}' segment '{mos_path.name}' into skeleton "
+                f"'{skeleton_file.name}' (exit code {proc.returncode}):\n{detail}",
+            )
+    except subprocess.TimeoutExpired:
+        raise HTTPException(
+            504,
+            f"Tikal -lm timed out after 120s merging '{lang}' segment '{mos_path.name}' into "
+            f"skeleton '{skeleton_file.name}'. The file may be unusually large or Tikal may be hung.",
+        )
+    except HTTPException:
+        raise
+    except Exception as e:
+        # Any unexpected error should also break the API so it's visible in the UI.
+        raise HTTPException(
+            500,
+            f"Unexpected error running Tikal -lm for '{lang}' segment '{mos_path.name}': {e}",
+        )
+
+
+_INLINE_CODE_RE = re.compile(r'<g[^>]*>|</g>|<x[^>]*/>')
+
+
+def _extract_inline_codes(text: str) -> list[str]:
+    """Extract the ordered list of inline formatting codes (<g>/</g>/<x/>) in a MOS segment."""
+    return _INLINE_CODE_RE.findall(text)
+
+
+def _resolve_reexport_mos_root(doc_id: str, reexported: bool) -> tuple[Path, Path, list[str]]:
+    """
+    Resolve (chosen_data_root, mos_root, mos_gen_warnings) for a document about to be
+    re-exported, used by both the alignment check and the actual reexport.
+    """
+    mos_gen_warnings: list[str] = []
+    if reexported:
+        mos_gen_warnings.extend(ensure_reexported_mos(doc_id))
+        resolved = _resolve_mos_doc_container(doc_id, True)
+        if not resolved:
+            raise HTTPException(
+                404,
+                f"Cannot re-export: no MOS found for reexported document '{doc_id}' under any data root's "
+                "mos_reexported/ directory. The document may not have been reexported yet, or its "
+                "html_reexported/docx_reexported source is missing.",
+            )
+        chosen_data_root, mos_root = resolved
+    else:
+        chosen_data_root = None
+        mos_root = None
+        for data_root in _data_root_candidates():
+            candidate_mos_dir = _orig_mos_dir(data_root)
+            remerged = candidate_mos_dir / f"{doc_id}_remerged"
+            if remerged.exists():
+                chosen_data_root = data_root
+                mos_root = remerged
+                break
+            candidate_doc = candidate_mos_dir / doc_id
+            if candidate_doc.exists():
+                chosen_data_root = data_root
+                mos_root = candidate_doc
+                break
+        if not mos_root or not chosen_data_root:
+            raise HTTPException(
+                404,
+                f"Cannot re-export: no MOS folder found for '{doc_id}' (checked for both "
+                f"'{doc_id}_remerged' and '{doc_id}' under mos/ in every data root). "
+                "If you just applied edits, check that 'Apply to MOS' succeeded; if this is an "
+                "original document, run 'Refresh MOS files' first.",
+            )
+    if not mos_root.exists():
+        raise HTTPException(404, f"Cannot re-export: resolved MOS path does not exist: {mos_root}")
+    return chosen_data_root, mos_root, mos_gen_warnings
+
+
+def _compute_alignment_check(doc_id: str, reexported: bool = False) -> dict:
+    """
+    Check whether doc_id's current MOS state is safe to merge into the shared
+    first-language skeleton via Tikal -lm. All languages are poured into the SAME
+    first-language document, so (a) every language must have exactly as many segments
+    as the skeleton, and (b) each segment's inline formatting codes (<g>/<x>, which
+    encode formatting-run boundaries specific to the skeleton's own XML structure) must
+    match the skeleton's own codes at that position — a translated segment can't
+    introduce a formatting boundary the skeleton doesn't have there, or Tikal's writer
+    throws an opaque NullPointerException instead of merging.
+    """
+    base_id = doc_id.split("_remerged")[0]
+    chosen_data_root, mos_root, _ = _resolve_reexport_mos_root(doc_id, reexported)
+
+    all_langs = sorted(d.name for d in mos_root.iterdir() if d.is_dir())
+    if not all_langs:
+        raise HTTPException(404, f"Cannot check alignment: no language subdirectories found under MOS folder {mos_root}")
+    first_lang = all_langs[0]
+    first_lang_mos = _get_mos_file(mos_root, first_lang)
+    if not first_lang_mos:
+        raise HTTPException(
+            404,
+            f"Cannot check alignment: no .mos file found for first language '{first_lang}' under {mos_root / first_lang}.",
+        )
+    with open(first_lang_mos, encoding="utf-8") as f:
+        first_lines = [line.rstrip("\n") for line in f]
+
+    count_mismatches: list[dict] = []
+    code_mismatches: list[dict] = []
+    for lang_dir in sorted(mos_root.iterdir()):
+        if not lang_dir.is_dir() or lang_dir.name == first_lang:
+            continue
+        lang = lang_dir.name
+        for mos_path in lang_dir.glob("*.mos"):
+            with open(mos_path, encoding="utf-8") as f:
+                lang_lines = [line.rstrip("\n") for line in f]
+            if len(lang_lines) != len(first_lines):
+                count_mismatches.append({
+                    "lang": lang,
+                    "file": mos_path.name,
+                    "count": len(lang_lines),
+                    "expected": len(first_lines),
+                })
+            for i in range(min(len(lang_lines), len(first_lines))):
+                skeleton_codes = _extract_inline_codes(first_lines[i])
+                lang_codes = _extract_inline_codes(lang_lines[i])
+                if skeleton_codes != lang_codes:
+                    code_mismatches.append({
+                        "lang": lang,
+                        "idx": i,
+                        "skeleton_text": first_lines[i],
+                        "lang_text": lang_lines[i],
+                        "skeleton_codes": skeleton_codes,
+                        "lang_codes": lang_codes,
+                    })
+    return {
+        "doc_id": doc_id,
+        "base_id": base_id,
+        "first_lang": first_lang,
+        "languages": all_langs,
+        "count_mismatches": count_mismatches,
+        "code_mismatches": code_mismatches,
+        "ok": not count_mismatches and not code_mismatches,
+    }
+
+
+@app.get("/api/alignment/check")
+def api_alignment_check(doc_id: str, reexported: bool = False):
+    """On-demand check for problems that would break a Tikal reexport merge, without
+    actually running the merge."""
+    return _compute_alignment_check(doc_id, reexported)
+
+
+def _format_check_failure(check: dict) -> str:
+    parts = []
+    if check["count_mismatches"]:
+        items = [
+            f"'{m['lang']}' has {m['count']} segment(s) in {m['file']}, expected {m['expected']} "
+            f"(to match the '{check['first_lang']}' skeleton)"
+            for m in check["count_mismatches"]
+        ]
+        parts.append("Segment count mismatches: " + "; ".join(items))
+    if check["code_mismatches"]:
+        items = [
+            f"'{m['lang']}' segment #{m['idx'] + 1}: skeleton has codes {m['skeleton_codes']}, "
+            f"'{m['lang']}' has codes {m['lang_codes']} (skeleton text: {m['skeleton_text']!r}, "
+            f"'{m['lang']}' text: {m['lang_text']!r})"
+            for m in check["code_mismatches"][:20]
+        ]
+        extra = len(check["code_mismatches"]) - 20
+        parts.append(
+            "Inline formatting code mismatches (translated segment doesn't match the skeleton's "
+            "formatting-run structure at that position): " + "; ".join(items)
+            + (f" ... and {extra} more" if extra > 0 else "")
+        )
+    return " | ".join(parts)
+
+
 @app.post("/api/reexport")
 def reexport_original(doc_id: str, reexported: bool = False):
-    """Re-export by merging MOS back into HTML using tikal -lm (no XLIFF)."""
+    """Re-export by merging MOS back into HTML/DOCX using tikal -lm (no XLIFF)."""
     if not TIKAL_SCRIPT.exists():
-        raise HTTPException(404, f"tikal script not found at {TIKAL_SCRIPT}")
+        raise HTTPException(
+            404,
+            f"Cannot re-export: tikal.sh not found at {TIKAL_SCRIPT}. "
+            "Okapi Tikal is required to merge MOS segments back into the original document format.",
+        )
     # Base ID without optional _remerged suffix (e.g. html_20_remerged -> html_20, docx_91_remerged -> docx_91)
     base_id = doc_id.split("_remerged")[0]
     is_docx = base_id.startswith("docx_")
-    if reexported:
-        ensure_reexported_mos(doc_id)
-        mos_root = MOS_REEXPORTED_DIR / doc_id
-    else:
-        remerged = MOS_DIR / f"{doc_id}_remerged"
-        mos_root = remerged if remerged.exists() else (MOS_DIR / doc_id)
-    if not mos_root.exists():
-        raise HTTPException(404, f"MOS not found for {doc_id}")
 
-    # Determine first language and use its skeleton document as the template for ALL languages.
+    chosen_data_root, mos_root, mos_gen_warnings = _resolve_reexport_mos_root(doc_id, reexported)
+
     all_langs = sorted(d.name for d in mos_root.iterdir() if d.is_dir())
     if not all_langs:
-        raise HTTPException(404, f"No language subdirs in MOS for {doc_id}")
+        raise HTTPException(404, f"Cannot re-export: no language subdirectories found under MOS folder {mos_root}")
     first_lang = all_langs[0]
+
+    # Fail fast with a clear, actionable report instead of letting Tikal crash mid-merge
+    # with an opaque Java stack trace (segment-count or inline-formatting-code mismatch
+    # against the shared first-language skeleton — see _compute_alignment_check).
+    check = _compute_alignment_check(doc_id, reexported)
+    if not check["ok"]:
+        raise HTTPException(
+            422,
+            "Cannot re-export: alignment problems must be fixed first (use 'Check alignment' in the UI "
+            "to see them highlighted). " + _format_check_failure(check),
+        )
+
     if is_docx:
-        skeleton_lang_root = DOCX_DIR / base_id / first_lang
+        skeleton_lang_root = _orig_docx_dir(chosen_data_root) / base_id / first_lang
         if not skeleton_lang_root.is_dir():
-            raise HTTPException(404, f"Skeleton DOCX not found for first language {first_lang} of {base_id}")
-        out_root = DOCX_REEXPORTED_DIR / base_id
+            raise HTTPException(
+                404,
+                f"Cannot re-export: skeleton DOCX folder not found at {skeleton_lang_root}. "
+                f"Expected the original docx for language '{first_lang}' (the first language, "
+                f"used as the shared template for all languages) of document '{base_id}'.",
+            )
+        out_root = _re_docx_dir(chosen_data_root) / base_id
+        skeleton_ext = ".docx"
     else:
-        skeleton_lang_root = HTML_DIR / doc_id / first_lang
+        skeleton_lang_root = _orig_html_dir(chosen_data_root) / base_id / first_lang
         if not skeleton_lang_root.is_dir():
-            raise HTTPException(404, f"Skeleton HTML not found for first language {first_lang} of {doc_id}")
-        out_root = HTML_REEXPORTED_DIR / doc_id
+            raise HTTPException(
+                404,
+                f"Cannot re-export: skeleton HTML folder not found at {skeleton_lang_root}. "
+                f"Expected the original html for language '{first_lang}' (the first language, "
+                f"used as the shared template for all languages) of document '{doc_id}'.",
+            )
+        out_root = _re_html_dir(chosen_data_root) / doc_id
+        skeleton_ext = ".html"
     out_root.mkdir(parents=True, exist_ok=True)
+
+    # The skeleton file itself always comes from the first language (same file for
+    # every language's merge), independent of what each language's own MOS/original
+    # file happens to be named — those names can differ entirely between languages
+    # (e.g. docx originals translated by different people under different filenames).
+    first_lang_mos = _get_mos_file(mos_root, first_lang)
+    if not first_lang_mos:
+        raise HTTPException(
+            404,
+            f"Cannot re-export: no .mos file found for first language '{first_lang}' under {mos_root / first_lang}.",
+        )
+    skeleton_file = skeleton_lang_root / f"{first_lang_mos.stem}{skeleton_ext}"
+    if not skeleton_file.exists():
+        raise HTTPException(
+            404,
+            f"Cannot re-export: skeleton file missing at {skeleton_file}. "
+            f"This is derived from the first language's ('{first_lang}') MOS filename "
+            f"('{first_lang_mos.name}') — the original {skeleton_ext} must exist under the same name "
+            f"in {skeleton_lang_root}.",
+        )
 
     merged_count = 0
     for lang_dir in sorted(mos_root.iterdir()):
@@ -655,46 +1054,27 @@ def reexport_original(doc_id: str, reexported: bool = False):
         out_lang_dir.mkdir(parents=True, exist_ok=True)
         for mos_path in lang_dir.glob("*.mos"):
             base_name = mos_path.stem
-            # Always use first language HTML as the template, regardless of target language.
-            skeleton_html = skeleton_lang_root / f"{base_name}.html"
-            if not skeleton_html.exists():
-                log.warning("Skeleton HTML missing: %s", skeleton_html)
-                continue
-            out_html = out_lang_dir / f"{base_name}.html"
-            cmd = [
-                str(TIKAL_SCRIPT),
-                "-lm", str(skeleton_html),
-                "-from", str(mos_path),
-                "-to", str(out_html),
-                "-sl", lang,
-                "-tl", lang,
-                "-ie", "utf8",
-                "-oe", "utf8",
-                "-overtrg",
-            ]
-            if SEGMENTATION_SRX.exists():
-                cmd.extend(["-seg", str(SEGMENTATION_SRX)])
-            try:
-                proc = subprocess.run(cmd, cwd=str(BASE), capture_output=True, text=True, timeout=120)
-                if proc.returncode != 0:
-                    # Surface Tikal errors to the caller so the UI can show them.
-                    raise HTTPException(500, f"Tikal -lm failed for {mos_path}: {proc.stderr or proc.stdout}")
-                merged_count += 1
-            except subprocess.TimeoutExpired:
-                raise HTTPException(504, f"Tikal -lm timed out for {mos_path}")
-            except Exception as e:
-                # Any unexpected error should also break the API so it's visible in the UI.
-                raise HTTPException(500, f"Tikal -lm error for {mos_path}: {e}")
+            out_file = out_lang_dir / f"{base_name}{skeleton_ext}"
+            _tikal_merge_one(lang, mos_path, skeleton_file, out_file)
+            merged_count += 1
+
+    if merged_count == 0:
+        raise HTTPException(
+            500,
+            f"Re-export produced no output files for '{doc_id}' even though no errors were raised — "
+            "this indicates a bug in the reexport logic rather than a data problem. Please report it.",
+        )
 
     # After reexport, regenerate MOS for the reexported HTML/DOCX so the UI can load
-    # aligned segments directly from the updated originals. Any failure here should
-    # also surface as an error to the caller.
-    ensure_reexported_mos(doc_id if not is_docx else base_id)
+    # aligned segments directly from the updated originals. Failures here don't undo
+    # the merge that already succeeded above, but are surfaced as warnings.
+    mos_gen_warnings.extend(ensure_reexported_mos(doc_id if not is_docx else base_id))
 
-    return {
-        "status": "ok",
-        "message": f"Re-exported {doc_id} ({merged_count} file(s) merged from MOS and MOS regenerated from reexported HTML)",
-    }
+    format_name = "docx" if is_docx else "html"
+    message = f"Re-exported {doc_id} ({merged_count} file(s) merged from MOS into {format_name} format)"
+    if mos_gen_warnings:
+        message += ". Warnings while regenerating preview MOS: " + "; ".join(mos_gen_warnings)
+    return {"status": "ok", "message": message, "warnings": mos_gen_warnings}
 
 
 # Serve static frontend
