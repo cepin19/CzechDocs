@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="word/document.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NFDBB2FA9-tu1" xml:space="preserve">
+<source xml:lang="uk">Найчастіші запитання та відповіді – біженці з України, що прибувають до Карловарського краю</source>
+<target xml:lang="en-US">Найчастіші запитання та відповіді – біженці з України, що прибувають до Карловарського краю</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu2" xml:space="preserve">
+<source xml:lang="uk">Що мене чекає після приходу в Крайовий асистентний центр допомоги Україні (KACPU) у спорткомплексі KV Arena?</source>
+<target xml:lang="en-US">Що мене чекає після приходу в Крайовий асистентний центр допомоги Україні (KACPU) у спорткомплексі KV Arena?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu3" xml:space="preserve">
+<source xml:lang="uk">Спочатку пройдіть через пост, де ви заповните вступний формуляр, і у разі потреби вам буде забезпечене проживання і проїзд.</source>
+<target xml:lang="en-US">Спочатку пройдіть через пост, де ви заповните вступний формуляр, і у разі потреби вам буде забезпечене проживання і проїзд.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu4" xml:space="preserve">
+<source xml:lang="uk">Далі з посвідченням особи (закордонний паспорт, внутрішній паспорт або свідоцтво про народження) станьте на облік в поліції зі справ іноземців.<x id="1"/></source>
+<target xml:lang="en-US">Далі з посвідченням особи (закордонний паспорт, внутрішній паспорт або свідоцтво про народження) станьте на облік в поліції зі справ іноземців.<x id="1"/></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu5" xml:space="preserve">
+<source xml:lang="uk">На наступному пості заповніть необхідні дані для отримання спеціальної візи з терміном дії 1 рік. Ця віза дає вам право на перебування виключно на території Чеської Республіки і право на роботу в ЧР.</source>
+<target xml:lang="en-US">На наступному пості заповніть необхідні дані для отримання спеціальної візи з терміном дії 1 рік. Ця віза дає вам право на перебування виключно на території Чеської Республіки і право на роботу в ЧР.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu6" xml:space="preserve">
+<source xml:lang="uk">Далі на пості медичної страхової компанії ви отримаєте довідку про медичне страхування, яка дає вам право на повне медичне обслуговування на території ЧР.</source>
+<target xml:lang="en-US">Далі на пості медичної страхової компанії ви отримаєте довідку про медичне страхування, яка дає вам право на повне медичне обслуговування на території ЧР.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu7" xml:space="preserve">
+<source xml:lang="uk">Працівники Центру зайнятості пояснять вам, як отримати грошову допомогу, тобто подати заявку на негайну допомогу у надзвичайній ситуації, і видадуть дозвіл на роботу. Тут ви також отримаєте інформацію про вільні робочі місця на території  Карловарського краю.</source>
+<target xml:lang="en-US">Працівники Центру зайнятості пояснять вам, як отримати грошову допомогу, тобто подати заявку на негайну допомогу у надзвичайній ситуації, і видадуть дозвіл на роботу. Тут ви також отримаєте інформацію про вільні робочі місця на території  Карловарського краю.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu8" xml:space="preserve">
+<source xml:lang="uk">Крайовий асистентний центр допомоги Україні в KV Arena працює цілодобово 7 днів на тиждень.</source>
+<target xml:lang="en-US">Крайовий асистентний центр допомоги Україні в KV Arena працює цілодобово 7 днів на тиждень.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu9" xml:space="preserve">
+<source xml:lang="uk">На місці забезпечене харчування для прибулих, дитячий куток, можливість задовольнити основні потреби і переночувати, особливо при приїзді вночі.</source>
+<target xml:lang="en-US">На місці забезпечене харчування для прибулих, дитячий куток, можливість задовольнити основні потреби і переночувати, особливо при приїзді вночі.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu10" xml:space="preserve">
+<source xml:lang="uk">Усю інформацію про роботу KACPU та іншу важливу інформацію можна знайти за адресою:</source>
+<target xml:lang="en-US">Усю інформацію про роботу KACPU та іншу важливу інформацію можна знайти за адресою:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu11" xml:space="preserve">
+<source xml:lang="uk"><g id="1">https://www.kr-karlovarsky.cz/ukrajina/Stranky/Informace.aspx</g></source>
+<target xml:lang="en-US"><g id="1">https://www.kr-karlovarsky.cz/ukrajina/Stranky/Informace.aspx</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu12" xml:space="preserve">
+<source xml:lang="uk">Як діяти у разі зміни адреси проживання у Карловарському краї?</source>
+<target xml:lang="en-US">Як діяти у разі зміни адреси проживання у Карловарському краї?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu13" xml:space="preserve">
+<source xml:lang="uk">Необхідно відвідати місцеве відділення департаменту міграційної політики та політики у справах біженців Міністерства внутрішніх справ ЧР у Карлових Варах на вулиці Krymská 47, тел.: 974 801 801 (інформаційна лінія та запис; Пн - Чт: 8:00 - 16:00 і Пт: 8:00 - 12:00) </source>
+<target xml:lang="en-US">Необхідно відвідати місцеве відділення департаменту міграційної політики та політики у справах біженців Міністерства внутрішніх справ ЧР у Карлових Варах на вулиці Krymská 47, тел.: 974 801 801 (інформаційна лінія та запис; Пн - Чт: 8:00 - 16:00 і Пт: 8:00 - 12:00) </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu14" xml:space="preserve">
+<source xml:lang="uk">Режим роботи:  Пн, Ср: 8.00 - 17.00 (обідня перерва 12.00 - 12.30),  Вт, Чт: 8.00 - 12.00, Пт: лише за викликом </source>
+<target xml:lang="en-US">Режим роботи:  Пн, Ср: 8.00 - 17.00 (обідня перерва 12.00 - 12.30),  Вт, Чт: 8.00 - 12.00, Пт: лише за викликом </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu15" xml:space="preserve">
+<source xml:lang="uk">Звертайтеся у це відділення, зокрема, у випадках, коли ви:</source>
+<target xml:lang="en-US">Звертайтеся у це відділення, зокрема, у випадках, коли ви:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu16" xml:space="preserve">
+<source xml:lang="uk">подаєте заяву на продовження перебування за довгостроковою візою</source>
+<target xml:lang="en-US">подаєте заяву на продовження перебування за довгостроковою візою</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu17" xml:space="preserve">
+<source xml:lang="uk">подаєте заяву на отримання дозволу на довгострокове проживання чи продовження його дії</source>
+<target xml:lang="en-US">подаєте заяву на отримання дозволу на довгострокове проживання чи продовження його дії</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu18" xml:space="preserve">
+<source xml:lang="uk">подаєте заяву на отримання дозволу на постійне проживання</source>
+<target xml:lang="en-US">подаєте заяву на отримання дозволу на постійне проживання</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu19" xml:space="preserve">
+<source xml:lang="uk">подаєте заяву на підтвердження тимчасового проживання на території (для громадян ЄС)</source>
+<target xml:lang="en-US">подаєте заяву на підтвердження тимчасового проживання на території (для громадян ЄС)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu20" xml:space="preserve">
+<source xml:lang="uk">подаєте заяву на отримання дозволу на тимчасове проживання члена сім᾽ї громадянина ЄС чи на продовження посвідки на проживання</source>
+<target xml:lang="en-US">подаєте заяву на отримання дозволу на тимчасове проживання члена сім᾽ї громадянина ЄС чи на продовження посвідки на проживання</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu21" xml:space="preserve">
+<source xml:lang="uk">повідомляєте про зміну місця проживання на території, чи іншу зміну, що торкається вашого перебування в ЧР</source>
+<target xml:lang="en-US">повідомляєте про зміну місця проживання на території, чи іншу зміну, що торкається вашого перебування в ЧР</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu22" xml:space="preserve">
+<source xml:lang="uk">подаєте заяву на отримання довідки про проживання</source>
+<target xml:lang="en-US">подаєте заяву на отримання довідки про проживання</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu23" xml:space="preserve">
+<source xml:lang="uk"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu24" xml:space="preserve">
+<source xml:lang="uk"><g id="1">Які можливості для проживання здатен запропонувати Карловарський край?<x id="2"/></g><x id="3"/>У першу чергу біженців з України скеровують у заклади проживання працівники Крайового асистентного центру допомоги Україні. Біженець отримає проживання у рамках процесу реєстрації.</source>
+<target xml:lang="en-US"><g id="1">Які можливості для проживання здатен запропонувати Карловарський край?<x id="2"/></g><x id="3"/>У першу чергу біженців з України скеровують у заклади проживання працівники Крайового асистентного центру допомоги Україні. Біженець отримає проживання у рамках процесу реєстрації.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu25" xml:space="preserve">
+<source xml:lang="uk">Слід підкреслити, що мігрант повинен отримати від KACPU заявку на проживання, оскільки на підставі пред᾽явленої заявки за надавачем житла буде визнане право на компенсацію витрат на проживання.</source>
+<target xml:lang="en-US">Слід підкреслити, що мігрант повинен отримати від KACPU заявку на проживання, оскільки на підставі пред᾽явленої заявки за надавачем житла буде визнане право на компенсацію витрат на проживання.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu26" xml:space="preserve">
+<source xml:lang="uk">У протилежному разі за надавачем житла не мусить бути визнане право на компенсацію витрат на проживання. Слід наголосити, що якщо мігранти будуть змінювати місце проживання, необхідно повторно пройти через систему KACP.</source>
+<target xml:lang="en-US">У протилежному разі за надавачем житла не мусить бути визнане право на компенсацію витрат на проживання. Слід наголосити, що якщо мігранти будуть змінювати місце проживання, необхідно повторно пройти через систему KACP.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu27" xml:space="preserve">
+<source xml:lang="uk"><x id="1"/>Також Управління установами для біженців при Міністерстві внутрішніх справ ЧР на підставі рішення уряду відкрило  у селі Вишні-Лготи «Реєстраційний гуманітарний центр Вишні-Лготи». Реєстраційний гуманітарний центр призначений лише для тих громадян України, які не мають у Чеській Республіці жодного прихистку і засобів на проживання, і потребують безпосередню допомогу і проживання.</source>
+<target xml:lang="en-US"><x id="1"/>Також Управління установами для біженців при Міністерстві внутрішніх справ ЧР на підставі рішення уряду відкрило  у селі Вишні-Лготи «Реєстраційний гуманітарний центр Вишні-Лготи». Реєстраційний гуманітарний центр призначений лише для тих громадян України, які не мають у Чеській Республіці жодного прихистку і засобів на проживання, і потребують безпосередню допомогу і проживання.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu28" xml:space="preserve">
+<source xml:lang="uk">Перед прибуттям до Реєстраційного гуманітарного центру Вишні-Лготи подзвоніть з 7:00 до 15:30 за тел.: +420 775 466 495, у інший час за тел.: +420 778 752 582. </source>
+<target xml:lang="en-US">Перед прибуттям до Реєстраційного гуманітарного центру Вишні-Лготи подзвоніть з 7:00 до 15:30 за тел.: +420 775 466 495, у інший час за тел.: +420 778 752 582. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu29" xml:space="preserve">
+<source xml:lang="uk">Сайт  Управління установами для біженців при Міністерстві внутрішніх справ ЧР:</source>
+<target xml:lang="en-US">Сайт  Управління установами для біженців при Міністерстві внутрішніх справ ЧР:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu30" xml:space="preserve">
+<source xml:lang="uk"> <g id="1">https://www.suz.cz/informace-pro-nove-prichozi-obcany-ukrajiny/</g></source>
+<target xml:lang="en-US"> <g id="1">https://www.suz.cz/informace-pro-nove-prichozi-obcany-ukrajiny/</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu31" xml:space="preserve">
+<source xml:lang="uk">У мене є право на отримання якихось соціальних виплат?</source>
+<target xml:lang="en-US">У мене є право на отримання якихось соціальних виплат?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu32" xml:space="preserve">
+<source xml:lang="uk"><x id="1"/>Поки що біженці з України можуть подавати заявку на отримання негайної допомоги у надзвичайній ситуації. Для цього спочатку слід зареєструватися у KACPU, де працівник Центру зайнятості, окрім іншого, детально пояснить, що саме необхідно зробити. Після того, як у рамках реєстрації людина отримає спеціальну візу (з метою допуску), вона може відвідати філію Центра зайнятості у конкретному місті.</source>
+<target xml:lang="en-US"><x id="1"/>Поки що біженці з України можуть подавати заявку на отримання негайної допомоги у надзвичайній ситуації. Для цього спочатку слід зареєструватися у KACPU, де працівник Центру зайнятості, окрім іншого, детально пояснить, що саме необхідно зробити. Після того, як у рамках реєстрації людина отримає спеціальну візу (з метою допуску), вона може відвідати філію Центра зайнятості у конкретному місті.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu33" xml:space="preserve">
+<source xml:lang="uk"><g id="1">https://www.uradprace.cz/web/cz/mimoradna-okamzita-pomoc1</g><x id="2"/><g id="3">Тепер іноземці з тимчасовим захистом можуть отримати грошову виплату – ГУМАНІТАРНУ ДОПОМОГУ у розмірі 5 000 CZK,<g id="4"> </g>яка повинна допомогти задовільнити основні життєві потреби.</g></source>
+<target xml:lang="en-US"><g id="1">https://www.uradprace.cz/web/cz/mimoradna-okamzita-pomoc1</g><x id="2"/><g id="3">Тепер іноземці з тимчасовим захистом можуть отримати грошову виплату – ГУМАНІТАРНУ ДОПОМОГУ у розмірі 5 000 CZK,<g id="4"> </g>яка повинна допомогти задовільнити основні життєві потреби.</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu34" xml:space="preserve">
+<source xml:lang="uk">Перша виплата у розмірі 5 000 CZK буде надана автоматично усім, хто отримав дозвіл на проживання.</source>
+<target xml:lang="en-US">Перша виплата у розмірі 5 000 CZK буде надана автоматично усім, хто отримав дозвіл на проживання.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu35" xml:space="preserve">
+<source xml:lang="uk">Не потрібно подавати заявку на отримання гуманітарної виплати.</source>
+<target xml:lang="en-US">Не потрібно подавати заявку на отримання гуманітарної виплати.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu36" xml:space="preserve">
+<source xml:lang="uk">Щоб якнайшвидше здійснити виплату необхідний банківський рахунок у ЧР.</source>
+<target xml:lang="en-US">Щоб якнайшвидше здійснити виплату необхідний банківський рахунок у ЧР.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu37" xml:space="preserve">
+<source xml:lang="uk">Відкриття банківського рахунку має принципове значення для вчасного отримання гуманітарної допомоги. <x id="1"/></source>
+<target xml:lang="en-US">Відкриття банківського рахунку має принципове значення для вчасного отримання гуманітарної допомоги. <x id="1"/></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu38" xml:space="preserve">
+<source xml:lang="uk">Детальна інформація <g id="1">Допомога Україні (mpsv.cz)</g></source>
+<target xml:lang="en-US">Детальна інформація <g id="1">Допомога Україні (mpsv.cz)</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu39" xml:space="preserve">
+<source xml:lang="uk">Чи можу я відкрити рахунок у якомусь з чеських банків?</source>
+<target xml:lang="en-US">Чи можу я відкрити рахунок у якомусь з чеських банків?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu40" xml:space="preserve">
+<source xml:lang="uk">Банки на території ЧР намагаються спростити для біженців з України процес відкриття особистого рахунку. Більшість з них вимагають пред᾽явлення українського закордонного паспорта зі спеціальною довгостроковою візою для біженців, з терміном дії до 1 року. Цю візу біженці отримають при реєстрації в крайовому асистентному центрі.</source>
+<target xml:lang="en-US">Банки на території ЧР намагаються спростити для біженців з України процес відкриття особистого рахунку. Більшість з них вимагають пред᾽явлення українського закордонного паспорта зі спеціальною довгостроковою візою для біженців, з терміном дії до 1 року. Цю візу біженці отримають при реєстрації в крайовому асистентному центрі.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu41" xml:space="preserve">
+<source xml:lang="uk">Детальніше про послуги окремих банків:</source>
+<target xml:lang="en-US">Детальніше про послуги окремих банків:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu42" xml:space="preserve">
+<source xml:lang="uk"><g id="1">https://www.mesec.cz/clanky/jak-si-mohou-obcane-z-ukrajiny-zalozit-ucet/</g></source>
+<target xml:lang="en-US"><g id="1">https://www.mesec.cz/clanky/jak-si-mohou-obcane-z-ukrajiny-zalozit-ucet/</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu43" xml:space="preserve">
+<source xml:lang="uk">Чи можу я оформити виплату допомоги онлайн?</source>
+<target xml:lang="en-US">Чи можу я оформити виплату допомоги онлайн?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu44" xml:space="preserve">
+<source xml:lang="uk">З понеділка 21. 3. 2022 буде можливою виплата гуманітарної допомоги для громадян України, які тікають до нас від війни. Процес подачі заявки на допомогу буде здійснюватися онлайн, так що не буде необхідності особисто відвідувати Центр зайнятості ЧР. Щоб можна було здійснювати безготівкову виплату допомоги, необхідно відкрити рахунок у чеському банку.</source>
+<target xml:lang="en-US">З понеділка 21. 3. 2022 буде можливою виплата гуманітарної допомоги для громадян України, які тікають до нас від війни. Процес подачі заявки на допомогу буде здійснюватися онлайн, так що не буде необхідності особисто відвідувати Центр зайнятості ЧР. Щоб можна було здійснювати безготівкову виплату допомоги, необхідно відкрити рахунок у чеському банку.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu45" xml:space="preserve">
+<source xml:lang="uk"><g id="1">Як дізнатися, де на території Карловарського краю можна знайти роботу?</g><x id="2"/>Усю необхідну інформацію при реєстрації в KACPU вам повідомить працівник Центру зайнятості і представник Крайової торгово-промислової палати. З вакансіями також можна ознайомитися на цьому сайті:<x id="3"/><g id="4">https://www.khkkk.cz/nabidka-pracovnich-mist-pro-ukrajinske-uprchliky/</g><g id="5">.<x id="6"/></g>Вільні робочі місця з бази даних Центру зайнятості ЧР оприлюднені на порталі: <g id="7">https://www.uradprace.cz/web/cz/volna-mista-v-cr</g>.  За допомогою розширеного пошуку можна здійснювати пошук вакансій за регіонами чи районами. Також слід відзначити </source>
+<target xml:lang="en-US"><g id="1">Як дізнатися, де на території Карловарського краю можна знайти роботу?</g><x id="2"/>Усю необхідну інформацію при реєстрації в KACPU вам повідомить працівник Центру зайнятості і представник Крайової торгово-промислової палати. З вакансіями також можна ознайомитися на цьому сайті:<x id="3"/><g id="4">https://www.khkkk.cz/nabidka-pracovnich-mist-pro-ukrajinske-uprchliky/</g><g id="5">.<x id="6"/></g>Вільні робочі місця з бази даних Центру зайнятості ЧР оприлюднені на порталі: <g id="7">https://www.uradprace.cz/web/cz/volna-mista-v-cr</g>.  За допомогою розширеного пошуку можна здійснювати пошук вакансій за регіонами чи районами. Також слід відзначити </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu46" xml:space="preserve">
+<source xml:lang="uk">опцію «згода на працевлаштування іноземців» („Souhlas se zaměstnáním cizinců“) і «Для іноземців» („Pro cizince“). <x id="1"/>Якщо іноземець з України знайде роботу, ще не маючи вільного доступу на ринок праці, необхідно звернутися у Центр зайнятості за дозволом на роботу і надати працівнику ЦЗ трудовий договір, договір на виконання робіт чи попередній договір, марку вартістю 500 CZK, копію візи і довіреність (у разі, якщо роботодавець звертається за дозволом від імені іноземця).<x id="2"/><g id="3">Я хочу віддати дитину у дитячий садок чи школу, що мені роботи?</g></source>
+<target xml:lang="en-US">опцію «згода на працевлаштування іноземців» („Souhlas se zaměstnáním cizinců“) і «Для іноземців» („Pro cizince“). <x id="1"/>Якщо іноземець з України знайде роботу, ще не маючи вільного доступу на ринок праці, необхідно звернутися у Центр зайнятості за дозволом на роботу і надати працівнику ЦЗ трудовий договір, договір на виконання робіт чи попередній договір, марку вартістю 500 CZK, копію візи і довіреність (у разі, якщо роботодавець звертається за дозволом від імені іноземця).<x id="2"/><g id="3">Я хочу віддати дитину у дитячий садок чи школу, що мені роботи?</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu47" xml:space="preserve">
+<source xml:lang="uk"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu48" xml:space="preserve">
+<source xml:lang="uk">Základní informace, jak postupovat, naleznete pod odkazy:</source>
+<target xml:lang="en-US">Základní informace, jak postupovat, naleznete pod odkazy:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu49" xml:space="preserve">
+<source xml:lang="uk"><x id="1"/>http://www.kr-karlovarsky.cz/ukrajina/Stranky/Informace.aspx#SKOLSTVI<x id="2"/><g id="3"> </g></source>
+<target xml:lang="en-US"><x id="1"/>http://www.kr-karlovarsky.cz/ukrajina/Stranky/Informace.aspx#SKOLSTVI<x id="2"/><g id="3"> </g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu50" xml:space="preserve">
+<source xml:lang="uk"><g id="1"><g id="2">https://www.edu.cz/ukrajina/%d0%b4%d0%bb%d1%8f-%d1%83<x id="3"/>%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2/</g></g> </source>
+<target xml:lang="en-US"><g id="1"><g id="2">https://www.edu.cz/ukrajina/%d0%b4%d0%bb%d1%8f-%d1%83<x id="3"/>%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%86%d1%96%d0%b2/</g></g> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu51" xml:space="preserve">
+<source xml:lang="uk">Де я можу отримати гуманітарну допомогу і задовольнити базові потреби?</source>
+<target xml:lang="en-US">Де я можу отримати гуманітарну допомогу і задовольнити базові потреби?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu52" xml:space="preserve">
+<source xml:lang="uk"><x id="1"/>Біженцям з України, які прибудуть на реєстрацію у Крайовий асистентний центр допомоги Україні в KV Arena, прямо у центрі буде надана базова гуманітарна допомога – харчування, найнеобхідніший одяг, засоби гігієни і т. п.</source>
+<target xml:lang="en-US"><x id="1"/>Біженцям з України, які прибудуть на реєстрацію у Крайовий асистентний центр допомоги Україні в KV Arena, прямо у центрі буде надана базова гуманітарна допомога – харчування, найнеобхідніший одяг, засоби гігієни і т. п.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu53" xml:space="preserve">
+<source xml:lang="uk">Чи маю я право на медичне обслуговування в рамках системи загальнообов᾽язкового медичного страхування?<x id="1"/></source>
+<target xml:lang="en-US">Чи маю я право на медичне обслуговування в рамках системи загальнообов᾽язкового медичного страхування?<x id="1"/></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu54" xml:space="preserve">
+<source xml:lang="uk">Так, якщо йдеться про біженців з України, які мають візу і «підтвердження про страхування» від медичної страхової компанії. Про способи оплати обслуговування можна дізнатися на сайті МОЗ.<x id="1"/><g id="2">https://www.mzcr.cz/manual-pro-poskytovatele-zdravotnich-sluzeb/</g> </source>
+<target xml:lang="en-US">Так, якщо йдеться про біженців з України, які мають візу і «підтвердження про страхування» від медичної страхової компанії. Про способи оплати обслуговування можна дізнатися на сайті МОЗ.<x id="1"/><g id="2">https://www.mzcr.cz/manual-pro-poskytovatele-zdravotnich-sluzeb/</g> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu55" xml:space="preserve">
+<source xml:lang="uk">Де можна отримати контакти сімейного лікаря для дорослих, педіатра, гінеколога та стоматолога?<x id="1"/></source>
+<target xml:lang="en-US">Де можна отримати контакти сімейного лікаря для дорослих, педіатра, гінеколога та стоматолога?<x id="1"/></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu56" xml:space="preserve">
+<source xml:lang="uk">Списки лікарів були передані працівникам KACPU і оприлюднені в KACPU. <x id="1"/></source>
+<target xml:lang="en-US">Списки лікарів були передані працівникам KACPU і оприлюднені в KACPU. <x id="1"/></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu57" xml:space="preserve">
+<source xml:lang="uk">Де можна отримати контакти чергової служби?<x id="1"/></source>
+<target xml:lang="en-US">Де можна отримати контакти чергової служби?<x id="1"/></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu58" xml:space="preserve">
+<source xml:lang="uk">Контакти чергової служби медичної та стоматологічної допомоги у Карловарському краї можна знайти на <g id="1">http://www.kr-karlovarsky.cz/zdravotnictvi/Stranky/zachranasl.aspx</g> включно з прийомними годинами і місцями, де вона надається. </source>
+<target xml:lang="en-US">Контакти чергової служби медичної та стоматологічної допомоги у Карловарському краї можна знайти на <g id="1">http://www.kr-karlovarsky.cz/zdravotnictvi/Stranky/zachranasl.aspx</g> включно з прийомними годинами і місцями, де вона надається. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu60" xml:space="preserve">
+<source xml:lang="uk">До кого звернутися, якщо до нас звертаються за допомогою безпосередньо люди з України, які не покинути територію держави?</source>
+<target xml:lang="en-US">До кого звернутися, якщо до нас звертаються за допомогою безпосередньо люди з України, які не покинути територію держави?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu61" xml:space="preserve">
+<source xml:lang="uk">Дзвоніть на гарячу лінію, відкриту Міністерством внутрішніх справ ЧР:</source>
+<target xml:lang="en-US">Дзвоніть на гарячу лінію, відкриту Міністерством внутрішніх справ ЧР:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu62" xml:space="preserve">
+<source xml:lang="uk">+420 974 801 802 (цілодобово)                         </source>
+<target xml:lang="en-US">+420 974 801 802 (цілодобово)                         </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu63" xml:space="preserve">
+<source xml:lang="uk">Email: <g id="1">ukrajina@mvcr.cz</g></source>
+<target xml:lang="en-US">Email: <g id="1">ukrajina@mvcr.cz</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu64" xml:space="preserve">
+<source xml:lang="uk">Інші запитання та відповіді можна знайти на сайті Міністерства внутрішніх справ ЧР:</source>
+<target xml:lang="en-US">Інші запитання та відповіді можна знайти на сайті Міністерства внутрішніх справ ЧР:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu65" xml:space="preserve">
+<source xml:lang="uk"><g id="1">https://bit.ly/36lfmuQ</g></source>
+<target xml:lang="en-US"><g id="1">https://bit.ly/36lfmuQ</g></target>
+</trans-unit>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="uk">FAQ-ukrajinstina</source>
+<target xml:lang="en-US">FAQ-ukrajinstina</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/glossary/document.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P441B13D0-tu1" xml:space="preserve">
+<source xml:lang="uk">[Sem začněte psát]</source>
+<target xml:lang="en-US">[Sem začněte psát]</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/glossary/settings.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/footer2.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P3961C81B-tu1" xml:space="preserve">
+<source xml:lang="uk">Stránka | <x id="1"/></source>
+<target xml:lang="en-US">Stránka | <x id="1"/></target>
+</trans-unit>
+</body>
+</file>
+<file original="word/header1.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P3E6DCAE8-tu1" xml:space="preserve">
+<source xml:lang="uk"></source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P33F30884-sub1" xml:space="preserve">
+<source xml:lang="uk">WordPictureWatermark31366841</source>
+<target xml:lang="en-US">WordPictureWatermark31366841</target>
+</trans-unit>
+<trans-unit id="P33F30884-sub2" xml:space="preserve">
+<source xml:lang="uk">WordPictureWatermark31366841</source>
+<target xml:lang="en-US">WordPictureWatermark31366841</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/header2.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P3E7BE269-tu1" xml:space="preserve">
+<source xml:lang="uk"></source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="N9C6DE2C0-sub1" xml:space="preserve">
+<source xml:lang="uk">Obrázek 2</source>
+<target xml:lang="en-US">Obrázek 2</target>
+</trans-unit>
+<trans-unit id="N9C6DE2C0-sub2" xml:space="preserve">
+<source xml:lang="uk">Obrázek 2</source>
+<target xml:lang="en-US">Obrázek 2</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/footer3.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P396FDF9C-tu1" xml:space="preserve">
+<source xml:lang="uk">Stránka | <x id="1"/></source>
+<target xml:lang="en-US">Stránka | <x id="1"/></target>
+</trans-unit>
+</body>
+</file>
+<file original="word/settings.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/header3.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P3E89F9EA-tu1" xml:space="preserve">
+<source xml:lang="uk"></source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P4E85A5D5-sub1" xml:space="preserve">
+<source xml:lang="uk">Obrázek 2</source>
+<target xml:lang="en-US">Obrázek 2</target>
+</trans-unit>
+<trans-unit id="P4E85A5D5-sub2" xml:space="preserve">
+<source xml:lang="uk">Obrázek 2</source>
+<target xml:lang="en-US">Obrázek 2</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/footer1.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+</xliff>

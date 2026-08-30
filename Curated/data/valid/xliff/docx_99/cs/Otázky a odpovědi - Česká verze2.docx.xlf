@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="word/document.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NFDBB2FA9-tu1" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Jsem osobou, která se dostala do ČR a nemám pobytové oprávnění, co mám dělat?</g></source>
+<target xml:lang="en-US"><g id="1">Jsem osobou, která se dostala do ČR a nemám pobytové oprávnění, co mám dělat?</g></target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub1" xml:space="preserve">
+<source xml:lang="cs">Text Box 11</source>
+<target xml:lang="en-US">Text Box 11</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub2" xml:space="preserve">
+<source xml:lang="cs">Úřad<g id="1"> </g>práce<g id="2"> </g>ČR</source>
+<target xml:lang="en-US">Úřad<g id="1"> </g>práce<g id="2"> </g>ČR</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub3" xml:space="preserve">
+<source xml:lang="cs">Text Box 10</source>
+<target xml:lang="en-US">Text Box 10</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub4" xml:space="preserve">
+<source xml:lang="cs">obrázek 1</source>
+<target xml:lang="en-US">obrázek 1</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub5" xml:space="preserve">
+<source xml:lang="cs">obrázek 1</source>
+<target xml:lang="en-US">obrázek 1</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu2" xml:space="preserve">
+<source xml:lang="cs">Je důležité si vyřídit pobytové oprávnění na Odboru azylové a migrační politiky (OAMP). Pobytové oprávnění bude možné získat i ve zřízených krajských centrech. </source>
+<target xml:lang="en-US">Je důležité si vyřídit pobytové oprávnění na Odboru azylové a migrační politiky (OAMP). Pobytové oprávnění bude možné získat i ve zřízených krajských centrech. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu3" xml:space="preserve">
+<source xml:lang="cs">Nemám finanční prostředky, co mám dělat?</source>
+<target xml:lang="en-US">Nemám finanční prostředky, co mám dělat?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu4" xml:space="preserve">
+<source xml:lang="cs">Pokud jste osobou, která se dostala do ČR, nemáte pobytové oprávnění a nemáte finanční prostředky, požádejte si u Úřadu práce ČR o mimořádnou okamžitou pomoc z důvodu <g id="1">vážné újmy na zdraví.</g> Úřad práce ČR ve zrychleném řízení posoudí Vaši žádost a může Vám vyplatit finanční prostředky v hotovosti.</source>
+<target xml:lang="en-US">Pokud jste osobou, která se dostala do ČR, nemáte pobytové oprávnění a nemáte finanční prostředky, požádejte si u Úřadu práce ČR o mimořádnou okamžitou pomoc z důvodu <g id="1">vážné újmy na zdraví.</g> Úřad práce ČR ve zrychleném řízení posoudí Vaši žádost a může Vám vyplatit finanční prostředky v hotovosti.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu5" xml:space="preserve">
+<source xml:lang="cs">Jakou výši mi Úřad práce ČR může poskytnout u mimořádné okamžité pomoci z důvodu újmy na zdraví?</source>
+<target xml:lang="en-US">Jakou výši mi Úřad práce ČR může poskytnout u mimořádné okamžité pomoci z důvodu újmy na zdraví?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu6" xml:space="preserve">
+<source xml:lang="cs">Úřad práce ČR poskytne finanční prostředky, dle výše Vašeho věku:</source>
+<target xml:lang="en-US">Úřad práce ČR poskytne finanční prostředky, dle výše Vašeho věku:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu7" xml:space="preserve">
+<source xml:lang="cs">Dítě do 6 let věku – 1 970 Kč</source>
+<target xml:lang="en-US">Dítě do 6 let věku – 1 970 Kč</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu8" xml:space="preserve">
+<source xml:lang="cs">Díle od 6 do 15 let věku – 2 420 Kč</source>
+<target xml:lang="en-US">Díle od 6 do 15 let věku – 2 420 Kč</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu9" xml:space="preserve">
+<source xml:lang="cs">Dítě od 15 do 26 let věku – 2 770 Kč</source>
+<target xml:lang="en-US">Dítě od 15 do 26 let věku – 2 770 Kč</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu10" xml:space="preserve">
+<source xml:lang="cs">Osoba starší 26 let – 2 490 Kč. </source>
+<target xml:lang="en-US">Osoba starší 26 let – 2 490 Kč. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu11" xml:space="preserve">
+<source xml:lang="cs">Kdy mi Úřad práce ČR vyplatí finanční prostředky u mimořádné okamžité pomoci z důvodu újmy na zdraví?</source>
+<target xml:lang="en-US">Kdy mi Úřad práce ČR vyplatí finanční prostředky u mimořádné okamžité pomoci z důvodu újmy na zdraví?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu12" xml:space="preserve">
+<source xml:lang="cs">Úřad práce ČR ve zrychleném správním řízení posoudí podmínky pro vznik nároku na mimořádnou okamžitou pomoc. Finanční prostředky Vám je schopen Úřad práce ČR vyplatit ihned. </source>
+<target xml:lang="en-US">Úřad práce ČR ve zrychleném správním řízení posoudí podmínky pro vznik nároku na mimořádnou okamžitou pomoc. Finanční prostředky Vám je schopen Úřad práce ČR vyplatit ihned. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu13" xml:space="preserve">
+<source xml:lang="cs">Poskytnuté finanční prostředky u mimořádné okamžité pomoci z důvodu újmy na zdraví jsou pro celou moji rodinu?</source>
+<target xml:lang="en-US">Poskytnuté finanční prostředky u mimořádné okamžité pomoci z důvodu újmy na zdraví jsou pro celou moji rodinu?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu14" xml:space="preserve">
+<source xml:lang="cs">Ne. Žádost o mimořádnou okamžitou pomoc v rámci jedné rodiny podává každá osoba za sebe (za děti mladší 18 let podávají žádost rodiče). </source>
+<target xml:lang="en-US">Ne. Žádost o mimořádnou okamžitou pomoc v rámci jedné rodiny podává každá osoba za sebe (za děti mladší 18 let podávají žádost rodiče). </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu15" xml:space="preserve">
+<source xml:lang="cs">Kdy a jak mi Úřad práce ČR vyplatí finanční prostředky?</source>
+<target xml:lang="en-US">Kdy a jak mi Úřad práce ČR vyplatí finanční prostředky?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu16" xml:space="preserve">
+<source xml:lang="cs">Co nejdříve a výplata dávky může proběhnout hotovostně, převodem na bankovní účet nebo poštovní poukázkou.</source>
+<target xml:lang="en-US">Co nejdříve a výplata dávky může proběhnout hotovostně, převodem na bankovní účet nebo poštovní poukázkou.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu17" xml:space="preserve">
+<source xml:lang="cs">Kde mám žádost podat?</source>
+<target xml:lang="en-US">Kde mám žádost podat?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu18" xml:space="preserve">
+<source xml:lang="cs">Žádost o doplatek na bydlení se podává na nejbližším kontaktním pracovišti Úřadu práce ČR, kde se v současné době nacházíte. Seznam kontaktních pracovišť Úřadu práce ČR je k dispozici na <g id="1">https://www.uradprace.cz/web/cz/kontakty-2</g>.</source>
+<target xml:lang="en-US">Žádost o doplatek na bydlení se podává na nejbližším kontaktním pracovišti Úřadu práce ČR, kde se v současné době nacházíte. Seznam kontaktních pracovišť Úřadu práce ČR je k dispozici na <g id="1">https://www.uradprace.cz/web/cz/kontakty-2</g>.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu19" xml:space="preserve">
+<source xml:lang="cs">Je v České republice i za těchto podmínek možné pracovat?</source>
+<target xml:lang="en-US">Je v České republice i za těchto podmínek možné pracovat?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu20" xml:space="preserve">
+<source xml:lang="cs">Pokud chcete v České republice začít pracovat a nevíte, kde hledat vhodné zaměstnání, můžete se obrátit na Úřad práce ČR, který Vám se zprostředkováním zaměstnání pomůže.</source>
+<target xml:lang="en-US">Pokud chcete v České republice začít pracovat a nevíte, kde hledat vhodné zaměstnání, můžete se obrátit na Úřad práce ČR, který Vám se zprostředkováním zaměstnání pomůže.</target>
+</trans-unit>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="cs">Pekárková Veronika GR (MPSV)</source>
+<target xml:lang="en-US">Pekárková Veronika GR (MPSV)</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/footer1.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/footer2.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P3961C81B-tu1" xml:space="preserve">
+<source xml:lang="cs"></source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P3A7A53BA-sub1" xml:space="preserve">
+<source xml:lang="cs">Text Box 4</source>
+<target xml:lang="en-US">Text Box 4</target>
+</trans-unit>
+<trans-unit id="P3A7A53BA-sub2" xml:space="preserve">
+<source xml:lang="cs">obrázek 2</source>
+<target xml:lang="en-US">obrázek 2</target>
+</trans-unit>
+<trans-unit id="P3A7A53BA-sub3" xml:space="preserve">
+<source xml:lang="cs">obrázek 2</source>
+<target xml:lang="en-US">obrázek 2</target>
+</trans-unit>
+<trans-unit id="P3A7A53BA-sub4" xml:space="preserve">
+<source xml:lang="cs">Text Box 6</source>
+<target xml:lang="en-US">Text Box 6</target>
+</trans-unit>
+<trans-unit id="P3A7A53BA-sub5" xml:space="preserve">
+<source xml:lang="cs">facebook.com/uradprace.cr</source>
+<target xml:lang="en-US">facebook.com/uradprace.cr</target>
+</trans-unit>
+<trans-unit id="P3A7A53BA-sub6" xml:space="preserve">
+<source xml:lang="cs">www.uradprace.cz</source>
+<target xml:lang="en-US">www.uradprace.cz</target>
+</trans-unit>
+<trans-unit id="P3A7A53BA-sub7" xml:space="preserve">
+<source xml:lang="cs">Text Box 7</source>
+<target xml:lang="en-US">Text Box 7</target>
+</trans-unit>
+<trans-unit id="P3A7A53BA-sub8" xml:space="preserve">
+<source xml:lang="cs">obrázek 3</source>
+<target xml:lang="en-US">obrázek 3</target>
+</trans-unit>
+<trans-unit id="P3A7A53BA-sub9" xml:space="preserve">
+<source xml:lang="cs">obrázek 3</source>
+<target xml:lang="en-US">obrázek 3</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/footer3.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P396FDF9C-tu1" xml:space="preserve">
+<source xml:lang="cs"></source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="NBE44B5B5-sub1" xml:space="preserve">
+<source xml:lang="cs">Text Box 4</source>
+<target xml:lang="en-US">Text Box 4</target>
+</trans-unit>
+<trans-unit id="NBE44B5B5-sub2" xml:space="preserve">
+<source xml:lang="cs">obrázek 2</source>
+<target xml:lang="en-US">obrázek 2</target>
+</trans-unit>
+<trans-unit id="NBE44B5B5-sub3" xml:space="preserve">
+<source xml:lang="cs">obrázek 2</source>
+<target xml:lang="en-US">obrázek 2</target>
+</trans-unit>
+<trans-unit id="NBE44B5B5-sub4" xml:space="preserve">
+<source xml:lang="cs">Text Box 6</source>
+<target xml:lang="en-US">Text Box 6</target>
+</trans-unit>
+<trans-unit id="NBE44B5B5-sub5" xml:space="preserve">
+<source xml:lang="cs">facebook.com/uradprace.cr</source>
+<target xml:lang="en-US">facebook.com/uradprace.cr</target>
+</trans-unit>
+<trans-unit id="NBE44B5B5-sub6" xml:space="preserve">
+<source xml:lang="cs">www.uradprace.cz</source>
+<target xml:lang="en-US">www.uradprace.cz</target>
+</trans-unit>
+<trans-unit id="NBE44B5B5-sub7" xml:space="preserve">
+<source xml:lang="cs">Text Box 7</source>
+<target xml:lang="en-US">Text Box 7</target>
+</trans-unit>
+<trans-unit id="NBE44B5B5-sub8" xml:space="preserve">
+<source xml:lang="cs">obrázek 3</source>
+<target xml:lang="en-US">obrázek 3</target>
+</trans-unit>
+<trans-unit id="NBE44B5B5-sub9" xml:space="preserve">
+<source xml:lang="cs">obrázek 3</source>
+<target xml:lang="en-US">obrázek 3</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/settings.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+</xliff>

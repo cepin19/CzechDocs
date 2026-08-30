@@ -1,0 +1,1527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="word/document.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NFDBB2FA9-tu1" xml:space="preserve">
+<source xml:lang="en"></source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub1" xml:space="preserve">
+<source xml:lang="en">Textové pole 2</source>
+<target xml:lang="fr">Textové pole 2</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub2" xml:space="preserve">
+<source xml:lang="en">Obrázek 2</source>
+<target xml:lang="fr">Obrázek 2</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub3" xml:space="preserve">
+<source xml:lang="en">Obrázek 2</source>
+<target xml:lang="fr">Obrázek 2</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub4" xml:space="preserve">
+<source xml:lang="en">Automatický obrazec 14</source>
+<target xml:lang="fr">Automatický obrazec 14</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub5" xml:space="preserve">
+<source xml:lang="en">Obrázek 1</source>
+<target xml:lang="fr">Obrázek 1</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub6" xml:space="preserve">
+<source xml:lang="en">Obrázek 1</source>
+<target xml:lang="fr">Obrázek 1</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub7" xml:space="preserve">
+<source xml:lang="en">Textové pole 2</source>
+<target xml:lang="fr">Textové pole 2</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub8" xml:space="preserve">
+<source xml:lang="en">Grafický objekt 1</source>
+<target xml:lang="fr">Grafický objekt 1</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub9" xml:space="preserve">
+<source xml:lang="en">Grafický objekt 1</source>
+<target xml:lang="fr">Grafický objekt 1</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu2" xml:space="preserve">
+<source xml:lang="en">GUIDELINES FOR GRANTING SCHOLARSHIPS OF THE GOVERNMENT OF THE CZECH REPUBLIC</source>
+<target xml:lang="fr">GUIDELINES FOR GRANTING SCHOLARSHIPS OF THE GOVERNMENT OF THE CZECH REPUBLIC</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu3" xml:space="preserve">
+<source xml:lang="en">upon Government Resolution No. 870 as of 27<g id="1">th</g> November 2024 on the Strategy of the Programme for Granting Development Scholarships for the Period 2025–2030</source>
+<target xml:lang="fr">upon Government Resolution No. 870 as of 27<g id="1">th</g> November 2024 on the Strategy of the Programme for Granting Development Scholarships for the Period 2025–2030</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu4" xml:space="preserve">
+<source xml:lang="en">Issue No.: 1</source>
+<target xml:lang="fr">Issue No.: 1</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu5" xml:space="preserve">
+<source xml:lang="en">Date of Issue: August 2026</source>
+<target xml:lang="fr">Date of Issue: August 2026</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu6" xml:space="preserve">
+<source xml:lang="en">Effect as of: 21<g id="1">st</g> August 2026</source>
+<target xml:lang="fr">Effect as of: 21<g id="1">st</g> August 2026</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu7" xml:space="preserve">
+<source xml:lang="en">Sponsors: Department of International Relations and the European Union of the Ministry of Education, Youth and Sports, Department of Development Cooperation and Humanitarian Aid of the Ministry of Foreign Affairs</source>
+<target xml:lang="fr">Sponsors: Department of International Relations and the European Union of the Ministry of Education, Youth and Sports, Department of Development Cooperation and Humanitarian Aid of the Ministry of Foreign Affairs</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu8" xml:space="preserve">
+<source xml:lang="en">Table of contents</source>
+<target xml:lang="fr">Table of contents</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu10" xml:space="preserve">
+<source xml:lang="en">Annex No. 1: <x id="1"/>Declaration about the Acceptance of the Terms and Conditions Governing the Granting of Scholarships of the Government of the Czech Republic</source>
+<target xml:lang="fr">Annex No. 1: <x id="1"/>Declaration about the Acceptance of the Terms and Conditions Governing the Granting of Scholarships of the Government of the Czech Republic</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu11" xml:space="preserve">
+<source xml:lang="en">Annex No. 2: <x id="1"/>Declaration about the Acceptance of the Terms and Conditions Governing the Provision of Health Services</source>
+<target xml:lang="fr">Annex No. 2: <x id="1"/>Declaration about the Acceptance of the Terms and Conditions Governing the Provision of Health Services</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu12" xml:space="preserve">
+<source xml:lang="en">Annex No. 3: <x id="1"/>Affirmation on Return to the Sending Country upon Completion of Studies</source>
+<target xml:lang="fr">Annex No. 3: <x id="1"/>Affirmation on Return to the Sending Country upon Completion of Studies</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu13" xml:space="preserve">
+<source xml:lang="en">Annex No. 4: <x id="1"/>Initial Medical Certificate (Form)</source>
+<target xml:lang="fr">Annex No. 4: <x id="1"/>Initial Medical Certificate (Form)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu14" xml:space="preserve">
+<source xml:lang="en">Annex No. 5: <x id="1"/>Comprehensive Medical Certificate (Form)</source>
+<target xml:lang="fr">Annex No. 5: <x id="1"/>Comprehensive Medical Certificate (Form)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu15" xml:space="preserve">
+<source xml:lang="en">Annex No. 6: <x id="1"/>Final Report of a Government Scholarship Holder (Form)</source>
+<target xml:lang="fr">Annex No. 6: <x id="1"/>Final Report of a Government Scholarship Holder (Form)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu16" xml:space="preserve">
+<source xml:lang="en">Scholarships of the Government of the Czech Republic – General Information</source>
+<target xml:lang="fr">Scholarships of the Government of the Czech Republic – General Information</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu17" xml:space="preserve">
+<source xml:lang="en">Granting scholarships to citizens from developing countries (referred to as “scholarship holders”) for studies at Czech public higher education institutions / universities is an important part of the foreign development cooperation of the Czech Republic and is implemented on the basis of Resolution of the Government of the Czech Republic No. 870 as of 27<g id="1">th</g> November 2024 through a joint programme of the Ministry <x id="2"/>of Education, Youth and Sports <x id="3"/>(<g id="4">https://msmt.gov.cz/</g>) and the Ministry of Foreign Affairs (<g id="5">https://mzv.gov.cz/</g>), implemented in cooperation with the Ministry of Health (<g id="6">https://mzd.gov.cz/</g>). </source>
+<target xml:lang="fr">Granting scholarships to citizens from developing countries (referred to as “scholarship holders”) for studies at Czech public higher education institutions / universities is an important part of the foreign development cooperation of the Czech Republic and is implemented on the basis of Resolution of the Government of the Czech Republic No. 870 as of 27<g id="1">th</g> November 2024 through a joint programme of the Ministry <x id="2"/>of Education, Youth and Sports <x id="3"/>(<g id="4">https://msmt.gov.cz/</g>) and the Ministry of Foreign Affairs (<g id="5">https://mzv.gov.cz/</g>), implemented in cooperation with the Ministry of Health (<g id="6">https://mzd.gov.cz/</g>). </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu18" xml:space="preserve">
+<source xml:lang="en">The terms and conditions, as well as the procedures for granting scholarships of the Government of the Czech Republic, are governed by the Guidelines for Granting Scholarships of the Government of the Czech Republic (referred to as “Guidelines”), and by the pertinent Ministry of Education, Youth and Sports scholarship programme promoting the studies of foreign nationals in the Czech Republic that is announced by the Minister of Education, Youth and Sports.</source>
+<target xml:lang="fr">The terms and conditions, as well as the procedures for granting scholarships of the Government of the Czech Republic, are governed by the Guidelines for Granting Scholarships of the Government of the Czech Republic (referred to as “Guidelines”), and by the pertinent Ministry of Education, Youth and Sports scholarship programme promoting the studies of foreign nationals in the Czech Republic that is announced by the Minister of Education, Youth and Sports.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu19" xml:space="preserve">
+<source xml:lang="en">Specific tasks related to providing for the studies of scholarship holders at universities in accordance with the Guidelines and the Ministry’s scholarship programme are carried out by the Czech National Agency for International Education and Research (<g id="1">https://www.dzs.cz/</g>).</source>
+<target xml:lang="fr">Specific tasks related to providing for the studies of scholarship holders at universities in accordance with the Guidelines and the Ministry’s scholarship programme are carried out by the Czech National Agency for International Education and Research (<g id="1">https://www.dzs.cz/</g>).</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu20" xml:space="preserve">
+<source xml:lang="en"><g id="1">Within the scope of foreign development cooperation, the Czech Republic provides scholarships for the following studies</g>:</source>
+<target xml:lang="fr"><g id="1">Within the scope of foreign development cooperation, the Czech Republic provides scholarships for the following studies</g>:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu21" xml:space="preserve">
+<source xml:lang="en">pursued in the Czech language:</source>
+<target xml:lang="fr">pursued in the Czech language:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu22" xml:space="preserve">
+<source xml:lang="en">Follow-up Master’s study programmes (two to three-year-long) in selected areas of study,</source>
+<target xml:lang="fr">Follow-up Master’s study programmes (two to three-year-long) in selected areas of study,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu23" xml:space="preserve">
+<source xml:lang="en">Language and preparatory studies (one-year long) – provided by the Institute for Language and Preparatory Studies of Charles University (<g id="1">https://ujop.cuni.cz/</g>),</source>
+<target xml:lang="fr">Language and preparatory studies (one-year long) – provided by the Institute for Language and Preparatory Studies of Charles University (<g id="1">https://ujop.cuni.cz/</g>),</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu24" xml:space="preserve">
+<source xml:lang="en">pursued in the English language:</source>
+<target xml:lang="fr">pursued in the English language:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu25" xml:space="preserve">
+<source xml:lang="en">Selected follow-up Master’s study programmes (two-year-long programmes),</source>
+<target xml:lang="fr">Selected follow-up Master’s study programmes (two-year-long programmes),</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu26" xml:space="preserve">
+<source xml:lang="en">Selected Doctoral study programmes (three- to four-year-long programmes).</source>
+<target xml:lang="fr">Selected Doctoral study programmes (three- to four-year-long programmes).</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu27" xml:space="preserve">
+<source xml:lang="en">A scholarship of the Government of the Czech Republic for studies in the English language may only be granted if the applicant has an advanced knowledge of English. An applicant for a scholarship of the Government of the Czech Republic is obliged to sit an online entrance English language test in the course of his/her application submission.</source>
+<target xml:lang="fr">A scholarship of the Government of the Czech Republic for studies in the English language may only be granted if the applicant has an advanced knowledge of English. An applicant for a scholarship of the Government of the Czech Republic is obliged to sit an online entrance English language test in the course of his/her application submission.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu28" xml:space="preserve">
+<source xml:lang="en">Applicants for studies in the English language submit an application for a specific study program. An overview of selected study programmes offered in English is available at <g id="1">https://msmt.gov.cz/en/scholarships/government-scholarships-developing-countries</g>.<g id="2"> </g></source>
+<target xml:lang="fr">Applicants for studies in the English language submit an application for a specific study program. An overview of selected study programmes offered in English is available at <g id="1">https://msmt.gov.cz/en/scholarships/government-scholarships-developing-countries</g>.<g id="2"> </g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu29" xml:space="preserve">
+<source xml:lang="en">Applicants for studies in the Czech language choose from study areas that meet the needs of specific countries and the goals of development cooperation of the Czech Republic at the time of application; the list of recommended areas of study is enclosed with the annual offer of scholarships of the Government of the Czech Republic for the individual countries. They make a final selection of a university only in the course of their language and preparatory studies and subsequently they submit an application to study at a selected university within the specified period.</source>
+<target xml:lang="fr">Applicants for studies in the Czech language choose from study areas that meet the needs of specific countries and the goals of development cooperation of the Czech Republic at the time of application; the list of recommended areas of study is enclosed with the annual offer of scholarships of the Government of the Czech Republic for the individual countries. They make a final selection of a university only in the course of their language and preparatory studies and subsequently they submit an application to study at a selected university within the specified period.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu30" xml:space="preserve">
+<source xml:lang="en">Applicants for studies in Czech who have a command of the Czech language corresponding to at least the B2 level on the CEFR scale do not need to undertake the one-year-long language and preparatory studies at the Institute for Language and Preparatory Studies. However, in addition to the standard scholarship selection procedure, these applicants are also required to<g id="1"> </g>successfully pass the admission procedure to study the selected accredited study programme within the specified period and under the terms and conditions set by the relevant Czech public university. Upon receipt, they are required to send the certificate of admission to study in the university Czech-medium study programme concerned, together with a Czech language certificate to the following address: Dům zahraniční spolupráce, Na Poříčí 1035/4, 110 00 Praha 1.</source>
+<target xml:lang="fr">Applicants for studies in Czech who have a command of the Czech language corresponding to at least the B2 level on the CEFR scale do not need to undertake the one-year-long language and preparatory studies at the Institute for Language and Preparatory Studies. However, in addition to the standard scholarship selection procedure, these applicants are also required to<g id="1"> </g>successfully pass the admission procedure to study the selected accredited study programme within the specified period and under the terms and conditions set by the relevant Czech public university. Upon receipt, they are required to send the certificate of admission to study in the university Czech-medium study programme concerned, together with a Czech language certificate to the following address: Dům zahraniční spolupráce, Na Poříčí 1035/4, 110 00 Praha 1.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu31" xml:space="preserve">
+<source xml:lang="en">Overview of universities in the Czech Republic:</source>
+<target xml:lang="fr">Overview of universities in the Czech Republic:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu32" xml:space="preserve">
+<source xml:lang="en">in the Czech language:</source>
+<target xml:lang="fr">in the Czech language:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu33" xml:space="preserve">
+<source xml:lang="en"><g id="1">https://msmt.gov.cz/vzdelavani/vysoke-skolstvi/prehled-vysokych-skol-v-cr-2</g>,</source>
+<target xml:lang="fr"><g id="1">https://msmt.gov.cz/vzdelavani/vysoke-skolstvi/prehled-vysokych-skol-v-cr-2</g>,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu34" xml:space="preserve">
+<source xml:lang="en">in the English language:</source>
+<target xml:lang="fr">in the English language:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu35" xml:space="preserve">
+<source xml:lang="en"><g id="1">https://archiv.msmt.gov.cz/areas-of-work/tertiary-education/public-higher-education-institutions-websites?lang=2</g>.</source>
+<target xml:lang="fr"><g id="1">https://archiv.msmt.gov.cz/areas-of-work/tertiary-education/public-higher-education-institutions-websites?lang=2</g>.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu36" xml:space="preserve">
+<source xml:lang="en">List of accredited study programmes: <g id="1">https://regvssp.msmt.cz/registrvssp/</g>.</source>
+<target xml:lang="fr">List of accredited study programmes: <g id="1">https://regvssp.msmt.cz/registrvssp/</g>.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu37" xml:space="preserve">
+<source xml:lang="en">Upon a Decision of the Ministry of Education, Youth and Sports, scholarships of the Government of the Czech Republic are granted to support the study of a specific follow-up master's or doctoral study programme, in a full-time form for the standard length of study. Scholarships are not transferable to other persons or other academic years. Once a scholarship is granted, neither the university nor the study programme and/or language of study may be changed.</source>
+<target xml:lang="fr">Upon a Decision of the Ministry of Education, Youth and Sports, scholarships of the Government of the Czech Republic are granted to support the study of a specific follow-up master's or doctoral study programme, in a full-time form for the standard length of study. Scholarships are not transferable to other persons or other academic years. Once a scholarship is granted, neither the university nor the study programme and/or language of study may be changed.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu38" xml:space="preserve">
+<source xml:lang="en">The scholarships are dedicated solely to promoting the studies of foreign nationals from developing third countries. Neither a citizen of the Czech Republic, nor a citizen of the European Union, nor any other foreign national with a permanent residence permit in the territory of the Czech Republic may therefore apply for a scholarship.</source>
+<target xml:lang="fr">The scholarships are dedicated solely to promoting the studies of foreign nationals from developing third countries. Neither a citizen of the Czech Republic, nor a citizen of the European Union, nor any other foreign national with a permanent residence permit in the territory of the Czech Republic may therefore apply for a scholarship.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu39" xml:space="preserve">
+<source xml:lang="en">Application Form Submission, Deadlines and Forms</source>
+<target xml:lang="fr">Application Form Submission, Deadlines and Forms</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu40" xml:space="preserve">
+<source xml:lang="en"><g id="1">The scholarship application must be submitted electronically</g> <g id="2">by 30 September 2026 at the latest.</g> <g id="3">The successful applicant starts studying in the academic year 2027/2028</g>.</source>
+<target xml:lang="fr"><g id="1">The scholarship application must be submitted electronically</g> <g id="2">by 30 September 2026 at the latest.</g> <g id="3">The successful applicant starts studying in the academic year 2027/2028</g>.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu41" xml:space="preserve">
+<source xml:lang="en"><g id="1">The application is available at</g> <g id="2">https://studyin.gov.cz/</g><g id="3"> </g>within the relevant call under the Foreign Development Cooperation programme or via the “Submit Application” link after the applicant's registration on the portal.</source>
+<target xml:lang="fr"><g id="1">The application is available at</g> <g id="2">https://studyin.gov.cz/</g><g id="3"> </g>within the relevant call under the Foreign Development Cooperation programme or via the “Submit Application” link after the applicant's registration on the portal.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu42" xml:space="preserve">
+<source xml:lang="en">The application is considered complete only after the motivation letter has been submitted and all mandatory tests have been completed. Applicants for studies in the Czech language take only the General Study Prerequisites Test, while applicants for studies in the English language also take the English Language Test. After evaluating the applications, the Embassy of the Czech Republic responsible for the country whose citizens were offered scholarships for the given academic year (hereinafter referred to as the "Embassy") shall ask the selected applicants to attend an interview and upload/submit the required documents. The deadline is set by the Embassy. Final proposals for the award of scholarships will be forwarded to the Czech Republic for further consideration in January 2027.</source>
+<target xml:lang="fr">The application is considered complete only after the motivation letter has been submitted and all mandatory tests have been completed. Applicants for studies in the Czech language take only the General Study Prerequisites Test, while applicants for studies in the English language also take the English Language Test. After evaluating the applications, the Embassy of the Czech Republic responsible for the country whose citizens were offered scholarships for the given academic year (hereinafter referred to as the "Embassy") shall ask the selected applicants to attend an interview and upload/submit the required documents. The deadline is set by the Embassy. Final proposals for the award of scholarships will be forwarded to the Czech Republic for further consideration in January 2027.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu43" xml:space="preserve">
+<source xml:lang="en">The decision on granting the scholarship will be delivered to successful applicants through the respective Embassy by the end of June 2027.</source>
+<target xml:lang="fr">The decision on granting the scholarship will be delivered to successful applicants through the respective Embassy by the end of June 2027.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu44" xml:space="preserve">
+<source xml:lang="en">The Government of the Czech Republic Scholarship Programme allows applicants who are already regular students enrolled in an accredited study programme at a university in the Czech Republic at the time designated as the deadline for submitting applications to apply for a scholarship. However, their applications are assessed only after applications submitted by applicants from abroad have been considered. Scholarship applications shall be submitted through the online portal available at <g id="1">https://studyin.gov.cz/</g>, where all required documents must also be uploaded. Applicants are then obliged to send a printed and a personally signed application, together with a current confirmation of studies from the university at which they are currently enrolled, to the following address: Ministerstvo zahraničních věcí, Odbor rozvojové spolupráce a humanitární pomoci, Loretánské náměstí 5, 118 00 Praha 1 – Hradčany by 20<g id="2">th</g> December 2026. These applicants do not undergo an interview, however, they are required to complete the admission procedure to study the selected accredited field of study within the deadlines and under the conditions set by the relevant public university in the Czech Republic.</source>
+<target xml:lang="fr">The Government of the Czech Republic Scholarship Programme allows applicants who are already regular students enrolled in an accredited study programme at a university in the Czech Republic at the time designated as the deadline for submitting applications to apply for a scholarship. However, their applications are assessed only after applications submitted by applicants from abroad have been considered. Scholarship applications shall be submitted through the online portal available at <g id="1">https://studyin.gov.cz/</g>, where all required documents must also be uploaded. Applicants are then obliged to send a printed and a personally signed application, together with a current confirmation of studies from the university at which they are currently enrolled, to the following address: Ministerstvo zahraničních věcí, Odbor rozvojové spolupráce a humanitární pomoci, Loretánské náměstí 5, 118 00 Praha 1 – Hradčany by 20<g id="2">th</g> December 2026. These applicants do not undergo an interview, however, they are required to complete the admission procedure to study the selected accredited field of study within the deadlines and under the conditions set by the relevant public university in the Czech Republic.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu45" xml:space="preserve">
+<source xml:lang="en">Successful applicants receive the decision on the scholarship award through the university that accepted them for study. </source>
+<target xml:lang="fr">Successful applicants receive the decision on the scholarship award through the university that accepted them for study. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu46" xml:space="preserve">
+<source xml:lang="en">Required Documentation</source>
+<target xml:lang="fr">Required Documentation</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu47" xml:space="preserve">
+<source xml:lang="en">Applicants for a scholarship of the Government of the Czech Republic <g id="1">shall submit all required documentation</g> for assessment <g id="2">through their personal account in the online portal</g> available at <g id="3">https://studyin.gov.cz/</g>. Incomplete applications, i.e., applications missing any mandatory attachments/documents, will not be accepted for further consideration. Only the following documents must be submitted <g id="4">in paper form: a printed and personally signed application with a current photograph attached, and proof of the highest level of education achieved</g> (as specified below and upon instruction from the Embassy). Applicants who are already studying in the Czech Republic submit only a printed and personally signed application and a current confirmation of studies issued by their university (see Chapter 2 above).</source>
+<target xml:lang="fr">Applicants for a scholarship of the Government of the Czech Republic <g id="1">shall submit all required documentation</g> for assessment <g id="2">through their personal account in the online portal</g> available at <g id="3">https://studyin.gov.cz/</g>. Incomplete applications, i.e., applications missing any mandatory attachments/documents, will not be accepted for further consideration. Only the following documents must be submitted <g id="4">in paper form: a printed and personally signed application with a current photograph attached, and proof of the highest level of education achieved</g> (as specified below and upon instruction from the Embassy). Applicants who are already studying in the Czech Republic submit only a printed and personally signed application and a current confirmation of studies issued by their university (see Chapter 2 above).</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu48" xml:space="preserve">
+<source xml:lang="en">If it is not possible to have the relevant documents translated into the Czech language according to the requirements specified below in the country of the applicant’s citizenship, where s/he is applying for a scholarship, the applicants may enclose their certified translation by a sworn translator/interpreter into the English language.</source>
+<target xml:lang="fr">If it is not possible to have the relevant documents translated into the Czech language according to the requirements specified below in the country of the applicant’s citizenship, where s/he is applying for a scholarship, the applicants may enclose their certified translation by a sworn translator/interpreter into the English language.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu49" xml:space="preserve">
+<source xml:lang="en">Documents Submitted by Applicants for a Follow-up Master’s Study Programme</source>
+<target xml:lang="fr">Documents Submitted by Applicants for a Follow-up Master’s Study Programme</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu50" xml:space="preserve">
+<source xml:lang="en">Motivation Letter of one A4 page with emphasis on the practical application of the learning and the benefit to the applicant's country of origin after graduation;</source>
+<target xml:lang="fr">Motivation Letter of one A4 page with emphasis on the practical application of the learning and the benefit to the applicant's country of origin after graduation;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu51" xml:space="preserve">
+<source xml:lang="en">CV with a focus on studies and employment;</source>
+<target xml:lang="fr">CV with a focus on studies and employment;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu52" xml:space="preserve">
+<source xml:lang="en">Photocopy of his/her passport, if issued;</source>
+<target xml:lang="fr">Photocopy of his/her passport, if issued;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu53" xml:space="preserve">
+<source xml:lang="en">Declaration about the Acceptance of the Terms and Conditions Governing the Granting of Scholarships of the Government of the Czech Republic, <g id="1">signed by his/her own hand</g> (see Annex No. 1);</source>
+<target xml:lang="fr">Declaration about the Acceptance of the Terms and Conditions Governing the Granting of Scholarships of the Government of the Czech Republic, <g id="1">signed by his/her own hand</g> (see Annex No. 1);</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu54" xml:space="preserve">
+<source xml:lang="en">Declaration about the Acceptance of the Terms and Conditions Governing the Provision of Health Services, <x id="1"/><g id="2">signed by his/her own hand<x id="3"/></g> (see Annex No. 2);</source>
+<target xml:lang="fr">Declaration about the Acceptance of the Terms and Conditions Governing the Provision of Health Services, <x id="1"/><g id="2">signed by his/her own hand<x id="3"/></g> (see Annex No. 2);</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu55" xml:space="preserve">
+<source xml:lang="en">Affirmation on Return to the Country of Origin upon Completion of Studies, <g id="1">signed by his/her own hand</g> (see Annex No. 3);</source>
+<target xml:lang="fr">Affirmation on Return to the Country of Origin upon Completion of Studies, <g id="1">signed by his/her own hand</g> (see Annex No. 3);</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu56" xml:space="preserve">
+<source xml:lang="en">Legalised copy of his/her birth certificate with a certified translation into the Czech language;</source>
+<target xml:lang="fr">Legalised copy of his/her birth certificate with a certified translation into the Czech language;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu57" xml:space="preserve">
+<source xml:lang="en">Medical confirmation about the applicant’s health no more than two months old with a certified translation into English or into Czech (see Annex No. 4);</source>
+<target xml:lang="fr">Medical confirmation about the applicant’s health no more than two months old with a certified translation into English or into Czech (see Annex No. 4);</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu58" xml:space="preserve">
+<source xml:lang="en">Legalised copy of a foreign Diploma, including a Diploma Supplement, or similar document proving due completion of a Bachelor’s study programme, with a higher level of authentication (apostille/superlegalization), with a certified translation into the Czech language by a sworn translator/interpreter entered in the list of experts and interpreters in the Czech Republic;</source>
+<target xml:lang="fr">Legalised copy of a foreign Diploma, including a Diploma Supplement, or similar document proving due completion of a Bachelor’s study programme, with a higher level of authentication (apostille/superlegalization), with a certified translation into the Czech language by a sworn translator/interpreter entered in the list of experts and interpreters in the Czech Republic;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu59" xml:space="preserve">
+<source xml:lang="en">List of completed subjects and examinations including their scope and grades (marks) achieved, with a certified translation into the Czech language (to be provided by applicants with an incomplete Bachelor's degree);</source>
+<target xml:lang="fr">List of completed subjects and examinations including their scope and grades (marks) achieved, with a certified translation into the Czech language (to be provided by applicants with an incomplete Bachelor's degree);</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu60" xml:space="preserve">
+<source xml:lang="en">Additional information proving that the completed study programme was provided by an institution entitled to provide university education, with a certified translation into the Czech language by a sworn translator/interpreter registered in the list of experts and interpreters in the Czech Republic;</source>
+<target xml:lang="fr">Additional information proving that the completed study programme was provided by an institution entitled to provide university education, with a certified translation into the Czech language by a sworn translator/interpreter registered in the list of experts and interpreters in the Czech Republic;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu61" xml:space="preserve">
+<source xml:lang="en">Additional information about the content of foreign university education.</source>
+<target xml:lang="fr">Additional information about the content of foreign university education.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu62" xml:space="preserve">
+<source xml:lang="en">Documents Submitted by Applicants for a Doctoral Study Programme Pursued in the English Language</source>
+<target xml:lang="fr">Documents Submitted by Applicants for a Doctoral Study Programme Pursued in the English Language</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu63" xml:space="preserve">
+<source xml:lang="en">Motivation Letter of two A4 pages with a description of the issues on which the applicant intends to focus in the doctoral study program, and with emphasis on the practical application of the learning and the benefit to the applicant's country of origin after graduation;</source>
+<target xml:lang="fr">Motivation Letter of two A4 pages with a description of the issues on which the applicant intends to focus in the doctoral study program, and with emphasis on the practical application of the learning and the benefit to the applicant's country of origin after graduation;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu64" xml:space="preserve">
+<source xml:lang="en">CV with a focus on studies and employment;</source>
+<target xml:lang="fr">CV with a focus on studies and employment;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu65" xml:space="preserve">
+<source xml:lang="en">Photocopy of his/her passport, if issued;</source>
+<target xml:lang="fr">Photocopy of his/her passport, if issued;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu66" xml:space="preserve">
+<source xml:lang="en">Declaration about the Acceptance of the Terms and Conditions Governing the Granting of Scholarships of the Government of the Czech Republic, <g id="1">signed by his/her own hand</g> (see Annex No. 1);</source>
+<target xml:lang="fr">Declaration about the Acceptance of the Terms and Conditions Governing the Granting of Scholarships of the Government of the Czech Republic, <g id="1">signed by his/her own hand</g> (see Annex No. 1);</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu67" xml:space="preserve">
+<source xml:lang="en">Declaration about the Acceptance of the Terms and Conditions Governing the Provision of Health Services, <g id="1">signed by his/her own hand</g> (see Annex No. 2);</source>
+<target xml:lang="fr">Declaration about the Acceptance of the Terms and Conditions Governing the Provision of Health Services, <g id="1">signed by his/her own hand</g> (see Annex No. 2);</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu68" xml:space="preserve">
+<source xml:lang="en">Affirmation on Return to the Country of Origin upon Completion of Studies, <g id="1">signed by his/her own hand</g> (see Annex No. 3);</source>
+<target xml:lang="fr">Affirmation on Return to the Country of Origin upon Completion of Studies, <g id="1">signed by his/her own hand</g> (see Annex No. 3);</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu69" xml:space="preserve">
+<source xml:lang="en">Legalised copy of his/her birth certificate with a certified translation into the Czech language;</source>
+<target xml:lang="fr">Legalised copy of his/her birth certificate with a certified translation into the Czech language;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu70" xml:space="preserve">
+<source xml:lang="en">Medical confirmation about the applicant’s health no more than two months old with a certified translation into English or into Czech (see Annex No. 4);</source>
+<target xml:lang="fr">Medical confirmation about the applicant’s health no more than two months old with a certified translation into English or into Czech (see Annex No. 4);</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu71" xml:space="preserve">
+<source xml:lang="en">Legalised copy of a foreign Diploma, including a Diploma Supplement, or similar document proving due completion of a Follow-up Master’s Study programme, with a higher level of authentication (apostille/superlegalization), with a certified translation into the Czech language by a sworn translator/interpreter registered in the list of experts and interpreters in the Czech Republic;</source>
+<target xml:lang="fr">Legalised copy of a foreign Diploma, including a Diploma Supplement, or similar document proving due completion of a Follow-up Master’s Study programme, with a higher level of authentication (apostille/superlegalization), with a certified translation into the Czech language by a sworn translator/interpreter registered in the list of experts and interpreters in the Czech Republic;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu72" xml:space="preserve">
+<source xml:lang="en">List of completed subjects and examinations including their scope and grades (marks) achieved with a certified translation into the Czech language (to be provided by applicants with an incomplete Master's degree);</source>
+<target xml:lang="fr">List of completed subjects and examinations including their scope and grades (marks) achieved with a certified translation into the Czech language (to be provided by applicants with an incomplete Master's degree);</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu73" xml:space="preserve">
+<source xml:lang="en">Additional information proving that the study programme was provided by an institution entitled to provide university education, with a certified translation into the Czech language by a sworn translator/interpreter registered in the list of experts and interpreters in the Czech Republic;</source>
+<target xml:lang="fr">Additional information proving that the study programme was provided by an institution entitled to provide university education, with a certified translation into the Czech language by a sworn translator/interpreter registered in the list of experts and interpreters in the Czech Republic;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu74" xml:space="preserve">
+<source xml:lang="en">Additional information about the content of foreign university education;</source>
+<target xml:lang="fr">Additional information about the content of foreign university education;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu75" xml:space="preserve">
+<source xml:lang="en">Overview of publication activity;</source>
+<target xml:lang="fr">Overview of publication activity;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu76" xml:space="preserve">
+<source xml:lang="en">Ideas about the focus of the dissertation thesis (3 to 5 pages long);</source>
+<target xml:lang="fr">Ideas about the focus of the dissertation thesis (3 to 5 pages long);</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu77" xml:space="preserve">
+<source xml:lang="en">Two letters of recommendation by professors teaching at an academic institution;</source>
+<target xml:lang="fr">Two letters of recommendation by professors teaching at an academic institution;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu78" xml:space="preserve">
+<source xml:lang="en">If applicable, other documents proving the applicant’s qualifications advancement and scholarly/scientific activity to date.</source>
+<target xml:lang="fr">If applicable, other documents proving the applicant’s qualifications advancement and scholarly/scientific activity to date.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu79" xml:space="preserve">
+<source xml:lang="en">Documents Submitted by Applicants Who Are Regular Students of an Accredited Study Programme at a University in the Czech Republic at the Time Designated as the Deadline for the Submission of Scholarship Application Forms</source>
+<target xml:lang="fr">Documents Submitted by Applicants Who Are Regular Students of an Accredited Study Programme at a University in the Czech Republic at the Time Designated as the Deadline for the Submission of Scholarship Application Forms</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu80" xml:space="preserve">
+<source xml:lang="en">Applicants for a Follow-up Master’s study programme submit:</source>
+<target xml:lang="fr">Applicants for a Follow-up Master’s study programme submit:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu81" xml:space="preserve">
+<source xml:lang="en">Motivation Letter of one A4 page with emphasis on the practical application of the learning and the benefit to the applicant's country of origin after graduation;</source>
+<target xml:lang="fr">Motivation Letter of one A4 page with emphasis on the practical application of the learning and the benefit to the applicant's country of origin after graduation;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu82" xml:space="preserve">
+<source xml:lang="en">CV with a focus on studies and employment;</source>
+<target xml:lang="fr">CV with a focus on studies and employment;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu83" xml:space="preserve">
+<source xml:lang="en">Photocopy of his/her passport, if issued;</source>
+<target xml:lang="fr">Photocopy of his/her passport, if issued;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu84" xml:space="preserve">
+<source xml:lang="en">Declaration about the Acceptance of the Terms and Conditions Governing the Granting of Scholarships of the Government of the Czech Republic, <g id="1">signed by his/her own hand</g> (see Annex No. 1);</source>
+<target xml:lang="fr">Declaration about the Acceptance of the Terms and Conditions Governing the Granting of Scholarships of the Government of the Czech Republic, <g id="1">signed by his/her own hand</g> (see Annex No. 1);</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu85" xml:space="preserve">
+<source xml:lang="en">Declaration about the Acceptance of the Terms and Conditions Governing the Provision of Health Services, <g id="1">signed by his/her own hand</g> (see Annex No. 2);</source>
+<target xml:lang="fr">Declaration about the Acceptance of the Terms and Conditions Governing the Provision of Health Services, <g id="1">signed by his/her own hand</g> (see Annex No. 2);</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu86" xml:space="preserve">
+<source xml:lang="en">Affirmation on Return to the Sending Country upon Completion of Studies, <g id="1">signed by his/her own hand</g> (see Annex No. 3);</source>
+<target xml:lang="fr">Affirmation on Return to the Sending Country upon Completion of Studies, <g id="1">signed by his/her own hand</g> (see Annex No. 3);</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu87" xml:space="preserve">
+<source xml:lang="en">Medical confirmation about the applicant’s health no more than two months old with a certified translation into English or into Czech unless it is issued in the Czech language (see Annex No. 4);</source>
+<target xml:lang="fr">Medical confirmation about the applicant’s health no more than two months old with a certified translation into English or into Czech unless it is issued in the Czech language (see Annex No. 4);</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu88" xml:space="preserve">
+<source xml:lang="en">Study confirmation issued by the pertinent university where they are currently enrolled;</source>
+<target xml:lang="fr">Study confirmation issued by the pertinent university where they are currently enrolled;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu89" xml:space="preserve">
+<source xml:lang="en">Document stating all the results of his/her studies up to date (University Diploma together with a Diploma Supplement or a list of completed subjects and examinations).</source>
+<target xml:lang="fr">Document stating all the results of his/her studies up to date (University Diploma together with a Diploma Supplement or a list of completed subjects and examinations).</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu90" xml:space="preserve">
+<source xml:lang="en">Applicants for a Doctoral study programme scholarship shall also in addition to the above submit the following:</source>
+<target xml:lang="fr">Applicants for a Doctoral study programme scholarship shall also in addition to the above submit the following:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu91" xml:space="preserve">
+<source xml:lang="en">Overview of expert topics on which the applicant wishes to focus in the Doctoral study programme;</source>
+<target xml:lang="fr">Overview of expert topics on which the applicant wishes to focus in the Doctoral study programme;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu92" xml:space="preserve">
+<source xml:lang="en">Letter of recommendation by a thesis supervisor/professor at the university where the Doctoral study programme is/will be taking place or a letter of acceptance (i.e. preliminary confirmation of admission) issued by a university in the Czech Republic that shall admit the applicant as a holder of a scholarship from the Government of the Czech Republic;</source>
+<target xml:lang="fr">Letter of recommendation by a thesis supervisor/professor at the university where the Doctoral study programme is/will be taking place or a letter of acceptance (i.e. preliminary confirmation of admission) issued by a university in the Czech Republic that shall admit the applicant as a holder of a scholarship from the Government of the Czech Republic;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu93" xml:space="preserve">
+<source xml:lang="en">If applicable, other documents proving the applicant’s qualifications advancement and scholarly/scientific activity to date.</source>
+<target xml:lang="fr">If applicable, other documents proving the applicant’s qualifications advancement and scholarly/scientific activity to date.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu94" xml:space="preserve">
+<source xml:lang="en">Recognition of Acquired Foreign Education and Elements of Submitted Documents</source>
+<target xml:lang="fr">Recognition of Acquired Foreign Education and Elements of Submitted Documents</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu95" xml:space="preserve">
+<source xml:lang="en">In order for an applicant to be admitted to study at a university in the Czech Republic, it is necessary to prove that the applicant’s education obtained abroad is equivalent to education obtained in the Czech Republic. The condition for admission to study in a follow-up master's study programme is the proper completion of studies in a bachelor's study programme; the condition for admission to study in the doctoral study programme is the proper completion of studies in the master's study programme and in the field of art also obtaining an academic degree.</source>
+<target xml:lang="fr">In order for an applicant to be admitted to study at a university in the Czech Republic, it is necessary to prove that the applicant’s education obtained abroad is equivalent to education obtained in the Czech Republic. The condition for admission to study in a follow-up master's study programme is the proper completion of studies in a bachelor's study programme; the condition for admission to study in the doctoral study programme is the proper completion of studies in the master's study programme and in the field of art also obtaining an academic degree.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu96" xml:space="preserve">
+<source xml:lang="en">Recognition of foreign education is regulated in the Czech legal system: </source>
+<target xml:lang="fr">Recognition of foreign education is regulated in the Czech legal system: </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu97" xml:space="preserve">
+<source xml:lang="en">in Section 108 of Act No. 561/2004 Coll., on pre-school, primary, secondary, higher vocational and other education (<g id="1">Education Act</g>), as amended, concerning<g id="2"> the recognition of documents confirming the achievement of primary, secondary or higher vocational education</g>; </source>
+<target xml:lang="fr">in Section 108 of Act No. 561/2004 Coll., on pre-school, primary, secondary, higher vocational and other education (<g id="1">Education Act</g>), as amended, concerning<g id="2"> the recognition of documents confirming the achievement of primary, secondary or higher vocational education</g>; </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu98" xml:space="preserve">
+<source xml:lang="en">in Sections 89 and 90 of Act No. 111/1998 Coll., on higher education institutions and on amendments and supplements to other acts (<g id="1">Higher Education Act</g>), concerning <g id="2">the recognition of foreign higher education</g>.</source>
+<target xml:lang="fr">in Sections 89 and 90 of Act No. 111/1998 Coll., on higher education institutions and on amendments and supplements to other acts (<g id="1">Higher Education Act</g>), concerning <g id="2">the recognition of foreign higher education</g>.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu99" xml:space="preserve">
+<source xml:lang="en">Foreign higher education qualifications are proven by submitting a certificate of foreign university education obtained by completing a university programme at a foreign university operating under foreign law (diploma or otherwise called a similar document issued by a foreign university), and a list of completed subjects and examinations (diploma supplement, transcript of academic records or a similar document).</source>
+<target xml:lang="fr">Foreign higher education qualifications are proven by submitting a certificate of foreign university education obtained by completing a university programme at a foreign university operating under foreign law (diploma or otherwise called a similar document issued by a foreign university), and a list of completed subjects and examinations (diploma supplement, transcript of academic records or a similar document).</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu100" xml:space="preserve">
+<source xml:lang="en">The assessment of obtained foreign education is carried out by the public higher education institution, and it decides on its recognition.</source>
+<target xml:lang="fr">The assessment of obtained foreign education is carried out by the public higher education institution, and it decides on its recognition.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu101" xml:space="preserve">
+<source xml:lang="en"><g id="1">Public universities publish specific information on how to apply on their websites</g>. As a rule, <g id="2">the application form and the contact details of the responsible officials</g> <g id="3">are</g> also <g id="4">published</g>. Links to the relevant websites of public universities can be found at <g id="5">https://archiv.msmt.gov.cz/areas-of-work/tertiary-education/public-higher-education-institutions-websites?lang=2</g>. </source>
+<target xml:lang="fr"><g id="1">Public universities publish specific information on how to apply on their websites</g>. As a rule, <g id="2">the application form and the contact details of the responsible officials</g> <g id="3">are</g> also <g id="4">published</g>. Links to the relevant websites of public universities can be found at <g id="5">https://archiv.msmt.gov.cz/areas-of-work/tertiary-education/public-higher-education-institutions-websites?lang=2</g>. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu102" xml:space="preserve">
+<source xml:lang="en">Applicants who start studying in English or in Czech without a year of language and preparatory studies must secure recognition of their previous education before arriving in the Czech Republic. The specific procedure is published by the relevant university on its website, general information is available at <g id="1">https://archiv.msmt.gov.cz/areas-of-work/tertiary-education/recognition-of-foreign-higher-education-in-the-czech?lang=2</g>.</source>
+<target xml:lang="fr">Applicants who start studying in English or in Czech without a year of language and preparatory studies must secure recognition of their previous education before arriving in the Czech Republic. The specific procedure is published by the relevant university on its website, general information is available at <g id="1">https://archiv.msmt.gov.cz/areas-of-work/tertiary-education/recognition-of-foreign-higher-education-in-the-czech?lang=2</g>.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu103" xml:space="preserve">
+<source xml:lang="en">Applicants who have been granted a scholarship for language and preparatory studies may apply for recognition of their previous education only after arriving in the Czech Republic. In such a case, it is desirable that they have at least two copies of the documents required for the admissions procedure and for the recognition of foreign education with them upon arrival in the Czech Republic.</source>
+<target xml:lang="fr">Applicants who have been granted a scholarship for language and preparatory studies may apply for recognition of their previous education only after arriving in the Czech Republic. In such a case, it is desirable that they have at least two copies of the documents required for the admissions procedure and for the recognition of foreign education with them upon arrival in the Czech Republic.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu104" xml:space="preserve">
+<source xml:lang="en">Requirements for Submitted Documents</source>
+<target xml:lang="fr">Requirements for Submitted Documents</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu105" xml:space="preserve">
+<source xml:lang="en">A public higher education institution may require that the authenticity of signatures and stamps on original documents be verified by the Ministry of Foreign Affairs of the state in which the higher education institution that issued the document is located, or by the relevant foreign authority and the relevant embassy of the Czech Republic (so-called superlegalization), unless an international treaty by which the Czech Republic is bound provides otherwise.</source>
+<target xml:lang="fr">A public higher education institution may require that the authenticity of signatures and stamps on original documents be verified by the Ministry of Foreign Affairs of the state in which the higher education institution that issued the document is located, or by the relevant foreign authority and the relevant embassy of the Czech Republic (so-called superlegalization), unless an international treaty by which the Czech Republic is bound provides otherwise.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu106" xml:space="preserve">
+<source xml:lang="en">As for diplomas and other documents proving educational attainment issued in states that have signed the so-called Hague Convention, final legalisation is done by means of an Apostille by the pertinent body of the state. Further information about what body has the jurisdiction to issue a clause in the form of an Apostille can be provided by the Embassy of the Czech Republic or local authorities of the given state. A list of countries and apostille authorities is available here: <g id="1">https://www.hcch.net/en/instruments/conventions/authorities1/?cid=41</g>). </source>
+<target xml:lang="fr">As for diplomas and other documents proving educational attainment issued in states that have signed the so-called Hague Convention, final legalisation is done by means of an Apostille by the pertinent body of the state. Further information about what body has the jurisdiction to issue a clause in the form of an Apostille can be provided by the Embassy of the Czech Republic or local authorities of the given state. A list of countries and apostille authorities is available here: <g id="1">https://www.hcch.net/en/instruments/conventions/authorities1/?cid=41</g>). </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu107" xml:space="preserve">
+<source xml:lang="en">For foreign language diplomas and other diplomas issued by foreign universities, a certified translation into the Czech language is required. Documents issued directly by foreign universities in the English language are often accepted by public universities; however, a translation may be requested in the proceedings. The certified translation is prepared by a court interpreter (the list of court interpreters is available on the website of the Ministry of Justice at <g id="1">https://seznat.justice.cz/</g>) or by the Embassy of the Czech Republic in the given country.</source>
+<target xml:lang="fr">For foreign language diplomas and other diplomas issued by foreign universities, a certified translation into the Czech language is required. Documents issued directly by foreign universities in the English language are often accepted by public universities; however, a translation may be requested in the proceedings. The certified translation is prepared by a court interpreter (the list of court interpreters is available on the website of the Ministry of Justice at <g id="1">https://seznat.justice.cz/</g>) or by the Embassy of the Czech Republic in the given country.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu108" xml:space="preserve">
+<source xml:lang="en">The applicant acts in person in the proceedings but may be represented on the basis of a written power of attorney by an agent.</source>
+<target xml:lang="fr">The applicant acts in person in the proceedings but may be represented on the basis of a written power of attorney by an agent.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu109" xml:space="preserve">
+<source xml:lang="en">Arrival in the Czech Republic</source>
+<target xml:lang="fr">Arrival in the Czech Republic</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu110" xml:space="preserve">
+<source xml:lang="en">Students must arrange their arrival in the Czech Republic in such a way that they can commence their studies on the date laid down in the Decision on Granting a Scholarship (hereinafter referred to as “the Decision”). Studies may be commenced later only if there are objectively serious obstacles that prevent the nominated student from travelling to the Czech Republic. The nominated student shall provide notification of these circumstances in writing and shall demonstrate them sufficiently in advance, but no later than within 30 days from the date of commencement laid down in the Decision.</source>
+<target xml:lang="fr">Students must arrange their arrival in the Czech Republic in such a way that they can commence their studies on the date laid down in the Decision on Granting a Scholarship (hereinafter referred to as “the Decision”). Studies may be commenced later only if there are objectively serious obstacles that prevent the nominated student from travelling to the Czech Republic. The nominated student shall provide notification of these circumstances in writing and shall demonstrate them sufficiently in advance, but no later than within 30 days from the date of commencement laid down in the Decision.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu111" xml:space="preserve">
+<source xml:lang="en">If the date of commencement of the stay is changed after the proof of objective obstacles that prevent the nominated student from commencing his/her studies on the due date, the receiving party may book accommodation at a different address than the one stated in the proof of accommodation.</source>
+<target xml:lang="fr">If the date of commencement of the stay is changed after the proof of objective obstacles that prevent the nominated student from commencing his/her studies on the due date, the receiving party may book accommodation at a different address than the one stated in the proof of accommodation.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu112" xml:space="preserve">
+<source xml:lang="en">If a student does not commence studies within 30 days from the date of commencement of the stay laid down in the Decision without proper justification, both the scholarship and accommodation booking shall be cancelled after the 30-day time limit from the date of commencement laid down in the Decision has elapsed.</source>
+<target xml:lang="fr">If a student does not commence studies within 30 days from the date of commencement of the stay laid down in the Decision without proper justification, both the scholarship and accommodation booking shall be cancelled after the 30-day time limit from the date of commencement laid down in the Decision has elapsed.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu113" xml:space="preserve">
+<source xml:lang="en">Each student shall e-mail the following information to: <g id="1">vladni.stipendia@dzs.cz</g>:</source>
+<target xml:lang="fr">Each student shall e-mail the following information to: <g id="1">vladni.stipendia@dzs.cz</g>:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu114" xml:space="preserve">
+<source xml:lang="en">Scheduled arrival date; or</source>
+<target xml:lang="fr">Scheduled arrival date; or</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu115" xml:space="preserve">
+<source xml:lang="en">That s/he shall not use the scholarship and shall not travel to the Czech Republic as soon as s/he learns of this situation.</source>
+<target xml:lang="fr">That s/he shall not use the scholarship and shall not travel to the Czech Republic as soon as s/he learns of this situation.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu116" xml:space="preserve">
+<source xml:lang="en">Upon arrival in the Czech Republic each student shall register (check in) as a government scholarship holder, i.e. s/he shall fill in his/her Personal Information Sheet and shall receive a student number. All government scholarship holders are registered by a pertinent employee of the International Student Office of the Institute for Language and Preparatory Studies of Charles University (see section Arrival of Scholarship Holders Admitted to Study in the Czech Language). If a student has not registered at the International Student Office, the registration shall be done by an employee of the pertinent university who is in charge of enrolment.</source>
+<target xml:lang="fr">Upon arrival in the Czech Republic each student shall register (check in) as a government scholarship holder, i.e. s/he shall fill in his/her Personal Information Sheet and shall receive a student number. All government scholarship holders are registered by a pertinent employee of the International Student Office of the Institute for Language and Preparatory Studies of Charles University (see section Arrival of Scholarship Holders Admitted to Study in the Czech Language). If a student has not registered at the International Student Office, the registration shall be done by an employee of the pertinent university who is in charge of enrolment.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu117" xml:space="preserve">
+<source xml:lang="en">The student shall also present a medical certificate of his/her current state of health, with an official translation into English or Czech, unless the certificate is issued directly in English /Czech (Annex No. 5). The certificate must not be older than 3 months before the date of arrival in the Czech Republic.</source>
+<target xml:lang="fr">The student shall also present a medical certificate of his/her current state of health, with an official translation into English or Czech, unless the certificate is issued directly in English /Czech (Annex No. 5). The certificate must not be older than 3 months before the date of arrival in the Czech Republic.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu118" xml:space="preserve">
+<source xml:lang="en">If the student holds a long-term visa for the purpose of study, he/she is obliged to fulfil the registration duty upon arrival, announcing his/her arrival in person to the relevant Alien Police Department within 3 working days from entering the territory of the Czech Republic (this does not apply if the aforementioned duty has already been accomplished by the accommodation provider). Students who hold long-term residence permits for the purpose of study and enter the territory of the Czech Republic using the entry visa (so called D/VR) are obliged to present themselves at the appropriate office of the Department of Asylum and Immigration Policy of the Ministry of the Interior (designated according to the place of residence in the Czech Republic) within 30 calendar days from the date of entry in the territory of the Czech Republic, where their biometric data, i.e. their face scan and fingerprints, will be collected for a subsequently issued residence permit card.   </source>
+<target xml:lang="fr">If the student holds a long-term visa for the purpose of study, he/she is obliged to fulfil the registration duty upon arrival, announcing his/her arrival in person to the relevant Alien Police Department within 3 working days from entering the territory of the Czech Republic (this does not apply if the aforementioned duty has already been accomplished by the accommodation provider). Students who hold long-term residence permits for the purpose of study and enter the territory of the Czech Republic using the entry visa (so called D/VR) are obliged to present themselves at the appropriate office of the Department of Asylum and Immigration Policy of the Ministry of the Interior (designated according to the place of residence in the Czech Republic) within 30 calendar days from the date of entry in the territory of the Czech Republic, where their biometric data, i.e. their face scan and fingerprints, will be collected for a subsequently issued residence permit card.   </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu119" xml:space="preserve">
+<source xml:lang="en">Before departing for the Czech Republic, students should take into account the Central European climate and bring adequate clothing. Temperatures in winter (December-March) may drop to -20 °C (- 4 °F).</source>
+<target xml:lang="fr">Before departing for the Czech Republic, students should take into account the Central European climate and bring adequate clothing. Temperatures in winter (December-March) may drop to -20 °C (- 4 °F).</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu120" xml:space="preserve">
+<source xml:lang="en">Upon arrival in the Czech Republic students should count on initial financial costs from their own funds of approximately CZK 5,000 to CZK 8,000 for administrative fees associated with studies, public transport, or other costs related to adapting to a new environment. </source>
+<target xml:lang="fr">Upon arrival in the Czech Republic students should count on initial financial costs from their own funds of approximately CZK 5,000 to CZK 8,000 for administrative fees associated with studies, public transport, or other costs related to adapting to a new environment. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu121" xml:space="preserve">
+<source xml:lang="en">Arrival of Scholarship Holders Admitted to Studies in the Czech Language</source>
+<target xml:lang="fr">Arrival of Scholarship Holders Admitted to Studies in the Czech Language</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu122" xml:space="preserve">
+<source xml:lang="en">Government scholarship holders admitted to study at the Institute for Language and Preparatory Studies of Charles University shall travel to the International Student Office at their own cost after they arrive in the Czech Republic. The International Student Office is a centre established by the Institute for Language and Preparatory Studies that is open at the time scheduled for student arrival and that provides assistance to government scholarship holders upon their arrival in the Czech Republic.</source>
+<target xml:lang="fr">Government scholarship holders admitted to study at the Institute for Language and Preparatory Studies of Charles University shall travel to the International Student Office at their own cost after they arrive in the Czech Republic. The International Student Office is a centre established by the Institute for Language and Preparatory Studies that is open at the time scheduled for student arrival and that provides assistance to government scholarship holders upon their arrival in the Czech Republic.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu123" xml:space="preserve">
+<source xml:lang="en">During the scheduled student arrival period the International Student Office is in operation 24 hours a day, 7 days a week. Students are given all the help they need, receive further instructions and information and assistance with arranging transportation to the pertinent Study Centre of the Institute for Language and Preparatory Studies located outside of Prague, with their registration and with their statutory obligation to register in the Czech Republic.</source>
+<target xml:lang="fr">During the scheduled student arrival period the International Student Office is in operation 24 hours a day, 7 days a week. Students are given all the help they need, receive further instructions and information and assistance with arranging transportation to the pertinent Study Centre of the Institute for Language and Preparatory Studies located outside of Prague, with their registration and with their statutory obligation to register in the Czech Republic.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu124" xml:space="preserve">
+<source xml:lang="en">Each student shall notify at least 5 working days in advance an official of the International Student Office of the date and approximate time of his/her scheduled arrival in the Czech Republic by phone: +420 724 076 495 or by e-mail: <g id="1">tranzit@ujop.cuni.cz</g>. The International Student Office has its seat at the Hotel Krystal, José Martího 2/407, 162 00 Praha 6 – Veleslavín, Study department, door No. 191.</source>
+<target xml:lang="fr">Each student shall notify at least 5 working days in advance an official of the International Student Office of the date and approximate time of his/her scheduled arrival in the Czech Republic by phone: +420 724 076 495 or by e-mail: <g id="1">tranzit@ujop.cuni.cz</g>. The International Student Office has its seat at the Hotel Krystal, José Martího 2/407, 162 00 Praha 6 – Veleslavín, Study department, door No. 191.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu125" xml:space="preserve">
+<source xml:lang="en">Arrival of Scholarship Holders Admitted to Studies in the English Language Who Immediately Commence Their Studies</source>
+<target xml:lang="fr">Arrival of Scholarship Holders Admitted to Studies in the English Language Who Immediately Commence Their Studies</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu126" xml:space="preserve">
+<source xml:lang="en">Upon arrival in the Czech Republic at the International Student Office, government scholarship holders are required to travel at their own cost to the seat of the university where they have been admitted to study, to accommodate themselves at the address laid down in the Decision, and to enrol for studies at the pertinent university/faculty where the study programme for which they have been granted the scholarship is provided. The students may also make use of further services provided by the International Student Office (e.g. registration, accommodation – usually for one night – upon arrival in the Czech Republic before they travel to the seat of the university) if they request those services well in advance at the following e-mail addresses: <g id="1">vladni.stipendia@dzs.cz</g> and <g id="2">tranzit@ujop.cuni.cz</g>.</source>
+<target xml:lang="fr">Upon arrival in the Czech Republic at the International Student Office, government scholarship holders are required to travel at their own cost to the seat of the university where they have been admitted to study, to accommodate themselves at the address laid down in the Decision, and to enrol for studies at the pertinent university/faculty where the study programme for which they have been granted the scholarship is provided. The students may also make use of further services provided by the International Student Office (e.g. registration, accommodation – usually for one night – upon arrival in the Czech Republic before they travel to the seat of the university) if they request those services well in advance at the following e-mail addresses: <g id="1">vladni.stipendia@dzs.cz</g> and <g id="2">tranzit@ujop.cuni.cz</g>.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu127" xml:space="preserve">
+<source xml:lang="en">Language and Preparatory Studies</source>
+<target xml:lang="fr">Language and Preparatory Studies</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu128" xml:space="preserve">
+<source xml:lang="en">Before commencing a specific study programme at a university in the Czech language, applicants are granted a scholarship for a one-year-long study in a preparatory year at the Institute for Language and Preparatory Studies of Charles University.</source>
+<target xml:lang="fr">Before commencing a specific study programme at a university in the Czech language, applicants are granted a scholarship for a one-year-long study in a preparatory year at the Institute for Language and Preparatory Studies of Charles University.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu129" xml:space="preserve">
+<source xml:lang="en">In the course of their language and preparatory studies students shall make arrangements to have their foreign education recognised (<g id="1">bachelor's study programme)</g>, submit an application to study at a university (according to the chosen field of study at the time of applying for the scholarship) and go through the admission procedure for the on-site mode of study of a follow-up master’s study programme at a university.</source>
+<target xml:lang="fr">In the course of their language and preparatory studies students shall make arrangements to have their foreign education recognised (<g id="1">bachelor's study programme)</g>, submit an application to study at a university (according to the chosen field of study at the time of applying for the scholarship) and go through the admission procedure for the on-site mode of study of a follow-up master’s study programme at a university.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu130" xml:space="preserve">
+<source xml:lang="en">Upon admission to a university, the student is obliged to submit without delay to the <g id="1">Czech National Agency for International Education and Research</g> (Dům zahraniční spolupráce), through the <g id="2">Institute for Language and Preparatory Studies, an application to issue a decision on granting the scholarship to support studies in the follow-up Master's study programme to which the student has been admitted. The scholarship</g> holder shall supplement the application form with a certificate proving completion of a one-year language and preparatory studies course for the study at universities and a confirmation of admission to study the relevant follow-up Master's study programme. If the student does not provide the required certificate, a B2 level Czech Language Certificate Exam (CCE) pursuant to the Common European Framework of Reference shall also be accepted. An incomplete application form shall be disregarded. On the basis of a complete application form a Decision on Granting the Scholarship shall be issued to the student to support his/her studies of a specific field of study in a specific study programme for a standard period of study.</source>
+<target xml:lang="fr">Upon admission to a university, the student is obliged to submit without delay to the <g id="1">Czech National Agency for International Education and Research</g> (Dům zahraniční spolupráce), through the <g id="2">Institute for Language and Preparatory Studies, an application to issue a decision on granting the scholarship to support studies in the follow-up Master's study programme to which the student has been admitted. The scholarship</g> holder shall supplement the application form with a certificate proving completion of a one-year language and preparatory studies course for the study at universities and a confirmation of admission to study the relevant follow-up Master's study programme. If the student does not provide the required certificate, a B2 level Czech Language Certificate Exam (CCE) pursuant to the Common European Framework of Reference shall also be accepted. An incomplete application form shall be disregarded. On the basis of a complete application form a Decision on Granting the Scholarship shall be issued to the student to support his/her studies of a specific field of study in a specific study programme for a standard period of study.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu131" xml:space="preserve">
+<source xml:lang="en">Material and Financial Provision for Scholarship Holders</source>
+<target xml:lang="fr">Material and Financial Provision for Scholarship Holders</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu132" xml:space="preserve">
+<source xml:lang="en">Scholarships of the Government of the Czech Republic are granted upon a Decision of the Ministry of Education, Youth and Sports <x id="1"/>to support the standard period of study in the Czech language<x id="2"/> (for Follow-up Master’s study programmes<x id="3"/>) or in the English language (for selected Follow-up Master’s and Doctoral study programmes), and to support one-year-long language and preparatory studies for those scholarship holders who have applied for a scholarship to pursue their studies in the Czech language.</source>
+<target xml:lang="fr">Scholarships of the Government of the Czech Republic are granted upon a Decision of the Ministry of Education, Youth and Sports <x id="1"/>to support the standard period of study in the Czech language<x id="2"/> (for Follow-up Master’s study programmes<x id="3"/>) or in the English language (for selected Follow-up Master’s and Doctoral study programmes), and to support one-year-long language and preparatory studies for those scholarship holders who have applied for a scholarship to pursue their studies in the Czech language.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu133" xml:space="preserve">
+<source xml:lang="en">The standard period of study, i.e. the period for which the student is granted a scholarship, is stated in the Decision.</source>
+<target xml:lang="fr">The standard period of study, i.e. the period for which the student is granted a scholarship, is stated in the Decision.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu134" xml:space="preserve">
+<source xml:lang="en">If a student fails to accept a Decision on Granting a Scholarship and fails to confirm its acceptance with his/her signature, the scholarship cannot be paid to him/her.</source>
+<target xml:lang="fr">If a student fails to accept a Decision on Granting a Scholarship and fails to confirm its acceptance with his/her signature, the scholarship cannot be paid to him/her.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu135" xml:space="preserve">
+<source xml:lang="en">The scholarship is intended to cover the necessary costs related to staying and studying in the Czech Republic. Currently, it amounts to CZK 16,000 per month for students of a follow-up Master’s study programme and CZK 24,960 for students of a Doctoral study programme. The amount of the scholarship may be adjusted by the decision of the Ministry of Education, Youth and Sports. The currently valid amount is always stated in the Decision on Granting the Scholarship</source>
+<target xml:lang="fr">The scholarship is intended to cover the necessary costs related to staying and studying in the Czech Republic. Currently, it amounts to CZK 16,000 per month for students of a follow-up Master’s study programme and CZK 24,960 for students of a Doctoral study programme. The amount of the scholarship may be adjusted by the decision of the Ministry of Education, Youth and Sports. The currently valid amount is always stated in the Decision on Granting the Scholarship</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu136" xml:space="preserve">
+<source xml:lang="en">Costs of accommodation, food and public transport are covered by scholarship holders from the scholarship under the same conditions that apply to students who are citizens of the Czech Republic. </source>
+<target xml:lang="fr">Costs of accommodation, food and public transport are covered by scholarship holders from the scholarship under the same conditions that apply to students who are citizens of the Czech Republic. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu137" xml:space="preserve">
+<source xml:lang="en">Should health services exceeding standard care be required by the scholarship holder, s/he shall cover them at his/her own cost (see Chapter 10).</source>
+<target xml:lang="fr">Should health services exceeding standard care be required by the scholarship holder, s/he shall cover them at his/her own cost (see Chapter 10).</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu138" xml:space="preserve">
+<source xml:lang="en">Travel expenses for travelling to the Czech Republic and back to the student’s home country after graduation are paid by the foreign national at his/her own cost or by the party that nominated the student to study in the Czech Republic.</source>
+<target xml:lang="fr">Travel expenses for travelling to the Czech Republic and back to the student’s home country after graduation are paid by the foreign national at his/her own cost or by the party that nominated the student to study in the Czech Republic.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu139" xml:space="preserve">
+<source xml:lang="en">If a scholarship holder exceeds the standard period of study and/or the period for which the scholarship has been granted to him/her, s/he shall lose the status of a government scholarship holder. Like a citizen of the Czech Republic, s/he shall thereafter be obliged to pay the fees designated by the school for prolonging his/her studies at his/her own cost. After payment of the government scholarship is terminated, the student may stay in the territory of the Czech Republic only at his/her own responsibility if s/he arranges and pays for all the requirements related to obtaining a residence permit to stay in the Czech Republic, his/her study, provision of health services, accommodation and food, etc. at his/her own cost. The same applies if a student interrupts his/her studies.</source>
+<target xml:lang="fr">If a scholarship holder exceeds the standard period of study and/or the period for which the scholarship has been granted to him/her, s/he shall lose the status of a government scholarship holder. Like a citizen of the Czech Republic, s/he shall thereafter be obliged to pay the fees designated by the school for prolonging his/her studies at his/her own cost. After payment of the government scholarship is terminated, the student may stay in the territory of the Czech Republic only at his/her own responsibility if s/he arranges and pays for all the requirements related to obtaining a residence permit to stay in the Czech Republic, his/her study, provision of health services, accommodation and food, etc. at his/her own cost. The same applies if a student interrupts his/her studies.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu140" xml:space="preserve">
+<source xml:lang="en">Cessation of Entitlement to Scholarship</source>
+<target xml:lang="fr">Cessation of Entitlement to Scholarship</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu141" xml:space="preserve">
+<source xml:lang="en">A foreign national shall not be entitled to a scholarship granted pursuant to the Ministry of Education, Youth and Sports scholarship programme and payment shall not be made:</source>
+<target xml:lang="fr">A foreign national shall not be entitled to a scholarship granted pursuant to the Ministry of Education, Youth and Sports scholarship programme and payment shall not be made:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu142" xml:space="preserve">
+<source xml:lang="en">During his/her absence from the territory of the Czech Republic if this absence lasts longer than 30 consecutive calendar days and is not part of specific study obligations outside the territory of the Czech Republic or does not fall within the holiday period (starting from the month in which the foreign national has completed the time limit of 30 calendar days of consecutive absence from the territory of the Czech Republic);</source>
+<target xml:lang="fr">During his/her absence from the territory of the Czech Republic if this absence lasts longer than 30 consecutive calendar days and is not part of specific study obligations outside the territory of the Czech Republic or does not fall within the holiday period (starting from the month in which the foreign national has completed the time limit of 30 calendar days of consecutive absence from the territory of the Czech Republic);</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu143" xml:space="preserve">
+<source xml:lang="en">During the interruption of his/her studies (starting from the calendar month that follows the month in which the interruption commenced); </source>
+<target xml:lang="fr">During the interruption of his/her studies (starting from the calendar month that follows the month in which the interruption commenced); </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu144" xml:space="preserve">
+<source xml:lang="en">After ending his/her studies. If a foreign national duly completes his/her study programme, scholarship payment shall be terminated from the month following the month when the foreign national completed his/her studies. In other cases, the scholarship payment shall be terminated from the first month following the month when his/her studies were ended;</source>
+<target xml:lang="fr">After ending his/her studies. If a foreign national duly completes his/her study programme, scholarship payment shall be terminated from the month following the month when the foreign national completed his/her studies. In other cases, the scholarship payment shall be terminated from the first month following the month when his/her studies were ended;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu145" xml:space="preserve">
+<source xml:lang="en">If a foreign national does not enrol in his/her studies within the given time limit (i.e. within 30 calendar days from the date when s/he is to commence his/her studies as stated in the given Decision on Granting a Scholarship);</source>
+<target xml:lang="fr">If a foreign national does not enrol in his/her studies within the given time limit (i.e. within 30 calendar days from the date when s/he is to commence his/her studies as stated in the given Decision on Granting a Scholarship);</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu146" xml:space="preserve">
+<source xml:lang="en">If a foreign national obtains a permanent residence permit to reside in the Czech Republic (starting from the calendar month that follows the month when the above decision was issued);</source>
+<target xml:lang="fr">If a foreign national obtains a permanent residence permit to reside in the Czech Republic (starting from the calendar month that follows the month when the above decision was issued);</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu147" xml:space="preserve">
+<source xml:lang="en">In addition, the entitlement to the scholarship shall cease on the day on which another Decision on Granting a Scholarship to the given foreign national (amending the previous Decision) issued by the Ministry of Education, Youth and Sports comes into force and effect, as well as upon his/her own initiative based on a change to the facts that were decisive for the assessment of the original scholarship application or based on the discovery that data stated in the original application and submitted documentation was false; </source>
+<target xml:lang="fr">In addition, the entitlement to the scholarship shall cease on the day on which another Decision on Granting a Scholarship to the given foreign national (amending the previous Decision) issued by the Ministry of Education, Youth and Sports comes into force and effect, as well as upon his/her own initiative based on a change to the facts that were decisive for the assessment of the original scholarship application or based on the discovery that data stated in the original application and submitted documentation was false; </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu148" xml:space="preserve">
+<source xml:lang="en">The entitlement to the scholarship shall be also forfeited if its holder is diagnosed with a contagious disease, listed in Annex No. 5, items a) through c) of these Guidelines, during the initial medical examination performed in compliance with Chapter 10 of these Guidelines;</source>
+<target xml:lang="fr">The entitlement to the scholarship shall be also forfeited if its holder is diagnosed with a contagious disease, listed in Annex No. 5, items a) through c) of these Guidelines, during the initial medical examination performed in compliance with Chapter 10 of these Guidelines;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu149" xml:space="preserve">
+<source xml:lang="en">If a foreign national is not present in the territory of the Czech Republic in a given month for more than 15 calendar days for other than study reasons and if his/her entitlement to the scholarship does not cease pursuant to paragraph a) or b), only half of the granted monthly scholarship amount shall be paid to him/her in that month.</source>
+<target xml:lang="fr">If a foreign national is not present in the territory of the Czech Republic in a given month for more than 15 calendar days for other than study reasons and if his/her entitlement to the scholarship does not cease pursuant to paragraph a) or b), only half of the granted monthly scholarship amount shall be paid to him/her in that month.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu150" xml:space="preserve">
+<source xml:lang="en">Scholarship payment shall also be terminated if a foreign national:</source>
+<target xml:lang="fr">Scholarship payment shall also be terminated if a foreign national:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu151" xml:space="preserve">
+<source xml:lang="en">Discontinues his/her studies;</source>
+<target xml:lang="fr">Discontinues his/her studies;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu152" xml:space="preserve">
+<source xml:lang="en">Is expelled from his/her studies;</source>
+<target xml:lang="fr">Is expelled from his/her studies;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu153" xml:space="preserve">
+<source xml:lang="en">Obtained the Decision on Granting a Scholarship as a result of fraudulent conduct or as a result of stating incorrect data;</source>
+<target xml:lang="fr">Obtained the Decision on Granting a Scholarship as a result of fraudulent conduct or as a result of stating incorrect data;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu154" xml:space="preserve">
+<source xml:lang="en">Pursues other activities that are contrary to legal regulations valid in the Czech Republic;</source>
+<target xml:lang="fr">Pursues other activities that are contrary to legal regulations valid in the Czech Republic;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu155" xml:space="preserve">
+<source xml:lang="en">For reasons, existing on the part of the foreign national, does not undergo the initial medical examination as per Chapter 10 of these Guidelines within the prescribed deadline; </source>
+<target xml:lang="fr">For reasons, existing on the part of the foreign national, does not undergo the initial medical examination as per Chapter 10 of these Guidelines within the prescribed deadline; </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu156" xml:space="preserve">
+<source xml:lang="en">Does not contract a health insurance policy in compliance with the Act No. 326/1999 Coll, on the Residence of Foreign Nationals in the territory of the Czech Republic, as amended (zákon č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů) within 60 days from the initial medical examination during which he/she was diagnosed with a serious disease listed in Annex No. 5, items d) through o) of these Guidelines,  </source>
+<target xml:lang="fr">Does not contract a health insurance policy in compliance with the Act No. 326/1999 Coll, on the Residence of Foreign Nationals in the territory of the Czech Republic, as amended (zákon č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů) within 60 days from the initial medical examination during which he/she was diagnosed with a serious disease listed in Annex No. 5, items d) through o) of these Guidelines,  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu157" xml:space="preserve">
+<source xml:lang="en">Is a national of the Czech Republic or of a Member State of the European Union;</source>
+<target xml:lang="fr">Is a national of the Czech Republic or of a Member State of the European Union;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu158" xml:space="preserve">
+<source xml:lang="en">Scholarship payment may also be terminated upon a written statement from the rector, dean, relevant vice-dean or other employee of a university authorised by them, stating that the foreign national is not complying with his/her study obligations vis-à-vis the paid scholarship in an adequate or satisfactory manner (e.g. the number of credits gained in a given period/semester is low compared to the standard, participation in tuition is lower than 80%, etc.) or if the scholarship holder fails to comply with the obligation to inform authorized employees of the <g id="1">Czech National Agency for International Education and Research</g> (Dům zahraniční spolupráce) of any facts that may lead to exceeding the standard period of study (see Chapter 11).</source>
+<target xml:lang="fr">Scholarship payment may also be terminated upon a written statement from the rector, dean, relevant vice-dean or other employee of a university authorised by them, stating that the foreign national is not complying with his/her study obligations vis-à-vis the paid scholarship in an adequate or satisfactory manner (e.g. the number of credits gained in a given period/semester is low compared to the standard, participation in tuition is lower than 80%, etc.) or if the scholarship holder fails to comply with the obligation to inform authorized employees of the <g id="1">Czech National Agency for International Education and Research</g> (Dům zahraniční spolupráce) of any facts that may lead to exceeding the standard period of study (see Chapter 11).</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu159" xml:space="preserve">
+<source xml:lang="en">If the scholarship payment is terminated, the foreign national ceases to be a participant in the scholarship programme of the Government of the Czech Republic with all the relevant consequences.</source>
+<target xml:lang="fr">If the scholarship payment is terminated, the foreign national ceases to be a participant in the scholarship programme of the Government of the Czech Republic with all the relevant consequences.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu160" xml:space="preserve">
+<source xml:lang="en">Residence of Foreign Nationals in the Czech Republic</source>
+<target xml:lang="fr">Residence of Foreign Nationals in the Czech Republic</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu161" xml:space="preserve">
+<source xml:lang="en">A foreigner (a scholarship holder) may come to the Czech Republic for the purpose of study, provided that he has applied for a long-term residence permit for the purpose of study or a long-term visa for the purpose of study and his application submitted to the Embassy of the Czech Republic has been granted. An application for long-term residence for the purpose of study may be submitted in the Czech Republic only if the foreigner already resides in the Czech Republic on the basis of a long-term visa for any purpose (except for the long-term visa for the purpose of tolerated stay or seasonal employment or a special work visa) or if the foreigner resides in the Czech Republic on the basis of a long-term residence permit (with the exception of residence permit for the purpose of endurance) or if the foreigner holds a long-term (over 90 days) visa or long-term residence permit issued for the purpose of studying by another EU Member State (except for the United Kingdom, Ireland and Denmark) provided that s/he submits this application as part of his/her authorized stay in the territory. </source>
+<target xml:lang="fr">A foreigner (a scholarship holder) may come to the Czech Republic for the purpose of study, provided that he has applied for a long-term residence permit for the purpose of study or a long-term visa for the purpose of study and his application submitted to the Embassy of the Czech Republic has been granted. An application for long-term residence for the purpose of study may be submitted in the Czech Republic only if the foreigner already resides in the Czech Republic on the basis of a long-term visa for any purpose (except for the long-term visa for the purpose of tolerated stay or seasonal employment or a special work visa) or if the foreigner resides in the Czech Republic on the basis of a long-term residence permit (with the exception of residence permit for the purpose of endurance) or if the foreigner holds a long-term (over 90 days) visa or long-term residence permit issued for the purpose of studying by another EU Member State (except for the United Kingdom, Ireland and Denmark) provided that s/he submits this application as part of his/her authorized stay in the territory. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu162" xml:space="preserve">
+<source xml:lang="en">The government scholarship holder is obliged to submit the “Decision of the Ministry of Education, Youth and Sports on Granting a Scholarship” (in Czech) along with the application for a long-term residence permit/long-term visa for study purposes. This Decision replaces the submission of a document proving the foreign national’s purpose of residence in the Czech Republic, a document proving that s/he has the necessary funds for his/her stay as well as a document proving travel health insurance for the period of his/her stay in the Czech Republic.</source>
+<target xml:lang="fr">The government scholarship holder is obliged to submit the “Decision of the Ministry of Education, Youth and Sports on Granting a Scholarship” (in Czech) along with the application for a long-term residence permit/long-term visa for study purposes. This Decision replaces the submission of a document proving the foreign national’s purpose of residence in the Czech Republic, a document proving that s/he has the necessary funds for his/her stay as well as a document proving travel health insurance for the period of his/her stay in the Czech Republic.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu163" xml:space="preserve">
+<source xml:lang="en">Besides the above, the foreign national is also obliged to submit the following documents with the application:</source>
+<target xml:lang="fr">Besides the above, the foreign national is also obliged to submit the following documents with the application:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu164" xml:space="preserve">
+<source xml:lang="en">An original of a valid travel document;</source>
+<target xml:lang="fr">An original of a valid travel document;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu165" xml:space="preserve">
+<source xml:lang="en">An original or certified copy of a document proving that s/he has accommodation provided for the period of his/her stay in the Czech Republic;</source>
+<target xml:lang="fr">An original or certified copy of a document proving that s/he has accommodation provided for the period of his/her stay in the Czech Republic;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu166" xml:space="preserve">
+<source xml:lang="en">One photograph;</source>
+<target xml:lang="fr">One photograph;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu167" xml:space="preserve">
+<source xml:lang="en">A document similar to an extract from the register of criminal records as a basis for assessing that the foreign national has a clean criminal record issued by the state of which s/he is a citizen</source>
+<target xml:lang="fr">A document similar to an extract from the register of criminal records as a basis for assessing that the foreign national has a clean criminal record issued by the state of which s/he is a citizen</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu168" xml:space="preserve">
+<source xml:lang="en">and upon request:</source>
+<target xml:lang="fr">and upon request:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu169" xml:space="preserve">
+<source xml:lang="en">A document similar to a copy of the criminal record issued by the state(s) in which the foreign national resided for a period longer than 6 months in the last 3 years, </source>
+<target xml:lang="fr">A document similar to a copy of the criminal record issued by the state(s) in which the foreign national resided for a period longer than 6 months in the last 3 years, </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu170" xml:space="preserve">
+<source xml:lang="en">A document proving the fulfilment of measures adopted against spreading an infectious disease from abroad in the Czech Republic.</source>
+<target xml:lang="fr">A document proving the fulfilment of measures adopted against spreading an infectious disease from abroad in the Czech Republic.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu171" xml:space="preserve">
+<source xml:lang="en">Further information about the required attachments to an application for a long-term residence permit/long-term visa for study purposes can be provided upon request by the respective Embassy of the Czech Republic. Information in the Czech and English languages is also available on the official information portal for foreigners of the Ministry of the Interior of the Czech Republic at <g id="1">https://ipc.gov.cz/en/visa-and-residence-permit-types/</g>. </source>
+<target xml:lang="fr">Further information about the required attachments to an application for a long-term residence permit/long-term visa for study purposes can be provided upon request by the respective Embassy of the Czech Republic. Information in the Czech and English languages is also available on the official information portal for foreigners of the Ministry of the Interior of the Czech Republic at <g id="1">https://ipc.gov.cz/en/visa-and-residence-permit-types/</g>. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu172" xml:space="preserve">
+<source xml:lang="en">If the application is granted, the Embassy shall enter a long-term or entry visa in the travel document. A visa issued for the purpose of receipt of a long-term residence permit (provided to those who apply for a long-term residence permit) entitles its holder to enter and stay in the territory of the Czech Republic for up to 60 days.</source>
+<target xml:lang="fr">If the application is granted, the Embassy shall enter a long-term or entry visa in the travel document. A visa issued for the purpose of receipt of a long-term residence permit (provided to those who apply for a long-term residence permit) entitles its holder to enter and stay in the territory of the Czech Republic for up to 60 days.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu173" xml:space="preserve">
+<source xml:lang="en">Upon arrival in the Czech Republic, the foreign national is obliged to fulfil his/her registration duty, cf. Chapter 5. </source>
+<target xml:lang="fr">Upon arrival in the Czech Republic, the foreign national is obliged to fulfil his/her registration duty, cf. Chapter 5. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu174" xml:space="preserve">
+<source xml:lang="en">A foreign national residing in the Czech Republic is obliged to report a change of his/her place of residence (if such a change of residence is to last  longer than 30 days) within 30 days from the day when this change occurred and announce it to the  designated office of the Department of Asylum and Migration Policy of the Ministry of the Interior relevant to the place of residence and, at the same time, inform the Czech National Agency for International Education and Research (Department of Bilateral and Multilateral Programmes) of such a change by sending an e-mail to <g id="1">vladni.stipendia@dzs.cz</g>. Further duties of a foreign national residing in the Czech Republic may be found on the official information portal for foreigners of the Ministry of the Interior of the Czech Republic at <g id="2">https://ipc.gov.cz/en/obligations-for-foreigners/</g>.</source>
+<target xml:lang="fr">A foreign national residing in the Czech Republic is obliged to report a change of his/her place of residence (if such a change of residence is to last  longer than 30 days) within 30 days from the day when this change occurred and announce it to the  designated office of the Department of Asylum and Migration Policy of the Ministry of the Interior relevant to the place of residence and, at the same time, inform the Czech National Agency for International Education and Research (Department of Bilateral and Multilateral Programmes) of such a change by sending an e-mail to <g id="1">vladni.stipendia@dzs.cz</g>. Further duties of a foreign national residing in the Czech Republic may be found on the official information portal for foreigners of the Ministry of the Interior of the Czech Republic at <g id="2">https://ipc.gov.cz/en/obligations-for-foreigners/</g>.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu175" xml:space="preserve">
+<source xml:lang="en">Terms and Conditions Governing the Provision of Health <x id="1"/>Services</source>
+<target xml:lang="fr">Terms and Conditions Governing the Provision of Health <x id="1"/>Services</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu176" xml:space="preserve">
+<source xml:lang="en">Costs of health services provided to government scholarship holders are reimbursed by the Ministry of Health in accordance with Section 180j (4) of Act No. 326/1999 Coll., on the Residence of Foreign Nationals in the territory of the Czech Republic, as amended. The health services provider shall send an invoice for provided health services to the Medical Insurance Supervision Department of the Ministry of Health, Palackého náměstí 375/4, 128 01 Prague 2, in order to have them reimbursed.</source>
+<target xml:lang="fr">Costs of health services provided to government scholarship holders are reimbursed by the Ministry of Health in accordance with Section 180j (4) of Act No. 326/1999 Coll., on the Residence of Foreign Nationals in the territory of the Czech Republic, as amended. The health services provider shall send an invoice for provided health services to the Medical Insurance Supervision Department of the Ministry of Health, Palackého náměstí 375/4, 128 01 Prague 2, in order to have them reimbursed.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu177" xml:space="preserve">
+<source xml:lang="en">Government scholarship holders, like the citizens of the Czech Republic, pay, for example, so-called regulatory fees, co-payments for medicines and co-payment in the case of certain medical devices. Government scholarship holders are provided with health services to the same extent and under the same conditions as Czech insured persons (taking into account the exception mentioned in the last paragraph).</source>
+<target xml:lang="fr">Government scholarship holders, like the citizens of the Czech Republic, pay, for example, so-called regulatory fees, co-payments for medicines and co-payment in the case of certain medical devices. Government scholarship holders are provided with health services to the same extent and under the same conditions as Czech insured persons (taking into account the exception mentioned in the last paragraph).</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu178" xml:space="preserve">
+<source xml:lang="en">After arrival in the Czech Republic and before commencing their studies (within 30 days from arrival at the latest), government scholarship holders have to undergo an initial medical examination. If this medical examination determines that a government scholarship holder suffers from an infectious or serious disease, the attending physician is obliged to notify the Ministry of Health of this fact. </source>
+<target xml:lang="fr">After arrival in the Czech Republic and before commencing their studies (within 30 days from arrival at the latest), government scholarship holders have to undergo an initial medical examination. If this medical examination determines that a government scholarship holder suffers from an infectious or serious disease, the attending physician is obliged to notify the Ministry of Health of this fact. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu179" xml:space="preserve">
+<source xml:lang="en">A person diagnosed with an infectious disease, listed in Annex No. 5, items a) through c), to these Guidelines, during the initial medical examination loses entitlement to the scholarship (cf. item g) of Chapter 8). The Ministry of Health shall however cover urgent care related to the treatment of such infectious disease. The Ministry of Health shall also cover further urgent care deemed necessary during the treatment of the infectious disease concerned, if this care is provided within the period of 60 days from the initial medical examination. </source>
+<target xml:lang="fr">A person diagnosed with an infectious disease, listed in Annex No. 5, items a) through c), to these Guidelines, during the initial medical examination loses entitlement to the scholarship (cf. item g) of Chapter 8). The Ministry of Health shall however cover urgent care related to the treatment of such infectious disease. The Ministry of Health shall also cover further urgent care deemed necessary during the treatment of the infectious disease concerned, if this care is provided within the period of 60 days from the initial medical examination. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu180" xml:space="preserve">
+<source xml:lang="en">The Ministry of Health shall cover the urgent care related to the treatment of a serious disease listed in Annex No. 5, items d) through o), to these Guidelines which was diagnosed during the initial medical examination of a person.  The Ministry of Health shall also cover other urgent care deemed necessary during the treatment of the serious disease concerned, if this care is provided within the period of 60 days from the initial medical examination. After the 60-day period from the initial medical examination, the Government scholarship holder is obliged to provide evidence that he/she has contracted health insurance in compliance with the Act No. 326/1999 Coll, on the Residence of Foreign Nationals in the territory of the Czech Republic, as amended.  </source>
+<target xml:lang="fr">The Ministry of Health shall cover the urgent care related to the treatment of a serious disease listed in Annex No. 5, items d) through o), to these Guidelines which was diagnosed during the initial medical examination of a person.  The Ministry of Health shall also cover other urgent care deemed necessary during the treatment of the serious disease concerned, if this care is provided within the period of 60 days from the initial medical examination. After the 60-day period from the initial medical examination, the Government scholarship holder is obliged to provide evidence that he/she has contracted health insurance in compliance with the Act No. 326/1999 Coll, on the Residence of Foreign Nationals in the territory of the Czech Republic, as amended.  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu181" xml:space="preserve">
+<source xml:lang="en">The student shall lose his/her status of a government scholarship holder as of the date when scholarship payment is terminated and is obliged to contract a comprehensive health insurance policy with a scope corresponding to the provisions stipulated in the Act No. 326/1999 Coll, on the Residence of Foreign Nationals in the territory of the Czech Republic, as amended. </source>
+<target xml:lang="fr">The student shall lose his/her status of a government scholarship holder as of the date when scholarship payment is terminated and is obliged to contract a comprehensive health insurance policy with a scope corresponding to the provisions stipulated in the Act No. 326/1999 Coll, on the Residence of Foreign Nationals in the territory of the Czech Republic, as amended. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu182" xml:space="preserve">
+<source xml:lang="en">The Ministry of Health <g id="1">shall not reimburse health services related to pregnancy, delivery and childcare</g> to female government scholarship holders. If pregnancy is established in a female government scholarship holder, it is recommended that she should discontinue her studies and return to her homeland for the necessary period of time. If the student decides to continue her studies, it is her duty to effect travel health insurance for herself and her baby in accordance with the provision of Section 180j (5) of Act No. 326/1999 Coll., on the Residence of Foreign Nationals in the territory of the Czech Republic, as amended.</source>
+<target xml:lang="fr">The Ministry of Health <g id="1">shall not reimburse health services related to pregnancy, delivery and childcare</g> to female government scholarship holders. If pregnancy is established in a female government scholarship holder, it is recommended that she should discontinue her studies and return to her homeland for the necessary period of time. If the student decides to continue her studies, it is her duty to effect travel health insurance for herself and her baby in accordance with the provision of Section 180j (5) of Act No. 326/1999 Coll., on the Residence of Foreign Nationals in the territory of the Czech Republic, as amended.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu183" xml:space="preserve">
+<source xml:lang="en">Obligations of a Government Scholarship Holder</source>
+<target xml:lang="fr">Obligations of a Government Scholarship Holder</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu184" xml:space="preserve">
+<source xml:lang="en">A foreign national who has been granted a scholarship of the Government of the Czech Republic and who has accepted this scholarship is obliged to abide by the rules laid down in the Guidelines for Granting Scholarships of the Government of the Czech Republic and to follow instructions given by the Ministry of Education, Youth and Sports issued in relation to the Government Scholarship Programme and designated for government scholarship holders.</source>
+<target xml:lang="fr">A foreign national who has been granted a scholarship of the Government of the Czech Republic and who has accepted this scholarship is obliged to abide by the rules laid down in the Guidelines for Granting Scholarships of the Government of the Czech Republic and to follow instructions given by the Ministry of Education, Youth and Sports issued in relation to the Government Scholarship Programme and designated for government scholarship holders.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu185" xml:space="preserve">
+<source xml:lang="en">A government scholarship holder is furthermore obliged to:</source>
+<target xml:lang="fr">A government scholarship holder is furthermore obliged to:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu186" xml:space="preserve">
+<source xml:lang="en">Fully concentrate on the study programme for which the scholarship of the Government of the Czech Republic was granted, so as to complete his/her studies within the standard period of study;</source>
+<target xml:lang="fr">Fully concentrate on the study programme for which the scholarship of the Government of the Czech Republic was granted, so as to complete his/her studies within the standard period of study;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu187" xml:space="preserve">
+<source xml:lang="en">Comply with legal regulations valid in the Czech Republic as well as regulations of the university where s/he pursues his/her studies;</source>
+<target xml:lang="fr">Comply with legal regulations valid in the Czech Republic as well as regulations of the university where s/he pursues his/her studies;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu188" xml:space="preserve">
+<source xml:lang="en">Immediately inform an employee of the Department of Bilateral and Multilateral Programmes of the Czech National Agency for International Education and Research about the following:</source>
+<target xml:lang="fr">Immediately inform an employee of the Department of Bilateral and Multilateral Programmes of the Czech National Agency for International Education and Research about the following:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu189" xml:space="preserve">
+<source xml:lang="en">Changes that have taken place in information stated in the Decision on Granting a Scholarship or that are essential with regard to pursuing studies with a scholarship of the Government of the Czech Republic;</source>
+<target xml:lang="fr">Changes that have taken place in information stated in the Decision on Granting a Scholarship or that are essential with regard to pursuing studies with a scholarship of the Government of the Czech Republic;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu190" xml:space="preserve">
+<source xml:lang="en">Facts that may lead to exceeding the standard period of study (e.g. repetition of a year, study distribution, individual study plan, long illness or serious personal problems, etc.);</source>
+<target xml:lang="fr">Facts that may lead to exceeding the standard period of study (e.g. repetition of a year, study distribution, individual study plan, long illness or serious personal problems, etc.);</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu191" xml:space="preserve">
+<source xml:lang="en">Problems, difficulties and shortcomings related to the Government Scholarship Programme;</source>
+<target xml:lang="fr">Problems, difficulties and shortcomings related to the Government Scholarship Programme;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu192" xml:space="preserve">
+<source xml:lang="en">Share experience and help others, in particular new government scholarship holders, whenever needed;</source>
+<target xml:lang="fr">Share experience and help others, in particular new government scholarship holders, whenever needed;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu193" xml:space="preserve">
+<source xml:lang="en">Prepare a final report upon ending his/her studies (on any ground) following an e-mail request to do so that contains a link to an online form (Annex No. 6);</source>
+<target xml:lang="fr">Prepare a final report upon ending his/her studies (on any ground) following an e-mail request to do so that contains a link to an online form (Annex No. 6);</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu194" xml:space="preserve">
+<source xml:lang="en">Return to the country of origin after ending his/her studies;</source>
+<target xml:lang="fr">Return to the country of origin after ending his/her studies;</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu195" xml:space="preserve">
+<source xml:lang="en">Develop the knowledge, experience and friendships gained during his/her studies in the Czech Republic throughout his/her life and apply his/her learning in practice for the benefit of his/her country.</source>
+<target xml:lang="fr">Develop the knowledge, experience and friendships gained during his/her studies in the Czech Republic throughout his/her life and apply his/her learning in practice for the benefit of his/her country.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu196" xml:space="preserve">
+<source xml:lang="en">Useful Information and Contacts</source>
+<target xml:lang="fr">Useful Information and Contacts</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu197" xml:space="preserve">
+<source xml:lang="en"><g id="1">Information about studying at universities in the Czech Republic:</g> <g id="2">https://www.studyin.cz/</g> </source>
+<target xml:lang="fr"><g id="1">Information about studying at universities in the Czech Republic:</g> <g id="2">https://www.studyin.cz/</g> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu198" xml:space="preserve">
+<source xml:lang="en"><g id="1">Information on the entry and residence of foreign nationals in the territory of the Czech Republic: <g id="2">https://ipc.gov.cz/en/</g></g> <g id="3"> </g></source>
+<target xml:lang="fr"><g id="1">Information on the entry and residence of foreign nationals in the territory of the Czech Republic: <g id="2">https://ipc.gov.cz/en/</g></g> <g id="3"> </g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu199" xml:space="preserve">
+<source xml:lang="en"><g id="1">Ministry of Foreign Affairs: </g>Loretánské nám. 5, 118 00 Praha 1, <g id="2">https://mzv.gov.cz/</g> </source>
+<target xml:lang="fr"><g id="1">Ministry of Foreign Affairs: </g>Loretánské nám. 5, 118 00 Praha 1, <g id="2">https://mzv.gov.cz/</g> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu200" xml:space="preserve">
+<source xml:lang="en"><g id="1">Ministry of Education, Youth and Sports:</g> Karmelitská 529/5, 118 12 Praha 1, <g id="2">https://msmt.gov.cz/</g>  </source>
+<target xml:lang="fr"><g id="1">Ministry of Education, Youth and Sports:</g> Karmelitská 529/5, 118 12 Praha 1, <g id="2">https://msmt.gov.cz/</g>  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu201" xml:space="preserve">
+<source xml:lang="en"><g id="1">Ministry of Health: </g>Palackého nám. 375/4, 128 01 Praha 2, <g id="2">https://mzd.gov.cz/</g> </source>
+<target xml:lang="fr"><g id="1">Ministry of Health: </g>Palackého nám. 375/4, 128 01 Praha 2, <g id="2">https://mzd.gov.cz/</g> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu202" xml:space="preserve">
+<source xml:lang="en"><g id="1">Czech National Agency for International Education and Research:</g> Na Poříčí 1035/4, 110 00 Praha 1, <g id="2">https://www.dzs.cz/</g>,  <g id="3">vladni.stipendia@dzs.cz</g></source>
+<target xml:lang="fr"><g id="1">Czech National Agency for International Education and Research:</g> Na Poříčí 1035/4, 110 00 Praha 1, <g id="2">https://www.dzs.cz/</g>,  <g id="3">vladni.stipendia@dzs.cz</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu203" xml:space="preserve">
+<source xml:lang="en"><g id="1">Institute for Language and Preparatory Studies: </g>Vratislavova 10, 128 00 Praha 2</source>
+<target xml:lang="fr"><g id="1">Institute for Language and Preparatory Studies: </g>Vratislavova 10, 128 00 Praha 2</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu204" xml:space="preserve">
+<source xml:lang="en"><g id="1">Study centre Poděbrady:</g> Jana Opletala 77, 290 36 Poděbrady</source>
+<target xml:lang="fr"><g id="1">Study centre Poděbrady:</g> Jana Opletala 77, 290 36 Poděbrady</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu205" xml:space="preserve">
+<source xml:lang="en"><g id="1">International Student Office: </g>Hotel Krystal, José Martího 2/407, 162 00 Praha 6, <g id="2">tranzit@ujop.cuni.cz</g>, +420 724 076 495</source>
+<target xml:lang="fr"><g id="1">International Student Office: </g>Hotel Krystal, José Martího 2/407, 162 00 Praha 6, <g id="2">tranzit@ujop.cuni.cz</g>, +420 724 076 495</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu206" xml:space="preserve">
+<source xml:lang="en">Problems with filling in the electronic application form: <g id="1">registr@dzs.cz</g></source>
+<target xml:lang="fr">Problems with filling in the electronic application form: <g id="1">registr@dzs.cz</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu207" xml:space="preserve">
+<source xml:lang="en"><g id="1">Annexes 1-4</g> are mandatory annexes to the scholarship application, <g id="2">Annex 5</g> is submitted upon commencement of studies, <g id="3">Annex 6</g> after completion of studies.<x id="4"/></source>
+<target xml:lang="fr"><g id="1">Annexes 1-4</g> are mandatory annexes to the scholarship application, <g id="2">Annex 5</g> is submitted upon commencement of studies, <g id="3">Annex 6</g> after completion of studies.<x id="4"/></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu208" xml:space="preserve">
+<source xml:lang="en">Annex No. 1 (see Chapter 12)</source>
+<target xml:lang="fr">Annex No. 1 (see Chapter 12)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu209" xml:space="preserve">
+<source xml:lang="en">Declaration</source>
+<target xml:lang="fr">Declaration</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu210" xml:space="preserve">
+<source xml:lang="en">about the Acceptance of the Terms and Conditions Governing the Granting of Scholarships of the Government of the Czech Republic</source>
+<target xml:lang="fr">about the Acceptance of the Terms and Conditions Governing the Granting of Scholarships of the Government of the Czech Republic</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu211" xml:space="preserve">
+<source xml:lang="en">I.......................................................country.................................date of birth..........................</source>
+<target xml:lang="fr">I.......................................................country.................................date of birth..........................</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu212" xml:space="preserve">
+<source xml:lang="en">as an applicant for a scholarship of the Government of the Czech Republic, hereby represent that I have received and carefully read the Guidelines for Granting Scholarships of the Government of the Czech Republic (“Guidelines”), that I accept the terms and conditions stated in the above Guidelines and that I shall abide by them if I am granted a scholarship upon a Decision of the Ministry of Education, Youth and Sports of the Czech Republic and accept this scholarship.</source>
+<target xml:lang="fr">as an applicant for a scholarship of the Government of the Czech Republic, hereby represent that I have received and carefully read the Guidelines for Granting Scholarships of the Government of the Czech Republic (“Guidelines”), that I accept the terms and conditions stated in the above Guidelines and that I shall abide by them if I am granted a scholarship upon a Decision of the Ministry of Education, Youth and Sports of the Czech Republic and accept this scholarship.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu213" xml:space="preserve">
+<source xml:lang="en">I am fully aware of the fact that if I fail to meet the terms and conditions stipulated by the Guidelines, the Ministry of Education, Youth and Sports shall terminate scholarship payment. Upon termination of scholarship payment, I shall hereby lose the status of a government scholarship holder and shall be obliged to leave the territory of the Czech Republic.</source>
+<target xml:lang="fr">I am fully aware of the fact that if I fail to meet the terms and conditions stipulated by the Guidelines, the Ministry of Education, Youth and Sports shall terminate scholarship payment. Upon termination of scholarship payment, I shall hereby lose the status of a government scholarship holder and shall be obliged to leave the territory of the Czech Republic.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu214" xml:space="preserve">
+<source xml:lang="en">I am furthermore aware of the fact that the Czech Republic shall not cover expenses related to my travel to the Czech Republic and back to my home country upon the completion of my studies, and it shall therefore be my duty to cover those expenses either from my own funds or with the assistance of the government or organisation that sends me to the Czech Republic to pursue my studies.</source>
+<target xml:lang="fr">I am furthermore aware of the fact that the Czech Republic shall not cover expenses related to my travel to the Czech Republic and back to my home country upon the completion of my studies, and it shall therefore be my duty to cover those expenses either from my own funds or with the assistance of the government or organisation that sends me to the Czech Republic to pursue my studies.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu215" xml:space="preserve">
+<source xml:lang="en">Done at......................................on........................................</source>
+<target xml:lang="fr">Done at......................................on........................................</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu216" xml:space="preserve">
+<source xml:lang="en">..............................................</source>
+<target xml:lang="fr">..............................................</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu217" xml:space="preserve">
+<source xml:lang="en">Signature of the scholarship applicant</source>
+<target xml:lang="fr">Signature of the scholarship applicant</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu218" xml:space="preserve">
+<source xml:lang="en">                                    </source>
+<target xml:lang="fr">                                    </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu219" xml:space="preserve">
+<source xml:lang="en">On behalf of the Embassy of the Czech Republic received by</source>
+<target xml:lang="fr">On behalf of the Embassy of the Czech Republic received by</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu221" xml:space="preserve">
+<source xml:lang="en">Annex No. 2 <g id="1">(see Chapter 12)</g></source>
+<target xml:lang="fr">Annex No. 2 <g id="1">(see Chapter 12)</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu222" xml:space="preserve">
+<source xml:lang="en">Declaration</source>
+<target xml:lang="fr">Declaration</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu223" xml:space="preserve">
+<source xml:lang="en">about the Acceptance of the Terms and Conditions Governing the Provision of Health Services</source>
+<target xml:lang="fr">about the Acceptance of the Terms and Conditions Governing the Provision of Health Services</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu224" xml:space="preserve">
+<source xml:lang="en">I.......................................................country.................................date of birth..........................</source>
+<target xml:lang="fr">I.......................................................country.................................date of birth..........................</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu225" xml:space="preserve">
+<source xml:lang="en">as an applicant for a scholarship of the Government of the Czech Republic, hereby represent that I have carefully read the terms and conditions for the provision of health services in the Guidelines for Granting Scholarships of the Government of the Czech Republic, and that I accept the above terms and conditions if I am granted the scholarship upon a Decision of the Ministry of Education, Youth and Sports of the Czech Republic and accept this scholarship.</source>
+<target xml:lang="fr">as an applicant for a scholarship of the Government of the Czech Republic, hereby represent that I have carefully read the terms and conditions for the provision of health services in the Guidelines for Granting Scholarships of the Government of the Czech Republic, and that I accept the above terms and conditions if I am granted the scholarship upon a Decision of the Ministry of Education, Youth and Sports of the Czech Republic and accept this scholarship.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu226" xml:space="preserve">
+<source xml:lang="en">I am fully aware of the fact that I lose my entitlement to the scholarship and the Ministry of Education, Youth and Spots shall terminate the scholarship payment if I fail to abide by the stipulated obligations and statutory obligations, or if I am diagnosed with an infectious disease listed in Annex No. 5, items a) through c), during the initial medical examination.</source>
+<target xml:lang="fr">I am fully aware of the fact that I lose my entitlement to the scholarship and the Ministry of Education, Youth and Spots shall terminate the scholarship payment if I fail to abide by the stipulated obligations and statutory obligations, or if I am diagnosed with an infectious disease listed in Annex No. 5, items a) through c), during the initial medical examination.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu227" xml:space="preserve">
+<source xml:lang="en">Upon termination of scholarship payment, I shall hereby lose the status of a government scholarship holder and shall be obliged to leave the territory of the Czech Republic. </source>
+<target xml:lang="fr">Upon termination of scholarship payment, I shall hereby lose the status of a government scholarship holder and shall be obliged to leave the territory of the Czech Republic. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu228" xml:space="preserve">
+<source xml:lang="en">I note that my personal data related to my person will be provided to the Ministry of Health by the health services provider in order to reimburse the health services that have been provided to me. I am aware of the fact that the above data include my name, date of birth, student number, name of my home country, date of treatment or examination (or date of hospital admission and discharge in the case of inpatient care), names and codes of performed treatments, diagnosis and medical report. I note that the Ministry of Health will process the above data in order to reimburse provided health services. I note that if I am diagnosed with an infectious disease listed in Annex No. 5, items a) through c), during the initial medical examination, information to the extent necessary for terminating the payment of the scholarship will be provided to the Ministry of Education, Youth and Sports. I note that the Ministry of Health will store my personal data even after I complete my studies as part of the scholarship of the Government of the Czech Republic for the necessary period of time.</source>
+<target xml:lang="fr">I note that my personal data related to my person will be provided to the Ministry of Health by the health services provider in order to reimburse the health services that have been provided to me. I am aware of the fact that the above data include my name, date of birth, student number, name of my home country, date of treatment or examination (or date of hospital admission and discharge in the case of inpatient care), names and codes of performed treatments, diagnosis and medical report. I note that the Ministry of Health will process the above data in order to reimburse provided health services. I note that if I am diagnosed with an infectious disease listed in Annex No. 5, items a) through c), during the initial medical examination, information to the extent necessary for terminating the payment of the scholarship will be provided to the Ministry of Education, Youth and Sports. I note that the Ministry of Health will store my personal data even after I complete my studies as part of the scholarship of the Government of the Czech Republic for the necessary period of time.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu229" xml:space="preserve">
+<source xml:lang="en">Done at......................................on........................................</source>
+<target xml:lang="fr">Done at......................................on........................................</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu230" xml:space="preserve">
+<source xml:lang="en">..............................................</source>
+<target xml:lang="fr">..............................................</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu231" xml:space="preserve">
+<source xml:lang="en">Signature of the scholarship applicant</source>
+<target xml:lang="fr">Signature of the scholarship applicant</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu232" xml:space="preserve">
+<source xml:lang="en">                                      </source>
+<target xml:lang="fr">                                      </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu233" xml:space="preserve">
+<source xml:lang="en">On behalf of the Embassy of the Czech Republic received by</source>
+<target xml:lang="fr">On behalf of the Embassy of the Czech Republic received by</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu234" xml:space="preserve">
+<source xml:lang="en">Annex No. 3 <g id="1">(see Chapter 12)</g></source>
+<target xml:lang="fr">Annex No. 3 <g id="1">(see Chapter 12)</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu235" xml:space="preserve">
+<source xml:lang="en">Affirmation</source>
+<target xml:lang="fr">Affirmation</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu236" xml:space="preserve">
+<source xml:lang="en">on Return to the Country of Origin upon Completion of Studies</source>
+<target xml:lang="fr">on Return to the Country of Origin upon Completion of Studies</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu237" xml:space="preserve">
+<source xml:lang="en">I.......................................................country.................................date of birth..........................</source>
+<target xml:lang="fr">I.......................................................country.................................date of birth..........................</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu238" xml:space="preserve">
+<source xml:lang="en">as an applicant for a scholarship of the Government of the Czech Republic, hereby affirm that if I am granted the scholarship upon a Decision of the Ministry of Education, Youth and Sports of the Czech Republic and accept this scholarship, I shall fully focus on my studies during the whole period for which I am granted the scholarship of the Government of the Czech Republic, and that I shall return to my home country immediately upon completing my studies, and/or after the time limit for scholarship payment has elapsed, and/or after I lose the status of a government scholarship holder on grounds stipulated by the Guidelines, and/or upon termination of scholarship payment upon a Decision of the Ministry of Education, Youth and Sports.</source>
+<target xml:lang="fr">as an applicant for a scholarship of the Government of the Czech Republic, hereby affirm that if I am granted the scholarship upon a Decision of the Ministry of Education, Youth and Sports of the Czech Republic and accept this scholarship, I shall fully focus on my studies during the whole period for which I am granted the scholarship of the Government of the Czech Republic, and that I shall return to my home country immediately upon completing my studies, and/or after the time limit for scholarship payment has elapsed, and/or after I lose the status of a government scholarship holder on grounds stipulated by the Guidelines, and/or upon termination of scholarship payment upon a Decision of the Ministry of Education, Youth and Sports.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu239" xml:space="preserve">
+<source xml:lang="en">Done at......................................on........................................</source>
+<target xml:lang="fr">Done at......................................on........................................</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu240" xml:space="preserve">
+<source xml:lang="en">..............................................</source>
+<target xml:lang="fr">..............................................</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu241" xml:space="preserve">
+<source xml:lang="en">Signature of the scholarship applicant</source>
+<target xml:lang="fr">Signature of the scholarship applicant</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu242" xml:space="preserve">
+<source xml:lang="en">                                    </source>
+<target xml:lang="fr">                                    </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu243" xml:space="preserve">
+<source xml:lang="en">On behalf of the Embassy of the Czech Republic received by</source>
+<target xml:lang="fr">On behalf of the Embassy of the Czech Republic received by</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu245" xml:space="preserve">
+<source xml:lang="en">Annex No. 4 <g id="1">(see Chapter 12)</g></source>
+<target xml:lang="fr">Annex No. 4 <g id="1">(see Chapter 12)</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu246" xml:space="preserve">
+<source xml:lang="en">Ministry of Education, Youth and Sports of the Czech Republic</source>
+<target xml:lang="fr">Ministry of Education, Youth and Sports of the Czech Republic</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu247" xml:space="preserve">
+<source xml:lang="en">Department of International Relations and the European Union</source>
+<target xml:lang="fr">Department of International Relations and the European Union</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu248" xml:space="preserve">
+<source xml:lang="en">Karmelitská 529/5, 118 12 Praha 1, tel.: +420 234 811 111</source>
+<target xml:lang="fr">Karmelitská 529/5, 118 12 Praha 1, tel.: +420 234 811 111</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu249" xml:space="preserve">
+<source xml:lang="en">INITIAL MEDICAL CERTIFICATE</source>
+<target xml:lang="fr">INITIAL MEDICAL CERTIFICATE</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu250" xml:space="preserve">
+<source xml:lang="en">Name and surname of the applicant:</source>
+<target xml:lang="fr">Name and surname of the applicant:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu251" xml:space="preserve">
+<source xml:lang="en">Date of birth:</source>
+<target xml:lang="fr">Date of birth:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu252" xml:space="preserve">
+<source xml:lang="en">Address:</source>
+<target xml:lang="fr">Address:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu253" xml:space="preserve">
+<source xml:lang="en">Is the applicant’s health – at the time this medical certificate is issued – such that it will not deteriorate in relation to intensive studies abroad?</source>
+<target xml:lang="fr">Is the applicant’s health – at the time this medical certificate is issued – such that it will not deteriorate in relation to intensive studies abroad?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu254" xml:space="preserve">
+<source xml:lang="en">Has the applicant suffered/Does the applicant currently suffer from any of the diseases given below? If so, please indicate the exact diagnosis, period and development of the disease.</source>
+<target xml:lang="fr">Has the applicant suffered/Does the applicant currently suffer from any of the diseases given below? If so, please indicate the exact diagnosis, period and development of the disease.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu255" xml:space="preserve">
+<source xml:lang="en">Tuberculosis – please state the results of chest X-rays no more than 6 months old<g id="1">*</g></source>
+<target xml:lang="fr">Tuberculosis – please state the results of chest X-rays no more than 6 months old<g id="1">*</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu256" xml:space="preserve">
+<source xml:lang="en">Typhoid fever (including bacillus carriage) – if yes, please state when bacilli-carriage tests were performed and what their result was</source>
+<target xml:lang="fr">Typhoid fever (including bacillus carriage) – if yes, please state when bacilli-carriage tests were performed and what their result was</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu257" xml:space="preserve">
+<source xml:lang="en"> sexually transmitted infections, including infections transmitted mainly through sexual contact <g id="1">(at all stages, and also leprosy, plague, trachoma, parasitic diseases, paratyphoid, cholera, poliomyelitis, diphtheria, shigellosis </g></source>
+<target xml:lang="fr"> sexually transmitted infections, including infections transmitted mainly through sexual contact <g id="1">(at all stages, and also leprosy, plague, trachoma, parasitic diseases, paratyphoid, cholera, poliomyelitis, diphtheria, shigellosis </g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu258" xml:space="preserve">
+<source xml:lang="en">Mental disorders</source>
+<target xml:lang="fr">Mental disorders</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu259" xml:space="preserve">
+<source xml:lang="en">Severe cardiovascular system diseases, including heart disease</source>
+<target xml:lang="fr">Severe cardiovascular system diseases, including heart disease</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu260" xml:space="preserve">
+<source xml:lang="en">Severe respiratory system diseases, including chronic pulmonary disease</source>
+<target xml:lang="fr">Severe respiratory system diseases, including chronic pulmonary disease</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu261" xml:space="preserve">
+<source xml:lang="en">Severe gastrointestinal system diseases, including liver disease</source>
+<target xml:lang="fr">Severe gastrointestinal system diseases, including liver disease</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu262" xml:space="preserve">
+<source xml:lang="en">Severe urinary and reproductive systems diseases</source>
+<target xml:lang="fr">Severe urinary and reproductive systems diseases</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu263" xml:space="preserve">
+<source xml:lang="en">Any other diseases that require systematic medical monitoring or treatment (e.g. diabetes mellitus, attacks or seizures, neoplasms, etc.)</source>
+<target xml:lang="fr">Any other diseases that require systematic medical monitoring or treatment (e.g. diabetes mellitus, attacks or seizures, neoplasms, etc.)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu264" xml:space="preserve">
+<source xml:lang="en">Other remarks by the medical doctor:</source>
+<target xml:lang="fr">Other remarks by the medical doctor:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu265" xml:space="preserve">
+<source xml:lang="en">Date:<x id="1"/>Signature of the medical doctor:</source>
+<target xml:lang="fr">Date:<x id="1"/>Signature of the medical doctor:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu266" xml:space="preserve">
+<source xml:lang="en"><x id="1"/>Name of the medical doctor:</source>
+<target xml:lang="fr"><x id="1"/>Name of the medical doctor:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu267" xml:space="preserve">
+<source xml:lang="en"><x id="1"/>Address:</source>
+<target xml:lang="fr"><x id="1"/>Address:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu268" xml:space="preserve">
+<source xml:lang="en"><x id="1"/>Stamp of the medical doctor:</source>
+<target xml:lang="fr"><x id="1"/>Stamp of the medical doctor:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu269" xml:space="preserve">
+<source xml:lang="en">*) Please write down the results in words and do not enclose X-rays!</source>
+<target xml:lang="fr">*) Please write down the results in words and do not enclose X-rays!</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu271" xml:space="preserve">
+<source xml:lang="en">Annex No. 5 <g id="1">(see Chapter 12)</g></source>
+<target xml:lang="fr">Annex No. 5 <g id="1">(see Chapter 12)</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu272" xml:space="preserve">
+<source xml:lang="en">Ministry of Education, Youth and Sports of the Czech Republic</source>
+<target xml:lang="fr">Ministry of Education, Youth and Sports of the Czech Republic</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu273" xml:space="preserve">
+<source xml:lang="en">Department of International Relations and the European Union</source>
+<target xml:lang="fr">Department of International Relations and the European Union</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu274" xml:space="preserve">
+<source xml:lang="en">Karmelitská 529/5, 118 12 Praha 1, tel.: +420 234 811 111</source>
+<target xml:lang="fr">Karmelitská 529/5, 118 12 Praha 1, tel.: +420 234 811 111</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu275" xml:space="preserve">
+<source xml:lang="en">COMPREHENSIVE MEDICAL CERTIFICATE</source>
+<target xml:lang="fr">COMPREHENSIVE MEDICAL CERTIFICATE</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu276" xml:space="preserve">
+<source xml:lang="en">Name and surname of the applicant:</source>
+<target xml:lang="fr">Name and surname of the applicant:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu277" xml:space="preserve">
+<source xml:lang="en">Date of birth:</source>
+<target xml:lang="fr">Date of birth:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu278" xml:space="preserve">
+<source xml:lang="en">Address:</source>
+<target xml:lang="fr">Address:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu279" xml:space="preserve">
+<source xml:lang="en">Is the applicant’s health – at the time this medical certificate is issued – such that it will not deteriorate in relation to intensive studies abroad?</source>
+<target xml:lang="fr">Is the applicant’s health – at the time this medical certificate is issued – such that it will not deteriorate in relation to intensive studies abroad?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu280" xml:space="preserve">
+<source xml:lang="en">Has the applicant suffered/Does the applicant currently suffer from any of the diseases given below? If so, please indicate the exact diagnosis, period and development of the disease.</source>
+<target xml:lang="fr">Has the applicant suffered/Does the applicant currently suffer from any of the diseases given below? If so, please indicate the exact diagnosis, period and development of the disease.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu281" xml:space="preserve">
+<source xml:lang="en">Tuberculosis – please state the results of chest X-rays no more than 6 months old<g id="1"> *</g></source>
+<target xml:lang="fr">Tuberculosis – please state the results of chest X-rays no more than 6 months old<g id="1"> *</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu282" xml:space="preserve">
+<source xml:lang="en">Typhoid fever (including bacillus carriage) – if yes, please state when bacilli-carriage tests were performed and what their result was</source>
+<target xml:lang="fr">Typhoid fever (including bacillus carriage) – if yes, please state when bacilli-carriage tests were performed and what their result was</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu283" xml:space="preserve">
+<source xml:lang="en">sexually transmitted infections, including infections transmitted mainly through sexual contact <g id="1">(at all stages), and also leprosy, plague, trachoma, parasitic diseases, paratyphoid, cholera, poliomyelitis, diphtheria, shigellosis </g></source>
+<target xml:lang="fr">sexually transmitted infections, including infections transmitted mainly through sexual contact <g id="1">(at all stages), and also leprosy, plague, trachoma, parasitic diseases, paratyphoid, cholera, poliomyelitis, diphtheria, shigellosis </g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu284" xml:space="preserve">
+<source xml:lang="en">Mental disorders </source>
+<target xml:lang="fr">Mental disorders </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu285" xml:space="preserve">
+<source xml:lang="en">Severe cardiovascular system diseases, including heart disease</source>
+<target xml:lang="fr">Severe cardiovascular system diseases, including heart disease</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu286" xml:space="preserve">
+<source xml:lang="en">Severe respiratory system diseases, including chronic pulmonary disease </source>
+<target xml:lang="fr">Severe respiratory system diseases, including chronic pulmonary disease </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu287" xml:space="preserve">
+<source xml:lang="en">Severe gastrointestinal system diseases, including liver disease </source>
+<target xml:lang="fr">Severe gastrointestinal system diseases, including liver disease </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu288" xml:space="preserve">
+<source xml:lang="en">Severe urinary and reproductive systems diseases</source>
+<target xml:lang="fr">Severe urinary and reproductive systems diseases</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu289" xml:space="preserve">
+<source xml:lang="en">Haematological diseases </source>
+<target xml:lang="fr">Haematological diseases </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu290" xml:space="preserve">
+<source xml:lang="en">Rheumatic diseases</source>
+<target xml:lang="fr">Rheumatic diseases</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu291" xml:space="preserve">
+<source xml:lang="en">Neuromuscular diseases</source>
+<target xml:lang="fr">Neuromuscular diseases</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu292" xml:space="preserve">
+<source xml:lang="en">Post-transplantation conditions</source>
+<target xml:lang="fr">Post-transplantation conditions</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu293" xml:space="preserve">
+<source xml:lang="en">Inborn metabolic disorders </source>
+<target xml:lang="fr">Inborn metabolic disorders </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu294" xml:space="preserve">
+<source xml:lang="en">Rare diseases</source>
+<target xml:lang="fr">Rare diseases</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu295" xml:space="preserve">
+<source xml:lang="en">Other disease(s) requiring continuous medical care or treatment (e.g. diabetes mellitus, seizure disorders, neoplasms etc.).</source>
+<target xml:lang="fr">Other disease(s) requiring continuous medical care or treatment (e.g. diabetes mellitus, seizure disorders, neoplasms etc.).</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu296" xml:space="preserve">
+<source xml:lang="en">Other notes of the attending physician:</source>
+<target xml:lang="fr">Other notes of the attending physician:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu297" xml:space="preserve">
+<source xml:lang="en">Date:<x id="1"/>Signature of the medical doctor:</source>
+<target xml:lang="fr">Date:<x id="1"/>Signature of the medical doctor:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu298" xml:space="preserve">
+<source xml:lang="en"><x id="1"/>Name of the medical doctor:</source>
+<target xml:lang="fr"><x id="1"/>Name of the medical doctor:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu299" xml:space="preserve">
+<source xml:lang="en"><x id="1"/>Address:</source>
+<target xml:lang="fr"><x id="1"/>Address:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu300" xml:space="preserve">
+<source xml:lang="en"><x id="1"/>Stamp of the medical doctor:</source>
+<target xml:lang="fr"><x id="1"/>Stamp of the medical doctor:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu301" xml:space="preserve">
+<source xml:lang="en">*) Please write down the results in words and do not enclose X-rays!</source>
+<target xml:lang="fr">*) Please write down the results in words and do not enclose X-rays!</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu302" xml:space="preserve">
+<source xml:lang="en">Annex No. 6 <g id="1">(see Chapter 12)</g></source>
+<target xml:lang="fr">Annex No. 6 <g id="1">(see Chapter 12)</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu303" xml:space="preserve">
+<source xml:lang="en">Student No./Kmenové číslo:<x id="1"/></source>
+<target xml:lang="fr">Student No./Kmenové číslo:<x id="1"/></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu304" xml:space="preserve">
+<source xml:lang="en">Final Report of a Government Scholarship Holder</source>
+<target xml:lang="fr">Final Report of a Government Scholarship Holder</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu305" xml:space="preserve">
+<source xml:lang="en">Závěrečná zpráva stipendisty vlády České republiky</source>
+<target xml:lang="fr">Závěrečná zpráva stipendisty vlády České republiky</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu306" xml:space="preserve">
+<source xml:lang="en">(to be filled in on-line only in Czech or in English)</source>
+<target xml:lang="fr">(to be filled in on-line only in Czech or in English)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu307" xml:space="preserve">
+<source xml:lang="en">(vyplňuje se on-line pouze v českém nebo anglickém jazyce)</source>
+<target xml:lang="fr">(vyplňuje se on-line pouze v českém nebo anglickém jazyce)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu308" xml:space="preserve">
+<source xml:lang="en">Name / Jméno:</source>
+<target xml:lang="fr">Name / Jméno:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu309" xml:space="preserve">
+<source xml:lang="en">Country / Země:</source>
+<target xml:lang="fr">Country / Země:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu310" xml:space="preserve">
+<source xml:lang="en">University / Veřejná vysoká škola:</source>
+<target xml:lang="fr">University / Veřejná vysoká škola:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu311" xml:space="preserve">
+<source xml:lang="en">Faculty / Fakulta:</source>
+<target xml:lang="fr">Faculty / Fakulta:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu312" xml:space="preserve">
+<source xml:lang="en">Studies / Studium:</source>
+<target xml:lang="fr">Studies / Studium:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu313" xml:space="preserve">
+<source xml:lang="en"> Bachelor’s /</source>
+<target xml:lang="fr"> Bachelor’s /</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu314" xml:space="preserve">
+<source xml:lang="en">bakalářské</source>
+<target xml:lang="fr">bakalářské</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu315" xml:space="preserve">
+<source xml:lang="en"> Master’s /</source>
+<target xml:lang="fr"> Master’s /</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu316" xml:space="preserve">
+<source xml:lang="en">magisterské</source>
+<target xml:lang="fr">magisterské</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu317" xml:space="preserve">
+<source xml:lang="en"> Follow-up Master’s /</source>
+<target xml:lang="fr"> Follow-up Master’s /</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu318" xml:space="preserve">
+<source xml:lang="en">navazující magisterské</source>
+<target xml:lang="fr">navazující magisterské</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu319" xml:space="preserve">
+<source xml:lang="en"> Doctoral /</source>
+<target xml:lang="fr"> Doctoral /</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu320" xml:space="preserve">
+<source xml:lang="en">doktorské</source>
+<target xml:lang="fr">doktorské</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu321" xml:space="preserve">
+<source xml:lang="en">Language of studies / Jazyk studia:</source>
+<target xml:lang="fr">Language of studies / Jazyk studia:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu322" xml:space="preserve">
+<source xml:lang="en"> Czech / český</source>
+<target xml:lang="fr"> Czech / český</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu323" xml:space="preserve">
+<source xml:lang="en"> English / anglický</source>
+<target xml:lang="fr"> English / anglický</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu324" xml:space="preserve">
+<source xml:lang="en">Study programme / Studijní program:</source>
+<target xml:lang="fr">Study programme / Studijní program:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu325" xml:space="preserve">
+<source xml:lang="en">Field of study / Obor studia:</source>
+<target xml:lang="fr">Field of study / Obor studia:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu326" xml:space="preserve">
+<source xml:lang="en">Mode of studies completion / Způsob ukončení studia:</source>
+<target xml:lang="fr">Mode of studies completion / Způsob ukončení studia:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu327" xml:space="preserve">
+<source xml:lang="en"> Graduated / absolvoval</source>
+<target xml:lang="fr"> Graduated / absolvoval</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu328" xml:space="preserve">
+<source xml:lang="en">On / dne:</source>
+<target xml:lang="fr">On / dne:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu329" xml:space="preserve">
+<source xml:lang="en">Attained title /dosažený titul:</source>
+<target xml:lang="fr">Attained title /dosažený titul:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu330" xml:space="preserve">
+<source xml:lang="en"> Discontinued / zanechal studia</source>
+<target xml:lang="fr"> Discontinued / zanechal studia</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu331" xml:space="preserve">
+<source xml:lang="en">On / dne:</source>
+<target xml:lang="fr">On / dne:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu332" xml:space="preserve">
+<source xml:lang="en">Reason / důvod:</source>
+<target xml:lang="fr">Reason / důvod:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu333" xml:space="preserve">
+<source xml:lang="en"> Expelled / vyloučen</source>
+<target xml:lang="fr"> Expelled / vyloučen</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu334" xml:space="preserve">
+<source xml:lang="en">On / dne:</source>
+<target xml:lang="fr">On / dne:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu335" xml:space="preserve">
+<source xml:lang="en">Reason / důvod:</source>
+<target xml:lang="fr">Reason / důvod:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu336" xml:space="preserve">
+<source xml:lang="en">Where did you obtain the information about the government scholarship programme? / Kde jste získal/a informace o programu vládních stipendií?</source>
+<target xml:lang="fr">Where did you obtain the information about the government scholarship programme? / Kde jste získal/a informace o programu vládních stipendií?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu337" xml:space="preserve">
+<source xml:lang="en">What motivated you to study in the Czech Republic? / Co Vás motivovalo studovat v České republice?</source>
+<target xml:lang="fr">What motivated you to study in the Czech Republic? / Co Vás motivovalo studovat v České republice?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu338" xml:space="preserve">
+<source xml:lang="en">Can you describe your language preparation before you started your studies at a university / Jak probíhala Vaše jazyková příprava před studiem na veřejné vysoké škole?</source>
+<target xml:lang="fr">Can you describe your language preparation before you started your studies at a university / Jak probíhala Vaše jazyková příprava před studiem na veřejné vysoké škole?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu339" xml:space="preserve">
+<source xml:lang="en">Where did you stay during your studies (dormitory/flat)? / Kde jste během studijního pobytu bydlel/a (kolej/byt)?</source>
+<target xml:lang="fr">Where did you stay during your studies (dormitory/flat)? / Kde jste během studijního pobytu bydlel/a (kolej/byt)?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu340" xml:space="preserve">
+<source xml:lang="en">What was the price of your accommodation (in CZK per month)? / Cena Vašeho ubytování (v Kč měsíčně).</source>
+<target xml:lang="fr">What was the price of your accommodation (in CZK per month)? / Cena Vašeho ubytování (v Kč měsíčně).</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu341" xml:space="preserve">
+<source xml:lang="en">Were you satisfied with your accommodation (in terms of equipment and/or services)? / Byl/a jste s ubytováním (vybavenost, služby) spokojen/a?</source>
+<target xml:lang="fr">Were you satisfied with your accommodation (in terms of equipment and/or services)? / Byl/a jste s ubytováním (vybavenost, služby) spokojen/a?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu342" xml:space="preserve">
+<source xml:lang="en">Did you receive any medical treatment? / Měl/a jste zkušenosti s lékařským ošetřením?</source>
+<target xml:lang="fr">Did you receive any medical treatment? / Měl/a jste zkušenosti s lékařským ošetřením?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu343" xml:space="preserve">
+<source xml:lang="en">Did you experience any problems with the provision and/or reimbursement of healthcare? / Vyskytly se nějaké problémy s poskytnutím nebo úhradou zdravotní péče?</source>
+<target xml:lang="fr">Did you experience any problems with the provision and/or reimbursement of healthcare? / Vyskytly se nějaké problémy s poskytnutím nebo úhradou zdravotní péče?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu344" xml:space="preserve">
+<source xml:lang="en">What was the amount of your scholarship (in CZK per month)? / Jaká byla výše Vašeho stipendia (v Kč měsíčně)?</source>
+<target xml:lang="fr">What was the amount of your scholarship (in CZK per month)? / Jaká byla výše Vašeho stipendia (v Kč měsíčně)?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu345" xml:space="preserve">
+<source xml:lang="en">What other resources did you use to fund your studies? / Jakých dalších zdrojů jste využil/a k financování studia?</source>
+<target xml:lang="fr">What other resources did you use to fund your studies? / Jakých dalších zdrojů jste využil/a k financování studia?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu346" xml:space="preserve">
+<source xml:lang="en">What was your average monthly expenditure during your study stay? (in CZK per month) / Jaké byly Vaše průměrné měsíční výdaje během pobytu? (v Kč měsíčně)</source>
+<target xml:lang="fr">What was your average monthly expenditure during your study stay? (in CZK per month) / Jaké byly Vaše průměrné měsíční výdaje během pobytu? (v Kč měsíčně)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu347" xml:space="preserve">
+<source xml:lang="en">Of which / z toho:</source>
+<target xml:lang="fr">Of which / z toho:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu348" xml:space="preserve">
+<source xml:lang="en">Food / stravování:</source>
+<target xml:lang="fr">Food / stravování:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu349" xml:space="preserve">
+<source xml:lang="en">Accommodation / ubytování:</source>
+<target xml:lang="fr">Accommodation / ubytování:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu350" xml:space="preserve">
+<source xml:lang="en">Study aids / studijní pomůcky:</source>
+<target xml:lang="fr">Study aids / studijní pomůcky:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu351" xml:space="preserve">
+<source xml:lang="en">Did you pay any fees to the university? If so, could you describe them? / Platil/a jste škole nějaké poplatky? Pokud ano, jaké?</source>
+<target xml:lang="fr">Did you pay any fees to the university? If so, could you describe them? / Platil/a jste škole nějaké poplatky? Pokud ano, jaké?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu352" xml:space="preserve">
+<source xml:lang="en">How did the recognition of your previous foreign studies go? Did you face any problems? If so, could you describe them? / Jak probíhalo uznání zahraničního vzdělání? Musel/a jste v souvislosti s tím čelit nějakým problémům? Jakým?</source>
+<target xml:lang="fr">How did the recognition of your previous foreign studies go? Did you face any problems? If so, could you describe them? / Jak probíhalo uznání zahraničního vzdělání? Musel/a jste v souvislosti s tím čelit nějakým problémům? Jakým?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu353" xml:space="preserve">
+<source xml:lang="en">What were the benefits of your studies in the Czech Republic? What do you see as the greatest benefit? / Co Vám studium v ČR dalo? Co považujete za největší přínos?</source>
+<target xml:lang="fr">What were the benefits of your studies in the Czech Republic? What do you see as the greatest benefit? / Co Vám studium v ČR dalo? Co považujete za největší přínos?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu354" xml:space="preserve">
+<source xml:lang="en">How would you like to apply in practice your knowledge and experience obtained during your studies in the Czech Republice? / Jak hodláte znalosti a zkušenosti nabyté při studiu v České republice uplatnit?</source>
+<target xml:lang="fr">How would you like to apply in practice your knowledge and experience obtained during your studies in the Czech Republice? / Jak hodláte znalosti a zkušenosti nabyté při studiu v České republice uplatnit?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu355" xml:space="preserve">
+<source xml:lang="en">Do you already have a specific job offer? If so, could you describe it? / Máte již konkrétní nabídku zaměstnání? Pokud ano, uveďte jakou.</source>
+<target xml:lang="fr">Do you already have a specific job offer? If so, could you describe it? / Máte již konkrétní nabídku zaměstnání? Pokud ano, uveďte jakou.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu356" xml:space="preserve">
+<source xml:lang="en">What are your study/work/personal plans for the nearest future? / Jaké jsou Vaše nejbližší studijní/pracovní/osobní plány?</source>
+<target xml:lang="fr">What are your study/work/personal plans for the nearest future? / Jaké jsou Vaše nejbližší studijní/pracovní/osobní plány?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu357" xml:space="preserve">
+<source xml:lang="en">Did you encounter any serious difficulties during your studies in the Czech Republic? If so, could you describe them? / Setkal/a jste se během studia v České republice s nějakými závažnými problémy? Jakými?</source>
+<target xml:lang="fr">Did you encounter any serious difficulties during your studies in the Czech Republic? If so, could you describe them? / Setkal/a jste se během studia v České republice s nějakými závažnými problémy? Jakými?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu358" xml:space="preserve">
+<source xml:lang="en">Do you have any recommendations for your followers, i. e. other government scholarship holders? If so, could you write them down? / Máte nějaká doporučení pro Vaše následovníky – vládní stipendisty? Jaká?</source>
+<target xml:lang="fr">Do you have any recommendations for your followers, i. e. other government scholarship holders? If so, could you write them down? / Máte nějaká doporučení pro Vaše následovníky – vládní stipendisty? Jaká?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu359" xml:space="preserve">
+<source xml:lang="en">Do you have any comments or ideas about the Government Scholarship Programme? / Uveďte Vaše připomínky a nápady k fungování programu stipendií vlády České republiky:</source>
+<target xml:lang="fr">Do you have any comments or ideas about the Government Scholarship Programme? / Uveďte Vaše připomínky a nápady k fungování programu stipendií vlády České republiky:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu360" xml:space="preserve">
+<source xml:lang="en">Please write down your address and e-mail, so that the Embassy of the Czech Republic in your country of origin can reach you. / Uveďte Vaši adresu a e-mail pro kontakt se zastupitelským úřadem České republiky ve Vaší zemi původu.</source>
+<target xml:lang="fr">Please write down your address and e-mail, so that the Embassy of the Czech Republic in your country of origin can reach you. / Uveďte Vaši adresu a e-mail pro kontakt se zastupitelským úřadem České republiky ve Vaší zemi původu.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu361" xml:space="preserve">
+<source xml:lang="en">Street address / Ulice, č. p.:</source>
+<target xml:lang="fr">Street address / Ulice, č. p.:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu362" xml:space="preserve">
+<source xml:lang="en">City / Město:</source>
+<target xml:lang="fr">City / Město:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu363" xml:space="preserve">
+<source xml:lang="en">Postcode / PSČ:</source>
+<target xml:lang="fr">Postcode / PSČ:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu364" xml:space="preserve">
+<source xml:lang="en">Country / Stát:</source>
+<target xml:lang="fr">Country / Stát:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu365" xml:space="preserve">
+<source xml:lang="en">Personal e-mail / Osobní e-mail:</source>
+<target xml:lang="fr">Personal e-mail / Osobní e-mail:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu366" xml:space="preserve">
+<source xml:lang="en">Tel.:</source>
+<target xml:lang="fr">Tel.:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu367" xml:space="preserve">
+<source xml:lang="en">In / V: </source>
+<target xml:lang="fr">In / V: </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu368" xml:space="preserve">
+<source xml:lang="en">Date / Dne:</source>
+<target xml:lang="fr">Date / Dne:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu369" xml:space="preserve">
+<source xml:lang="en">Signature / Podpis:</source>
+<target xml:lang="fr">Signature / Podpis:</target>
+</trans-unit>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="en">Ryšková Ivana</source>
+<target xml:lang="fr">Ryšková Ivana</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/footer1.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/footer2.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/footer3.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/settings.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+</xliff>

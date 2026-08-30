@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="word/document.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NFDBB2FA9-tu1" xml:space="preserve">
+<source xml:lang="cs">Vzor Smlouvy </source>
+<target xml:lang="en-US">Vzor Smlouvy </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu2" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu3" xml:space="preserve">
+<source xml:lang="cs">SMLOUVA O POSKYTOVÁNÍ SOCIÁLNÍ SLUŽBY</source>
+<target xml:lang="en-US">SMLOUVA O POSKYTOVÁNÍ SOCIÁLNÍ SLUŽBY</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu4" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu5" xml:space="preserve">
+<source xml:lang="cs">Níže uvedeného dne, měsíce a roku uzavřeli</source>
+<target xml:lang="en-US">Níže uvedeného dne, měsíce a roku uzavřeli</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu6" xml:space="preserve">
+<source xml:lang="cs">Název poskytovatele</source>
+<target xml:lang="en-US">Název poskytovatele</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu7" xml:space="preserve">
+<source xml:lang="cs">Se sídlem: </source>
+<target xml:lang="en-US">Se sídlem: </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu8" xml:space="preserve">
+<source xml:lang="cs">PSČ: </source>
+<target xml:lang="en-US">PSČ: </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu9" xml:space="preserve">
+<source xml:lang="cs">IČ: </source>
+<target xml:lang="en-US">IČ: </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu10" xml:space="preserve">
+<source xml:lang="cs">Zastoupený: </source>
+<target xml:lang="en-US">Zastoupený: </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu11" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu12" xml:space="preserve">
+<source xml:lang="cs">(dále jen <g id="1">Poskytovatel</g>) </source>
+<target xml:lang="en-US">(dále jen <g id="1">Poskytovatel</g>) </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu13" xml:space="preserve">
+<source xml:lang="cs">a </source>
+<target xml:lang="en-US">a </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu14" xml:space="preserve">
+<source xml:lang="cs">Pan/paní<g id="1"> <x id="2"/></g> </source>
+<target xml:lang="en-US">Pan/paní<g id="1"> <x id="2"/></g> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu15" xml:space="preserve">
+<source xml:lang="cs">Jméno, příjmení:  </source>
+<target xml:lang="en-US">Jméno, příjmení:  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu16" xml:space="preserve">
+<source xml:lang="cs">Datum narození: <x id="1"/> </source>
+<target xml:lang="en-US">Datum narození: <x id="1"/> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu17" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Bydliště</g>:  </source>
+<target xml:lang="en-US"><g id="1">Bydliště</g>:  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu18" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Popř</g>. lze korigovat podle údajů uvedených ve vízu za účelem strpění vydaném MV ČR</source>
+<target xml:lang="en-US"><g id="1">Popř</g>. lze korigovat podle údajů uvedených ve vízu za účelem strpění vydaném MV ČR</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu19" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu20" xml:space="preserve">
+<source xml:lang="cs">Případně:</source>
+<target xml:lang="en-US">Případně:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu21" xml:space="preserve">
+<source xml:lang="cs">+ zastoupený Panem/paní </source>
+<target xml:lang="en-US">+ zastoupený Panem/paní </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu22" xml:space="preserve">
+<source xml:lang="cs">Jméno, příjmení:  </source>
+<target xml:lang="en-US">Jméno, příjmení:  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu23" xml:space="preserve">
+<source xml:lang="cs">Datum narození: <x id="1"/> </source>
+<target xml:lang="en-US">Datum narození: <x id="1"/> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu24" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Bydliště</g>:  </source>
+<target xml:lang="en-US"><g id="1">Bydliště</g>:  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu25" xml:space="preserve">
+<source xml:lang="cs">opatrovníkem na základě rozhodnutí …………………………., č.j.:……………………….                  </source>
+<target xml:lang="en-US">opatrovníkem na základě rozhodnutí …………………………., č.j.:……………………….                  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu26" xml:space="preserve">
+<source xml:lang="cs"><x id="1"/> </source>
+<target xml:lang="en-US"><x id="1"/> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu27" xml:space="preserve">
+<source xml:lang="cs">(dále jen <g id="1">Klient</g>) </source>
+<target xml:lang="en-US">(dále jen <g id="1">Klient</g>) </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu28" xml:space="preserve">
+<source xml:lang="cs">v souladu se zákonem č. 108/2006 Sb., o sociálních službách, ve znění pozdějších předpisů (dále jen „zákon o sociálních službách“) a zákonem č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, tuto:</source>
+<target xml:lang="en-US">v souladu se zákonem č. 108/2006 Sb., o sociálních službách, ve znění pozdějších předpisů (dále jen „zákon o sociálních službách“) a zákonem č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, tuto:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu29" xml:space="preserve">
+<source xml:lang="cs">Smlouvu o poskytování sociální <g id="1">služby ……………………………………..</g></source>
+<target xml:lang="en-US">Smlouvu o poskytování sociální <g id="1">služby ……………………………………..</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu30" xml:space="preserve">
+<source xml:lang="cs">(v textu této smlouvy dále jen jako „Smlouva“)</source>
+<target xml:lang="en-US">(v textu této smlouvy dále jen jako „Smlouva“)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu31" xml:space="preserve">
+<source xml:lang="cs">I. </source>
+<target xml:lang="en-US">I. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu32" xml:space="preserve">
+<source xml:lang="cs">Rozsah poskytování sociální služby</source>
+<target xml:lang="en-US">Rozsah poskytování sociální služby</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu33" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu34" xml:space="preserve">
+<source xml:lang="cs">Poskytovatel poskytuje Klientovi druh služby ………………………. dle § ……. zákona <x id="1"/>o sociálních službách v níže stanoveném rozsahu základních činností zákonem o sociálních službách. </source>
+<target xml:lang="en-US">Poskytovatel poskytuje Klientovi druh služby ………………………. dle § ……. zákona <x id="1"/>o sociálních službách v níže stanoveném rozsahu základních činností zákonem o sociálních službách. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu35" xml:space="preserve">
+<source xml:lang="cs">Poskytovatel se zavazuje poskytovat Klientovi tyto základní činnosti při poskytování sociálních služeb (vybrané činnosti zvýrazněte):</source>
+<target xml:lang="en-US">Poskytovatel se zavazuje poskytovat Klientovi tyto základní činnosti při poskytování sociálních služeb (vybrané činnosti zvýrazněte):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu36" xml:space="preserve">
+<source xml:lang="cs">a) pomoc při zvládání běžných úkonů péče o vlastní osobu,</source>
+<target xml:lang="en-US">a) pomoc při zvládání běžných úkonů péče o vlastní osobu,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu37" xml:space="preserve">
+<source xml:lang="cs">b) pomoc při osobní hygieně nebo poskytnutí podmínek pro osobní hygienu,</source>
+<target xml:lang="en-US">b) pomoc při osobní hygieně nebo poskytnutí podmínek pro osobní hygienu,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu38" xml:space="preserve">
+<source xml:lang="cs">c) poskytnutí stravy nebo pomoc při zajištění stravy,</source>
+<target xml:lang="en-US">c) poskytnutí stravy nebo pomoc při zajištění stravy,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu39" xml:space="preserve">
+<source xml:lang="cs">d) poskytnutí ubytování, popřípadě přenocování,</source>
+<target xml:lang="en-US">d) poskytnutí ubytování, popřípadě přenocování,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu40" xml:space="preserve">
+<source xml:lang="cs">e) pomoc při zajištění chodu domácnosti,</source>
+<target xml:lang="en-US">e) pomoc při zajištění chodu domácnosti,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu41" xml:space="preserve">
+<source xml:lang="cs">f) výchovné, vzdělávací a aktivizační činnosti,</source>
+<target xml:lang="en-US">f) výchovné, vzdělávací a aktivizační činnosti,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu42" xml:space="preserve">
+<source xml:lang="cs">g) základní sociální poradenství,</source>
+<target xml:lang="en-US">g) základní sociální poradenství,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu43" xml:space="preserve">
+<source xml:lang="cs">h) zprostředkování kontaktu se společenským prostředím,</source>
+<target xml:lang="en-US">h) zprostředkování kontaktu se společenským prostředím,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu44" xml:space="preserve">
+<source xml:lang="cs">i) sociálně terapeutické činnosti,</source>
+<target xml:lang="en-US">i) sociálně terapeutické činnosti,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu45" xml:space="preserve">
+<source xml:lang="cs">j) pomoc při uplatňování práv, oprávněných zájmů a při obstarávání osobních záležitostí,</source>
+<target xml:lang="en-US">j) pomoc při uplatňování práv, oprávněných zájmů a při obstarávání osobních záležitostí,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu46" xml:space="preserve">
+<source xml:lang="cs">k) telefonická krizová pomoc,</source>
+<target xml:lang="en-US">k) telefonická krizová pomoc,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu47" xml:space="preserve">
+<source xml:lang="cs">l) nácvik dovedností pro zvládání péče o vlastní osobu, soběstačnosti a dalších činností vedoucích k sociálnímu začlenění,</source>
+<target xml:lang="en-US">l) nácvik dovedností pro zvládání péče o vlastní osobu, soběstačnosti a dalších činností vedoucích k sociálnímu začlenění,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu48" xml:space="preserve">
+<source xml:lang="cs">m) podpora vytváření a zdokonalování základních pracovních návyků a dovedností.</source>
+<target xml:lang="en-US">m) podpora vytváření a zdokonalování základních pracovních návyků a dovedností.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu49" xml:space="preserve">
+<source xml:lang="cs">„Podrobnější specifikaci rozsahu a průběhu poskytování sociální služby sjednává Poskytovatel s Klientem na základě zjištěných a projednaných individuálních potřeb Klienta. O takto sjednaném rozsahu a průběhu sociální služby vede Poskytovatel příslušné záznamy</source>
+<target xml:lang="en-US">„Podrobnější specifikaci rozsahu a průběhu poskytování sociální služby sjednává Poskytovatel s Klientem na základě zjištěných a projednaných individuálních potřeb Klienta. O takto sjednaném rozsahu a průběhu sociální služby vede Poskytovatel příslušné záznamy</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu50" xml:space="preserve">
+<source xml:lang="cs">II. </source>
+<target xml:lang="en-US">II. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu51" xml:space="preserve">
+<source xml:lang="cs">Místo a čas poskytování sociální služby</source>
+<target xml:lang="en-US">Místo a čas poskytování sociální služby</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu52" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu53" xml:space="preserve">
+<source xml:lang="cs">Sociální služba sjednaná v této Smlouvě se poskytuje na adrese: (u terénní formy se definuje jenom lokalita)</source>
+<target xml:lang="en-US">Sociální služba sjednaná v této Smlouvě se poskytuje na adrese: (u terénní formy se definuje jenom lokalita)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu54" xml:space="preserve">
+<source xml:lang="cs">…………………………………………………………………………………………</source>
+<target xml:lang="en-US">…………………………………………………………………………………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu55" xml:space="preserve">
+<source xml:lang="cs">Čas poskytování sociální služby: </source>
+<target xml:lang="en-US">Čas poskytování sociální služby: </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu56" xml:space="preserve">
+<source xml:lang="cs">ve sjednaném dnu a čase od - do: …………………………………………………..…….. </source>
+<target xml:lang="en-US">ve sjednaném dnu a čase od - do: …………………………………………………..…….. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu57" xml:space="preserve">
+<source xml:lang="cs"><g id="1">III.</g> </source>
+<target xml:lang="en-US"><g id="1">III.</g> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu58" xml:space="preserve">
+<source xml:lang="cs">Výše úhrady za sociální službu </source>
+<target xml:lang="en-US">Výše úhrady za sociální službu </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu59" xml:space="preserve">
+<source xml:lang="cs">Klient se zavazuje k využívání pouze těch základních činností a úkonů, které jsou nezbytně nutné v řešení jeho nepříznivé sociální situace a v takovém rozsahu a časové dotaci, která odpovídá jeho potřebám, pro které využívá sociální službu.</source>
+<target xml:lang="en-US">Klient se zavazuje k využívání pouze těch základních činností a úkonů, které jsou nezbytně nutné v řešení jeho nepříznivé sociální situace a v takovém rozsahu a časové dotaci, která odpovídá jeho potřebám, pro které využívá sociální službu.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu60" xml:space="preserve">
+<source xml:lang="cs">Výše úhrady za poskytovatelem poskytnuté a Klientem využité základní činnosti je stanovena v souladu s výší úhrad stanovenou poskytovatelem v ceníku základních činností.</source>
+<target xml:lang="en-US">Výše úhrady za poskytovatelem poskytnuté a Klientem využité základní činnosti je stanovena v souladu s výší úhrad stanovenou poskytovatelem v ceníku základních činností.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu61" xml:space="preserve">
+<source xml:lang="cs">Poskytovatel je povinen vystavit Klientovi vyúčtování výše úhrady podle odstavce 1 a 2 za kalendářní měsíc, a to nejpozději do 15. dne kalendářního měsíce následujícího po měsíci, v němž byly základní činnosti poskytnuty a zajistit prokazatelné seznámení Klienta s tímto vyúčtováním.</source>
+<target xml:lang="en-US">Poskytovatel je povinen vystavit Klientovi vyúčtování výše úhrady podle odstavce 1 a 2 za kalendářní měsíc, a to nejpozději do 15. dne kalendářního měsíce následujícího po měsíci, v němž byly základní činnosti poskytnuty a zajistit prokazatelné seznámení Klienta s tímto vyúčtováním.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu62" xml:space="preserve">
+<source xml:lang="cs">Vzhledem k tomu, že příjmové, sociální a majetkové poměry neumožňují Klientovi ani částečnou úhradu nákladů za poskytování sociální služby podle této smlouvy, poskytuje se mu, a to v souladu s ust. § 5 odst. 1 zákona č. …/2022 Sb., o opatřeních v oblasti zaměstnanosti a oblasti sociálního zabezpečení v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace, sociální služba bez úhrady nákladů. Náklady na sociální službu podle věty první hradí stát. Své příjmové, sociální a majetkové poměry doložil Klient všemi dostupnými doklady nebo formou čestného prohlášení, které tvoří přílohu této smlouvy.</source>
+<target xml:lang="en-US">Vzhledem k tomu, že příjmové, sociální a majetkové poměry neumožňují Klientovi ani částečnou úhradu nákladů za poskytování sociální služby podle této smlouvy, poskytuje se mu, a to v souladu s ust. § 5 odst. 1 zákona č. …/2022 Sb., o opatřeních v oblasti zaměstnanosti a oblasti sociálního zabezpečení v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace, sociální služba bez úhrady nákladů. Náklady na sociální službu podle věty první hradí stát. Své příjmové, sociální a majetkové poměry doložil Klient všemi dostupnými doklady nebo formou čestného prohlášení, které tvoří přílohu této smlouvy.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu63" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu64" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu65" xml:space="preserve">
+<source xml:lang="cs"><g id="1">IV.</g> </source>
+<target xml:lang="en-US"><g id="1">IV.</g> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu66" xml:space="preserve">
+<source xml:lang="cs">Doba platnosti Smlouvy </source>
+<target xml:lang="en-US">Doba platnosti Smlouvy </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu67" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu68" xml:space="preserve">
+<source xml:lang="cs">Smlouva nabývá platnosti a účinnosti okamžikem jejího podpisu oběma smluvními stranami.  </source>
+<target xml:lang="en-US">Smlouva nabývá platnosti a účinnosti okamžikem jejího podpisu oběma smluvními stranami.  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu69" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu70" xml:space="preserve">
+<source xml:lang="cs">Doba platnosti a účinnosti Smlouvy se sjednává na dobu určitou a to do……………… </source>
+<target xml:lang="en-US">Doba platnosti a účinnosti Smlouvy se sjednává na dobu určitou a to do……………… </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu71" xml:space="preserve">
+<source xml:lang="cs">Klient nemůže práva ze Smlouvy postoupit na jinou osobu.  </source>
+<target xml:lang="en-US">Klient nemůže práva ze Smlouvy postoupit na jinou osobu.  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu72" xml:space="preserve">
+<source xml:lang="cs">V. </source>
+<target xml:lang="en-US">V. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu73" xml:space="preserve">
+<source xml:lang="cs">Výpovědní důvody a výpovědní lhůty </source>
+<target xml:lang="en-US">Výpovědní důvody a výpovědní lhůty </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu74" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu75" xml:space="preserve">
+<source xml:lang="cs">Vypovědět smlouvu lze za těchto podmínek: </source>
+<target xml:lang="en-US">Vypovědět smlouvu lze za těchto podmínek: </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu76" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu77" xml:space="preserve">
+<source xml:lang="cs">(1) <g id="1">Ze strany Klienta:</g><g id="2">  </g></source>
+<target xml:lang="en-US">(1) <g id="1">Ze strany Klienta:</g><g id="2">  </g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu78" xml:space="preserve">
+<source xml:lang="cs">Klient může Smlouvu vypovědět bez udání důvodu. Výpovědní lhůta pro výpověď danou Klientem činí 5 kalendářních dnů ode dne následujícího po jejím doručení Poskytovateli. </source>
+<target xml:lang="en-US">Klient může Smlouvu vypovědět bez udání důvodu. Výpovědní lhůta pro výpověď danou Klientem činí 5 kalendářních dnů ode dne následujícího po jejím doručení Poskytovateli. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu79" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu80" xml:space="preserve">
+<source xml:lang="cs">Dohodou obou stran: </source>
+<target xml:lang="en-US">Dohodou obou stran: </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu81" xml:space="preserve">
+<source xml:lang="cs">Dohoda může mít písemnou i ústní podobu a platnost smlouvy končí dnem, na kterém se obě strany dohodly. </source>
+<target xml:lang="en-US">Dohoda může mít písemnou i ústní podobu a platnost smlouvy končí dnem, na kterém se obě strany dohodly. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu82" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu83" xml:space="preserve">
+<source xml:lang="cs">Ze strany Poskytovatele: </source>
+<target xml:lang="en-US">Ze strany Poskytovatele: </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu84" xml:space="preserve">
+<source xml:lang="cs">Poskytovatel může Smlouvu vypovědět pouze z těchto důvodů: </source>
+<target xml:lang="en-US">Poskytovatel může Smlouvu vypovědět pouze z těchto důvodů: </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu85" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu86" xml:space="preserve">
+<source xml:lang="cs">Pokud pominuly důvody k poskytování sociální služby. Klient přestane splňovat kritéria pro poskytování sociální služby, tj. je natolik soběstačný, že další poskytování sociální služby by bylo v rozporu ze základními zásadami zákona o sociálních službách. </source>
+<target xml:lang="en-US">Pokud pominuly důvody k poskytování sociální služby. Klient přestane splňovat kritéria pro poskytování sociální služby, tj. je natolik soběstačný, že další poskytování sociální služby by bylo v rozporu ze základními zásadami zákona o sociálních službách. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu87" xml:space="preserve">
+<source xml:lang="cs">Došlo ke změně poměrů Klienta, zejména jeho zdravotního stavu, a poskytovatel není oprávněn poskytovat sociální službu, kterou v důsledku této změny Klient potřebuje, případně požaduje.</source>
+<target xml:lang="en-US">Došlo ke změně poměrů Klienta, zejména jeho zdravotního stavu, a poskytovatel není oprávněn poskytovat sociální službu, kterou v důsledku této změny Klient potřebuje, případně požaduje.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu88" xml:space="preserve">
+<source xml:lang="cs">Jestliže Klient hrubě porušuje své povinnosti vyplývající ze smlouvy. Za hrubé porušení Smlouvy se považuje zejména:</source>
+<target xml:lang="en-US">Jestliže Klient hrubě porušuje své povinnosti vyplývající ze smlouvy. Za hrubé porušení Smlouvy se považuje zejména:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu89" xml:space="preserve">
+<source xml:lang="cs">pokud Klient vědomě porušuje bezpečnostní předpisy, neřídí se pokyny pro požární ochrany a ochrany bezpečnosti zdraví.</source>
+<target xml:lang="en-US">pokud Klient vědomě porušuje bezpečnostní předpisy, neřídí se pokyny pro požární ochrany a ochrany bezpečnosti zdraví.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu90" xml:space="preserve">
+<source xml:lang="cs">pokud Klient vědomě nectí nedotknutelnost osobního vlastnictví a právo na soukromí ostatních klientů.</source>
+<target xml:lang="en-US">pokud Klient vědomě nectí nedotknutelnost osobního vlastnictví a právo na soukromí ostatních klientů.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu91" xml:space="preserve">
+<source xml:lang="cs">pokud Klient opakovaně vědomě neumožní výkon úkonů sociální služby bez předchozího oznámení </source>
+<target xml:lang="en-US">pokud Klient opakovaně vědomě neumožní výkon úkonů sociální služby bez předchozího oznámení </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu92" xml:space="preserve">
+<source xml:lang="cs">   </source>
+<target xml:lang="en-US">   </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu93" xml:space="preserve">
+<source xml:lang="cs">Jestliže se Klient po opakovaném upozornění chová k ostatním klientům nebo zaměstnancům způsobem, jehož záměr nebo důsledek vede ke snížení důstojnosti fyzické osoby nebo k vytváření nepřátelského, ponižujícího nebo zneklidňujícího prostředí (např. slovní a fyzická agrese, sexuální obtěžování, vyhrožování…). To neplatí v případě, plynou-li uvedené znaky chování z projevů zdravotního postižení. </source>
+<target xml:lang="en-US">Jestliže se Klient po opakovaném upozornění chová k ostatním klientům nebo zaměstnancům způsobem, jehož záměr nebo důsledek vede ke snížení důstojnosti fyzické osoby nebo k vytváření nepřátelského, ponižujícího nebo zneklidňujícího prostředí (např. slovní a fyzická agrese, sexuální obtěžování, vyhrožování…). To neplatí v případě, plynou-li uvedené znaky chování z projevů zdravotního postižení. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu94" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu95" xml:space="preserve">
+<source xml:lang="cs">Pokud Klient bez závažných objektivních důvodů (např. hospitalizace,) nevyužívá sociální službu sjednanou v této smlouvě <g id="1">déle než 1 měsíc.</g></source>
+<target xml:lang="en-US">Pokud Klient bez závažných objektivních důvodů (např. hospitalizace,) nevyužívá sociální službu sjednanou v této smlouvě <g id="1">déle než 1 měsíc.</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu96" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu97" xml:space="preserve">
+<source xml:lang="cs">Výpovědní lhůta pro výpověď danou Poskytovatelem z důvodů uvedených v odst. (3) písm. a), b) a e) tohoto článku činí 30 kalendářních dnů, z důvodů uvedených v odst. (3) písm. c) a d) tohoto článku činí 5 kalendářních dnů. Výpovědní lhůta počíná běžet prvním dnem následujícím po dni, v němž byla tato výpověď Klientovi doručena. </source>
+<target xml:lang="en-US">Výpovědní lhůta pro výpověď danou Poskytovatelem z důvodů uvedených v odst. (3) písm. a), b) a e) tohoto článku činí 30 kalendářních dnů, z důvodů uvedených v odst. (3) písm. c) a d) tohoto článku činí 5 kalendářních dnů. Výpovědní lhůta počíná běžet prvním dnem následujícím po dni, v němž byla tato výpověď Klientovi doručena. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu98" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu99" xml:space="preserve">
+<source xml:lang="cs">VI. </source>
+<target xml:lang="en-US">VI. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu100" xml:space="preserve">
+<source xml:lang="cs">Ujednání o dodržování vnitřních pravidel sociální služby</source>
+<target xml:lang="en-US">Ujednání o dodržování vnitřních pravidel sociální služby</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu101" xml:space="preserve">
+<source xml:lang="cs">Klient i Poskytovatel se vzájemně zavazují respektovat lidskou důstojnost Klienta <x id="1"/>i zaměstnanců Poskytovatele, jejich lidská a občanská práva, základní svobody <x id="2"/>a oprávněné zájmy všech osob vstupujících do vzájemných kontaktů v procesu poskytování sociální služby. </source>
+<target xml:lang="en-US">Klient i Poskytovatel se vzájemně zavazují respektovat lidskou důstojnost Klienta <x id="1"/>i zaměstnanců Poskytovatele, jejich lidská a občanská práva, základní svobody <x id="2"/>a oprávněné zájmy všech osob vstupujících do vzájemných kontaktů v procesu poskytování sociální služby. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu102" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu103" xml:space="preserve">
+<source xml:lang="cs">Poskytovatel se zavazuje společně s Klientem plánovat a průběžně projednávat průběh sociální služby s ohledem na osobní cíle a možnosti Klienta. </source>
+<target xml:lang="en-US">Poskytovatel se zavazuje společně s Klientem plánovat a průběžně projednávat průběh sociální služby s ohledem na osobní cíle a možnosti Klienta. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu104" xml:space="preserve">
+<source xml:lang="cs">Poskytovatel se zavazuje, že Klientovi bude zajišťovat základní činnosti podle této Smlouvy způsobem odpovídajícím standardům kvality sociálních služeb <x id="1"/>a dalším předmětným legislativním normám vztahujícím se k procesu poskytování sociální služby.</source>
+<target xml:lang="en-US">Poskytovatel se zavazuje, že Klientovi bude zajišťovat základní činnosti podle této Smlouvy způsobem odpovídajícím standardům kvality sociálních služeb <x id="1"/>a dalším předmětným legislativním normám vztahujícím se k procesu poskytování sociální služby.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu105" xml:space="preserve">
+<source xml:lang="cs">Klient je srozuměn s tím, že Poskytovatel dle zákona č. 101/2000 Sb., o ochraně osobních údajů a dle nařízení Evropského parlamentu a Rady (EU) č. 2016/679 ze dne 27. dubna 2016 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů (General Data Protection Regulation – GDPR) zjišťuje, zpracovává, eviduje a archivuje osobní údaje Klienta – a to v rozsahu nezbytném pro plnění úkolů Poskytovatele. Jakmile pominou důvody evidence a archivace těchto osobních údajů, Poskytovatel je povinen je zničit způsobem, který vylučuje jejich zneužití.  </source>
+<target xml:lang="en-US">Klient je srozuměn s tím, že Poskytovatel dle zákona č. 101/2000 Sb., o ochraně osobních údajů a dle nařízení Evropského parlamentu a Rady (EU) č. 2016/679 ze dne 27. dubna 2016 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů (General Data Protection Regulation – GDPR) zjišťuje, zpracovává, eviduje a archivuje osobní údaje Klienta – a to v rozsahu nezbytném pro plnění úkolů Poskytovatele. Jakmile pominou důvody evidence a archivace těchto osobních údajů, Poskytovatel je povinen je zničit způsobem, který vylučuje jejich zneužití.  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu106" xml:space="preserve">
+<source xml:lang="cs">Klient je seznámen s možností a pravidly podání stížnosti na kvalitu a rozsah poskytovaných služeb i na to, jakým způsobem jsou základní činnosti poskytovány, případně též na zaměstnance Poskytovatele. </source>
+<target xml:lang="en-US">Klient je seznámen s možností a pravidly podání stížnosti na kvalitu a rozsah poskytovaných služeb i na to, jakým způsobem jsou základní činnosti poskytovány, případně též na zaměstnance Poskytovatele. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu107" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu108" xml:space="preserve">
+<source xml:lang="cs">Klient prohlašuje, že byl ve srozumitelné formě seznámen s vnitřními pravidly poskytovatele.</source>
+<target xml:lang="en-US">Klient prohlašuje, že byl ve srozumitelné formě seznámen s vnitřními pravidly poskytovatele.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu109" xml:space="preserve">
+<source xml:lang="cs">VII. </source>
+<target xml:lang="en-US">VII. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu110" xml:space="preserve">
+<source xml:lang="cs">Závěrečná ustanovení  </source>
+<target xml:lang="en-US">Závěrečná ustanovení  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu111" xml:space="preserve">
+<source xml:lang="cs">Smlouva je vyhotovena ve dvou stejnopisech s platností originálu. Klient a Poskytovatel obdrží po jednom vyhotovení. <g id="1"> </g></source>
+<target xml:lang="en-US">Smlouva je vyhotovena ve dvou stejnopisech s platností originálu. Klient a Poskytovatel obdrží po jednom vyhotovení. <g id="1"> </g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu112" xml:space="preserve">
+<source xml:lang="cs">Smlouva nabývá platnosti a účinnosti okamžikem jejího podpisu oběma smluvními stranami.</source>
+<target xml:lang="en-US">Smlouva nabývá platnosti a účinnosti okamžikem jejího podpisu oběma smluvními stranami.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu113" xml:space="preserve">
+<source xml:lang="cs">Smlouva může být měněna číslovaným dodatkem.  </source>
+<target xml:lang="en-US">Smlouva může být měněna číslovaným dodatkem.  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu114" xml:space="preserve">
+<source xml:lang="cs">Smluvní strany prohlašují, že Smlouva vyjadřuje jejich <g id="1">pravou a svobodnou vůli a že smlouvu neuzavřely v tísni za nápadně nevýhodných podmínek. </g></source>
+<target xml:lang="en-US">Smluvní strany prohlašují, že Smlouva vyjadřuje jejich <g id="1">pravou a svobodnou vůli a že smlouvu neuzavřely v tísni za nápadně nevýhodných podmínek. </g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu115" xml:space="preserve">
+<source xml:lang="cs">Smluvní strany prohlašují, že smlouvu přečetly, jejímu obsahu rozumí a s jejím obsahem úplně a bezvýhradně souhlasí, což stvrzují svými vlastnoručními podpisy. </source>
+<target xml:lang="en-US">Smluvní strany prohlašují, že smlouvu přečetly, jejímu obsahu rozumí a s jejím obsahem úplně a bezvýhradně souhlasí, což stvrzují svými vlastnoručními podpisy. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu116" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu117" xml:space="preserve">
+<source xml:lang="cs">V …………. dne …………                        <x id="1"/> <x id="2"/>          V ………………..dne …………..  </source>
+<target xml:lang="en-US">V …………. dne …………                        <x id="1"/> <x id="2"/>          V ………………..dne …………..  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu118" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu119" xml:space="preserve">
+<source xml:lang="cs">…………………………….. <x id="1"/> <x id="2"/> <x id="3"/> <x id="4"/> <x id="5"/>………………………………… </source>
+<target xml:lang="en-US">…………………………….. <x id="1"/> <x id="2"/> <x id="3"/> <x id="4"/> <x id="5"/>………………………………… </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu120" xml:space="preserve">
+<source xml:lang="cs">                Klient <x id="1"/> <x id="2"/> <x id="3"/> <x id="4"/> <x id="5"/> <x id="6"/> <x id="7"/>Poskytovatel              </source>
+<target xml:lang="en-US">                Klient <x id="1"/> <x id="2"/> <x id="3"/> <x id="4"/> <x id="5"/> <x id="6"/> <x id="7"/>Poskytovatel              </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu121" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu122" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu123" xml:space="preserve">
+<source xml:lang="cs">V …………. dne …………                        <x id="1"/> <x id="2"/>          </source>
+<target xml:lang="en-US">V …………. dne …………                        <x id="1"/> <x id="2"/>          </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu124" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu125" xml:space="preserve">
+<source xml:lang="cs">…………………………….. <x id="1"/> <x id="2"/> <x id="3"/> <x id="4"/> <x id="5"/> </source>
+<target xml:lang="en-US">…………………………….. <x id="1"/> <x id="2"/> <x id="3"/> <x id="4"/> <x id="5"/> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu126" xml:space="preserve">
+<source xml:lang="cs">           Zástupce klienta</source>
+<target xml:lang="en-US">           Zástupce klienta</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/footnotes.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/endnotes.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/footer1.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P3953B09A-tu1" xml:space="preserve">
+<source xml:lang="cs">Stránka <x id="1"/> z <x id="2"/></source>
+<target xml:lang="en-US">Stránka <x id="1"/> z <x id="2"/></target>
+</trans-unit>
+</body>
+</file>
+<file original="word/settings.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="cs">jan.vrbicky@mpsv.cz</source>
+<target xml:lang="en-US">jan.vrbicky@mpsv.cz</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

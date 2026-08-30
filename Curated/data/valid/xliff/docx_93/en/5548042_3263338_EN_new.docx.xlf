@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="word/document.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NFDBB2FA9-tu1" xml:space="preserve">
+<source xml:lang="en"><g id="1">Harmonised application form</g></source>
+<target xml:lang="fr"><g id="1">Harmonised application form</g></target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub1" xml:space="preserve">
+<source xml:lang="en">Textové pole 1</source>
+<target xml:lang="fr">Textové pole 1</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub2" xml:space="preserve">
+<source xml:lang="en">PHOTO</source>
+<target xml:lang="fr">PHOTO</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub3" xml:space="preserve">
+<source xml:lang="en">Picture 3</source>
+<target xml:lang="fr">Picture 3</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub4" xml:space="preserve">
+<source xml:lang="en">Picture 1</source>
+<target xml:lang="fr">Picture 1</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu2" xml:space="preserve">
+<source xml:lang="en">Application for Schengen Visa</source>
+<target xml:lang="fr">Application for Schengen Visa</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu3" xml:space="preserve">
+<source xml:lang="en">This application form is free<x id="1"/><x id="2"/></source>
+<target xml:lang="fr">This application form is free<x id="1"/><x id="2"/></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu4" xml:space="preserve">
+<source xml:lang="en">Family members of EU, EEA or CH citizens or of UK nationals who are beneficiaries of the EU – UK                                                           Withdrawal Agreement  shall  not fill in fields  No. 21, 22, 30, 31 and 32 (marked with<g id="1">*</g>).</source>
+<target xml:lang="fr">Family members of EU, EEA or CH citizens or of UK nationals who are beneficiaries of the EU – UK                                                           Withdrawal Agreement  shall  not fill in fields  No. 21, 22, 30, 31 and 32 (marked with<g id="1">*</g>).</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu5" xml:space="preserve">
+<source xml:lang="en">Fields 1<x id="1"/>3 shall be filled in in accordance with the data in the travel document.</source>
+<target xml:lang="fr">Fields 1<x id="1"/>3 shall be filled in in accordance with the data in the travel document.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu6" xml:space="preserve">
+<source xml:lang="en">1. Surname (Family name): </source>
+<target xml:lang="fr">1. Surname (Family name): </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu7" xml:space="preserve">
+<source xml:lang="en">For official use only</source>
+<target xml:lang="fr">For official use only</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu8" xml:space="preserve">
+<source xml:lang="en">Date of application:</source>
+<target xml:lang="fr">Date of application:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu9" xml:space="preserve">
+<source xml:lang="en">Application number:</source>
+<target xml:lang="fr">Application number:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu10" xml:space="preserve">
+<source xml:lang="en">Application lodged at:</source>
+<target xml:lang="fr">Application lodged at:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu11" xml:space="preserve">
+<source xml:lang="en">□Embassy/consulate</source>
+<target xml:lang="fr">□Embassy/consulate</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu12" xml:space="preserve">
+<source xml:lang="en">□ Service provider</source>
+<target xml:lang="fr">□ Service provider</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu13" xml:space="preserve">
+<source xml:lang="en">□ Commercial intermediary</source>
+<target xml:lang="fr">□ Commercial intermediary</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu14" xml:space="preserve">
+<source xml:lang="en">□ Border (Name):</source>
+<target xml:lang="fr">□ Border (Name):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu15" xml:space="preserve">
+<source xml:lang="en">………………</source>
+<target xml:lang="fr">………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu16" xml:space="preserve">
+<source xml:lang="en">□ Other:</source>
+<target xml:lang="fr">□ Other:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu17" xml:space="preserve">
+<source xml:lang="en">File handled by:</source>
+<target xml:lang="fr">File handled by:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu18" xml:space="preserve">
+<source xml:lang="en">Supporting documents:</source>
+<target xml:lang="fr">Supporting documents:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu19" xml:space="preserve">
+<source xml:lang="en">□ Travel document</source>
+<target xml:lang="fr">□ Travel document</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu20" xml:space="preserve">
+<source xml:lang="en">□ Means of subsistence</source>
+<target xml:lang="fr">□ Means of subsistence</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu21" xml:space="preserve">
+<source xml:lang="en">□ Invitation</source>
+<target xml:lang="fr">□ Invitation</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu22" xml:space="preserve">
+<source xml:lang="en">□ TMI</source>
+<target xml:lang="fr">□ TMI</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu23" xml:space="preserve">
+<source xml:lang="en">□ Means of transport</source>
+<target xml:lang="fr">□ Means of transport</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu24" xml:space="preserve">
+<source xml:lang="en">□ Other:</source>
+<target xml:lang="fr">□ Other:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu25" xml:space="preserve">
+<source xml:lang="en">Visa decision:</source>
+<target xml:lang="fr">Visa decision:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu26" xml:space="preserve">
+<source xml:lang="en">□ Refused</source>
+<target xml:lang="fr">□ Refused</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu27" xml:space="preserve">
+<source xml:lang="en">□ Issued:</source>
+<target xml:lang="fr">□ Issued:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu28" xml:space="preserve">
+<source xml:lang="en">□ A</source>
+<target xml:lang="fr">□ A</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu29" xml:space="preserve">
+<source xml:lang="en">□ C</source>
+<target xml:lang="fr">□ C</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu30" xml:space="preserve">
+<source xml:lang="en">□ LTV</source>
+<target xml:lang="fr">□ LTV</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu31" xml:space="preserve">
+<source xml:lang="en">□ Valid:</source>
+<target xml:lang="fr">□ Valid:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu32" xml:space="preserve">
+<source xml:lang="en">From:</source>
+<target xml:lang="fr">From:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu33" xml:space="preserve">
+<source xml:lang="en">Until:</source>
+<target xml:lang="fr">Until:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu34" xml:space="preserve">
+<source xml:lang="en">Number of entries:</source>
+<target xml:lang="fr">Number of entries:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu35" xml:space="preserve">
+<source xml:lang="en">□ 1 □ 2 □ Multiple</source>
+<target xml:lang="fr">□ 1 □ 2 □ Multiple</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu36" xml:space="preserve">
+<source xml:lang="en">Number of days:</source>
+<target xml:lang="fr">Number of days:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu37" xml:space="preserve">
+<source xml:lang="en">2. Surname at birth (Former family name(s)): </source>
+<target xml:lang="fr">2. Surname at birth (Former family name(s)): </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu38" xml:space="preserve">
+<source xml:lang="en">3. First name(s) (Given name(s)): </source>
+<target xml:lang="fr">3. First name(s) (Given name(s)): </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu39" xml:space="preserve">
+<source xml:lang="en">Date of birth (day<x id="1"/>month<x id="2"/>year):</source>
+<target xml:lang="fr">Date of birth (day<x id="1"/>month<x id="2"/>year):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu40" xml:space="preserve">
+<source xml:lang="en">5. Place of birth:</source>
+<target xml:lang="fr">5. Place of birth:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu41" xml:space="preserve">
+<source xml:lang="en">6. Country of birth:</source>
+<target xml:lang="fr">6. Country of birth:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu42" xml:space="preserve">
+<source xml:lang="en">7.Current nationality:</source>
+<target xml:lang="fr">7.Current nationality:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu43" xml:space="preserve">
+<source xml:lang="en">Nationality at birth, <x id="1"/>if different:</source>
+<target xml:lang="fr">Nationality at birth, <x id="1"/>if different:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu44" xml:space="preserve">
+<source xml:lang="en">Other nationalities:</source>
+<target xml:lang="fr">Other nationalities:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu45" xml:space="preserve">
+<source xml:lang="en">8. Sex:</source>
+<target xml:lang="fr">8. Sex:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu46" xml:space="preserve">
+<source xml:lang="en">□ Male </source>
+<target xml:lang="fr">□ Male </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu47" xml:space="preserve">
+<source xml:lang="en">□ Female</source>
+<target xml:lang="fr">□ Female</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu48" xml:space="preserve">
+<source xml:lang="en">□ Other</source>
+<target xml:lang="fr">□ Other</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu49" xml:space="preserve">
+<source xml:lang="en">9. Civil status:</source>
+<target xml:lang="fr">9. Civil status:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu50" xml:space="preserve">
+<source xml:lang="en">□ Single           □ Married        □ Registered Partnership   </source>
+<target xml:lang="fr">□ Single           □ Married        □ Registered Partnership   </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu51" xml:space="preserve">
+<source xml:lang="en">□ Separated      □ Divorced      □ Widow(er) </source>
+<target xml:lang="fr">□ Separated      □ Divorced      □ Widow(er) </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu52" xml:space="preserve">
+<source xml:lang="en">□ Other (please specify):</source>
+<target xml:lang="fr">□ Other (please specify):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu53" xml:space="preserve">
+<source xml:lang="en">10. Parental authority (in case of minors) /legal guardian (surname, first name, address, if different from applicant’s, telephone no., e<x id="1"/>mail address, and nationality):</source>
+<target xml:lang="fr">10. Parental authority (in case of minors) /legal guardian (surname, first name, address, if different from applicant’s, telephone no., e<x id="1"/>mail address, and nationality):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu54" xml:space="preserve">
+<source xml:lang="en">11. National identity number, where applicable:</source>
+<target xml:lang="fr">11. National identity number, where applicable:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu55" xml:space="preserve">
+<source xml:lang="en">12. Type of travel document:</source>
+<target xml:lang="fr">12. Type of travel document:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu56" xml:space="preserve">
+<source xml:lang="en">□ Ordinary passport                            □ Diplomatic passport                  □ Service passport </source>
+<target xml:lang="fr">□ Ordinary passport                            □ Diplomatic passport                  □ Service passport </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu57" xml:space="preserve">
+<source xml:lang="en">□ Official passport                              □ Special passport</source>
+<target xml:lang="fr">□ Official passport                              □ Special passport</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu58" xml:space="preserve">
+<source xml:lang="en">□ Other travel document (please specify):</source>
+<target xml:lang="fr">□ Other travel document (please specify):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu59" xml:space="preserve">
+<source xml:lang="en">13.Number of travel document:</source>
+<target xml:lang="fr">13.Number of travel document:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu60" xml:space="preserve">
+<source xml:lang="en">14. Date of issue:</source>
+<target xml:lang="fr">14. Date of issue:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu61" xml:space="preserve">
+<source xml:lang="en">15. Valid until:</source>
+<target xml:lang="fr">15. Valid until:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu62" xml:space="preserve">
+<source xml:lang="en">16. Issued by (country):</source>
+<target xml:lang="fr">16. Issued by (country):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu63" xml:space="preserve">
+<source xml:lang="en">17. Personal data of the family member who is an EU, EEA or CH citizen or a UK national who is beneficiary of the EU – UK Withdrawal Agreement, if applicable</source>
+<target xml:lang="fr">17. Personal data of the family member who is an EU, EEA or CH citizen or a UK national who is beneficiary of the EU – UK Withdrawal Agreement, if applicable</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu64" xml:space="preserve">
+<source xml:lang="en">Surname (Family name):</source>
+<target xml:lang="fr">Surname (Family name):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu65" xml:space="preserve">
+<source xml:lang="en">First name(s) (Given name(s)):</source>
+<target xml:lang="fr">First name(s) (Given name(s)):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu66" xml:space="preserve">
+<source xml:lang="en">Date of birth (day<x id="1"/>month<x id="2"/>year):</source>
+<target xml:lang="fr">Date of birth (day<x id="1"/>month<x id="2"/>year):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu67" xml:space="preserve">
+<source xml:lang="en">Nationality:</source>
+<target xml:lang="fr">Nationality:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu68" xml:space="preserve">
+<source xml:lang="en">Number of travel document <x id="1"/>or ID card:</source>
+<target xml:lang="fr">Number of travel document <x id="1"/>or ID card:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu69" xml:space="preserve">
+<source xml:lang="en">18. Family relationship with an EU, EEA or CH citizen if applicable:</source>
+<target xml:lang="fr">18. Family relationship with an EU, EEA or CH citizen if applicable:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu70" xml:space="preserve">
+<source xml:lang="en">□ spouse                       □ child                            □ grandchild                         □ dependent ascendant </source>
+<target xml:lang="fr">□ spouse                       □ child                            □ grandchild                         □ dependent ascendant </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu71" xml:space="preserve">
+<source xml:lang="en"><x id="1"/>□ Registered Partnership                                     □ other:</source>
+<target xml:lang="fr"><x id="1"/>□ Registered Partnership                                     □ other:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu72" xml:space="preserve">
+<source xml:lang="en">19. Applicant's home address and e<x id="1"/>mail address:      </source>
+<target xml:lang="fr">19. Applicant's home address and e<x id="1"/>mail address:      </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu73" xml:space="preserve">
+<source xml:lang="en">Tel.:</source>
+<target xml:lang="fr">Tel.:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu74" xml:space="preserve">
+<source xml:lang="en">20. Residence in a country other than the country of current nationality:</source>
+<target xml:lang="fr">20. Residence in a country other than the country of current nationality:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu75" xml:space="preserve">
+<source xml:lang="en">□ No<x id="1"/>□ Yes. Residence permit or equivalent ………… No. …………………….. Valid until……………</source>
+<target xml:lang="fr">□ No<x id="1"/>□ Yes. Residence permit or equivalent ………… No. …………………….. Valid until……………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu76" xml:space="preserve">
+<source xml:lang="en">*21. Current occupation:</source>
+<target xml:lang="fr">*21. Current occupation:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu77" xml:space="preserve">
+<source xml:lang="en">* 22. Employer and employer’s address and telephone number. For students, name and address <x id="1"/>of educational establishment:</source>
+<target xml:lang="fr">* 22. Employer and employer’s address and telephone number. For students, name and address <x id="1"/>of educational establishment:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu78" xml:space="preserve">
+<source xml:lang="en">23. Purpose(s) of the journey:</source>
+<target xml:lang="fr">23. Purpose(s) of the journey:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu79" xml:space="preserve">
+<source xml:lang="en">□ Tourism                    □ Business                           □ Visiting family or friends             □ Cultural       </source>
+<target xml:lang="fr">□ Tourism                    □ Business                           □ Visiting family or friends             □ Cultural       </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu80" xml:space="preserve">
+<source xml:lang="en">□ Sports                       □ Official visit                     □ Medical reasons                            □ Study       </source>
+<target xml:lang="fr">□ Sports                       □ Official visit                     □ Medical reasons                            □ Study       </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu81" xml:space="preserve">
+<source xml:lang="en"> □ Airport transit          □ Other (please specify):</source>
+<target xml:lang="fr"> □ Airport transit          □ Other (please specify):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu82" xml:space="preserve">
+<source xml:lang="en">24. Additional information on purpose of stay:</source>
+<target xml:lang="fr">24. Additional information on purpose of stay:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu83" xml:space="preserve">
+<source xml:lang="en">25. Member State of main destination (and other Member States <x id="1"/>of destination, if applicable):</source>
+<target xml:lang="fr">25. Member State of main destination (and other Member States <x id="1"/>of destination, if applicable):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu84" xml:space="preserve">
+<source xml:lang="en">26. Member State of first entry:</source>
+<target xml:lang="fr">26. Member State of first entry:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu85" xml:space="preserve">
+<source xml:lang="en">27. Number of entries requested:</source>
+<target xml:lang="fr">27. Number of entries requested:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu86" xml:space="preserve">
+<source xml:lang="en">□ Single entry                              □ Two entries                                       □ Multiple entries</source>
+<target xml:lang="fr">□ Single entry                              □ Two entries                                       □ Multiple entries</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu87" xml:space="preserve">
+<source xml:lang="en">Intended date of arrival of the first intended stay in the Schengen area:</source>
+<target xml:lang="fr">Intended date of arrival of the first intended stay in the Schengen area:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu88" xml:space="preserve">
+<source xml:lang="en">Intended date of departure from the Schengen area after the first intended stay:</source>
+<target xml:lang="fr">Intended date of departure from the Schengen area after the first intended stay:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu89" xml:space="preserve">
+<source xml:lang="en">28. Fingerprints collected previously for the purpose of applying for a Schengen visa: </source>
+<target xml:lang="fr">28. Fingerprints collected previously for the purpose of applying for a Schengen visa: </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu90" xml:space="preserve">
+<source xml:lang="en">□ No </source>
+<target xml:lang="fr">□ No </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu91" xml:space="preserve">
+<source xml:lang="en">□ Yes.   Date, if known: ……………………………………….. </source>
+<target xml:lang="fr">□ Yes.   Date, if known: ……………………………………….. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu92" xml:space="preserve">
+<source xml:lang="en">              Visa sticker number, if known ………………………..</source>
+<target xml:lang="fr">              Visa sticker number, if known ………………………..</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu93" xml:space="preserve">
+<source xml:lang="en">29. Entry permit for the final country of destination, where applicable:</source>
+<target xml:lang="fr">29. Entry permit for the final country of destination, where applicable:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu94" xml:space="preserve">
+<source xml:lang="en">Issued by ……………………………….   Valid from ……………………until ……………………</source>
+<target xml:lang="fr">Issued by ……………………………….   Valid from ……………………until ……………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu95" xml:space="preserve">
+<source xml:lang="en"><g id="1">*</g> 30. Surname and first name of the inviting person(s) in the Member State(s). If not applicable, name of hotel(s) or temporary accommodation(s) in the Member State(s):</source>
+<target xml:lang="fr"><g id="1">*</g> 30. Surname and first name of the inviting person(s) in the Member State(s). If not applicable, name of hotel(s) or temporary accommodation(s) in the Member State(s):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu96" xml:space="preserve">
+<source xml:lang="en">Address and e<x id="1"/>mail address of inviting person(s)/hotel(s)/temporary accommodation(s):</source>
+<target xml:lang="fr">Address and e<x id="1"/>mail address of inviting person(s)/hotel(s)/temporary accommodation(s):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu97" xml:space="preserve">
+<source xml:lang="en">Telephone No.:</source>
+<target xml:lang="fr">Telephone No.:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu98" xml:space="preserve">
+<source xml:lang="en"><g id="1">*</g>31. Name and address of inviting company/organisation:</source>
+<target xml:lang="fr"><g id="1">*</g>31. Name and address of inviting company/organisation:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu99" xml:space="preserve">
+<source xml:lang="en">Surname, first name, address, telephone no., and e<x id="1"/>mail address <x id="2"/>of contact person in company/organisation:</source>
+<target xml:lang="fr">Surname, first name, address, telephone no., and e<x id="1"/>mail address <x id="2"/>of contact person in company/organisation:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu100" xml:space="preserve">
+<source xml:lang="en">Telephone No. <x id="1"/>of company/organisation:</source>
+<target xml:lang="fr">Telephone No. <x id="1"/>of company/organisation:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu101" xml:space="preserve">
+<source xml:lang="en"><g id="1">*</g>32. Cost of travelling and living during the applicant’s stay is covered:</source>
+<target xml:lang="fr"><g id="1">*</g>32. Cost of travelling and living during the applicant’s stay is covered:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu102" xml:space="preserve">
+<source xml:lang="en">□ by the applicant himself/herself</source>
+<target xml:lang="fr">□ by the applicant himself/herself</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu103" xml:space="preserve">
+<source xml:lang="en">Means of support:</source>
+<target xml:lang="fr">Means of support:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu104" xml:space="preserve">
+<source xml:lang="en">□ Cash</source>
+<target xml:lang="fr">□ Cash</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu105" xml:space="preserve">
+<source xml:lang="en">□ Traveller’s cheques</source>
+<target xml:lang="fr">□ Traveller’s cheques</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu106" xml:space="preserve">
+<source xml:lang="en">□ Credit card</source>
+<target xml:lang="fr">□ Credit card</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu107" xml:space="preserve">
+<source xml:lang="en">□ Pre<x id="1"/>paid accommodation</source>
+<target xml:lang="fr">□ Pre<x id="1"/>paid accommodation</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu108" xml:space="preserve">
+<source xml:lang="en">□ Pre<x id="1"/>paid transport</source>
+<target xml:lang="fr">□ Pre<x id="1"/>paid transport</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu109" xml:space="preserve">
+<source xml:lang="en">□ Other (please specify)</source>
+<target xml:lang="fr">□ Other (please specify)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu110" xml:space="preserve">
+<source xml:lang="en">□ by a sponsor (host, company, organisation), please specify:</source>
+<target xml:lang="fr">□ by a sponsor (host, company, organisation), please specify:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu111" xml:space="preserve">
+<source xml:lang="en">□ referred to in field 30 or 31</source>
+<target xml:lang="fr">□ referred to in field 30 or 31</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu112" xml:space="preserve">
+<source xml:lang="en">□ other (please specify):</source>
+<target xml:lang="fr">□ other (please specify):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu113" xml:space="preserve">
+<source xml:lang="en">Means of support:</source>
+<target xml:lang="fr">Means of support:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu114" xml:space="preserve">
+<source xml:lang="en">□ Cash</source>
+<target xml:lang="fr">□ Cash</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu115" xml:space="preserve">
+<source xml:lang="en">□ Accommodation provided</source>
+<target xml:lang="fr">□ Accommodation provided</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu116" xml:space="preserve">
+<source xml:lang="en">□ All expenses covered during the stay</source>
+<target xml:lang="fr">□ All expenses covered during the stay</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu117" xml:space="preserve">
+<source xml:lang="en">□ Pre<x id="1"/>paid transport</source>
+<target xml:lang="fr">□ Pre<x id="1"/>paid transport</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu118" xml:space="preserve">
+<source xml:lang="en">□ Other (please specify):</source>
+<target xml:lang="fr">□ Other (please specify):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu119" xml:space="preserve">
+<source xml:lang="en">33. Surname and first name of the person filling in the application form, if different from the applicant:</source>
+<target xml:lang="fr">33. Surname and first name of the person filling in the application form, if different from the applicant:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu120" xml:space="preserve">
+<source xml:lang="en">Adress and email address of the person filling in the application form:</source>
+<target xml:lang="fr">Adress and email address of the person filling in the application form:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu121" xml:space="preserve">
+<source xml:lang="en">Telephone No.: </source>
+<target xml:lang="fr">Telephone No.: </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu122" xml:space="preserve">
+<source xml:lang="en">I am aware that the visa fee is not refunded if the visa is refused.</source>
+<target xml:lang="fr">I am aware that the visa fee is not refunded if the visa is refused.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu123" xml:space="preserve">
+<source xml:lang="en">Applicable in case a multiple<x id="1"/>entry visa is applied for:</source>
+<target xml:lang="fr">Applicable in case a multiple<x id="1"/>entry visa is applied for:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu124" xml:space="preserve">
+<source xml:lang="en">I am aware of the need to have an adequate travel medical insurance for my first stay and any subsequent visits <x id="1"/>to the territory of Member States.</source>
+<target xml:lang="fr">I am aware of the need to have an adequate travel medical insurance for my first stay and any subsequent visits <x id="1"/>to the territory of Member States.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu125" xml:space="preserve">
+<source xml:lang="en">I am aware of and consent to the following: the collection of the data required by this application form and the taking of my photograph and, if applicable, the taking of fingerprints, are mandatory for the examination of the application; and any personal data concerning me which appear on the application form, as well as my fingerprints and my photograph will be supplied to the relevant authorities of the Member States and processed by those authorities, for the purposes of a decision on my application.</source>
+<target xml:lang="fr">I am aware of and consent to the following: the collection of the data required by this application form and the taking of my photograph and, if applicable, the taking of fingerprints, are mandatory for the examination of the application; and any personal data concerning me which appear on the application form, as well as my fingerprints and my photograph will be supplied to the relevant authorities of the Member States and processed by those authorities, for the purposes of a decision on my application.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu126" xml:space="preserve">
+<source xml:lang="en">Such data as well as data concerning the decision taken on my application or a decision whether to annul, revoke or extend a visa issued will be entered into, and stored in the Visa Information System (VIS) for a maximum period of five years, during which it will be accessible to the visa authorities and the authorities competent for carrying out checks on visas at external borders and within the Member States, immigration and asylum authorities in the Member States for the purposes of verifying whether the conditions for the legal entry into, stay and residence on the territory of the Member States are fulfilled, of identifying persons who do not or who no longer fulfil these conditions, of examining an asylum application and of determining responsibility for such examination. Under certain conditions the data will be also available to designated authorities of the Member States and to Europol for the purpose of the prevention, detection and investigation of terrorist offences and of other serious criminal offences. The authority of the Member State responsible for processing the data: Ministry of Foreign Affairs, Loretánské náměstí 5, CZ-118 00 Praha 1; Directorate of Alien Police, Olšanská 2, P.O. BOX 78, CZ-130 51 Praha 3 and Ministry of the Interior, Nad Štolou 3, CZ-170 34 Praha 7.</source>
+<target xml:lang="fr">Such data as well as data concerning the decision taken on my application or a decision whether to annul, revoke or extend a visa issued will be entered into, and stored in the Visa Information System (VIS) for a maximum period of five years, during which it will be accessible to the visa authorities and the authorities competent for carrying out checks on visas at external borders and within the Member States, immigration and asylum authorities in the Member States for the purposes of verifying whether the conditions for the legal entry into, stay and residence on the territory of the Member States are fulfilled, of identifying persons who do not or who no longer fulfil these conditions, of examining an asylum application and of determining responsibility for such examination. Under certain conditions the data will be also available to designated authorities of the Member States and to Europol for the purpose of the prevention, detection and investigation of terrorist offences and of other serious criminal offences. The authority of the Member State responsible for processing the data: Ministry of Foreign Affairs, Loretánské náměstí 5, CZ-118 00 Praha 1; Directorate of Alien Police, Olšanská 2, P.O. BOX 78, CZ-130 51 Praha 3 and Ministry of the Interior, Nad Štolou 3, CZ-170 34 Praha 7.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu127" xml:space="preserve">
+<source xml:lang="en">I am aware that I have the right to obtain, in any of the Member States, notification of the data relating to me recorded in the VIS and of the Member State which transmitted the data, and to request that data relating to me which are inaccurate be corrected and that data relating to me processed unlawfully be deleted. At my express request, the authority examining my application will inform me of the manner in which I may exercise my right to check the personal data concerning me and have them corrected or deleted, including the related remedies according to the national law of the Member State concerned. The national supervisory authority of that Member State: Office for Personal Data Protection, Pplk. Sochora 727/27, CZ-170 00 Praha 7, will hear claims concerning the protection of personal data.</source>
+<target xml:lang="fr">I am aware that I have the right to obtain, in any of the Member States, notification of the data relating to me recorded in the VIS and of the Member State which transmitted the data, and to request that data relating to me which are inaccurate be corrected and that data relating to me processed unlawfully be deleted. At my express request, the authority examining my application will inform me of the manner in which I may exercise my right to check the personal data concerning me and have them corrected or deleted, including the related remedies according to the national law of the Member State concerned. The national supervisory authority of that Member State: Office for Personal Data Protection, Pplk. Sochora 727/27, CZ-170 00 Praha 7, will hear claims concerning the protection of personal data.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu128" xml:space="preserve">
+<source xml:lang="en">I declare that to the best of my knowledge all particulars supplied by me are correct and complete. I am aware that any false statements will lead to my application being rejected or to the annulment of a visa already granted and may also render me liable to prosecution under the law of the Member State which deals with the application.</source>
+<target xml:lang="fr">I declare that to the best of my knowledge all particulars supplied by me are correct and complete. I am aware that any false statements will lead to my application being rejected or to the annulment of a visa already granted and may also render me liable to prosecution under the law of the Member State which deals with the application.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu129" xml:space="preserve">
+<source xml:lang="en">I undertake to leave the territory of the Member States before the expiry of the visa, if granted. I have been informed that possession of a visa is only one of the prerequisites for entry into the European territory of the Member States. The mere fact that a visa has been granted to me does not mean that I will be entitled to compensation if I fail to comply with the relevant provisions of Article 6(1) of Regulation (EU) No 2016/399 (Schengen Borders Code) and I am therefore refused entry. The prerequisites for entry will be checked again on entry into the European territory of the Member States.</source>
+<target xml:lang="fr">I undertake to leave the territory of the Member States before the expiry of the visa, if granted. I have been informed that possession of a visa is only one of the prerequisites for entry into the European territory of the Member States. The mere fact that a visa has been granted to me does not mean that I will be entitled to compensation if I fail to comply with the relevant provisions of Article 6(1) of Regulation (EU) No 2016/399 (Schengen Borders Code) and I am therefore refused entry. The prerequisites for entry will be checked again on entry into the European territory of the Member States.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu130" xml:space="preserve">
+<source xml:lang="en">Place and date:  </source>
+<target xml:lang="fr">Place and date:  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu131" xml:space="preserve">
+<source xml:lang="en">Signature of applicant: </source>
+<target xml:lang="fr">Signature of applicant: </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu132" xml:space="preserve">
+<source xml:lang="en">(Signature of parental authorit/legal guardian, if applicable): </source>
+<target xml:lang="fr">(Signature of parental authorit/legal guardian, if applicable): </target>
+</trans-unit>
+</body>
+</file>
+<file original="word/endnotes.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/footnotes.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P67A78077-tu3" xml:space="preserve">
+<source xml:lang="en"><g id="1">No logo is required for Norway, Iceland, Liechtenstein and Switzerland.</g></source>
+<target xml:lang="fr"><g id="1">No logo is required for Norway, Iceland, Liechtenstein and Switzerland.</g></target>
+</trans-unit>
+</body>
+</file>
+<file original="word/settings.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="en">mesarva</source>
+<target xml:lang="fr">mesarva</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="word/document.xml" source-language="ru" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NFDBB2FA9-tu1" xml:space="preserve">
+<source xml:lang="ru">Образец Договора</source>
+<target xml:lang="en-US">Образец Договора</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu2" xml:space="preserve">
+<source xml:lang="ru">ДОГОВОР О ПРЕДОСТАВЛЕНИИ СОЦИАЛЬНЫХ УСЛУГ</source>
+<target xml:lang="en-US">ДОГОВОР О ПРЕДОСТАВЛЕНИИ СОЦИАЛЬНЫХ УСЛУГ</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu3" xml:space="preserve">
+<source xml:lang="ru">От ниже приведенного дня, месяца и года заключили</source>
+<target xml:lang="en-US">От ниже приведенного дня, месяца и года заключили</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu4" xml:space="preserve">
+<source xml:lang="ru">Наименование поставщика услуг</source>
+<target xml:lang="en-US">Наименование поставщика услуг</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu5" xml:space="preserve">
+<source xml:lang="ru">С местонахождением:</source>
+<target xml:lang="en-US">С местонахождением:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu6" xml:space="preserve">
+<source xml:lang="ru">Почтовый индекс:</source>
+<target xml:lang="en-US">Почтовый индекс:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu7" xml:space="preserve">
+<source xml:lang="ru">ИНО: </source>
+<target xml:lang="en-US">ИНО: </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu8" xml:space="preserve">
+<source xml:lang="ru">Представленный:</source>
+<target xml:lang="en-US">Представленный:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu9" xml:space="preserve">
+<source xml:lang="ru"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu10" xml:space="preserve">
+<source xml:lang="ru">(далее только <g id="1">Поставщик</g>)</source>
+<target xml:lang="en-US">(далее только <g id="1">Поставщик</g>)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu11" xml:space="preserve">
+<source xml:lang="ru">и</source>
+<target xml:lang="en-US">и</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu12" xml:space="preserve">
+<source xml:lang="ru">Господин/госпожа</source>
+<target xml:lang="en-US">Господин/госпожа</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu13" xml:space="preserve">
+<source xml:lang="ru">Фамилия, имя отчество:</source>
+<target xml:lang="en-US">Фамилия, имя отчество:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu14" xml:space="preserve">
+<source xml:lang="ru">Дата рождения:</source>
+<target xml:lang="en-US">Дата рождения:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu15" xml:space="preserve">
+<source xml:lang="ru"><g id="1">Место жительства</g>:</source>
+<target xml:lang="en-US"><g id="1">Место жительства</g>:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu16" xml:space="preserve">
+<source xml:lang="ru"><g id="1">Или же</g> можно исправить в соответствии с данными, указанными в визе с целью толерантности, выданной Министерством внутренних дел Чехии.</source>
+<target xml:lang="en-US"><g id="1">Или же</g> можно исправить в соответствии с данными, указанными в визе с целью толерантности, выданной Министерством внутренних дел Чехии.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu17" xml:space="preserve">
+<source xml:lang="ru">Или же:</source>
+<target xml:lang="en-US">Или же:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu18" xml:space="preserve">
+<source xml:lang="ru">+ представленный Господином/госпожей</source>
+<target xml:lang="en-US">+ представленный Господином/госпожей</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu19" xml:space="preserve">
+<source xml:lang="ru">Фамилия, имя отчество:</source>
+<target xml:lang="en-US">Фамилия, имя отчество:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu20" xml:space="preserve">
+<source xml:lang="ru">Дата рождения:</source>
+<target xml:lang="en-US">Дата рождения:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu21" xml:space="preserve">
+<source xml:lang="ru"><g id="1">Место жительства</g>:</source>
+<target xml:lang="en-US"><g id="1">Место жительства</g>:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu22" xml:space="preserve">
+<source xml:lang="ru">опекуном на основании решения …………………………., дело №: ……………………….                  </source>
+<target xml:lang="en-US">опекуном на основании решения …………………………., дело №: ……………………….                  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu23" xml:space="preserve">
+<source xml:lang="ru">(далее только <g id="1">Клиент</g>)</source>
+<target xml:lang="en-US">(далее только <g id="1">Клиент</g>)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu24" xml:space="preserve">
+<source xml:lang="ru">в соответствии с законом № 108/2006 Сводки законов, о социальных услугах с внесенными в него поправками (далее именуемый «Закон о социальных услугах») и законом № 89/2012 Сводки законов, Гражданский кодекс с внесенными в него поправками, настоящий:</source>
+<target xml:lang="en-US">в соответствии с законом № 108/2006 Сводки законов, о социальных услугах с внесенными в него поправками (далее именуемый «Закон о социальных услугах») и законом № 89/2012 Сводки законов, Гражданский кодекс с внесенными в него поправками, настоящий:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu25" xml:space="preserve">
+<source xml:lang="ru">Договор о предоставлении социальных услуг <g id="1">…………………………………..</g></source>
+<target xml:lang="en-US">Договор о предоставлении социальных услуг <g id="1">…………………………………..</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu26" xml:space="preserve">
+<source xml:lang="ru">(в тексте настоящего договора далее только «Договор»)</source>
+<target xml:lang="en-US">(в тексте настоящего договора далее только «Договор»)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu27" xml:space="preserve">
+<source xml:lang="ru">I.</source>
+<target xml:lang="en-US">I.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu28" xml:space="preserve">
+<source xml:lang="ru">Объем предоставления социальных услуг</source>
+<target xml:lang="en-US">Объем предоставления социальных услуг</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu29" xml:space="preserve">
+<source xml:lang="ru">Поставщик предоставляет Клиенту вид услуги ………………………. согласно с § ……. закона о социальных услугах в рамках ниже приведенных основных видов деятельности, установленных законом о социальных услугах.</source>
+<target xml:lang="en-US">Поставщик предоставляет Клиенту вид услуги ………………………. согласно с § ……. закона о социальных услугах в рамках ниже приведенных основных видов деятельности, установленных законом о социальных услугах.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu30" xml:space="preserve">
+<source xml:lang="ru">Поставщик обязуется обеспечить Клиенту следующие основные виды деятельности по оказанию социальных услуг (выделить выбранные виды деятельности):</source>
+<target xml:lang="en-US">Поставщик обязуется обеспечить Клиенту следующие основные виды деятельности по оказанию социальных услуг (выделить выбранные виды деятельности):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu31" xml:space="preserve">
+<source xml:lang="ru">а) помощь в решении рутинных задач заботы о собственной персоне,</source>
+<target xml:lang="en-US">а) помощь в решении рутинных задач заботы о собственной персоне,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu32" xml:space="preserve">
+<source xml:lang="ru">б) помощь в соблюдении личной гигиены или создание условий для личной гигиены,</source>
+<target xml:lang="en-US">б) помощь в соблюдении личной гигиены или создание условий для личной гигиены,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu33" xml:space="preserve">
+<source xml:lang="ru">в) обеспечение питанием или помощь в обеспечении питанием,</source>
+<target xml:lang="en-US">в) обеспечение питанием или помощь в обеспечении питанием,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu34" xml:space="preserve">
+<source xml:lang="ru">г) предоставление жилья или ночевки,</source>
+<target xml:lang="en-US">г) предоставление жилья или ночевки,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu35" xml:space="preserve">
+<source xml:lang="ru">д) помощь в обеспечении домашнего хозяйства,</source>
+<target xml:lang="en-US">д) помощь в обеспечении домашнего хозяйства,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu36" xml:space="preserve">
+<source xml:lang="ru">е) образовательная, обучающая и активационная деятельность,</source>
+<target xml:lang="en-US">е) образовательная, обучающая и активационная деятельность,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu37" xml:space="preserve">
+<source xml:lang="ru">ж) базовое социальное консультирование,</source>
+<target xml:lang="en-US">ж) базовое социальное консультирование,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu38" xml:space="preserve">
+<source xml:lang="ru">з) опосредование контакта с социальной средой,</source>
+<target xml:lang="en-US">з) опосредование контакта с социальной средой,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu39" xml:space="preserve">
+<source xml:lang="ru">и) социально-терапевтическая деятельность,</source>
+<target xml:lang="en-US">и) социально-терапевтическая деятельность,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu40" xml:space="preserve">
+<source xml:lang="ru">й) помощь в осуществлении прав, законных интересов и в решении личных вопросов,</source>
+<target xml:lang="en-US">й) помощь в осуществлении прав, законных интересов и в решении личных вопросов,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu41" xml:space="preserve">
+<source xml:lang="ru">к) помощь в кризисных ситуациях по телефону,</source>
+<target xml:lang="en-US">к) помощь в кризисных ситуациях по телефону,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu42" xml:space="preserve">
+<source xml:lang="ru">л) обучение навыкам управления личной гигиеной, самодостаточностью и другими видами деятельности, ведущими к социальной интеграции,</source>
+<target xml:lang="en-US">л) обучение навыкам управления личной гигиеной, самодостаточностью и другими видами деятельности, ведущими к социальной интеграции,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu43" xml:space="preserve">
+<source xml:lang="ru">м) поддержка развития и совершенствования основных рабочих привычек и навыков.</source>
+<target xml:lang="en-US">м) поддержка развития и совершенствования основных рабочих привычек и навыков.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu44" xml:space="preserve">
+<source xml:lang="ru"><g id="1">Более подробная спецификация объема и хода оказания социальных услуг согласовывается Поставщиком с Клиентом на основании выявленных </g>иобсужденных<g id="2"> индивидуальных потребностей Клиента. Поставщик ведет соответствующие записи об объеме и ходе социальных услуг, согласованных таким образом.</g></source>
+<target xml:lang="en-US"><g id="1">Более подробная спецификация объема и хода оказания социальных услуг согласовывается Поставщиком с Клиентом на основании выявленных </g>иобсужденных<g id="2"> индивидуальных потребностей Клиента. Поставщик ведет соответствующие записи об объеме и ходе социальных услуг, согласованных таким образом.</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu45" xml:space="preserve">
+<source xml:lang="ru">II.</source>
+<target xml:lang="en-US">II.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu46" xml:space="preserve">
+<source xml:lang="ru">Место и время предоставления социальных услуг</source>
+<target xml:lang="en-US">Место и время предоставления социальных услуг</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu47" xml:space="preserve">
+<source xml:lang="ru">Социальные услуги, согласованные в настоящем Договоре, предоставляются по следующему адресу: (для полевой формы определяется только населенный пункт)</source>
+<target xml:lang="en-US">Социальные услуги, согласованные в настоящем Договоре, предоставляются по следующему адресу: (для полевой формы определяется только населенный пункт)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu48" xml:space="preserve">
+<source xml:lang="ru">…………………………………………………………………………………………</source>
+<target xml:lang="en-US">…………………………………………………………………………………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu49" xml:space="preserve">
+<source xml:lang="ru">Время предоставления социальных услуг:</source>
+<target xml:lang="en-US">Время предоставления социальных услуг:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu50" xml:space="preserve">
+<source xml:lang="ru">в согласованный день и время с - по: ……………………………………………..……..</source>
+<target xml:lang="en-US">в согласованный день и время с - по: ……………………………………………..……..</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu51" xml:space="preserve">
+<source xml:lang="ru">III.</source>
+<target xml:lang="en-US">III.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu52" xml:space="preserve">
+<source xml:lang="ru">Размер оплаты социальных услуг</source>
+<target xml:lang="en-US">Размер оплаты социальных услуг</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu53" xml:space="preserve">
+<source xml:lang="ru">Клиент обязуется использовать только те основные виды деятельности и действия, которые необходимы для решения его неблагоприятной социальной ситуации, и в таком объеме и в таком количестве времени, которые соответствуют его потребностям, для которых он использует социальную услугу.</source>
+<target xml:lang="en-US">Клиент обязуется использовать только те основные виды деятельности и действия, которые необходимы для решения его неблагоприятной социальной ситуации, и в таком объеме и в таком количестве времени, которые соответствуют его потребностям, для которых он использует социальную услугу.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu54" xml:space="preserve">
+<source xml:lang="ru">Размер оплаты основных видов деятельности, предоставляемых Поставщиком и используемых Клиентом, определяется в соответствии с размером платежей, установленным Поставщиком в прейскуранте основных видов деятельности.</source>
+<target xml:lang="en-US">Размер оплаты основных видов деятельности, предоставляемых Поставщиком и используемых Клиентом, определяется в соответствии с размером платежей, установленным Поставщиком в прейскуранте основных видов деятельности.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu55" xml:space="preserve">
+<source xml:lang="ru">Поставщик обязан выдать Клиенту отчет о сумме платежей в соответствии с пунктами 1 и 2 за календарный месяц, а именно не позднее 15-го числа календарного месяца, следующего за месяцем, в котором были оказаны основные виды деятельности, а также обеспечить доказуемое ознакомление Клиента с данным отчетом.</source>
+<target xml:lang="en-US">Поставщик обязан выдать Клиенту отчет о сумме платежей в соответствии с пунктами 1 и 2 за календарный месяц, а именно не позднее 15-го числа календарного месяца, следующего за месяцем, в котором были оказаны основные виды деятельности, а также обеспечить доказуемое ознакомление Клиента с данным отчетом.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu56" xml:space="preserve">
+<source xml:lang="ru">В связи с тем, что доходные, социальные и имущественные условия не позволяют Клиенту даже частично возместить затраты на оказание социальных услуг по настоящему Договору, предоставляется ему в соответствии с положениями § 5 п. 1 закона №…/2022 Сводки законов, О мерах в сфере занятости и социального обеспечения в связи с вооруженным конфликтом на территории Украины, вызванным вторжением войск Российской Федерации, социальное обслуживание без оплаты расходов. Расходы на социальные услуги согласно первому предложению покрываются государством. Клиент обосновал свои доходные, социальные и имущественные отношения всеми имеющимися документами или в виде аффидевита, являющегося приложением к настоящему Договору.</source>
+<target xml:lang="en-US">В связи с тем, что доходные, социальные и имущественные условия не позволяют Клиенту даже частично возместить затраты на оказание социальных услуг по настоящему Договору, предоставляется ему в соответствии с положениями § 5 п. 1 закона №…/2022 Сводки законов, О мерах в сфере занятости и социального обеспечения в связи с вооруженным конфликтом на территории Украины, вызванным вторжением войск Российской Федерации, социальное обслуживание без оплаты расходов. Расходы на социальные услуги согласно первому предложению покрываются государством. Клиент обосновал свои доходные, социальные и имущественные отношения всеми имеющимися документами или в виде аффидевита, являющегося приложением к настоящему Договору.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu57" xml:space="preserve">
+<source xml:lang="ru">IV.</source>
+<target xml:lang="en-US">IV.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu58" xml:space="preserve">
+<source xml:lang="ru">Срок действия Договора</source>
+<target xml:lang="en-US">Срок действия Договора</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu59" xml:space="preserve">
+<source xml:lang="ru">Договор вступает в силу с момента его подписания обеими договорными сторонами.</source>
+<target xml:lang="en-US">Договор вступает в силу с момента его подписания обеими договорными сторонами.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu60" xml:space="preserve">
+<source xml:lang="ru">Срок действия Договора устанавливается на определенный срок, а именно до ………………</source>
+<target xml:lang="en-US">Срок действия Договора устанавливается на определенный срок, а именно до ………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu61" xml:space="preserve">
+<source xml:lang="ru">Клиент не может передавать свои права по Договору другому лицу.</source>
+<target xml:lang="en-US">Клиент не может передавать свои права по Договору другому лицу.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu62" xml:space="preserve">
+<source xml:lang="ru">V.</source>
+<target xml:lang="en-US">V.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu63" xml:space="preserve">
+<source xml:lang="ru">Основания для уведомления и сроки уведомления</source>
+<target xml:lang="en-US">Основания для уведомления и сроки уведомления</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu64" xml:space="preserve">
+<source xml:lang="ru">Договор может быть расторгнут при следующих условиях:</source>
+<target xml:lang="en-US">Договор может быть расторгнут при следующих условиях:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu65" xml:space="preserve">
+<source xml:lang="ru">(1) Со стороны Клиента<g id="1">:</g></source>
+<target xml:lang="en-US">(1) Со стороны Клиента<g id="1">:</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu66" xml:space="preserve">
+<source xml:lang="ru">Клиент может расторгнуть Договор без объяснения причин. Срок уведомления, предоставленного Клиентом, составляет 5 календарных дней со дня, следующего за днем ​​его доставки Поставщику.</source>
+<target xml:lang="en-US">Клиент может расторгнуть Договор без объяснения причин. Срок уведомления, предоставленного Клиентом, составляет 5 календарных дней со дня, следующего за днем ​​его доставки Поставщику.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu67" xml:space="preserve">
+<source xml:lang="ru">По соглашению обеих сторон:</source>
+<target xml:lang="en-US">По соглашению обеих сторон:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu68" xml:space="preserve">
+<source xml:lang="ru">Соглашение может быть заключено в письменной или устной форме, и срок действия Договора истекает в дату, согласованную обеими сторонами.</source>
+<target xml:lang="en-US">Соглашение может быть заключено в письменной или устной форме, и срок действия Договора истекает в дату, согласованную обеими сторонами.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu69" xml:space="preserve">
+<source xml:lang="ru">Со стороны Поставщика: </source>
+<target xml:lang="en-US">Со стороны Поставщика: </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu70" xml:space="preserve">
+<source xml:lang="ru">Поставщик может расторгнуть Договор только по следующим причинам:</source>
+<target xml:lang="en-US">Поставщик может расторгнуть Договор только по следующим причинам:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu71" xml:space="preserve">
+<source xml:lang="ru">а) Если причины для предоставления социальных услуг прошли. Клиент перестает соответствовать критериям предоставления социальных услуг, т.е. он настолько самодостаточен, что дальнейшее предоставление социальных услуг противоречило бы основным принципам закона о социальных услугах.</source>
+<target xml:lang="en-US">а) Если причины для предоставления социальных услуг прошли. Клиент перестает соответствовать критериям предоставления социальных услуг, т.е. он настолько самодостаточен, что дальнейшее предоставление социальных услуг противоречило бы основным принципам закона о социальных услугах.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu72" xml:space="preserve">
+<source xml:lang="ru">б) Произошло изменение обстоятельств Клиента, особенно состояния его здоровья, и Поставщик не имеет права предоставлять социальную услугу, в которой Клиент нуждается или запрашивает в результате этого изменения.</source>
+<target xml:lang="en-US">б) Произошло изменение обстоятельств Клиента, особенно состояния его здоровья, и Поставщик не имеет права предоставлять социальную услугу, в которой Клиент нуждается или запрашивает в результате этого изменения.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu73" xml:space="preserve">
+<source xml:lang="ru">в) Если Клиент грубо нарушает свои обязательства по Договору. В частности, грубым нарушением Договора считается следующее:</source>
+<target xml:lang="en-US">в) Если Клиент грубо нарушает свои обязательства по Договору. В частности, грубым нарушением Договора считается следующее:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu74" xml:space="preserve">
+<source xml:lang="ru">- при сознательном нарушении Клиентом правил техники безопасности, несоблюдении инструкций по пожарной безопасности и охране здоровья.</source>
+<target xml:lang="en-US">- при сознательном нарушении Клиентом правил техники безопасности, несоблюдении инструкций по пожарной безопасности и охране здоровья.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu75" xml:space="preserve">
+<source xml:lang="ru">- если Клиент заведомо не уважает неприкосновенность личной собственности и право на неприкосновенность частной жизни других клиентов.</source>
+<target xml:lang="en-US">- если Клиент заведомо не уважает неприкосновенность личной собственности и право на неприкосновенность частной жизни других клиентов.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu76" xml:space="preserve">
+<source xml:lang="ru">- если Клиент неоднократно и заведомо не разрешает осуществление социальной деятельности без предварительного уведомления</source>
+<target xml:lang="en-US">- если Клиент неоднократно и заведомо не разрешает осуществление социальной деятельности без предварительного уведомления</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu77" xml:space="preserve">
+<source xml:lang="ru">г) Если после повторного уведомления Клиент обращается с другими клиентами или сотрудниками таким образом, намерение или результат которого приводит к унижению достоинства человека или к враждебной, унижающей достоинство или вызывающей беспокойство обстановке (например, словесная и физическая агрессия, сексуальные домогательства, угрозы …). Это не применяется, если приведенные знаки поведения связаны с проявлениями инвалидности.</source>
+<target xml:lang="en-US">г) Если после повторного уведомления Клиент обращается с другими клиентами или сотрудниками таким образом, намерение или результат которого приводит к унижению достоинства человека или к враждебной, унижающей достоинство или вызывающей беспокойство обстановке (например, словесная и физическая агрессия, сексуальные домогательства, угрозы …). Это не применяется, если приведенные знаки поведения связаны с проявлениями инвалидности.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu78" xml:space="preserve">
+<source xml:lang="ru">д) Если Клиент не пользуется социальной услугой, оговоренной в настоящем Договоре, более 1 месяца без серьезных объективных причин (например, госпитализация).</source>
+<target xml:lang="en-US">д) Если Клиент не пользуется социальной услугой, оговоренной в настоящем Договоре, более 1 месяца без серьезных объективных причин (например, госпитализация).</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu79" xml:space="preserve">
+<source xml:lang="ru">Срок уведомления о расторжении, предоставленный Поставщиком по причинам, указанным в пункте (3) буква a), б) и д) настоящей статьи, составляет 30 календарных дней, по причинам, изложенным в пункте (3) буква в) и г) настоящей статьи, составляет 5 календарных дней. Срок уведомления начинается с первого дня, следующего за днем ​​вручения данного уведомления Клиенту.</source>
+<target xml:lang="en-US">Срок уведомления о расторжении, предоставленный Поставщиком по причинам, указанным в пункте (3) буква a), б) и д) настоящей статьи, составляет 30 календарных дней, по причинам, изложенным в пункте (3) буква в) и г) настоящей статьи, составляет 5 календарных дней. Срок уведомления начинается с первого дня, следующего за днем ​​вручения данного уведомления Клиенту.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu80" xml:space="preserve">
+<source xml:lang="ru">VI.</source>
+<target xml:lang="en-US">VI.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu81" xml:space="preserve">
+<source xml:lang="ru">Порядок соблюдения внутренних правил социальных услуг</source>
+<target xml:lang="en-US">Порядок соблюдения внутренних правил социальных услуг</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu82" xml:space="preserve">
+<source xml:lang="ru"> Клиент и Поставщик взаимно обязуются уважать человеческое достоинство Клиента и сотрудников Поставщика, их права человека и гражданина, основные свободы и законные интересы всех лиц, вступающих во взаимные контакты в процессе оказания социальных услуг.</source>
+<target xml:lang="en-US"> Клиент и Поставщик взаимно обязуются уважать человеческое достоинство Клиента и сотрудников Поставщика, их права человека и гражданина, основные свободы и законные интересы всех лиц, вступающих во взаимные контакты в процессе оказания социальных услуг.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu83" xml:space="preserve">
+<source xml:lang="ru"> Поставщик обязуется вместе с Клиентом планировать и постоянно обсуждать ход социальных услуг с учетом личных целей и возможностей Клиента.</source>
+<target xml:lang="en-US"> Поставщик обязуется вместе с Клиентом планировать и постоянно обсуждать ход социальных услуг с учетом личных целей и возможностей Клиента.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu84" xml:space="preserve">
+<source xml:lang="ru">Поставщик обязуется предоставить Клиенту основные виды деятельности по настоящему Договору способом, соответствующим стандартам качества социальных услуг и другим соответствующим законодательным нормам, касающимся процесса предоставления социальных услуг.</source>
+<target xml:lang="en-US">Поставщик обязуется предоставить Клиенту основные виды деятельности по настоящему Договору способом, соответствующим стандартам качества социальных услуг и другим соответствующим законодательным нормам, касающимся процесса предоставления социальных услуг.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu85" xml:space="preserve">
+<source xml:lang="ru">Клиент понимает, что Поставщик в соответствии с законом № 101/2000 Сводки законов. о защите персональных данных и в соответствии с Регламентом (ЕС) № 2016/679 Европейского парламента и Совета от 27 апреля 2016 г. о защите физических лиц в связи с обработкой персональных данных и о свободном перемещении таких данных (General Data Protection Regulation - GDPR), устанавливает, обрабатывает, записывает и архивирует персональные данные Клиента - в объеме, необходимом для выполнения задач Поставщика. Как только причины для регистрации и архивирования этих персональных данных перестают существовать, Поставщик обязан уничтожить их таким образом, чтобы исключить их неправомерное использование.</source>
+<target xml:lang="en-US">Клиент понимает, что Поставщик в соответствии с законом № 101/2000 Сводки законов. о защите персональных данных и в соответствии с Регламентом (ЕС) № 2016/679 Европейского парламента и Совета от 27 апреля 2016 г. о защите физических лиц в связи с обработкой персональных данных и о свободном перемещении таких данных (General Data Protection Regulation - GDPR), устанавливает, обрабатывает, записывает и архивирует персональные данные Клиента - в объеме, необходимом для выполнения задач Поставщика. Как только причины для регистрации и архивирования этих персональных данных перестают существовать, Поставщик обязан уничтожить их таким образом, чтобы исключить их неправомерное использование.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu86" xml:space="preserve">
+<source xml:lang="ru">Клиент ознакомлен с возможностью и правилами подачи жалобы на качество и объем предоставляемых услуг, а также на то, как осуществляются основные действия, а также на сотрудников Поставщика.</source>
+<target xml:lang="en-US">Клиент ознакомлен с возможностью и правилами подачи жалобы на качество и объем предоставляемых услуг, а также на то, как осуществляются основные действия, а также на сотрудников Поставщика.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu87" xml:space="preserve">
+<source xml:lang="ru">Клиент заявляет, что ознакомлен с внутренними правилами Поставщика в понятной форме.</source>
+<target xml:lang="en-US">Клиент заявляет, что ознакомлен с внутренними правилами Поставщика в понятной форме.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu88" xml:space="preserve">
+<source xml:lang="ru">VII.</source>
+<target xml:lang="en-US">VII.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu89" xml:space="preserve">
+<source xml:lang="ru">Заключительные положения</source>
+<target xml:lang="en-US">Заключительные положения</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu90" xml:space="preserve">
+<source xml:lang="ru">(1) Договор составлен в двух идентичных экземплярах с действительностью оригинала. Клиент и Поставщик получат по одному экземпляру.</source>
+<target xml:lang="en-US">(1) Договор составлен в двух идентичных экземплярах с действительностью оригинала. Клиент и Поставщик получат по одному экземпляру.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu91" xml:space="preserve">
+<source xml:lang="ru">(2) Договор вступает в силу с момента его подписания обеими договорными сторонами.</source>
+<target xml:lang="en-US">(2) Договор вступает в силу с момента его подписания обеими договорными сторонами.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu92" xml:space="preserve">
+<source xml:lang="ru">(3) Договор может быть изменен пронумерованным Дополнительным соглашением.</source>
+<target xml:lang="en-US">(3) Договор может быть изменен пронумерованным Дополнительным соглашением.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu93" xml:space="preserve">
+<source xml:lang="ru">(4) Договорные стороны заявляют, что Договор выражает их истинную и свободную волю и что они не заключали договор в бедственном положении на явно невыгодных условиях.</source>
+<target xml:lang="en-US">(4) Договорные стороны заявляют, что Договор выражает их истинную и свободную волю и что они не заключали договор в бедственном положении на явно невыгодных условиях.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu94" xml:space="preserve">
+<source xml:lang="ru">(5) Договаривающиеся стороны заявляют, что ознакомились с Договором, понимают его содержание и полностью и безоговорочно согласны с его содержанием, что подтверждают своими собственноручными подписями.</source>
+<target xml:lang="en-US">(5) Договаривающиеся стороны заявляют, что ознакомились с Договором, понимают его содержание и полностью и безоговорочно согласны с его содержанием, что подтверждают своими собственноручными подписями.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu95" xml:space="preserve">
+<source xml:lang="ru">В г. …………. от …………<x id="1"/>В г. …………. от …………</source>
+<target xml:lang="en-US">В г. …………. от …………<x id="1"/>В г. …………. от …………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu96" xml:space="preserve">
+<source xml:lang="ru">……………………………..<x id="1"/>…………………………………</source>
+<target xml:lang="en-US">……………………………..<x id="1"/>…………………………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu97" xml:space="preserve">
+<source xml:lang="ru">                Клиент<x id="1"/>Поставщик</source>
+<target xml:lang="en-US">                Клиент<x id="1"/>Поставщик</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu98" xml:space="preserve">
+<source xml:lang="ru">В г. …………. от …………</source>
+<target xml:lang="en-US">В г. …………. от …………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu99" xml:space="preserve">
+<source xml:lang="ru"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu100" xml:space="preserve">
+<source xml:lang="ru">……………………………..</source>
+<target xml:lang="en-US">……………………………..</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu101" xml:space="preserve">
+<source xml:lang="ru">      Представитель клиента</source>
+<target xml:lang="en-US">      Представитель клиента</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/footnotes.xml" source-language="ru" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/endnotes.xml" source-language="ru" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/footer1.xml" source-language="ru" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P3953B09A-tu1" xml:space="preserve">
+<source xml:lang="ru">Страница<g id="1"> <x id="2"/> из <x id="3"/></g></source>
+<target xml:lang="en-US">Страница<g id="1"> <x id="2"/> из <x id="3"/></g></target>
+</trans-unit>
+</body>
+</file>
+<file original="word/settings.xml" source-language="ru" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="ru" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="ru">jan.vrbicky@mpsv.cz</source>
+<target xml:lang="en-US">jan.vrbicky@mpsv.cz</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

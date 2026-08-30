@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="word/document.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NFDBB2FA9-tu1" xml:space="preserve">
+<source xml:lang="cs"></source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub1" xml:space="preserve">
+<source xml:lang="cs">Obrázek 1</source>
+<target xml:lang="en-US">Obrázek 1</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub2" xml:space="preserve">
+<source xml:lang="cs">Picture 1</source>
+<target xml:lang="en-US">Picture 1</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu2" xml:space="preserve">
+<source xml:lang="cs">Poradna Národní rady osob se zdravotním postižením ČR</source>
+<target xml:lang="en-US">Poradna Národní rady osob se zdravotním postižením ČR</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu3" xml:space="preserve">
+<source xml:lang="cs"></source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="NBAE5E0BD-sub1" xml:space="preserve">
+<source xml:lang="cs">obrázek 1</source>
+<target xml:lang="en-US">obrázek 1</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BD-sub2" xml:space="preserve">
+<source xml:lang="cs">Picture 1</source>
+<target xml:lang="en-US">Picture 1</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu4" xml:space="preserve">
+<source xml:lang="cs">Informace pro občany Ukrajiny, jejich situace je ovlivněna konfliktem na Ukrajině</source>
+<target xml:lang="en-US">Informace pro občany Ukrajiny, jejich situace je ovlivněna konfliktem na Ukrajině</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu5" xml:space="preserve">
+<source xml:lang="cs">Komu je služba určena</source>
+<target xml:lang="en-US">Komu je služba určena</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu6" xml:space="preserve">
+<source xml:lang="cs">Osobám se zdravotním postižením </source>
+<target xml:lang="en-US">Osobám se zdravotním postižením </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu7" xml:space="preserve">
+<source xml:lang="cs">Seniorům</source>
+<target xml:lang="en-US">Seniorům</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu8" xml:space="preserve">
+<source xml:lang="cs">Rodičům, rodinným příslušníkům a osobám pečujícím</source>
+<target xml:lang="en-US">Rodičům, rodinným příslušníkům a osobám pečujícím</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu9" xml:space="preserve">
+<source xml:lang="cs">V čem můžeme pomoci </source>
+<target xml:lang="en-US">V čem můžeme pomoci </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu10" xml:space="preserve">
+<source xml:lang="cs">kontakty na Krajská asistenční centra  pomoci KACPU,</source>
+<target xml:lang="en-US">kontakty na Krajská asistenční centra  pomoci KACPU,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu11" xml:space="preserve">
+<source xml:lang="cs">odkaz na tlumočnické služby,</source>
+<target xml:lang="en-US">odkaz na tlumočnické služby,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu12" xml:space="preserve">
+<source xml:lang="cs">pomoc se žádostí o udělení víza za účelem strpění, příp. jiný status přiznávaný MV,</source>
+<target xml:lang="en-US">pomoc se žádostí o udělení víza za účelem strpění, příp. jiný status přiznávaný MV,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu13" xml:space="preserve">
+<source xml:lang="cs">nabídky pomoci <x id="1"/> (materiální pomoc, mimořádná okamžitá pomoc, humanitární dávky, tlumočení, doprava, potravinová pomoc, bydlení, pracovní problematika aj.),</source>
+<target xml:lang="en-US">nabídky pomoci <x id="1"/> (materiální pomoc, mimořádná okamžitá pomoc, humanitární dávky, tlumočení, doprava, potravinová pomoc, bydlení, pracovní problematika aj.),</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu14" xml:space="preserve">
+<source xml:lang="cs">informace ke zdravotní péči a vzdělávání,</source>
+<target xml:lang="en-US">informace ke zdravotní péči a vzdělávání,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu15" xml:space="preserve">
+<source xml:lang="cs">informace k systému sociálních služeb,</source>
+<target xml:lang="en-US">informace k systému sociálních služeb,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu16" xml:space="preserve">
+<source xml:lang="cs">kontakty na psychologickou pomoc,</source>
+<target xml:lang="en-US">kontakty na psychologickou pomoc,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu17" xml:space="preserve">
+<source xml:lang="cs">další aktuální oblasti dle podmínek služby.</source>
+<target xml:lang="en-US">další aktuální oblasti dle podmínek služby.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu18" xml:space="preserve">
+<source xml:lang="cs">Kontakty na pracoviště:  <g id="1">https://nrzp.cz/poradna/</g></source>
+<target xml:lang="en-US">Kontakty na pracoviště:  <g id="1">https://nrzp.cz/poradna/</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu19" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Praha</g>                          <g id="2">poradnanrzp@nrzp.cz</g>                266 753 427               <g id="3">Partyzánská 1/7, Praha 7</g></source>
+<target xml:lang="en-US"><g id="1">Praha</g>                          <g id="2">poradnanrzp@nrzp.cz</g>                266 753 427               <g id="3">Partyzánská 1/7, Praha 7</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu20" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Brno</g>                            <g id="2">poradnabrno@nrzp.cz</g>               542 214 110               <g id="3">Cejl 892/32, Brno</g></source>
+<target xml:lang="en-US"><g id="1">Brno</g>                            <g id="2">poradnabrno@nrzp.cz</g>               542 214 110               <g id="3">Cejl 892/32, Brno</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu21" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Ostrava</g>                       <g id="2">poradnaostrava@nrzp.cz</g>          596 110 282               <g id="3">30. Dubna 2944/1, Ostrava</g></source>
+<target xml:lang="en-US"><g id="1">Ostrava</g>                       <g id="2">poradnaostrava@nrzp.cz</g>          596 110 282               <g id="3">30. Dubna 2944/1, Ostrava</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu22" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Olomouc</g>                    <g id="2">poradnaolomouc@nrzp.cz</g>        585 242 865               <g id="3">Slovenská 594/5, Olomouc</g></source>
+<target xml:lang="en-US"><g id="1">Olomouc</g>                    <g id="2">poradnaolomouc@nrzp.cz</g>        585 242 865               <g id="3">Slovenská 594/5, Olomouc</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu23" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Plzeň</g>                           <g id="2">poradnaplzen@nrzp.cz</g>              377 224 879               N<g id="3">ám. Republiky 202/28, Plzeň</g></source>
+<target xml:lang="en-US"><g id="1">Plzeň</g>                           <g id="2">poradnaplzen@nrzp.cz</g>              377 224 879               N<g id="3">ám. Republiky 202/28, Plzeň</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu24" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Pardubice</g>                  <g id="2">poradnapardubice@nrzp.cz</g>      466 952 423               <g id="3">K Blahobytu 1763, Pardubice</g></source>
+<target xml:lang="en-US"><g id="1">Pardubice</g>                  <g id="2">poradnapardubice@nrzp.cz</g>      466 952 423               <g id="3">K Blahobytu 1763, Pardubice</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu25" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Č. Budějovice</g>            <g id="2">poradnacb@nrzp.cz</g>                   383 134 006                <g id="3">Staroměstská 2607, České Budějovice</g></source>
+<target xml:lang="en-US"><g id="1">Č. Budějovice</g>            <g id="2">poradnacb@nrzp.cz</g>                   383 134 006                <g id="3">Staroměstská 2607, České Budějovice</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu26" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Liberec</g>                        <g id="2">poradnaliberec@nrzp.cz</g>           731 504 057               <g id="3">Voroněžská 144, Liberec</g></source>
+<target xml:lang="en-US"><g id="1">Liberec</g>                        <g id="2">poradnaliberec@nrzp.cz</g>           731 504 057               <g id="3">Voroněžská 144, Liberec</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu27" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Otrokovice</g>                 <g id="2">poradnaotrokovice@nrzp.cz</g>,   736 577 168               <g id="3">Tř. Osvobození 1388, Otrokovice</g></source>
+<target xml:lang="en-US"><g id="1">Otrokovice</g>                 <g id="2">poradnaotrokovice@nrzp.cz</g>,   736 577 168               <g id="3">Tř. Osvobození 1388, Otrokovice</g></target>
+</trans-unit>
+</body>
+</file>
+<file original="word/settings.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="cs">Ivana Julínková</source>
+<target xml:lang="en-US">Ivana Julínková</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="word/document.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NFDBB2FA9-tu1" xml:space="preserve">
+<source xml:lang="en">Document for the assessment of trustworthiness </source>
+<target xml:lang="fr">Document for the assessment of trustworthiness </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu2" xml:space="preserve">
+<source xml:lang="en">(natural person)</source>
+<target xml:lang="fr">(natural person)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu3" xml:space="preserve">
+<source xml:lang="en">I.</source>
+<target xml:lang="fr">I.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu4" xml:space="preserve">
+<source xml:lang="en">INFORMATION FOR THE PURPOSE OF OBTAINING AN EXTRACT FROM THE CRIMINAL REGISTER </source>
+<target xml:lang="fr">INFORMATION FOR THE PURPOSE OF OBTAINING AN EXTRACT FROM THE CRIMINAL REGISTER </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu5" xml:space="preserve">
+<source xml:lang="en"><g id="1"> 1. Identification of the natural person<x id="2"/></g></source>
+<target xml:lang="fr"><g id="1"> 1. Identification of the natural person<x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu6" xml:space="preserve">
+<source xml:lang="en">First name(s)</source>
+<target xml:lang="fr">First name(s)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu7" xml:space="preserve">
+<source xml:lang="en">Original surname (maiden name)</source>
+<target xml:lang="fr">Original surname (maiden name)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu8" xml:space="preserve">
+<source xml:lang="en">Current surname</source>
+<target xml:lang="fr">Current surname</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu9" xml:space="preserve">
+<source xml:lang="en">Further information for the purpose of obtaining the extract</source>
+<target xml:lang="fr">Further information for the purpose of obtaining the extract</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu10" xml:space="preserve">
+<source xml:lang="en">a) Obligatory information:</source>
+<target xml:lang="fr">a) Obligatory information:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu11" xml:space="preserve">
+<source xml:lang="en">Day, month, year of birth</source>
+<target xml:lang="fr">Day, month, year of birth</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu12" xml:space="preserve">
+<source xml:lang="en">Place and district of birth</source>
+<target xml:lang="fr">Place and district of birth</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu13" xml:space="preserve">
+<source xml:lang="en">Country of birth</source>
+<target xml:lang="fr">Country of birth</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu14" xml:space="preserve">
+<source xml:lang="en">Birth certificate number (where allocated)</source>
+<target xml:lang="fr">Birth certificate number (where allocated)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu15" xml:space="preserve">
+<source xml:lang="en">              Sex</source>
+<target xml:lang="fr">              Sex</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu16" xml:space="preserve">
+<source xml:lang="en">Nationality<g id="1">a)</g> – give only the country</source>
+<target xml:lang="fr">Nationality<g id="1">a)</g> – give only the country</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu17" xml:space="preserve">
+<source xml:lang="en">   |    |    |     |     |    <g id="1">|</g> <g id="2">   </g>|    |     |</source>
+<target xml:lang="fr">   |    |    |     |     |    <g id="1">|</g> <g id="2">   </g>|    |     |</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu18" xml:space="preserve">
+<source xml:lang="en">Male <x id="1"/><g id="2"> </g><g id="3">    </g> Female         <x id="4"/></source>
+<target xml:lang="fr">Male <x id="1"/><g id="2"> </g><g id="3">    </g> Female         <x id="4"/></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu19" xml:space="preserve">
+<source xml:lang="en">b) Optional information to make the identification of the person more accurate</source>
+<target xml:lang="fr">b) Optional information to make the identification of the person more accurate</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu20" xml:space="preserve">
+<source xml:lang="en">Name and surname of father</source>
+<target xml:lang="fr">Name and surname of father</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu21" xml:space="preserve">
+<source xml:lang="en">Name and surname of mother</source>
+<target xml:lang="fr">Name and surname of mother</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu22" xml:space="preserve">
+<source xml:lang="en"> Maiden name of mother</source>
+<target xml:lang="fr"> Maiden name of mother</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu23" xml:space="preserve">
+<source xml:lang="en">   </source>
+<target xml:lang="fr">   </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu24" xml:space="preserve">
+<source xml:lang="en">II.</source>
+<target xml:lang="fr">II.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu25" xml:space="preserve">
+<source xml:lang="en">STATEMENT CONTAINING INFORMATION ABOUT THE PREVIOUS ACTIVITIES OF THE PERSON STATED IN PART I AND DECLARATION OF THE LEGAL CAPACITY OF THAT PERSON</source>
+<target xml:lang="fr">STATEMENT CONTAINING INFORMATION ABOUT THE PREVIOUS ACTIVITIES OF THE PERSON STATED IN PART I AND DECLARATION OF THE LEGAL CAPACITY OF THAT PERSON</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu26" xml:space="preserve">
+<source xml:lang="en"><g id="1"> 2.</g> <g id="2">Information about previous applications</g></source>
+<target xml:lang="fr"><g id="1"> 2.</g> <g id="2">Information about previous applications</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu27" xml:space="preserve">
+<source xml:lang="en">2.1. Have you ever applied to a supervisory authority for consent to discharge the office of key function holder or manager or to discharge an office with similar responsibilities and powers?</source>
+<target xml:lang="fr">2.1. Have you ever applied to a supervisory authority for consent to discharge the office of key function holder or manager or to discharge an office with similar responsibilities and powers?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu28" xml:space="preserve">
+<source xml:lang="en"><g id="1"> YES</g></source>
+<target xml:lang="fr"><g id="1"> YES</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu29" xml:space="preserve">
+<source xml:lang="en"><g id="1"> NO</g></source>
+<target xml:lang="fr"><g id="1"> NO</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu30" xml:space="preserve">
+<source xml:lang="en"><g id="1">If YES</g>, please give details.</source>
+<target xml:lang="fr"><g id="1">If YES</g>, please give details.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu31" xml:space="preserve">
+<source xml:lang="en">2.2. Have you ever applied to a supervisory authority different form the Czech National Bank</source>
+<target xml:lang="fr">2.2. Have you ever applied to a supervisory authority different form the Czech National Bank</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu32" xml:space="preserve">
+<source xml:lang="en">      for registration of insurance intermediary?</source>
+<target xml:lang="fr">      for registration of insurance intermediary?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu33" xml:space="preserve">
+<source xml:lang="en"><g id="1"> YES</g></source>
+<target xml:lang="fr"><g id="1"> YES</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu34" xml:space="preserve">
+<source xml:lang="en"><g id="1"> NO</g></source>
+<target xml:lang="fr"><g id="1"> NO</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu35" xml:space="preserve">
+<source xml:lang="en"><g id="1">If YES</g>, please give details.</source>
+<target xml:lang="fr"><g id="1">If YES</g>, please give details.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu36" xml:space="preserve">
+<source xml:lang="en">    3. Information for the assessment of trustworthiness</source>
+<target xml:lang="fr">    3. Information for the assessment of trustworthiness</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu37" xml:space="preserve">
+<source xml:lang="en">3.1. Have you been lawfully convicted of an intentionally committed criminal offence or a property offence or an economic offence committed through negligence or an offence committed through negligence in the context of the performance of an occupation, employment or a position (regardless of whether you are viewed as not having been convicted)?</source>
+<target xml:lang="fr">3.1. Have you been lawfully convicted of an intentionally committed criminal offence or a property offence or an economic offence committed through negligence or an offence committed through negligence in the context of the performance of an occupation, employment or a position (regardless of whether you are viewed as not having been convicted)?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu38" xml:space="preserve">
+<source xml:lang="en"><g id="1"> YES</g></source>
+<target xml:lang="fr"><g id="1"> YES</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu39" xml:space="preserve">
+<source xml:lang="en"><g id="1"> NO</g></source>
+<target xml:lang="fr"><g id="1"> NO</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu40" xml:space="preserve">
+<source xml:lang="en"><g id="1">If YES</g>, please give details and submit the relevant decision.</source>
+<target xml:lang="fr"><g id="1">If YES</g>, please give details and submit the relevant decision.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu41" xml:space="preserve">
+<source xml:lang="en">3.2 Have you had a legally effective penalty imposed on you for an administrative offence for a breach of a legal duty in the context of the performance of employment, a position or business activities exceeding CZK 20,000 or the equivalent amount in foreign currency, a prohibition of activity or a duty to pay compensation for a wilful (intentional or negligent) breach of a legal duty?</source>
+<target xml:lang="fr">3.2 Have you had a legally effective penalty imposed on you for an administrative offence for a breach of a legal duty in the context of the performance of employment, a position or business activities exceeding CZK 20,000 or the equivalent amount in foreign currency, a prohibition of activity or a duty to pay compensation for a wilful (intentional or negligent) breach of a legal duty?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu42" xml:space="preserve">
+<source xml:lang="en"><g id="1"> YES</g></source>
+<target xml:lang="fr"><g id="1"> YES</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu43" xml:space="preserve">
+<source xml:lang="en"><g id="1"> NO</g></source>
+<target xml:lang="fr"><g id="1"> NO</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu44" xml:space="preserve">
+<source xml:lang="en"><g id="1">If YES</g>, please give details and submit the relevant decision.</source>
+<target xml:lang="fr"><g id="1">If YES</g>, please give details and submit the relevant decision.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu45" xml:space="preserve">
+<source xml:lang="en">3.3 Has it been stated <g id="1">in </g>a final and conclusive decision that you gave untrue or incomplete testimony in an administrative proceeding or intentionally gave untrue information in an affidavit for an administrative body or otherwise interfered with financial market supervision or oversight?</source>
+<target xml:lang="fr">3.3 Has it been stated <g id="1">in </g>a final and conclusive decision that you gave untrue or incomplete testimony in an administrative proceeding or intentionally gave untrue information in an affidavit for an administrative body or otherwise interfered with financial market supervision or oversight?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu46" xml:space="preserve">
+<source xml:lang="en"><g id="1"> YES</g></source>
+<target xml:lang="fr"><g id="1"> YES</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu47" xml:space="preserve">
+<source xml:lang="en"><g id="1"> NO</g></source>
+<target xml:lang="fr"><g id="1"> NO</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu48" xml:space="preserve">
+<source xml:lang="en"><g id="1">If YES</g>, please give details and submit the relevant decision.</source>
+<target xml:lang="fr"><g id="1">If YES</g>, please give details and submit the relevant decision.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu49" xml:space="preserve">
+<source xml:lang="en">3.4 Has it been stated in a final and conclusive decision that you breached the principles of fair trade, interfered with competition, misused confidential information, including the particulars of other persons, or breached trade secrets or banking secrecy or any other confidentiality obligation?</source>
+<target xml:lang="fr">3.4 Has it been stated in a final and conclusive decision that you breached the principles of fair trade, interfered with competition, misused confidential information, including the particulars of other persons, or breached trade secrets or banking secrecy or any other confidentiality obligation?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu50" xml:space="preserve">
+<source xml:lang="en"><g id="1"> YES</g></source>
+<target xml:lang="fr"><g id="1"> YES</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu51" xml:space="preserve">
+<source xml:lang="en"><g id="1"> NO</g></source>
+<target xml:lang="fr"><g id="1"> NO</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu52" xml:space="preserve">
+<source xml:lang="en"><g id="1">If YES</g>, please give details and submit the relevant decision.</source>
+<target xml:lang="fr"><g id="1">If YES</g>, please give details and submit the relevant decision.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu53" xml:space="preserve">
+<source xml:lang="en">3.5 Has a decision on insolvency been issued against you (i.e. a decision finding that you are bankrupt), has a court dismissed an insolvency petition because your assets were not sufficient to cover the costs of insolvency proceedings, or has a decision of the adjudication of bankruptcy or a decision of the cancellation of bankruptcy been issued because your assets as a debtor were not sufficient to cover the costs of bankruptcy proceedings or to meet creditors’ claims)?</source>
+<target xml:lang="fr">3.5 Has a decision on insolvency been issued against you (i.e. a decision finding that you are bankrupt), has a court dismissed an insolvency petition because your assets were not sufficient to cover the costs of insolvency proceedings, or has a decision of the adjudication of bankruptcy or a decision of the cancellation of bankruptcy been issued because your assets as a debtor were not sufficient to cover the costs of bankruptcy proceedings or to meet creditors’ claims)?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu54" xml:space="preserve">
+<source xml:lang="en"><g id="1"> YES</g></source>
+<target xml:lang="fr"><g id="1"> YES</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu55" xml:space="preserve">
+<source xml:lang="en"><g id="1"> NO</g></source>
+<target xml:lang="fr"><g id="1"> NO</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu56" xml:space="preserve">
+<source xml:lang="en"><g id="1">If YES</g>, please give details and submit the relevant decision.</source>
+<target xml:lang="fr"><g id="1">If YES</g>, please give details and submit the relevant decision.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu57" xml:space="preserve">
+<source xml:lang="en">3.6 Have you ever been refused consent, via a final and conclusive decision of a court of law or an administrative authority, to election, nomination or appointment to a position or to the acquisition of or an increase in a qualifying holding or control of a person, where such consent is required, or has such consent been withdrawn from you?</source>
+<target xml:lang="fr">3.6 Have you ever been refused consent, via a final and conclusive decision of a court of law or an administrative authority, to election, nomination or appointment to a position or to the acquisition of or an increase in a qualifying holding or control of a person, where such consent is required, or has such consent been withdrawn from you?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu58" xml:space="preserve">
+<source xml:lang="en"><g id="1"> YES</g></source>
+<target xml:lang="fr"><g id="1"> YES</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu59" xml:space="preserve">
+<source xml:lang="en"><g id="1"> NO</g></source>
+<target xml:lang="fr"><g id="1"> NO</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu60" xml:space="preserve">
+<source xml:lang="en"><g id="1">If YES</g>, please give details and submit the relevant decision.</source>
+<target xml:lang="fr"><g id="1">If YES</g>, please give details and submit the relevant decision.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu61" xml:space="preserve">
+<source xml:lang="en">3.7 Have you ever had a business licence suspended or withdrawn upon a final and conclusive decision of a court of law or an administrative authority for reasons other than at your request?</source>
+<target xml:lang="fr">3.7 Have you ever had a business licence suspended or withdrawn upon a final and conclusive decision of a court of law or an administrative authority for reasons other than at your request?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu62" xml:space="preserve">
+<source xml:lang="en"><g id="1"> YES</g></source>
+<target xml:lang="fr"><g id="1"> YES</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu63" xml:space="preserve">
+<source xml:lang="en"><g id="1"> NO</g></source>
+<target xml:lang="fr"><g id="1"> NO</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu64" xml:space="preserve">
+<source xml:lang="en"><g id="1">If YES</g>, please give details and submit the relevant decision.</source>
+<target xml:lang="fr"><g id="1">If YES</g>, please give details and submit the relevant decision.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu65" xml:space="preserve">
+<source xml:lang="en">3.8 Have you ever had an application for membership with a regulated market operator, in a professional body, chamber or association of financial market providers, including foreign ones, refused or have you had a disciplinary penalty imposed on you by such a community for a breach of a legal duty or have you ever been excluded from such a community?</source>
+<target xml:lang="fr">3.8 Have you ever had an application for membership with a regulated market operator, in a professional body, chamber or association of financial market providers, including foreign ones, refused or have you had a disciplinary penalty imposed on you by such a community for a breach of a legal duty or have you ever been excluded from such a community?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu66" xml:space="preserve">
+<source xml:lang="en"><g id="1"> YES</g></source>
+<target xml:lang="fr"><g id="1"> YES</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu67" xml:space="preserve">
+<source xml:lang="en"><g id="1"> NO</g></source>
+<target xml:lang="fr"><g id="1"> NO</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu68" xml:space="preserve">
+<source xml:lang="en"><g id="1">If YES</g>, please give details and submit the relevant decision.</source>
+<target xml:lang="fr"><g id="1">If YES</g>, please give details and submit the relevant decision.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu69" xml:space="preserve">
+<source xml:lang="en">3.9 Have you been a statutory body, a member of a statutory body, a member of the supervisory board or a board of directors, a person authorised to act for a legal entity on the basis of another fact, or a person who significantly affected or contributed to the behaviour of a legal entity at the time acts were committed for which that legal entity</source>
+<target xml:lang="fr">3.9 Have you been a statutory body, a member of a statutory body, a member of the supervisory board or a board of directors, a person authorised to act for a legal entity on the basis of another fact, or a person who significantly affected or contributed to the behaviour of a legal entity at the time acts were committed for which that legal entity</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu70" xml:space="preserve">
+<source xml:lang="en">had a legally effective penalty for an administrative offence or a duty to pay compensation for a breach of a legal duty relating to the activities of that legal entity in the financial market imposed on it, or</source>
+<target xml:lang="fr">had a legally effective penalty for an administrative offence or a duty to pay compensation for a breach of a legal duty relating to the activities of that legal entity in the financial market imposed on it, or</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu71" xml:space="preserve">
+<source xml:lang="en">had an application for a membership with a regulated market, in a professional body, chamber or association of financial market providers, including the foreign ones, refused, or legal duties were breached for which a disciplinary penalty was imposed on it by such a community, or which was excluded from such a community?</source>
+<target xml:lang="fr">had an application for a membership with a regulated market, in a professional body, chamber or association of financial market providers, including the foreign ones, refused, or legal duties were breached for which a disciplinary penalty was imposed on it by such a community, or which was excluded from such a community?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu72" xml:space="preserve">
+<source xml:lang="en"><g id="1"> YES</g></source>
+<target xml:lang="fr"><g id="1"> YES</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu73" xml:space="preserve">
+<source xml:lang="en"><g id="1"> NO</g></source>
+<target xml:lang="fr"><g id="1"> NO</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu74" xml:space="preserve">
+<source xml:lang="en"><g id="1">If YES</g>, please give the name and ID number of that legal entity and other details relating to this matter and submit the relevant decision.</source>
+<target xml:lang="fr"><g id="1">If YES</g>, please give the name and ID number of that legal entity and other details relating to this matter and submit the relevant decision.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu75" xml:space="preserve">
+<source xml:lang="en"><g id="1">3.10 Have you been a statutory body, a member of a statutory body, a member of the supervisory board or board of directors, a person authorised to act for a legal entity on the basis of another fact, or a person </g>who <g id="2">significantly affected </g>or contributed to <g id="3">the behaviour of a legal entity or </g>who <g id="4">controlled that legal entity within a period of up to three years</g></source>
+<target xml:lang="fr"><g id="1">3.10 Have you been a statutory body, a member of a statutory body, a member of the supervisory board or board of directors, a person authorised to act for a legal entity on the basis of another fact, or a person </g>who <g id="2">significantly affected </g>or contributed to <g id="3">the behaviour of a legal entity or </g>who <g id="4">controlled that legal entity within a period of up to three years</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu76" xml:space="preserve">
+<source xml:lang="en">prior to a decision on insolvency of that legal entity being issued or prior to an insolvency petition being refused because its assets were not sufficient to cover the costs of insolvency proceedings,</source>
+<target xml:lang="fr">prior to a decision on insolvency of that legal entity being issued or prior to an insolvency petition being refused because its assets were not sufficient to cover the costs of insolvency proceedings,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu77" xml:space="preserve">
+<source xml:lang="en">prior to bankruptcy being declared in respect of the assets of that legal entity or composition being permitted, or</source>
+<target xml:lang="fr">prior to bankruptcy being declared in respect of the assets of that legal entity or composition being permitted, or</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu78" xml:space="preserve">
+<source xml:lang="en">prior to a business licence being lawfully suspended or withdrawn for reasons other than at the legal entity’s request or prior to the imposition of forced administration in that legal entity?</source>
+<target xml:lang="fr">prior to a business licence being lawfully suspended or withdrawn for reasons other than at the legal entity’s request or prior to the imposition of forced administration in that legal entity?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu79" xml:space="preserve">
+<source xml:lang="en"><g id="1"> YES</g></source>
+<target xml:lang="fr"><g id="1"> YES</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu80" xml:space="preserve">
+<source xml:lang="en"><g id="1"> NO</g></source>
+<target xml:lang="fr"><g id="1"> NO</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu81" xml:space="preserve">
+<source xml:lang="en"><g id="1">If YES</g>, please give the name and ID number of that legal entity and other details relating to this matter and submit the relevant decision.</source>
+<target xml:lang="fr"><g id="1">If YES</g>, please give the name and ID number of that legal entity and other details relating to this matter and submit the relevant decision.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu82" xml:space="preserve">
+<source xml:lang="en">3.11 Have criminal proceedings been opened against you for a criminal offence referred to in (3.1) and those criminal proceedings are still in progress?</source>
+<target xml:lang="fr">3.11 Have criminal proceedings been opened against you for a criminal offence referred to in (3.1) and those criminal proceedings are still in progress?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu83" xml:space="preserve">
+<source xml:lang="en"><g id="1"> YES</g></source>
+<target xml:lang="fr"><g id="1"> YES</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu84" xml:space="preserve">
+<source xml:lang="en"><g id="1"> NO</g></source>
+<target xml:lang="fr"><g id="1"> NO</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu85" xml:space="preserve">
+<source xml:lang="en">If YES, please give details and prove the information by showing the charge/indictment.</source>
+<target xml:lang="fr">If YES, please give details and prove the information by showing the charge/indictment.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu86" xml:space="preserve">
+<source xml:lang="en">3.12 Have proceedings regarding an offence or an administrative offence referred to in (3.2) been opened against you and those proceedings are still in progress?</source>
+<target xml:lang="fr">3.12 Have proceedings regarding an offence or an administrative offence referred to in (3.2) been opened against you and those proceedings are still in progress?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu87" xml:space="preserve">
+<source xml:lang="en"><g id="1"> YES</g></source>
+<target xml:lang="fr"><g id="1"> YES</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu88" xml:space="preserve">
+<source xml:lang="en"><g id="1"> NO</g></source>
+<target xml:lang="fr"><g id="1"> NO</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu89" xml:space="preserve">
+<source xml:lang="en"><g id="1">If YES</g>, please give details and submit the relevant notification of the opening of proceedings.</source>
+<target xml:lang="fr"><g id="1">If YES</g>, please give details and submit the relevant notification of the opening of proceedings.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu90" xml:space="preserve">
+<source xml:lang="en">3.13 Have you been a statutory body, a member of a statutory body, a member of the supervisory board or board of directors, a person authorised to act for a legal entity on the basis of another fact, or a person who significantly affected or contributed to the behaviour of that legal entity or who controlled that legal entity, and against that legal entity proceedings were opened on the basis of acts committed at the time of your involvement in that legal entity</source>
+<target xml:lang="fr">3.13 Have you been a statutory body, a member of a statutory body, a member of the supervisory board or board of directors, a person authorised to act for a legal entity on the basis of another fact, or a person who significantly affected or contributed to the behaviour of that legal entity or who controlled that legal entity, and against that legal entity proceedings were opened on the basis of acts committed at the time of your involvement in that legal entity</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu91" xml:space="preserve">
+<source xml:lang="en">regarding the imposition of a penalty for an administrative offence or a duty to pay compensation for a breach of a legal duty relating to the activities of that legal entity in the financial market, or</source>
+<target xml:lang="fr">regarding the imposition of a penalty for an administrative offence or a duty to pay compensation for a breach of a legal duty relating to the activities of that legal entity in the financial market, or</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu92" xml:space="preserve">
+<source xml:lang="en">regarding a refusal of an application for a membership with a regulated market, in a professional body, chamber or association of financial market providers, including foreign ones, or a breach of legal duties for which a disciplinary penalty may be imposed on it by such a community or which may be excluded from such a community,</source>
+<target xml:lang="fr">regarding a refusal of an application for a membership with a regulated market, in a professional body, chamber or association of financial market providers, including foreign ones, or a breach of legal duties for which a disciplinary penalty may be imposed on it by such a community or which may be excluded from such a community,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu93" xml:space="preserve">
+<source xml:lang="en">and those proceedings are still in progress?</source>
+<target xml:lang="fr">and those proceedings are still in progress?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu94" xml:space="preserve">
+<source xml:lang="en"><g id="1"> YES</g></source>
+<target xml:lang="fr"><g id="1"> YES</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu95" xml:space="preserve">
+<source xml:lang="en"><g id="1"> NO</g></source>
+<target xml:lang="fr"><g id="1"> NO</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu96" xml:space="preserve">
+<source xml:lang="en"><g id="1">If YES</g>, please give the name and ID number of that legal entity and other details relating to this matter and submit the relevant notification of the opening of proceedings.</source>
+<target xml:lang="fr"><g id="1">If YES</g>, please give the name and ID number of that legal entity and other details relating to this matter and submit the relevant notification of the opening of proceedings.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu97" xml:space="preserve">
+<source xml:lang="en"><g id="1">4. Please give information about any other facts which are not stated in Table 3 and which may affect your trustworthiness and, where appropriate, submit documents and evidence about those facts</g> (for example, repeated property offences committed outside the scope of business activities, or failure to comply with duties to financial and supervisory authorities)</source>
+<target xml:lang="fr"><g id="1">4. Please give information about any other facts which are not stated in Table 3 and which may affect your trustworthiness and, where appropriate, submit documents and evidence about those facts</g> (for example, repeated property offences committed outside the scope of business activities, or failure to comply with duties to financial and supervisory authorities)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu98" xml:space="preserve">
+<source xml:lang="en">5. Declaration of legal capacity</source>
+<target xml:lang="fr">5. Declaration of legal capacity</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu99" xml:space="preserve">
+<source xml:lang="en">I hereby declare that my legal capacity has not been limited.</source>
+<target xml:lang="fr">I hereby declare that my legal capacity has not been limited.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu100" xml:space="preserve">
+<source xml:lang="en">III.</source>
+<target xml:lang="fr">III.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu101" xml:space="preserve">
+<source xml:lang="en">INFORMATION RELATING TO RESIDENCE ABROAD <x id="1"/>BY THE PERSON STATED IN PART I</source>
+<target xml:lang="fr">INFORMATION RELATING TO RESIDENCE ABROAD <x id="1"/>BY THE PERSON STATED IN PART I</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu102" xml:space="preserve">
+<source xml:lang="en">6. Residence abroad</source>
+<target xml:lang="fr">6. Residence abroad</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu103" xml:space="preserve">
+<source xml:lang="en">Have you resided outside the territory of the Czech Republic for an unbroken period of more than six months during the last three years?</source>
+<target xml:lang="fr">Have you resided outside the territory of the Czech Republic for an unbroken period of more than six months during the last three years?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu104" xml:space="preserve">
+<source xml:lang="en"><g id="1"> YES</g></source>
+<target xml:lang="fr"><g id="1"> YES</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu105" xml:space="preserve">
+<source xml:lang="en"><g id="1"> NO</g></source>
+<target xml:lang="fr"><g id="1"> NO</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu106" xml:space="preserve">
+<source xml:lang="en">If YES, give the countries in which you have resided for an unbroken period of more than six months during the last three years.<g id="1">b)</g></source>
+<target xml:lang="fr">If YES, give the countries in which you have resided for an unbroken period of more than six months during the last three years.<g id="1">b)</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu107" xml:space="preserve">
+<source xml:lang="en">IV.</source>
+<target xml:lang="fr">IV.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu108" xml:space="preserve">
+<source xml:lang="en">LIST OF APPENDICES</source>
+<target xml:lang="fr">LIST OF APPENDICES</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu109" xml:space="preserve">
+<source xml:lang="en">7. A numbered list of all appendices proving, where appropriate, the facts given in (1)–(4) and (6) and the facts they relate to <g id="1">(give the numbers also in the appendices themselves; if an appendix is made up of multiple documents, identify them additionally with letters)</g></source>
+<target xml:lang="fr">7. A numbered list of all appendices proving, where appropriate, the facts given in (1)–(4) and (6) and the facts they relate to <g id="1">(give the numbers also in the appendices themselves; if an appendix is made up of multiple documents, identify them additionally with letters)</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu110" xml:space="preserve">
+<source xml:lang="en">App. No.</source>
+<target xml:lang="fr">App. No.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu111" xml:space="preserve">
+<source xml:lang="en">Name of appendix</source>
+<target xml:lang="fr">Name of appendix</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu112" xml:space="preserve">
+<source xml:lang="en">Number</source>
+<target xml:lang="fr">Number</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu113" xml:space="preserve">
+<source xml:lang="en">V.</source>
+<target xml:lang="fr">V.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu114" xml:space="preserve">
+<source xml:lang="en">DECLARATION</source>
+<target xml:lang="fr">DECLARATION</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu115" xml:space="preserve">
+<source xml:lang="en">I hereby declare that the information given in this appendix or given in connection with the application is true, up-to-date and complete.</source>
+<target xml:lang="fr">I hereby declare that the information given in this appendix or given in connection with the application is true, up-to-date and complete.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu116" xml:space="preserve">
+<source xml:lang="en"><g id="1">  8. Contact information of the person to which the information provided herein relates</g> (phone number, e-mail)</source>
+<target xml:lang="fr"><g id="1">  8. Contact information of the person to which the information provided herein relates</g> (phone number, e-mail)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu117" xml:space="preserve">
+<source xml:lang="en">At</source>
+<target xml:lang="fr">At</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu118" xml:space="preserve">
+<source xml:lang="en">Date:</source>
+<target xml:lang="fr">Date:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu119" xml:space="preserve">
+<source xml:lang="en">Signature:</source>
+<target xml:lang="fr">Signature:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu120" xml:space="preserve">
+<source xml:lang="en">____________</source>
+<target xml:lang="fr">____________</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu121" xml:space="preserve">
+<source xml:lang="en">a) If the natural person stated in (1) is not a Czech national (a foreign natural person), it should enclose proof of integrity pursuant to Article 2 of the Decree No. 196/2018 Coll., concerning applications pursuant to the Act on the Distribution of Insurance and Reinsurance</source>
+<target xml:lang="fr">a) If the natural person stated in (1) is not a Czech national (a foreign natural person), it should enclose proof of integrity pursuant to Article 2 of the Decree No. 196/2018 Coll., concerning applications pursuant to the Act on the Distribution of Insurance and Reinsurance</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu122" xml:space="preserve">
+<source xml:lang="en">b) If the answer is yes, proof of integrity pursuant to Article 2 of the Decree No. 196/2018 Coll., concerning applications pursuant to the Act on the Distribution of Insurance and Reinsurance should be enclosed.</source>
+<target xml:lang="fr">b) If the answer is yes, proof of integrity pursuant to Article 2 of the Decree No. 196/2018 Coll., concerning applications pursuant to the Act on the Distribution of Insurance and Reinsurance should be enclosed.</target>
+</trans-unit>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/header1.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/footer2.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/header2.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/footer3.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/settings.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/header3.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/footer1.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P3953B09A-tu1" xml:space="preserve">
+<source xml:lang="en"></source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="P6D3F672D-sub1" xml:space="preserve">
+<source xml:lang="en">Frame1</source>
+<target xml:lang="fr">Frame1</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

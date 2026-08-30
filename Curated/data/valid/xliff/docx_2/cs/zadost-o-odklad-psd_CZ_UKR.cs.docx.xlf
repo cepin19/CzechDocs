@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="word/document.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NFDBB2FA9-tu1" xml:space="preserve">
+<source xml:lang="cs">Žádost o odklad povinné školní docházky</source>
+<target xml:lang="en-US">Žádost o odklad povinné školní docházky</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu2" xml:space="preserve">
+<source xml:lang="cs">Zákonný zástupce dítěte</source>
+<target xml:lang="en-US">Zákonný zástupce dítěte</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu3" xml:space="preserve">
+<source xml:lang="cs">Jméno a příjmení:</source>
+<target xml:lang="en-US">Jméno a příjmení:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu4" xml:space="preserve">
+<source xml:lang="cs">………………………………………………………………………………………………………</source>
+<target xml:lang="en-US">………………………………………………………………………………………………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu5" xml:space="preserve">
+<source xml:lang="cs">Trvalý pobyt/u cizince pobyt: ………………………………………………………………………………………………………</source>
+<target xml:lang="en-US">Trvalý pobyt/u cizince pobyt: ………………………………………………………………………………………………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu6" xml:space="preserve">
+<source xml:lang="cs">Kontaktní telefon (nepovinný údaj): ………………………………………………………………………………………………………</source>
+<target xml:lang="en-US">Kontaktní telefon (nepovinný údaj): ………………………………………………………………………………………………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu7" xml:space="preserve">
+<source xml:lang="cs">E-mail (nepovinný údaj): </source>
+<target xml:lang="en-US">E-mail (nepovinný údaj): </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu8" xml:space="preserve">
+<source xml:lang="cs">………………………………………………………………………………………………………</source>
+<target xml:lang="en-US">………………………………………………………………………………………………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu9" xml:space="preserve">
+<source xml:lang="cs">Adresa pro doručování, liší-li se od místa trvalého pobytu/pobytu:</source>
+<target xml:lang="en-US">Adresa pro doručování, liší-li se od místa trvalého pobytu/pobytu:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu10" xml:space="preserve">
+<source xml:lang="cs">………………………………………………………………………………………………………</source>
+<target xml:lang="en-US">………………………………………………………………………………………………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu11" xml:space="preserve">
+<source xml:lang="cs">Žádám o odklad povinné školní docházky o jeden školní rok</source>
+<target xml:lang="en-US">Žádám o odklad povinné školní docházky o jeden školní rok</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu12" xml:space="preserve">
+<source xml:lang="cs">Jméno a příjmení dítěte: …………………………………………………………………………………………………………</source>
+<target xml:lang="en-US">Jméno a příjmení dítěte: …………………………………………………………………………………………………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu13" xml:space="preserve">
+<source xml:lang="cs">Datum narození dítěte:..............................................................................</source>
+<target xml:lang="en-US">Datum narození dítěte:..............................................................................</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu14" xml:space="preserve">
+<source xml:lang="cs">Trvalý pobyt/u cizince pobyt:</source>
+<target xml:lang="en-US">Trvalý pobyt/u cizince pobyt:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu15" xml:space="preserve">
+<source xml:lang="cs">…………………………………………………………………………………………………………</source>
+<target xml:lang="en-US">…………………………………………………………………………………………………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu16" xml:space="preserve">
+<source xml:lang="cs">na školní rok 2023/2024</source>
+<target xml:lang="en-US">na školní rok 2023/2024</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu17" xml:space="preserve">
+<source xml:lang="cs">ředitele základní školy, jejíž činnost vykonává</source>
+<target xml:lang="en-US">ředitele základní školy, jejíž činnost vykonává</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu18" xml:space="preserve">
+<source xml:lang="cs">Název školy</source>
+<target xml:lang="en-US">Název školy</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu19" xml:space="preserve">
+<source xml:lang="cs">V …………………………… dne ………………………  </source>
+<target xml:lang="en-US">V …………………………… dne ………………………  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu20" xml:space="preserve">
+<source xml:lang="cs">……………………………………….</source>
+<target xml:lang="en-US">……………………………………….</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu21" xml:space="preserve">
+<source xml:lang="cs">podpis zákonného zástupce dítěte</source>
+<target xml:lang="en-US">podpis zákonného zástupce dítěte</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu22" xml:space="preserve">
+<source xml:lang="cs">Informace pro žadatele:</source>
+<target xml:lang="en-US">Informace pro žadatele:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu23" xml:space="preserve">
+<source xml:lang="cs">Žádost je třeba podat v době zápisu, tj. nejpozději do 15. července 2022.</source>
+<target xml:lang="en-US">Žádost je třeba podat v době zápisu, tj. nejpozději do 15. července 2022.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu24" xml:space="preserve">
+<source xml:lang="cs">Povinnou přílohou žádosti o odklad povinné školní docházky jsou doporučující posouzení příslušného školského poradenského zařízení a doporučující posouzení odborného lékaře nebo klinického psychologa.</source>
+<target xml:lang="en-US">Povinnou přílohou žádosti o odklad povinné školní docházky jsou doporučující posouzení příslušného školského poradenského zařízení a doporučující posouzení odborného lékaře nebo klinického psychologa.</target>
+</trans-unit>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="cs">MŠ Strojařů Chrudim</source>
+<target xml:lang="en-US">MŠ Strojařů Chrudim</target>
+</trans-unit>
+<trans-unit id="tu2" xml:space="preserve">
+<source xml:lang="cs">MATEŘSKÁ ŠKOLA TEL</source>
+<target xml:lang="en-US">MATEŘSKÁ ŠKOLA TEL</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/header1.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/header2.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/settings.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/header3.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+</xliff>

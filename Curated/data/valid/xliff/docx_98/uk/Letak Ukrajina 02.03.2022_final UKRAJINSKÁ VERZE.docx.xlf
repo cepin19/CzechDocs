@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="word/document.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NFDBB2FA9-tu1" xml:space="preserve">
+<source xml:lang="uk"></source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub1" xml:space="preserve">
+<source xml:lang="uk">Text Box 9</source>
+<target xml:lang="en-US">Text Box 9</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub2" xml:space="preserve">
+<source xml:lang="uk">obrázek 1</source>
+<target xml:lang="en-US">obrázek 1</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub3" xml:space="preserve">
+<source xml:lang="uk">Picture 1</source>
+<target xml:lang="en-US">Picture 1</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu2" xml:space="preserve">
+<source xml:lang="uk"></source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="NBAE5E0BC-sub1" xml:space="preserve">
+<source xml:lang="uk">Text Box 11</source>
+<target xml:lang="en-US">Text Box 11</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu3" xml:space="preserve">
+<source xml:lang="uk"></source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="NBAE5E0BD-sub1" xml:space="preserve">
+<source xml:lang="uk">Text Box 10</source>
+<target xml:lang="en-US">Text Box 10</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BD-sub2" xml:space="preserve">
+<source xml:lang="uk">Úřad<g id="1"> </g>práce<g id="2"> </g>ČR</source>
+<target xml:lang="en-US">Úřad<g id="1"> </g>práce<g id="2"> </g>ČR</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu4" xml:space="preserve">
+<source xml:lang="uk"><g id="1">Допомога від Бюро праці Чеської Республіки громадянам України</g></source>
+<target xml:lang="en-US"><g id="1">Допомога від Бюро праці Чеської Республіки громадянам України</g></target>
+</trans-unit>
+<trans-unit id="NBAE5E0BE-sub1" xml:space="preserve">
+<source xml:lang="uk">Text Box 10</source>
+<target xml:lang="en-US">Text Box 10</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BE-sub2" xml:space="preserve">
+<source xml:lang="uk">Úřad<g id="1"> </g>práce<g id="2"> </g>ČR</source>
+<target xml:lang="en-US">Úřad<g id="1"> </g>práce<g id="2"> </g>ČR</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu5" xml:space="preserve">
+<source xml:lang="uk">Сумаризовану та регулярно оновлювану інформацію про можливості допомоги громадянам України знайдете на інернетових сторінках <g id="1">www.uradprace.cz</g></source>
+<target xml:lang="en-US">Сумаризовану та регулярно оновлювану інформацію про можливості допомоги громадянам України знайдете на інернетових сторінках <g id="1">www.uradprace.cz</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu6" xml:space="preserve">
+<source xml:lang="uk"><x id="1"/>https://www.uradprace.cz/web/cz/-/pomoc-pro-obcany-ukrajiny-a-jejich-zamestnavatele<x id="2"/></source>
+<target xml:lang="en-US"><x id="1"/>https://www.uradprace.cz/web/cz/-/pomoc-pro-obcany-ukrajiny-a-jejich-zamestnavatele<x id="2"/></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu7" xml:space="preserve">
+<source xml:lang="uk">Соціальна допомоґа</source>
+<target xml:lang="en-US">Соціальна допомоґа</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu8" xml:space="preserve">
+<source xml:lang="uk">Якщо ви перебуваєте в Чеській Республіці через військову кризу в Україні, ви можете попросити Бюро праці Чеської Республіки:</source>
+<target xml:lang="en-US">Якщо ви перебуваєте в Чеській Республіці через військову кризу в Україні, ви можете попросити Бюро праці Чеської Республіки:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu9" xml:space="preserve">
+<source xml:lang="uk">Надзвичайну невідкладну допомогу у зв’язку з серйозним пошкодженням zдоровя</source>
+<target xml:lang="en-US">Надзвичайну невідкладну допомогу у зв’язку з серйозним пошкодженням zдоровя</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu10" xml:space="preserve">
+<source xml:lang="uk">Формуляр для звернення за невідкладною допомогою можна знайти тут: <g id="1">https://www.mpsv.cz/web/cz/-/zadost-o-mimoradnou-okamzitou-pomoc</g></source>
+<target xml:lang="en-US">Формуляр для звернення за невідкладною допомогою можна знайти тут: <g id="1">https://www.mpsv.cz/web/cz/-/zadost-o-mimoradnou-okamzitou-pomoc</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu11" xml:space="preserve">
+<source xml:lang="uk">Cфера працевлаштування</source>
+<target xml:lang="en-US">Cфера працевлаштування</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu12" xml:space="preserve">
+<source xml:lang="uk">M<g id="1">ожливість навчання</g></source>
+<target xml:lang="en-US">M<g id="1">ожливість навчання</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu13" xml:space="preserve">
+<source xml:lang="uk">Якщо Міністерство внутрішніх справ видало вам візу на проживання, зверніться до Бюро праці Чеської Республіки із заявою</source>
+<target xml:lang="en-US">Якщо Міністерство внутрішніх справ видало вам візу на проживання, зверніться до Бюро праці Чеської Республіки із заявою</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu14" xml:space="preserve">
+<source xml:lang="uk">Про<x id="1"/> внесення до реєстру осіб, які шукають роботу</source>
+<target xml:lang="en-US">Про<x id="1"/> внесення до реєстру осіб, які шукають роботу</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu15" xml:space="preserve">
+<source xml:lang="uk"><g id="1">Якщо Міністерство внутрішніх справ видало вам візу на проживання, зверніться до Бюро праці Чеської Республіки для </g>внесення до реєстру шукачів роботи та Бюро праці Чеської Республіки допоможе вам у фінансуванні курсів чеської мови чи перепідготовки.</source>
+<target xml:lang="en-US"><g id="1">Якщо Міністерство внутрішніх справ видало вам візу на проживання, зверніться до Бюро праці Чеської Республіки для </g>внесення до реєстру шукачів роботи та Бюро праці Чеської Республіки допоможе вам у фінансуванні курсів чеської мови чи перепідготовки.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu16" xml:space="preserve">
+<source xml:lang="uk">Формуляр для подання заяви на реєстрацію в якості заявника Ви можете знайти тут:</source>
+<target xml:lang="en-US">Формуляр для подання заяви на реєстрацію в якості заявника Ви можете знайти тут:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu17" xml:space="preserve">
+<source xml:lang="uk">https://www.mpsv.cz/web/cz/-/zadost-o-zarazeni-do-evidence-zajemcu-o-zamestnani</source>
+<target xml:lang="en-US">https://www.mpsv.cz/web/cz/-/zadost-o-zarazeni-do-evidence-zajemcu-o-zamestnani</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu18" xml:space="preserve">
+<source xml:lang="uk">Дозвіл на роботу</source>
+<target xml:lang="en-US">Дозвіл на роботу</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu19" xml:space="preserve">
+<source xml:lang="uk">Якщо Міністерство внутрішніх справ видало вам візу на проживання і ви знайшли вакансію, зверніться до Бюро праці Чеської Республіки із заявою</source>
+<target xml:lang="en-US">Якщо Міністерство внутрішніх справ видало вам візу на проживання і ви знайшли вакансію, зверніться до Бюро праці Чеської Республіки із заявою</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu20" xml:space="preserve">
+<source xml:lang="uk">Про<g id="1"> дозвіл на роботу</g></source>
+<target xml:lang="en-US">Про<g id="1"> дозвіл на роботу</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu21" xml:space="preserve">
+<source xml:lang="uk">Формуляр тут<g id="1"> :</g></source>
+<target xml:lang="en-US">Формуляр тут<g id="1"> :</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu22" xml:space="preserve">
+<source xml:lang="uk">https://www.mpsv.cz/web/cz/-/zadost-cizince-o-povoleni-k-zamestnani-o-prodlouzeni-povoleni-zamestnani-na-uzemi-ceske-republiky</source>
+<target xml:lang="en-US">https://www.mpsv.cz/web/cz/-/zadost-cizince-o-povoleni-k-zamestnani-o-prodlouzeni-povoleni-zamestnani-na-uzemi-ceske-republiky</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu23" xml:space="preserve">
+<source xml:lang="uk">Пропозиція вакансій у Чехії доступна за адресою:</source>
+<target xml:lang="en-US">Пропозиція вакансій у Чехії доступна за адресою:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu24" xml:space="preserve">
+<source xml:lang="uk"><g id="1">https://www.uradprace.cz/web/cz/volna-mista-v-cr</g></source>
+<target xml:lang="en-US"><g id="1">https://www.uradprace.cz/web/cz/volna-mista-v-cr</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu25" xml:space="preserve">
+<source xml:lang="uk">Контакти н<g id="1">а </g>державні службовці Бюро праці Чеської Республіки</source>
+<target xml:lang="en-US">Контакти н<g id="1">а </g>державні службовці Бюро праці Чеської Республіки</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu26" xml:space="preserve">
+<source xml:lang="uk"><g id="1">Адреса контактного офісу: </g>Kontaktní pracoviště ÚP ČR Kadaň, Jana Roháče 1381, Kadaň</source>
+<target xml:lang="en-US"><g id="1">Адреса контактного офісу: </g>Kontaktní pracoviště ÚP ČR Kadaň, Jana Roháče 1381, Kadaň</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu27" xml:space="preserve">
+<source xml:lang="uk">сфера нестрахових соціальних виплат: </source>
+<target xml:lang="en-US">сфера нестрахових соціальних виплат: </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu28" xml:space="preserve">
+<source xml:lang="uk">Mgr. Jana Jonášová, DiS. – tel. 950 118 246</source>
+<target xml:lang="en-US">Mgr. Jana Jonášová, DiS. – tel. 950 118 246</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu29" xml:space="preserve">
+<source xml:lang="uk">Martina Svobodová, DiS. – tel. 950 118 231</source>
+<target xml:lang="en-US">Martina Svobodová, DiS. – tel. 950 118 231</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu30" xml:space="preserve">
+<source xml:lang="uk">Miloslava Tomanová – tel. 950 118 236</source>
+<target xml:lang="en-US">Miloslava Tomanová – tel. 950 118 236</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu32" xml:space="preserve">
+<source xml:lang="uk"><g id="1">сфера працевлаштування: </g>Kontaktní pracoviště ÚP ČR Kadaň, Vrchlického 172, Kadaň</source>
+<target xml:lang="en-US"><g id="1">сфера працевлаштування: </g>Kontaktní pracoviště ÚP ČR Kadaň, Vrchlického 172, Kadaň</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu33" xml:space="preserve">
+<source xml:lang="uk"><x id="1"/>Danuše Kocelská – tel. 950 118 221</source>
+<target xml:lang="en-US"><x id="1"/>Danuše Kocelská – tel. 950 118 221</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu35" xml:space="preserve">
+<source xml:lang="uk"><g id="1">Адреса контактного офісу: </g>Kontaktní pracoviště ÚP ČR Kadaň – pracoviště Vejprty, Tylova 870/6, Vejprty</source>
+<target xml:lang="en-US"><g id="1">Адреса контактного офісу: </g>Kontaktní pracoviště ÚP ČR Kadaň – pracoviště Vejprty, Tylova 870/6, Vejprty</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu36" xml:space="preserve">
+<source xml:lang="uk"><g id="1">сфера нестрахових соціальних виплат: </g> Michaela Hirtová – tel. 950 118 276</source>
+<target xml:lang="en-US"><g id="1">сфера нестрахових соціальних виплат: </g> Michaela Hirtová – tel. 950 118 276</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu37" xml:space="preserve">
+<source xml:lang="uk"><g id="1">сфера працевлаштування:       </g>Iveta Pasevová – tel.950 118 271</source>
+<target xml:lang="en-US"><g id="1">сфера працевлаштування:       </g>Iveta Pasevová – tel.950 118 271</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu38" xml:space="preserve">
+<source xml:lang="uk"><g id="1">д<g id="2">озвіл на роботу: </g></g>Kontaktní pracoviště ÚP ČR Chomutov, Cihlářská 4107, Chomutov</source>
+<target xml:lang="en-US"><g id="1">д<g id="2">озвіл на роботу: </g></g>Kontaktní pracoviště ÚP ČR Chomutov, Cihlářská 4107, Chomutov</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu39" xml:space="preserve">
+<source xml:lang="uk">Miroslav Cáder – tel. 950 118 329</source>
+<target xml:lang="en-US">Miroslav Cáder – tel. 950 118 329</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu40" xml:space="preserve">
+<source xml:lang="uk"><x id="1"/>Lenka Panošková, DiS. – tel. 950 118 481</source>
+<target xml:lang="en-US"><x id="1"/>Lenka Panošková, DiS. – tel. 950 118 481</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/footnotes.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/endnotes.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/footer1.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P3953B09A-tu1" xml:space="preserve">
+<source xml:lang="uk"></source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P6D3F672D-sub1" xml:space="preserve">
+<source xml:lang="uk">Text Box 6</source>
+<target xml:lang="en-US">Text Box 6</target>
+</trans-unit>
+<trans-unit id="P6D3F672D-sub2" xml:space="preserve">
+<source xml:lang="uk">facebook.com/uradprace.cr</source>
+<target xml:lang="en-US">facebook.com/uradprace.cr</target>
+</trans-unit>
+<trans-unit id="P6D3F672D-sub3" xml:space="preserve">
+<source xml:lang="uk">www.uradprace.cz</source>
+<target xml:lang="en-US">www.uradprace.cz</target>
+</trans-unit>
+<trans-unit id="P6D3F672D-sub4" xml:space="preserve">
+<source xml:lang="uk">Text Box 4</source>
+<target xml:lang="en-US">Text Box 4</target>
+</trans-unit>
+<trans-unit id="P6D3F672D-sub5" xml:space="preserve">
+<source xml:lang="uk">obrázek 2</source>
+<target xml:lang="en-US">obrázek 2</target>
+</trans-unit>
+<trans-unit id="P6D3F672D-sub6" xml:space="preserve">
+<source xml:lang="uk">Picture 2</source>
+<target xml:lang="en-US">Picture 2</target>
+</trans-unit>
+<trans-unit id="P6D3F672D-sub7" xml:space="preserve">
+<source xml:lang="uk">Text Box 7</source>
+<target xml:lang="en-US">Text Box 7</target>
+</trans-unit>
+<trans-unit id="P6D3F672D-sub8" xml:space="preserve">
+<source xml:lang="uk">Text Box 5</source>
+<target xml:lang="en-US">Text Box 5</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/settings.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="uk">Vondrová Markéta Ing. (UPP-KRP)</source>
+<target xml:lang="en-US">Vondrová Markéta Ing. (UPP-KRP)</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

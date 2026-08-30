@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="word/document.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NFDBB2FA9-tu1" xml:space="preserve">
+<source xml:lang="cs">Doklad k posouzení důvěryhodnosti</source>
+<target xml:lang="en-US">Doklad k posouzení důvěryhodnosti</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu2" xml:space="preserve">
+<source xml:lang="cs"> (právnická osoba)</source>
+<target xml:lang="en-US"> (právnická osoba)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu3" xml:space="preserve">
+<source xml:lang="cs"><g id="1"> </g>I.</source>
+<target xml:lang="en-US"><g id="1"> </g>I.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu4" xml:space="preserve">
+<source xml:lang="cs">ÚDAJE K POSOUZENÍ DŮVĚRYHODNOSTÍ PRÁVNICKÉ OSOBY</source>
+<target xml:lang="en-US">ÚDAJE K POSOUZENÍ DŮVĚRYHODNOSTÍ PRÁVNICKÉ OSOBY</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu5" xml:space="preserve">
+<source xml:lang="cs">1. Základní údaje</source>
+<target xml:lang="en-US">1. Základní údaje</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu6" xml:space="preserve">
+<source xml:lang="cs">Obchodní firma nebo název </source>
+<target xml:lang="en-US">Obchodní firma nebo název </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu7" xml:space="preserve">
+<source xml:lang="cs">Identifikační číslo osoby</source>
+<target xml:lang="en-US">Identifikační číslo osoby</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu8" xml:space="preserve">
+<source xml:lang="cs">Adresa sídla ve tvaru </source>
+<target xml:lang="en-US">Adresa sídla ve tvaru </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu9" xml:space="preserve">
+<source xml:lang="cs">obec, část obce, ulice, číslo popisné, číslo orientační, písmeno orientační, PSČ, stát</source>
+<target xml:lang="en-US">obec, část obce, ulice, číslo popisné, číslo orientační, písmeno orientační, PSČ, stát</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu10" xml:space="preserve">
+<source xml:lang="cs">   </source>
+<target xml:lang="en-US">   </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu11" xml:space="preserve">
+<source xml:lang="cs">II.</source>
+<target xml:lang="en-US">II.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu12" xml:space="preserve">
+<source xml:lang="cs">PROHLÁŠENÍ OBSAHUJÍCÍ ÚDAJE O DOSAVADNÍ ČINNOSTI PRÁVNICKÉ OSOBY UVEDENÉ V ČÁSTI I. </source>
+<target xml:lang="en-US">PROHLÁŠENÍ OBSAHUJÍCÍ ÚDAJE O DOSAVADNÍ ČINNOSTI PRÁVNICKÉ OSOBY UVEDENÉ V ČÁSTI I. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu13" xml:space="preserve">
+<source xml:lang="cs"><g id="1">2.</g> <g id="2">Informace o dříve podané žádosti</g></source>
+<target xml:lang="en-US"><g id="1">2.</g> <g id="2">Informace o dříve podané žádosti</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu14" xml:space="preserve">
+<source xml:lang="cs">2.1 Žádali jste již někdy v minulosti orgán dohledu o předchozí souhlas k výkonu činnosti,  </source>
+<target xml:lang="en-US">2.1 Žádali jste již někdy v minulosti orgán dohledu o předchozí souhlas k výkonu činnosti,  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu15" xml:space="preserve">
+<source xml:lang="cs">      majetkové účasti nebo o souhlas účastnit se na řízení na osobě, jejíž činnost podléhá   </source>
+<target xml:lang="en-US">      majetkové účasti nebo o souhlas účastnit se na řízení na osobě, jejíž činnost podléhá   </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu16" xml:space="preserve">
+<source xml:lang="cs">      dohledu orgánu dohledu?</source>
+<target xml:lang="en-US">      dohledu orgánu dohledu?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu17" xml:space="preserve">
+<source xml:lang="cs"> ANO</source>
+<target xml:lang="en-US"> ANO</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu18" xml:space="preserve">
+<source xml:lang="cs"> NE</source>
+<target xml:lang="en-US"> NE</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu19" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Pokud ANO,</g> uveďte podrobnosti.</source>
+<target xml:lang="en-US"><g id="1">Pokud ANO,</g> uveďte podrobnosti.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu20" xml:space="preserve">
+<source xml:lang="cs">2.2 Žádali jste již někdy v minulosti o oprávnění k činnosti/registraci pojišťovacího                  </source>
+<target xml:lang="en-US">2.2 Žádali jste již někdy v minulosti o oprávnění k činnosti/registraci pojišťovacího                  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu21" xml:space="preserve">
+<source xml:lang="cs">      zprostředkovatele v jiném státě, než je Česká republika?            </source>
+<target xml:lang="en-US">      zprostředkovatele v jiném státě, než je Česká republika?            </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu22" xml:space="preserve">
+<source xml:lang="cs"> ANO</source>
+<target xml:lang="en-US"> ANO</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu23" xml:space="preserve">
+<source xml:lang="cs"> NE</source>
+<target xml:lang="en-US"> NE</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu24" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Pokud ANO,</g> uveďte podrobnosti.</source>
+<target xml:lang="en-US"><g id="1">Pokud ANO,</g> uveďte podrobnosti.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu25" xml:space="preserve">
+<source xml:lang="cs">3. Informace k posouzení důvěryhodnosti</source>
+<target xml:lang="en-US">3. Informace k posouzení důvěryhodnosti</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu26" xml:space="preserve">
+<source xml:lang="cs">3.1. Byla jste v minulosti pravomocně odsouzena pro trestný čin spáchaný úmyslně, nebo pro trestný čin proti majetku či trestný čin hospodářský spáchaný z nedbalosti, anebo pro trestný čin spáchaný v nedbalosti v souvislosti s výkonem funkce (bez ohledu na to, zda se na Vás hledí, jako byste nebyla odsouzena)?</source>
+<target xml:lang="en-US">3.1. Byla jste v minulosti pravomocně odsouzena pro trestný čin spáchaný úmyslně, nebo pro trestný čin proti majetku či trestný čin hospodářský spáchaný z nedbalosti, anebo pro trestný čin spáchaný v nedbalosti v souvislosti s výkonem funkce (bez ohledu na to, zda se na Vás hledí, jako byste nebyla odsouzena)?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu27" xml:space="preserve">
+<source xml:lang="cs"> ANO</source>
+<target xml:lang="en-US"> ANO</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu28" xml:space="preserve">
+<source xml:lang="cs"> NE</source>
+<target xml:lang="en-US"> NE</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu29" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Pokud ANO,</g> uveďte podrobnosti a předložte příslušné rozhodnutí.</source>
+<target xml:lang="en-US"><g id="1">Pokud ANO,</g> uveďte podrobnosti a předložte příslušné rozhodnutí.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu30" xml:space="preserve">
+<source xml:lang="cs">3.2 Byla Vám pravomocně uložena sankce za přestupek nebo jiný správní delikt pro porušení právní povinnosti v souvislosti s výkonem funkce či podnikatelské činnosti převyšující 20 000 Kč nebo obdobnou částku v jiné měně, zákaz činnosti, anebo povinnost k náhradě škody pro zaviněné (úmyslné či nedbalostní) porušení právní povinnosti?</source>
+<target xml:lang="en-US">3.2 Byla Vám pravomocně uložena sankce za přestupek nebo jiný správní delikt pro porušení právní povinnosti v souvislosti s výkonem funkce či podnikatelské činnosti převyšující 20 000 Kč nebo obdobnou částku v jiné měně, zákaz činnosti, anebo povinnost k náhradě škody pro zaviněné (úmyslné či nedbalostní) porušení právní povinnosti?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu31" xml:space="preserve">
+<source xml:lang="cs"> ANO</source>
+<target xml:lang="en-US"> ANO</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu32" xml:space="preserve">
+<source xml:lang="cs"> NE</source>
+<target xml:lang="en-US"> NE</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu33" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Pokud ANO,</g> uveďte podrobnosti a předložte příslušné rozhodnutí.</source>
+<target xml:lang="en-US"><g id="1">Pokud ANO,</g> uveďte podrobnosti a předložte příslušné rozhodnutí.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu34" xml:space="preserve">
+<source xml:lang="cs">3.3 Bylo v minulosti pravomocným rozhodnutím konstatováno, že jste úmyslně uvedla nepravdivý údaj v čestném prohlášení u správního orgánu nebo jinak narušovala výkon dohledu nebo dozoru v oblasti finančního trhu?</source>
+<target xml:lang="en-US">3.3 Bylo v minulosti pravomocným rozhodnutím konstatováno, že jste úmyslně uvedla nepravdivý údaj v čestném prohlášení u správního orgánu nebo jinak narušovala výkon dohledu nebo dozoru v oblasti finančního trhu?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu35" xml:space="preserve">
+<source xml:lang="cs"> ANO</source>
+<target xml:lang="en-US"> ANO</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu36" xml:space="preserve">
+<source xml:lang="cs"> NE</source>
+<target xml:lang="en-US"> NE</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu37" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Pokud ANO,</g> uveďte podrobnosti a předložte příslušné rozhodnutí.</source>
+<target xml:lang="en-US"><g id="1">Pokud ANO,</g> uveďte podrobnosti a předložte příslušné rozhodnutí.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu38" xml:space="preserve">
+<source xml:lang="cs">3.4 Bylo v minulosti pravomocným rozhodnutím konstatováno, že jste porušila zásady poctivého obchodního styku, narušila hospodářskou soutěž, zneužila důvěrné informace včetně osobních údajů jiných osob, anebo porušila obchodní nebo bankovní tajemství, či jinou povinnost mlčenlivosti?</source>
+<target xml:lang="en-US">3.4 Bylo v minulosti pravomocným rozhodnutím konstatováno, že jste porušila zásady poctivého obchodního styku, narušila hospodářskou soutěž, zneužila důvěrné informace včetně osobních údajů jiných osob, anebo porušila obchodní nebo bankovní tajemství, či jinou povinnost mlčenlivosti?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu39" xml:space="preserve">
+<source xml:lang="cs"> ANO</source>
+<target xml:lang="en-US"> ANO</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu40" xml:space="preserve">
+<source xml:lang="cs"> NE</source>
+<target xml:lang="en-US"> NE</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu41" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Pokud ANO,</g> uveďte podrobnosti a předložte příslušné rozhodnutí.</source>
+<target xml:lang="en-US"><g id="1">Pokud ANO,</g> uveďte podrobnosti a předložte příslušné rozhodnutí.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu42" xml:space="preserve">
+<source xml:lang="cs">3.5 Bylo vůči Vám vydáno rozhodnutí o úpadku (tj. rozhodnutí, jímž bylo zjištěno, že jste v úpadku), zamítl soud insolvenční návrh proto, že Váš majetek nepostačoval k úhradě nákladů insolvenčního řízení, bylo vydáno rozhodnutí o prohlášení konkurzu nebo rozhodnutí o zrušení konkurzu proto, že Váš majetek jako dlužníka byl zcela nepostačující k úhradě nákladů konkurzu, případně pro uspokojení věřitelů?</source>
+<target xml:lang="en-US">3.5 Bylo vůči Vám vydáno rozhodnutí o úpadku (tj. rozhodnutí, jímž bylo zjištěno, že jste v úpadku), zamítl soud insolvenční návrh proto, že Váš majetek nepostačoval k úhradě nákladů insolvenčního řízení, bylo vydáno rozhodnutí o prohlášení konkurzu nebo rozhodnutí o zrušení konkurzu proto, že Váš majetek jako dlužníka byl zcela nepostačující k úhradě nákladů konkurzu, případně pro uspokojení věřitelů?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu43" xml:space="preserve">
+<source xml:lang="cs"> ANO</source>
+<target xml:lang="en-US"> ANO</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu44" xml:space="preserve">
+<source xml:lang="cs"> NE</source>
+<target xml:lang="en-US"> NE</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu45" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Pokud ANO,</g> uveďte podrobnosti a předložte příslušné rozhodnutí.</source>
+<target xml:lang="en-US"><g id="1">Pokud ANO,</g> uveďte podrobnosti a předložte příslušné rozhodnutí.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu46" xml:space="preserve">
+<source xml:lang="cs">3.6 Bylo Vám v minulosti pravomocným rozhodnutím soudu nebo správního orgánu odmítnuto udělení souhlasu s volbou, jmenováním, nebo ustanovením do funkce, anebo s nabytím či zvýšením kvalifikované účasti resp. ovládnutím, jestliže se k této volbě, jmenování nebo ustanovení do funkce, anebo s nabytím či zvýšením kvalifikované účasti resp. ovládnutím takový souhlas vyžaduje, nebo Vám byl takový souhlas pravomocně odejmut?</source>
+<target xml:lang="en-US">3.6 Bylo Vám v minulosti pravomocným rozhodnutím soudu nebo správního orgánu odmítnuto udělení souhlasu s volbou, jmenováním, nebo ustanovením do funkce, anebo s nabytím či zvýšením kvalifikované účasti resp. ovládnutím, jestliže se k této volbě, jmenování nebo ustanovení do funkce, anebo s nabytím či zvýšením kvalifikované účasti resp. ovládnutím takový souhlas vyžaduje, nebo Vám byl takový souhlas pravomocně odejmut?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu47" xml:space="preserve">
+<source xml:lang="cs"> ANO</source>
+<target xml:lang="en-US"> ANO</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu48" xml:space="preserve">
+<source xml:lang="cs"> NE</source>
+<target xml:lang="en-US"> NE</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu49" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Pokud ANO,</g> uveďte podrobnosti a předložte příslušné rozhodnutí.</source>
+<target xml:lang="en-US"><g id="1">Pokud ANO,</g> uveďte podrobnosti a předložte příslušné rozhodnutí.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu50" xml:space="preserve">
+<source xml:lang="cs">3.7 Bylo Vám pravomocným rozhodnutím soudu nebo správního orgánu pozastaveno či odňato povolení k výkonu podnikatelské činnosti z jiných důvodů než na Vaši žádost, která nebyla podána v době, kdy již běželo řízení o pozastavení či odnětí povolení k výkonu podnikatelské činnosti?</source>
+<target xml:lang="en-US">3.7 Bylo Vám pravomocným rozhodnutím soudu nebo správního orgánu pozastaveno či odňato povolení k výkonu podnikatelské činnosti z jiných důvodů než na Vaši žádost, která nebyla podána v době, kdy již běželo řízení o pozastavení či odnětí povolení k výkonu podnikatelské činnosti?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu51" xml:space="preserve">
+<source xml:lang="cs"> ANO</source>
+<target xml:lang="en-US"> ANO</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu52" xml:space="preserve">
+<source xml:lang="cs"> NE</source>
+<target xml:lang="en-US"> NE</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu53" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Pokud ANO,</g> uveďte podrobnosti a předložte příslušné rozhodnutí.</source>
+<target xml:lang="en-US"><g id="1">Pokud ANO,</g> uveďte podrobnosti a předložte příslušné rozhodnutí.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu54" xml:space="preserve">
+<source xml:lang="cs">3.8 Byla Vám zamítnuta žádost o členství u organizátora regulovaného trhu, v profesním sdružení, komoře nebo asociaci poskytovatelů finančních služeb, včetně zahraničních, nebo Vám za porušení právní povinnosti byl takovou komunitou uložen disciplinární trest, nebo jste byla z takové komunity vyloučena nebo jste z ní vystoupila? </source>
+<target xml:lang="en-US">3.8 Byla Vám zamítnuta žádost o členství u organizátora regulovaného trhu, v profesním sdružení, komoře nebo asociaci poskytovatelů finančních služeb, včetně zahraničních, nebo Vám za porušení právní povinnosti byl takovou komunitou uložen disciplinární trest, nebo jste byla z takové komunity vyloučena nebo jste z ní vystoupila? </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu55" xml:space="preserve">
+<source xml:lang="cs"> ANO</source>
+<target xml:lang="en-US"> ANO</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu56" xml:space="preserve">
+<source xml:lang="cs"> NE</source>
+<target xml:lang="en-US"> NE</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu57" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Pokud ANO,</g> uveďte podrobnosti a předložte příslušné rozhodnutí.</source>
+<target xml:lang="en-US"><g id="1">Pokud ANO,</g> uveďte podrobnosti a předložte příslušné rozhodnutí.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu58" xml:space="preserve">
+<source xml:lang="cs">3.9  Byla jste statutárním orgánem, členem statutárního orgánu, členem dozorčího orgánu nebo správní rady, osobou oprávněnou jednat za právnickou osobu na základě jiné skutečnosti nebo osobou, která podstatným způsobem ovlivňovala chování právnické osoby či se na něm významně podílela v době spáchání jednání, za něž této právnické osobě</source>
+<target xml:lang="en-US">3.9  Byla jste statutárním orgánem, členem statutárního orgánu, členem dozorčího orgánu nebo správní rady, osobou oprávněnou jednat za právnickou osobu na základě jiné skutečnosti nebo osobou, která podstatným způsobem ovlivňovala chování právnické osoby či se na něm významně podílela v době spáchání jednání, za něž této právnické osobě</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu59" xml:space="preserve">
+<source xml:lang="cs">byla pravomocně uložena sankce za správní delikt nebo uložena povinnost k náhradě škody pro porušení právní povinnosti v souvislosti s působením této právnické osoby na finančním trhu, nebo</source>
+<target xml:lang="en-US">byla pravomocně uložena sankce za správní delikt nebo uložena povinnost k náhradě škody pro porušení právní povinnosti v souvislosti s působením této právnické osoby na finančním trhu, nebo</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu60" xml:space="preserve">
+<source xml:lang="cs">byla zamítnuta žádost o členství u organizovaného trhu, v profesním sdružení, komoře nebo asociaci poskytovatelů finančních služeb, včetně zahraničních, nebo došlo k porušení právních povinností, za které jí byl takovou komunitou uložen disciplinární trest, nebo která byla z takové komunity vyloučena?</source>
+<target xml:lang="en-US">byla zamítnuta žádost o členství u organizovaného trhu, v profesním sdružení, komoře nebo asociaci poskytovatelů finančních služeb, včetně zahraničních, nebo došlo k porušení právních povinností, za které jí byl takovou komunitou uložen disciplinární trest, nebo která byla z takové komunity vyloučena?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu61" xml:space="preserve">
+<source xml:lang="cs"> ANO</source>
+<target xml:lang="en-US"> ANO</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu62" xml:space="preserve">
+<source xml:lang="cs"> NE</source>
+<target xml:lang="en-US"> NE</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu63" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Pokud ANO,</g> uveďte obchodní firmu/název této právnické osoby, IČO a další podrobnosti týkající se dané záležitosti a předložte příslušné rozhodnutí.</source>
+<target xml:lang="en-US"><g id="1">Pokud ANO,</g> uveďte obchodní firmu/název této právnické osoby, IČO a další podrobnosti týkající se dané záležitosti a předložte příslušné rozhodnutí.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu64" xml:space="preserve">
+<source xml:lang="cs">3<g id="1">.10 Byla jste statutárním orgánem, členem statutárního orgánu, členem dozorčího orgánu nebo správní rady, osobou oprávněnou jednat za právnickou osobu na základě jiné skutečnosti nebo osobou, která podstatným způsobem ovlivňovala chování právnické osoby či se na něm významně podílela, nebo která takovou osobu ovládala v období až tři roky</g></source>
+<target xml:lang="en-US">3<g id="1">.10 Byla jste statutárním orgánem, členem statutárního orgánu, členem dozorčího orgánu nebo správní rady, osobou oprávněnou jednat za právnickou osobu na základě jiné skutečnosti nebo osobou, která podstatným způsobem ovlivňovala chování právnické osoby či se na něm významně podílela, nebo která takovou osobu ovládala v období až tři roky</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu65" xml:space="preserve">
+<source xml:lang="cs">před vydáním rozhodnutí o úpadku této právnické osoby nebo před zamítnutím insolvenčního návrhu proto, že její majetek nepostačoval k úhradě nákladů insolvenčního řízení,</source>
+<target xml:lang="en-US">před vydáním rozhodnutí o úpadku této právnické osoby nebo před zamítnutím insolvenčního návrhu proto, že její majetek nepostačoval k úhradě nákladů insolvenčního řízení,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu66" xml:space="preserve">
+<source xml:lang="cs">před prohlášením konkurzu na majetek této právnické osoby nebo před povolením vyrovnání, nebo</source>
+<target xml:lang="en-US">před prohlášením konkurzu na majetek této právnické osoby nebo před povolením vyrovnání, nebo</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu67" xml:space="preserve">
+<source xml:lang="cs">před pravomocným pozastavením či odnětím povolení k výkonu podnikatelské činnosti z jiných důvodů než na její žádost nebo zavedením nucené správy v této právnické osobě?</source>
+<target xml:lang="en-US">před pravomocným pozastavením či odnětím povolení k výkonu podnikatelské činnosti z jiných důvodů než na její žádost nebo zavedením nucené správy v této právnické osobě?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu68" xml:space="preserve">
+<source xml:lang="cs"> ANO</source>
+<target xml:lang="en-US"> ANO</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu69" xml:space="preserve">
+<source xml:lang="cs"> NE</source>
+<target xml:lang="en-US"> NE</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu70" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Pokud ANO,</g> uveďte obchodní firmu/název této právnické osoby, IČO a další podrobnosti týkající se dané záležitosti a předložte příslušné rozhodnutí.</source>
+<target xml:lang="en-US"><g id="1">Pokud ANO,</g> uveďte obchodní firmu/název této právnické osoby, IČO a další podrobnosti týkající se dané záležitosti a předložte příslušné rozhodnutí.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu71" xml:space="preserve">
+<source xml:lang="cs">3.11 <g id="1">Bylo s Vámi zahájeno trestní stíhání pro některý z trestných činů uvedených v bodu 3.1 a toto trestní stíhání stále trvá? </g></source>
+<target xml:lang="en-US">3.11 <g id="1">Bylo s Vámi zahájeno trestní stíhání pro některý z trestných činů uvedených v bodu 3.1 a toto trestní stíhání stále trvá? </g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu72" xml:space="preserve">
+<source xml:lang="cs"> ANO</source>
+<target xml:lang="en-US"> ANO</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu73" xml:space="preserve">
+<source xml:lang="cs"> NE</source>
+<target xml:lang="en-US"> NE</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu74" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Pokud ANO,</g> uveďte podrobnosti a údaje doložte obviněním, obžalobou.</source>
+<target xml:lang="en-US"><g id="1">Pokud ANO,</g> uveďte podrobnosti a údaje doložte obviněním, obžalobou.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu75" xml:space="preserve">
+<source xml:lang="cs">3.12 Bylo s Vámi zahájeno řízení o přestupku nebo o správním deliktu uvedeném v bodu 3.2 a toto řízení stále trvá?</source>
+<target xml:lang="en-US">3.12 Bylo s Vámi zahájeno řízení o přestupku nebo o správním deliktu uvedeném v bodu 3.2 a toto řízení stále trvá?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu76" xml:space="preserve">
+<source xml:lang="cs"> ANO</source>
+<target xml:lang="en-US"> ANO</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu77" xml:space="preserve">
+<source xml:lang="cs"> NE</source>
+<target xml:lang="en-US"> NE</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu78" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Pokud ANO,</g> uveďte podrobnosti a předložte příslušné oznámení o zahájení řízení.</source>
+<target xml:lang="en-US"><g id="1">Pokud ANO,</g> uveďte podrobnosti a předložte příslušné oznámení o zahájení řízení.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu79" xml:space="preserve">
+<source xml:lang="cs">3.13 Byla jste statutárním orgánem, členem statutárního orgánu, členem dozorčího orgánu nebo správní rady, osobou oprávněnou jednat za právnickou osobu na základě jiné skutečnosti anebo osobou, která podstatným způsobem ovlivňovala chování této právnické osoby či se na něm významně podílela, nebo která takovou právnickou osobu ovládala, a vůči této právnické osobě bylo na základě jednání spáchaného v době Vašeho působení v ní zahájeno řízení</source>
+<target xml:lang="en-US">3.13 Byla jste statutárním orgánem, členem statutárního orgánu, členem dozorčího orgánu nebo správní rady, osobou oprávněnou jednat za právnickou osobu na základě jiné skutečnosti anebo osobou, která podstatným způsobem ovlivňovala chování této právnické osoby či se na něm významně podílela, nebo která takovou právnickou osobu ovládala, a vůči této právnické osobě bylo na základě jednání spáchaného v době Vašeho působení v ní zahájeno řízení</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu80" xml:space="preserve">
+<source xml:lang="cs">o uložení sankce za správní delikt nebo uložení povinnosti k náhradě škody pro porušení právní povinnosti v souvislosti s působením této právnické osoby na finančním trhu, nebo</source>
+<target xml:lang="en-US">o uložení sankce za správní delikt nebo uložení povinnosti k náhradě škody pro porušení právní povinnosti v souvislosti s působením této právnické osoby na finančním trhu, nebo</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu81" xml:space="preserve">
+<source xml:lang="cs">o zamítnutí žádosti o členství u organizovaného trhu, v profesním sdružení, komoře nebo asociaci poskytovatelů finančních služeb, včetně zahraničních, nebo o porušení právních povinností, za které jí může být takovou komunitou uložen disciplinární trest, nebo která může být z takové komunity vyloučena,</source>
+<target xml:lang="en-US">o zamítnutí žádosti o členství u organizovaného trhu, v profesním sdružení, komoře nebo asociaci poskytovatelů finančních služeb, včetně zahraničních, nebo o porušení právních povinností, za které jí může být takovou komunitou uložen disciplinární trest, nebo která může být z takové komunity vyloučena,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu82" xml:space="preserve">
+<source xml:lang="cs">a toto řízení stále trvá?</source>
+<target xml:lang="en-US">a toto řízení stále trvá?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu83" xml:space="preserve">
+<source xml:lang="cs"> ANO</source>
+<target xml:lang="en-US"> ANO</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu84" xml:space="preserve">
+<source xml:lang="cs"> NE</source>
+<target xml:lang="en-US"> NE</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu85" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Pokud ANO,</g> uveďte obchodní firmu/název této právnické osoby, IČO a další podrobnosti týkající se dané záležitosti a předložte příslušné oznámení o zahájení řízení.</source>
+<target xml:lang="en-US"><g id="1">Pokud ANO,</g> uveďte obchodní firmu/název této právnické osoby, IČO a další podrobnosti týkající se dané záležitosti a předložte příslušné oznámení o zahájení řízení.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu86" xml:space="preserve">
+<source xml:lang="cs"><g id="1">4. </g> <g id="2">Vazby na politicky exponovanou osobu</g></source>
+<target xml:lang="en-US"><g id="1">4. </g> <g id="2">Vazby na politicky exponovanou osobu</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu87" xml:space="preserve">
+<source xml:lang="cs">Máte nějaké vazby na politicky exponovanou osobu <g id="1">a)</g>?</source>
+<target xml:lang="en-US">Máte nějaké vazby na politicky exponovanou osobu <g id="1">a)</g>?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu88" xml:space="preserve">
+<source xml:lang="cs"> ANO   </source>
+<target xml:lang="en-US"> ANO   </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu89" xml:space="preserve">
+<source xml:lang="cs"> NE</source>
+<target xml:lang="en-US"> NE</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu90" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Pokud ANO, </g><g id="2">u</g>veďte podrobnosti týkající se této osoby a vztahů k této osobě. </source>
+<target xml:lang="en-US"><g id="1">Pokud ANO, </g><g id="2">u</g>veďte podrobnosti týkající se této osoby a vztahů k této osobě. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu91" xml:space="preserve">
+<source xml:lang="cs"><g id="1">5. Uveďte informace o dalších skutečnostech, které nejsou uvedeny v tabulce a které mohou mít vliv na důvěryhodnost Vaší osoby, popřípadě předložte doklady a důkazy o těchto skutečnostech </g>(<g id="2">například opakované přestupky na úseku majetku páchané mimo rámec podnikatelské činnosti, neplnění povinností vůči finančním orgánům a orgánům dohledu)</g></source>
+<target xml:lang="en-US"><g id="1">5. Uveďte informace o dalších skutečnostech, které nejsou uvedeny v tabulce a které mohou mít vliv na důvěryhodnost Vaší osoby, popřípadě předložte doklady a důkazy o těchto skutečnostech </g>(<g id="2">například opakované přestupky na úseku majetku páchané mimo rámec podnikatelské činnosti, neplnění povinností vůči finančním orgánům a orgánům dohledu)</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu92" xml:space="preserve">
+<source xml:lang="cs">III.</source>
+<target xml:lang="en-US">III.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu93" xml:space="preserve">
+<source xml:lang="cs">INFORMACE SOUVISEJÍCÍ S VÝKONEM ČINNOSTI PRÁVNICKÉ OSOBY </source>
+<target xml:lang="en-US">INFORMACE SOUVISEJÍCÍ S VÝKONEM ČINNOSTI PRÁVNICKÉ OSOBY </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu94" xml:space="preserve">
+<source xml:lang="cs"> V ZAHRANIČNÍ</source>
+<target xml:lang="en-US"> V ZAHRANIČNÍ</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu95" xml:space="preserve">
+<source xml:lang="cs"> 6. Výkon činnosti v zahraničí</source>
+<target xml:lang="en-US"> 6. Výkon činnosti v zahraničí</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu96" xml:space="preserve">
+<source xml:lang="cs">Měla nebo má právnická osoba v posledních 3 letech sídlo nebo organizační složku podniku na území jiného státu, než je Česká republika?</source>
+<target xml:lang="en-US">Měla nebo má právnická osoba v posledních 3 letech sídlo nebo organizační složku podniku na území jiného státu, než je Česká republika?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu97" xml:space="preserve">
+<source xml:lang="cs"> ANO   </source>
+<target xml:lang="en-US"> ANO   </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu98" xml:space="preserve">
+<source xml:lang="cs"> NE</source>
+<target xml:lang="en-US"> NE</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu99" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Pokud ANO, u</g>veďte státy, ve kterých právnická osoba měla nebo má v posledních 3 letech sídlo nebo organizační složku podniku.</source>
+<target xml:lang="en-US"><g id="1">Pokud ANO, u</g>veďte státy, ve kterých právnická osoba měla nebo má v posledních 3 letech sídlo nebo organizační složku podniku.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu100" xml:space="preserve">
+<source xml:lang="cs">IV.</source>
+<target xml:lang="en-US">IV.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu101" xml:space="preserve">
+<source xml:lang="cs">SEZNAM PŘÍLOH</source>
+<target xml:lang="en-US">SEZNAM PŘÍLOH</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu102" xml:space="preserve">
+<source xml:lang="cs"><g id="1">7. </g>Číslovaný seznam všech příloh, kterými<g id="2"> případně dokládáte skutečnosti uvedené v bodech 2 až 6 a k jaké skutečnosti se vztahují</g><g id="3"> </g><g id="4">(čísla uveďte i na samotných přílohách, pokud se příloha skládá z více dokumentů, označte je navíc písmeny) </g></source>
+<target xml:lang="en-US"><g id="1">7. </g>Číslovaný seznam všech příloh, kterými<g id="2"> případně dokládáte skutečnosti uvedené v bodech 2 až 6 a k jaké skutečnosti se vztahují</g><g id="3"> </g><g id="4">(čísla uveďte i na samotných přílohách, pokud se příloha skládá z více dokumentů, označte je navíc písmeny) </g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu103" xml:space="preserve">
+<source xml:lang="cs">P. č.</source>
+<target xml:lang="en-US">P. č.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu104" xml:space="preserve">
+<source xml:lang="cs">Název přílohy</source>
+<target xml:lang="en-US">Název přílohy</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu105" xml:space="preserve">
+<source xml:lang="cs">Počet </source>
+<target xml:lang="en-US">Počet </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu106" xml:space="preserve">
+<source xml:lang="cs">V.</source>
+<target xml:lang="en-US">V.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu107" xml:space="preserve">
+<source xml:lang="cs">PROHLÁŠENÍ</source>
+<target xml:lang="en-US">PROHLÁŠENÍ</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu108" xml:space="preserve">
+<source xml:lang="cs">Prohlašuji, že údaje uvedené v této příloze, nebo uvedené v souvislosti s předkládanou žádostí, jsou pravdivé, aktuální a úplné.</source>
+<target xml:lang="en-US">Prohlašuji, že údaje uvedené v této příloze, nebo uvedené v souvislosti s předkládanou žádostí, jsou pravdivé, aktuální a úplné.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu109" xml:space="preserve">
+<source xml:lang="cs">VI.</source>
+<target xml:lang="en-US">VI.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu110" xml:space="preserve">
+<source xml:lang="cs">DALŠÍ INFORMACE SOUVISEJÍCÍ S PODÁNÍM ŽÁDOSTI</source>
+<target xml:lang="en-US">DALŠÍ INFORMACE SOUVISEJÍCÍ S PODÁNÍM ŽÁDOSTI</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu111" xml:space="preserve">
+<source xml:lang="cs"><g id="1">8. </g>Identifikace osoby oprávněné jednat za právnickou osobu/jménem právnické osoby <g id="2">b/</g>  </source>
+<target xml:lang="en-US"><g id="1">8. </g>Identifikace osoby oprávněné jednat za právnickou osobu/jménem právnické osoby <g id="2">b/</g>  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu112" xml:space="preserve">
+<source xml:lang="cs">Označení funkce</source>
+<target xml:lang="en-US">Označení funkce</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu113" xml:space="preserve">
+<source xml:lang="cs">Jméno (a) a příjmení </source>
+<target xml:lang="en-US">Jméno (a) a příjmení </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu114" xml:space="preserve">
+<source xml:lang="cs">Datum narození</source>
+<target xml:lang="en-US">Datum narození</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu115" xml:space="preserve">
+<source xml:lang="cs"> </source>
+<target xml:lang="en-US"> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu116" xml:space="preserve">
+<source xml:lang="cs"><g id="1">  9. Uvedení, pro jaké účely je doklad předkládán </g>(v souvislosti s jakou žádostí)</source>
+<target xml:lang="en-US"><g id="1">  9. Uvedení, pro jaké účely je doklad předkládán </g>(v souvislosti s jakou žádostí)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu117" xml:space="preserve">
+<source xml:lang="cs"> 10. <g id="1">Kontaktní osoba určená pro komunikaci s ČNB v předmětné záležitosti </g><g id="2">(jméno, příjmení, telefonní číslo, e-mail)</g></source>
+<target xml:lang="en-US"> 10. <g id="1">Kontaktní osoba určená pro komunikaci s ČNB v předmětné záležitosti </g><g id="2">(jméno, příjmení, telefonní číslo, e-mail)</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu118" xml:space="preserve">
+<source xml:lang="cs">Místo <x id="1"/>Datum                                        Jméno, příjmení a podpis <g id="2">c/</g></source>
+<target xml:lang="en-US">Místo <x id="1"/>Datum                                        Jméno, příjmení a podpis <g id="2">c/</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu119" xml:space="preserve">
+<source xml:lang="cs">________________________________________________</source>
+<target xml:lang="en-US">________________________________________________</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu120" xml:space="preserve">
+<source xml:lang="cs">a/ § 4 odst. 5 zákona č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu, ve znění pozdějších předpisů.</source>
+<target xml:lang="en-US">a/ § 4 odst. 5 zákona č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu, ve znění pozdějších předpisů.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu121" xml:space="preserve">
+<source xml:lang="cs">b/ § 30 odst. 1 správního řádu ve spojení s § 21 občanského soudního řádu.</source>
+<target xml:lang="en-US">b/ § 30 odst. 1 správního řádu ve spojení s § 21 občanského soudního řádu.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu122" xml:space="preserve">
+<source xml:lang="cs">c/ Osoba jednající za žadatele oprávněná k podpisu.</source>
+<target xml:lang="en-US">c/ Osoba jednající za žadatele oprávněná k podpisu.</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/footer3.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/footer2.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P3961C81B-tu1" xml:space="preserve">
+<source xml:lang="cs"></source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="P3A7A53BA-sub1" xml:space="preserve">
+<source xml:lang="cs">Automatický obrazec 13</source>
+<target xml:lang="en-US">Automatický obrazec 13</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/footer1.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/header2.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/header1.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/endnotes.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/footnotes.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/header3.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/settings.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+</xliff>

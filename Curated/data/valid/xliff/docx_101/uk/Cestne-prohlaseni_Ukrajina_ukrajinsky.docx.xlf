@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="word/document.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NFDBB2FA9-tu1" xml:space="preserve">
+<source xml:lang="uk">Аффідевіт </source>
+<target xml:lang="en-US">Аффідевіт </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu2" xml:space="preserve">
+<source xml:lang="uk">Я, нижче підписаний(на), цим заявляю, що мій загальний дохід, соціальні та майнові умови як особи, яка прибула в Чеську Республіку з України у зв'язку з військовим конфліктом, якій був наданий статус іноземця з тимчасовим захистом, такі, <g id="1">що мені не тільки не дозволяють подолати нинішню несприятливу ситуацію самостійно, але вони також не дозволяють мені </g>хоча б частково відшкодувати витрати на соціальні послуги, що надаються відповідно до Закону №. 108/2006 Sb., Про соціальні послуги з внесеними поправками, щоб подолати цю несприятливу ситуацію.</source>
+<target xml:lang="en-US">Я, нижче підписаний(на), цим заявляю, що мій загальний дохід, соціальні та майнові умови як особи, яка прибула в Чеську Республіку з України у зв'язку з військовим конфліктом, якій був наданий статус іноземця з тимчасовим захистом, такі, <g id="1">що мені не тільки не дозволяють подолати нинішню несприятливу ситуацію самостійно, але вони також не дозволяють мені </g>хоча б частково відшкодувати витрати на соціальні послуги, що надаються відповідно до Закону №. 108/2006 Sb., Про соціальні послуги з внесеними поправками, щоб подолати цю несприятливу ситуацію.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu3" xml:space="preserve">
+<source xml:lang="uk">У зв'язку з вищевказаною заявою я зобов'язуюся використовувати тільки ті основні види послуг і дії соціальної служби, які необхідні для вирішення моєї несприятливої соціальної ситуації, і тільки в тому обсязі і протягом того часу, який відповідає моїм потребам, для яких я використовую соціальну службу.</source>
+<target xml:lang="en-US">У зв'язку з вищевказаною заявою я зобов'язуюся використовувати тільки ті основні види послуг і дії соціальної служби, які необхідні для вирішення моєї несприятливої соціальної ситуації, і тільки в тому обсязі і протягом того часу, який відповідає моїм потребам, для яких я використовую соціальну службу.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu4" xml:space="preserve">
+<source xml:lang="uk">Своїм підписом я підтверджую (для неповнолітніх дітей, законний представник), що інформація, яка міститься в цій заяві, відповідає дійсності, що я обізнаний (на) про наслідки, які можуть виникнути для мене в результаті надання неправдивої інформації, і що я згоден з перевіркою її достовірності.</source>
+<target xml:lang="en-US">Своїм підписом я підтверджую (для неповнолітніх дітей, законний представник), що інформація, яка міститься в цій заяві, відповідає дійсності, що я обізнаний (на) про наслідки, які можуть виникнути для мене в результаті надання неправдивої інформації, і що я згоден з перевіркою її достовірності.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu5" xml:space="preserve">
+<source xml:lang="uk">Пан/пані <x id="1"/> </source>
+<target xml:lang="en-US">Пан/пані <x id="1"/> </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu6" xml:space="preserve">
+<source xml:lang="uk">Ім'я та прізвище:<x id="1"/>…………………………………</source>
+<target xml:lang="en-US">Ім'я та прізвище:<x id="1"/>…………………………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu7" xml:space="preserve">
+<source xml:lang="uk">Дата народження:<x id="1"/>…………………………………</source>
+<target xml:lang="en-US">Дата народження:<x id="1"/>…………………………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu8" xml:space="preserve">
+<source xml:lang="uk">Місце проживання:<x id="1"/>…………………………………</source>
+<target xml:lang="en-US">Місце проживання:<x id="1"/>…………………………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu9" xml:space="preserve">
+<source xml:lang="uk">(дані можуть бути виправлені відповідно до даних, зазначених у візі  толерантності (vízum strpění), виданої Міністерством внутрішніх справ Чеської Республіки, або відповідно до документа, що надає тимчасовий захист)</source>
+<target xml:lang="en-US">(дані можуть бути виправлені відповідно до даних, зазначених у візі  толерантності (vízum strpění), виданої Міністерством внутрішніх справ Чеської Республіки, або відповідно до документа, що надає тимчасовий захист)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu10" xml:space="preserve">
+<source xml:lang="uk">м …………… дата: ……………………<x id="1"/>м. …………… дата: …………………</source>
+<target xml:lang="en-US">м …………… дата: ……………………<x id="1"/>м. …………… дата: …………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu11" xml:space="preserve">
+<source xml:lang="uk">…………………………………<x id="1"/>…………………………</source>
+<target xml:lang="en-US">…………………………………<x id="1"/>…………………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu12" xml:space="preserve">
+<source xml:lang="uk">Клієнт<x id="1"/>Представник Клієнта</source>
+<target xml:lang="en-US">Клієнт<x id="1"/>Представник Клієнта</target>
+</trans-unit>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="uk">jan.vrbicky@mpsv.cz</source>
+<target xml:lang="en-US">jan.vrbicky@mpsv.cz</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/settings.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+</xliff>

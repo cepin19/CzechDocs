@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="word/document.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NFDBB2FA9-tu1" xml:space="preserve">
+<source xml:lang="cs">ŽÁDOST</source>
+<target xml:lang="en-US">ŽÁDOST</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu2" xml:space="preserve">
+<source xml:lang="cs">o vystavení duplikátu matričního dokladu</source>
+<target xml:lang="en-US">o vystavení duplikátu matričního dokladu</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu3" xml:space="preserve">
+<source xml:lang="cs">Žadatel</source>
+<target xml:lang="en-US">Žadatel</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu4" xml:space="preserve">
+<source xml:lang="cs">1. Jméno, popřípadě jména</source>
+<target xml:lang="en-US">1. Jméno, popřípadě jména</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu5" xml:space="preserve">
+<source xml:lang="cs">2. Příjmení, popřípadě rodné příjmení</source>
+<target xml:lang="en-US">2. Příjmení, popřípadě rodné příjmení</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu6" xml:space="preserve">
+<source xml:lang="cs">3. Datum narození</source>
+<target xml:lang="en-US">3. Datum narození</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu7" xml:space="preserve">
+<source xml:lang="cs">4. E-mail (nepovinné)</source>
+<target xml:lang="en-US">4. E-mail (nepovinné)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu8" xml:space="preserve">
+<source xml:lang="cs">5. Oprávnění k podání žádosti (příbuzenský vztah, právní zájem, plná moc)</source>
+<target xml:lang="en-US">5. Oprávnění k podání žádosti (příbuzenský vztah, právní zájem, plná moc)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu9" xml:space="preserve">
+<source xml:lang="cs">6. Žádám o vystavení duplikátu rodného listu </source>
+<target xml:lang="en-US">6. Žádám o vystavení duplikátu rodného listu </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu10" xml:space="preserve">
+<source xml:lang="cs">7. Jméno a příjmení dítěte v době narození </source>
+<target xml:lang="en-US">7. Jméno a příjmení dítěte v době narození </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu11" xml:space="preserve">
+<source xml:lang="cs">8. Datum narození</source>
+<target xml:lang="en-US">8. Datum narození</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu12" xml:space="preserve">
+<source xml:lang="cs">9. Místo narození<x id="1"/></source>
+<target xml:lang="en-US">9. Místo narození<x id="1"/></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu13" xml:space="preserve">
+<source xml:lang="cs">10. Žádám o vystavení duplikátu oddacího listu </source>
+<target xml:lang="en-US">10. Žádám o vystavení duplikátu oddacího listu </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu14" xml:space="preserve">
+<source xml:lang="cs">11. Jméno a příjmení ženicha při sňatku</source>
+<target xml:lang="en-US">11. Jméno a příjmení ženicha při sňatku</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu15" xml:space="preserve">
+<source xml:lang="cs">12. Jméno a příjmení nevěsty při sňatku</source>
+<target xml:lang="en-US">12. Jméno a příjmení nevěsty při sňatku</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu16" xml:space="preserve">
+<source xml:lang="cs">13. Datum a místo<g id="1">1</g> sňatku</source>
+<target xml:lang="en-US">13. Datum a místo<g id="1">1</g> sňatku</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu17" xml:space="preserve">
+<source xml:lang="cs">Trvalé bydliště před sňatkem:</source>
+<target xml:lang="en-US">Trvalé bydliště před sňatkem:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu18" xml:space="preserve">
+<source xml:lang="cs">14. ženich:</source>
+<target xml:lang="en-US">14. ženich:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu19" xml:space="preserve">
+<source xml:lang="cs">15. nevěsta:</source>
+<target xml:lang="en-US">15. nevěsta:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu20" xml:space="preserve">
+<source xml:lang="cs">16. Žádám o vystavení duplikátu dokladu o partnerství </source>
+<target xml:lang="en-US">16. Žádám o vystavení duplikátu dokladu o partnerství </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu21" xml:space="preserve">
+<source xml:lang="cs">17. Jméno a příjmení partnera/ky</source>
+<target xml:lang="en-US">17. Jméno a příjmení partnera/ky</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu22" xml:space="preserve">
+<source xml:lang="cs">18. Jméno a příjmení partnera/ky</source>
+<target xml:lang="en-US">18. Jméno a příjmení partnera/ky</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu23" xml:space="preserve">
+<source xml:lang="cs">19. Datum a místo<g id="1">1</g> vstupu do partnerství</source>
+<target xml:lang="en-US">19. Datum a místo<g id="1">1</g> vstupu do partnerství</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu24" xml:space="preserve">
+<source xml:lang="cs">20. Žádám o vystavení duplikátu úmrtního listu </source>
+<target xml:lang="en-US">20. Žádám o vystavení duplikátu úmrtního listu </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu25" xml:space="preserve">
+<source xml:lang="cs">21. Jméno a příjmení zemřelého</source>
+<target xml:lang="en-US">21. Jméno a příjmení zemřelého</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu26" xml:space="preserve">
+<source xml:lang="cs">22. Datum narození</source>
+<target xml:lang="en-US">22. Datum narození</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu27" xml:space="preserve">
+<source xml:lang="cs">23. Místo úmrtí<g id="1">1</g></source>
+<target xml:lang="en-US">23. Místo úmrtí<g id="1">1</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu28" xml:space="preserve">
+<source xml:lang="cs"><g id="1">Prohlašuji</g>, že jsem byl/a poučen/a, že pro použití požadovaného matričního dokladu v jiném členském státu EU, můžu požádat o vydání formuláře dle Nařízení Evropského parlamentu a Rady (EU) 2016/1191 ze dne 6. července 2016 o podpoře volného pohybu občanů zjednodušením požadavků na předkládání některých veřejných listin v Evropské unii a o změně nařízení (EU) č. 1024/2012 (dále jen „formulář dle nařízení EU“), k tomuto matričnímu dokladu a to včetně glosáře, a že vydaný formulář bude včetně glosáře připojen k mnou požadovanému matričnímu dokladu.</source>
+<target xml:lang="en-US"><g id="1">Prohlašuji</g>, že jsem byl/a poučen/a, že pro použití požadovaného matričního dokladu v jiném členském státu EU, můžu požádat o vydání formuláře dle Nařízení Evropského parlamentu a Rady (EU) 2016/1191 ze dne 6. července 2016 o podpoře volného pohybu občanů zjednodušením požadavků na předkládání některých veřejných listin v Evropské unii a o změně nařízení (EU) č. 1024/2012 (dále jen „formulář dle nařízení EU“), k tomuto matričnímu dokladu a to včetně glosáře, a že vydaný formulář bude včetně glosáře připojen k mnou požadovanému matričnímu dokladu.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu29" xml:space="preserve">
+<source xml:lang="cs">Pokud si o formulář dle nařízení EU nepožádám a budu doklad používat v jiném členském státu EU, nemusí být tento opatřen ověřovací doložkou „Apostille“, neukládá-li jinak mezinárodní smlouva, kterou je Česká republika vázána. Takový doklad však musí být v tomto případě opatřen úředním překladem do příslušného cizího jazyka.</source>
+<target xml:lang="en-US">Pokud si o formulář dle nařízení EU nepožádám a budu doklad používat v jiném členském státu EU, nemusí být tento opatřen ověřovací doložkou „Apostille“, neukládá-li jinak mezinárodní smlouva, kterou je Česká republika vázána. Takový doklad však musí být v tomto případě opatřen úředním překladem do příslušného cizího jazyka.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu30" xml:space="preserve">
+<source xml:lang="cs">Formulář pro použití v EU</source>
+<target xml:lang="en-US">Formulář pro použití v EU</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu31" xml:space="preserve">
+<source xml:lang="cs">24. Nepožaduji</source>
+<target xml:lang="en-US">24. Nepožaduji</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu32" xml:space="preserve">
+<source xml:lang="cs">25. Požaduji, a to pro použití v</source>
+<target xml:lang="en-US">25. Požaduji, a to pro použití v</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu33" xml:space="preserve">
+<source xml:lang="cs">26. v</source>
+<target xml:lang="en-US">26. v</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu34" xml:space="preserve">
+<source xml:lang="cs">jazyce</source>
+<target xml:lang="en-US">jazyce</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu35" xml:space="preserve">
+<source xml:lang="cs">Vyšší ověření dokladu apostilou</source>
+<target xml:lang="en-US">Vyšší ověření dokladu apostilou</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu36" xml:space="preserve">
+<source xml:lang="cs">27. Nepožaduji</source>
+<target xml:lang="en-US">27. Nepožaduji</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu37" xml:space="preserve">
+<source xml:lang="cs">28. Požaduji, a to pro použití v</source>
+<target xml:lang="en-US">28. Požaduji, a to pro použití v</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu38" xml:space="preserve">
+<source xml:lang="cs">29. Matriční doklad požaduji zaslat na adresu</source>
+<target xml:lang="en-US">29. Matriční doklad požaduji zaslat na adresu</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu39" xml:space="preserve">
+<source xml:lang="cs">Poskytnutím osobních údajů na tomto formuláři dochází ke zpracování osobních údajů v souladu s povinnostmi vyplývajícími z platných právních předpisů. Více informací o zpracování osobních údajů naleznete na webových stránkách Ministerstva zahraničních věcí ČR: <g id="1">https://www.mzv.cz/jnp/cz/o_ministerstvu/zpracovani_a_ochrana_osobnich_udaju/index.htm</g></source>
+<target xml:lang="en-US">Poskytnutím osobních údajů na tomto formuláři dochází ke zpracování osobních údajů v souladu s povinnostmi vyplývajícími z platných právních předpisů. Více informací o zpracování osobních údajů naleznete na webových stránkách Ministerstva zahraničních věcí ČR: <g id="1">https://www.mzv.cz/jnp/cz/o_ministerstvu/zpracovani_a_ochrana_osobnich_udaju/index.htm</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu40" xml:space="preserve">
+<source xml:lang="cs">30. V</source>
+<target xml:lang="en-US">30. V</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu41" xml:space="preserve">
+<source xml:lang="cs">31.<g id="1"> </g>dne</source>
+<target xml:lang="en-US">31.<g id="1"> </g>dne</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu42" xml:space="preserve">
+<source xml:lang="cs">32. podpis žadatele</source>
+<target xml:lang="en-US">32. podpis žadatele</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu43" xml:space="preserve">
+<source xml:lang="cs">33. Totožnost žadatele ověřena podle dokladu</source>
+<target xml:lang="en-US">33. Totožnost žadatele ověřena podle dokladu</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu44" xml:space="preserve">
+<source xml:lang="cs">34. vydaného dne</source>
+<target xml:lang="en-US">34. vydaného dne</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu45" xml:space="preserve">
+<source xml:lang="cs">35. kým</source>
+<target xml:lang="en-US">35. kým</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu46" xml:space="preserve">
+<source xml:lang="cs">36. platného do</source>
+<target xml:lang="en-US">36. platného do</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu47" xml:space="preserve">
+<source xml:lang="cs">Totožnost žadatele ověřil:</source>
+<target xml:lang="en-US">Totožnost žadatele ověřil:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu48" xml:space="preserve">
+<source xml:lang="cs">37. jméno, příjmení, funkce a podpis </source>
+<target xml:lang="en-US">37. jméno, příjmení, funkce a podpis </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu49" xml:space="preserve">
+<source xml:lang="cs">konzulárního úředníka</source>
+<target xml:lang="en-US">konzulárního úředníka</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu50" xml:space="preserve">
+<source xml:lang="cs">38. razítko zastupitelského úřadu ČR</source>
+<target xml:lang="en-US">38. razítko zastupitelského úřadu ČR</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/footnotes.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P67A78077-tu3" xml:space="preserve">
+<source xml:lang="cs"> <g id="1">u údajů v ČR se uvádí obec a okres, v cizině obec a stát</g></source>
+<target xml:lang="en-US"> <g id="1">u údajů v ČR se uvádí obec a okres, v cizině obec a stát</g></target>
+</trans-unit>
+</body>
+</file>
+<file original="word/endnotes.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/settings.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="cs">Jindra</source>
+<target xml:lang="en-US">Jindra</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

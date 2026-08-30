@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="word/document.xml" source-language="ru" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NFDBB2FA9-tu1" xml:space="preserve">
+<source xml:lang="ru">Аффидевит</source>
+<target xml:lang="en-US">Аффидевит</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu2" xml:space="preserve">
+<source xml:lang="ru">Я, нижеподписавшийся(-шаяся), настоящим заявляю, что мои общие доходы, социальное и имущественное положение как лица, прибывающего в Чешскую Республику из Украины в связи с военным конфликтом и получившего статус иностранца с временной защитой, таковы, <g id="1">что они не только не позволяют мне самостоятельно преодолеть сложившуюся неблагоприятную ситуацию, но не позволяют мне</g> даже частично возмещать расходы на социальные услуги, предоставляемые в соответствии с законом № 108/2006 Сводки законов., о социальных услугах, в редакции последующих правил, которые служат для преодоления этого неблагоприятного ситуация.</source>
+<target xml:lang="en-US">Я, нижеподписавшийся(-шаяся), настоящим заявляю, что мои общие доходы, социальное и имущественное положение как лица, прибывающего в Чешскую Республику из Украины в связи с военным конфликтом и получившего статус иностранца с временной защитой, таковы, <g id="1">что они не только не позволяют мне самостоятельно преодолеть сложившуюся неблагоприятную ситуацию, но не позволяют мне</g> даже частично возмещать расходы на социальные услуги, предоставляемые в соответствии с законом № 108/2006 Сводки законов., о социальных услугах, в редакции последующих правил, которые служат для преодоления этого неблагоприятного ситуация.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu3" xml:space="preserve">
+<source xml:lang="ru">В связи с вышеизложенным заявлением я также обязуюсь использовать только те основные виды деятельности и социальные услуги, которые необходимы для решения моей неблагоприятной социальной ситуации, и только в той мере и в течение такого времени, в какой это распределение времени соответствует моим потребностям, для которых я использую социальные услуги.</source>
+<target xml:lang="en-US">В связи с вышеизложенным заявлением я также обязуюсь использовать только те основные виды деятельности и социальные услуги, которые необходимы для решения моей неблагоприятной социальной ситуации, и только в той мере и в течение такого времени, в какой это распределение времени соответствует моим потребностям, для которых я использую социальные услуги.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu4" xml:space="preserve">
+<source xml:lang="ru">Подписываясь, я удостоверяю (законный представитель у несо-вершеннолетних), что информация, представленная в настоящем заявлении, соответствует действительности, что я осознаю возможные последствия для меня предоставления ложной информации и что я согласен с проверкой ее достоверность.</source>
+<target xml:lang="en-US">Подписываясь, я удостоверяю (законный представитель у несо-вершеннолетних), что информация, представленная в настоящем заявлении, соответствует действительности, что я осознаю возможные последствия для меня предоставления ложной информации и что я согласен с проверкой ее достоверность.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu5" xml:space="preserve">
+<source xml:lang="ru">Господин/госпожа <x id="1"/></source>
+<target xml:lang="en-US">Господин/госпожа <x id="1"/></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu6" xml:space="preserve">
+<source xml:lang="ru">Фамилия, имя отчество:<x id="1"/>…………………………………</source>
+<target xml:lang="en-US">Фамилия, имя отчество:<x id="1"/>…………………………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu7" xml:space="preserve">
+<source xml:lang="ru">Дата рождения:<x id="1"/>…………………………………</source>
+<target xml:lang="en-US">Дата рождения:<x id="1"/>…………………………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu8" xml:space="preserve">
+<source xml:lang="ru">Место жительства:<x id="1"/>…………………………………</source>
+<target xml:lang="en-US">Место жительства:<x id="1"/>…………………………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu9" xml:space="preserve">
+<source xml:lang="ru">(данные могут быть исправлены в соответствии с данными, указанными в визе с целью толерантности, выданной Министерством внутренних дел Чешской Республики, или в соответствии с документом, подтверждающим предоставление временной защиты)</source>
+<target xml:lang="en-US">(данные могут быть исправлены в соответствии с данными, указанными в визе с целью толерантности, выданной Министерством внутренних дел Чешской Республики, или в соответствии с документом, подтверждающим предоставление временной защиты)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu10" xml:space="preserve">
+<source xml:lang="ru">В г. …………… от: ……………………<x id="1"/>В г. …………… от: ……………………</source>
+<target xml:lang="en-US">В г. …………… от: ……………………<x id="1"/>В г. …………… от: ……………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu11" xml:space="preserve">
+<source xml:lang="ru">…………………………………<x id="1"/>…………………………</source>
+<target xml:lang="en-US">…………………………………<x id="1"/>…………………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu12" xml:space="preserve">
+<source xml:lang="ru">Клиент<x id="1"/>Представитель клиента</source>
+<target xml:lang="en-US">Клиент<x id="1"/>Представитель клиента</target>
+</trans-unit>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="ru" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="ru">Jan Vrbicky</source>
+<target xml:lang="en-US">Jan Vrbicky</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/settings.xml" source-language="ru" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+</xliff>

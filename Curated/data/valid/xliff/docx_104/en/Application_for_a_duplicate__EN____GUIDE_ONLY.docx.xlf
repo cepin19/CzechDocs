@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="word/document.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NFDBB2FA9-tu1" xml:space="preserve">
+<source xml:lang="en">APPLICATION</source>
+<target xml:lang="fr">APPLICATION</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu2" xml:space="preserve">
+<source xml:lang="en">for a duplicate of Czech registry documents<x id="1"/></source>
+<target xml:lang="fr">for a duplicate of Czech registry documents<x id="1"/></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu3" xml:space="preserve">
+<source xml:lang="en">Applicant</source>
+<target xml:lang="fr">Applicant</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu4" xml:space="preserve">
+<source xml:lang="en">1. Name (or names, if applicable)</source>
+<target xml:lang="fr">1. Name (or names, if applicable)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu5" xml:space="preserve">
+<source xml:lang="en">2. Surname (or maiden name, if applicable)</source>
+<target xml:lang="fr">2. Surname (or maiden name, if applicable)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu6" xml:space="preserve">
+<source xml:lang="en">3. Date of birth</source>
+<target xml:lang="fr">3. Date of birth</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu7" xml:space="preserve">
+<source xml:lang="en">4. E-mail (not compulsory)</source>
+<target xml:lang="fr">4. E-mail (not compulsory)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu8" xml:space="preserve">
+<source xml:lang="en">5.  Authority to lodge application (relation, legal interest, Power of Attorney)</source>
+<target xml:lang="fr">5.  Authority to lodge application (relation, legal interest, Power of Attorney)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu9" xml:space="preserve">
+<source xml:lang="en">6. I hereby apply for a duplicate of a Birth Certificate</source>
+<target xml:lang="fr">6. I hereby apply for a duplicate of a Birth Certificate</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu10" xml:space="preserve">
+<source xml:lang="en">7. Name and surname of the child at the time of birth</source>
+<target xml:lang="fr">7. Name and surname of the child at the time of birth</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu11" xml:space="preserve">
+<source xml:lang="en">8. Date of birth</source>
+<target xml:lang="fr">8. Date of birth</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu12" xml:space="preserve">
+<source xml:lang="en">9. Place of birth<x id="1"/></source>
+<target xml:lang="fr">9. Place of birth<x id="1"/></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu13" xml:space="preserve">
+<source xml:lang="en">10. I hereby apply for a duplicate of a Marriage Certificate </source>
+<target xml:lang="fr">10. I hereby apply for a duplicate of a Marriage Certificate </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu14" xml:space="preserve">
+<source xml:lang="en">11. Name and surname of groom</source>
+<target xml:lang="fr">11. Name and surname of groom</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu15" xml:space="preserve">
+<source xml:lang="en">12. Name and surname of the bride</source>
+<target xml:lang="fr">12. Name and surname of the bride</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu16" xml:space="preserve">
+<source xml:lang="en">13. Date and place<g id="1">1</g> of marriage</source>
+<target xml:lang="fr">13. Date and place<g id="1">1</g> of marriage</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu17" xml:space="preserve">
+<source xml:lang="en">Permanent residence on date of marriage</source>
+<target xml:lang="fr">Permanent residence on date of marriage</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu18" xml:space="preserve">
+<source xml:lang="en">14. groom:</source>
+<target xml:lang="fr">14. groom:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu19" xml:space="preserve">
+<source xml:lang="en">15. bride:</source>
+<target xml:lang="fr">15. bride:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu20" xml:space="preserve">
+<source xml:lang="en">16. I hereby apply for a duplicate of a Partnership Certificate. </source>
+<target xml:lang="fr">16. I hereby apply for a duplicate of a Partnership Certificate. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu21" xml:space="preserve">
+<source xml:lang="en">17. Name and surname of Partner 1</source>
+<target xml:lang="fr">17. Name and surname of Partner 1</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu22" xml:space="preserve">
+<source xml:lang="en">18. Name and surname of Partner 2</source>
+<target xml:lang="fr">18. Name and surname of Partner 2</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu23" xml:space="preserve">
+<source xml:lang="en">19. Time and place<g id="1">1</g> that partnership was registered.  </source>
+<target xml:lang="fr">19. Time and place<g id="1">1</g> that partnership was registered.  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu24" xml:space="preserve">
+<source xml:lang="en">20. I hereby apply for a duplicate of a Death Certificate.  </source>
+<target xml:lang="fr">20. I hereby apply for a duplicate of a Death Certificate.  </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu25" xml:space="preserve">
+<source xml:lang="en">21. Name and surname of the deceased</source>
+<target xml:lang="fr">21. Name and surname of the deceased</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu26" xml:space="preserve">
+<source xml:lang="en">22. Date of birth </source>
+<target xml:lang="fr">22. Date of birth </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu27" xml:space="preserve">
+<source xml:lang="en">23. Place of death<g id="1">1</g></source>
+<target xml:lang="fr">23. Place of death<g id="1">1</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu28" xml:space="preserve">
+<source xml:lang="en"><g id="1">I declare</g>, that I was made aware of my ability to request that a form and glossary to be issued and attached to the requested registry document in order to use said document in another Member State of the European Union, in accordance with the Regulation of the European Parliament and of the European Council (2016/1191) of 6th July 2016 on promoting the free movement of citizens by simplifying the requirements for producing certain public documents in the European Union and amending Regulation (EU) No 1024/2012 (henceforth „Forms according to EU regulations“). </source>
+<target xml:lang="fr"><g id="1">I declare</g>, that I was made aware of my ability to request that a form and glossary to be issued and attached to the requested registry document in order to use said document in another Member State of the European Union, in accordance with the Regulation of the European Parliament and of the European Council (2016/1191) of 6th July 2016 on promoting the free movement of citizens by simplifying the requirements for producing certain public documents in the European Union and amending Regulation (EU) No 1024/2012 (henceforth „Forms according to EU regulations“). </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu29" xml:space="preserve">
+<source xml:lang="en">If I am not requesting a form according to EU regulations  and I will be using the document in another Member State of the EU, an “Apostille“ does not have to be attached to this document unless stated otherwise in another international agreement by which the Czech Republic is bound. In this case, such a document would need to be officially translated to the relevant foreign language. </source>
+<target xml:lang="fr">If I am not requesting a form according to EU regulations  and I will be using the document in another Member State of the EU, an “Apostille“ does not have to be attached to this document unless stated otherwise in another international agreement by which the Czech Republic is bound. In this case, such a document would need to be officially translated to the relevant foreign language. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu30" xml:space="preserve">
+<source xml:lang="en">Do you require a form for use in the European Union?</source>
+<target xml:lang="fr">Do you require a form for use in the European Union?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu31" xml:space="preserve">
+<source xml:lang="en">24. I do not require</source>
+<target xml:lang="fr">24. I do not require</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu32" xml:space="preserve">
+<source xml:lang="en">25. I do require for use in (country) </source>
+<target xml:lang="fr">25. I do require for use in (country) </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu33" xml:space="preserve">
+<source xml:lang="en">26. in the following language</source>
+<target xml:lang="fr">26. in the following language</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu34" xml:space="preserve">
+<source xml:lang="en">Do you require an Apostille? </source>
+<target xml:lang="fr">Do you require an Apostille? </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu35" xml:space="preserve">
+<source xml:lang="en">27. I do not require</source>
+<target xml:lang="fr">27. I do not require</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu36" xml:space="preserve">
+<source xml:lang="en">28. I do require for use in (country)</source>
+<target xml:lang="fr">28. I do require for use in (country)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu37" xml:space="preserve">
+<source xml:lang="en">29. Address where the document shall be sent to: </source>
+<target xml:lang="fr">29. Address where the document shall be sent to: </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu38" xml:space="preserve">
+<source xml:lang="en">Personal data provided on this form is processed in accordance with the applicable legislation. More information about personal data processing is available on the website of the Ministry of Foreign Affairs of the Czech Republic: <g id="1">https://www.mzv.cz/jnp/en/about_the_ministry/personal_data_processing_and_its/index.html</g></source>
+<target xml:lang="fr">Personal data provided on this form is processed in accordance with the applicable legislation. More information about personal data processing is available on the website of the Ministry of Foreign Affairs of the Czech Republic: <g id="1">https://www.mzv.cz/jnp/en/about_the_ministry/personal_data_processing_and_its/index.html</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu39" xml:space="preserve">
+<source xml:lang="en">     30. Signed in                       31. Date</source>
+<target xml:lang="fr">     30. Signed in                       31. Date</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu40" xml:space="preserve">
+<source xml:lang="en">32. Applicant’s signature</source>
+<target xml:lang="fr">32. Applicant’s signature</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu41" xml:space="preserve">
+<source xml:lang="en">33. Applicant’s identity verified with: </source>
+<target xml:lang="fr">33. Applicant’s identity verified with: </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu42" xml:space="preserve">
+<source xml:lang="en">34. Date of issue</source>
+<target xml:lang="fr">34. Date of issue</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu43" xml:space="preserve">
+<source xml:lang="en">35. Issued by</source>
+<target xml:lang="fr">35. Issued by</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu44" xml:space="preserve">
+<source xml:lang="en">36. Date of expiry</source>
+<target xml:lang="fr">36. Date of expiry</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu45" xml:space="preserve">
+<source xml:lang="en">Applicant’s identity verified by:</source>
+<target xml:lang="fr">Applicant’s identity verified by:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu46" xml:space="preserve">
+<source xml:lang="en">37. Name, surname, position and signature of Consular Officer. </source>
+<target xml:lang="fr">37. Name, surname, position and signature of Consular Officer. </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu47" xml:space="preserve">
+<source xml:lang="en">38. Official stamp of the foreign mission of the Czech Republic</source>
+<target xml:lang="fr">38. Official stamp of the foreign mission of the Czech Republic</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/header2.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P3E7BE269-tu1" xml:space="preserve">
+<source xml:lang="en"><g id="1">DO NOT FILL OUT! Please note that this form serves as a guide only!</g><x id="2"/>Applicants must fill out, sign, and submit the Czech version of the form. </source>
+<target xml:lang="fr"><g id="1">DO NOT FILL OUT! Please note that this form serves as a guide only!</g><x id="2"/>Applicants must fill out, sign, and submit the Czech version of the form. </target>
+</trans-unit>
+</body>
+</file>
+<file original="word/footnotes.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P67A78077-tu3" xml:space="preserve">
+<source xml:lang="en"> For  each registry document has to be submitted separate application form.</source>
+<target xml:lang="fr"> For  each registry document has to be submitted separate application form.</target>
+</trans-unit>
+<trans-unit id="P67A78077-tu4" xml:space="preserve">
+<source xml:lang="en"> <g id="1">for addresses in the Czech Republic, please state the county and municipality area. For overseas addresses please state the suburb and country. </g></source>
+<target xml:lang="fr"> <g id="1">for addresses in the Czech Republic, please state the county and municipality area. For overseas addresses please state the suburb and country. </g></target>
+</trans-unit>
+</body>
+</file>
+<file original="word/endnotes.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/header1.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P3E6DCAE8-tu1" xml:space="preserve">
+<source xml:lang="en"><g id="1">DO NOT FILL OUT! Please note that this form serves as a guide only!</g><x id="2"/>Applicants must fill out, sign, and submit the Czech version of the form. </source>
+<target xml:lang="fr"><g id="1">DO NOT FILL OUT! Please note that this form serves as a guide only!</g><x id="2"/>Applicants must fill out, sign, and submit the Czech version of the form. </target>
+</trans-unit>
+</body>
+</file>
+<file original="word/settings.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="en">WHITESIDE Jeremy</source>
+<target xml:lang="fr">WHITESIDE Jeremy</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

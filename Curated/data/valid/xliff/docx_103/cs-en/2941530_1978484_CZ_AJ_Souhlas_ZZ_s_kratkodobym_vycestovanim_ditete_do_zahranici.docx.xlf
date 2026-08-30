@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="word/document.xml" source-language="cs-EN" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NFDBB2FA9-tu1" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Souhlas zákonného zástupce s krátkodobým vycestováním dítěte do zahraničí</g><x id="2"/>Consent of a Legal Representative with a Short Stay of a Child Abroad </source>
+<target xml:lang="en-US"><g id="1">Souhlas zákonného zástupce s krátkodobým vycestováním dítěte do zahraničí</g><x id="2"/>Consent of a Legal Representative with a Short Stay of a Child Abroad </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu3" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Já, matka / otec <g id="2">(zaškrtněte)</g></g><x id="3"/>I, mother / father <g id="4">(tick)</g>,</source>
+<target xml:lang="en-US"><g id="1">Já, matka / otec <g id="2">(zaškrtněte)</g></g><x id="3"/>I, mother / father <g id="4">(tick)</g>,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu4" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Jméno a příjmení</g> <x id="2"/>Name and Surname</source>
+<target xml:lang="en-US"><g id="1">Jméno a příjmení</g> <x id="2"/>Name and Surname</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu5" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Datum narození<x id="2"/></g>Date of birth</source>
+<target xml:lang="en-US"><g id="1">Datum narození<x id="2"/></g>Date of birth</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu6" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Adresa</g><x id="2"/>Address</source>
+<target xml:lang="en-US"><g id="1">Adresa</g><x id="2"/>Address</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu7" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Telefon a e-mail</g><x id="2"/>Phone and e-mail</source>
+<target xml:lang="en-US"><g id="1">Telefon a e-mail</g><x id="2"/>Phone and e-mail</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu8" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">souhlasím, aby mé dítě</g><x id="2"/>give a consent, that my child</source>
+<target xml:lang="en-US"><g id="1">souhlasím, aby mé dítě</g><x id="2"/>give a consent, that my child</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu9" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Jméno a příjmení</g> <x id="2"/>Name and Surname</source>
+<target xml:lang="en-US"><g id="1">Jméno a příjmení</g> <x id="2"/>Name and Surname</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu10" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Datum narození</g><x id="2"/>Date of birth</source>
+<target xml:lang="en-US"><g id="1">Datum narození</g><x id="2"/>Date of birth</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu11" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Číslo OP/pasu</g><x id="2"/>ID/Passport number</source>
+<target xml:lang="en-US"><g id="1">Číslo OP/pasu</g><x id="2"/>ID/Passport number</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu12" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Poznámky </g><x id="2"/>Comment</source>
+<target xml:lang="en-US"><g id="1">Poznámky </g><x id="2"/>Comment</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu13" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">vycestovalo do zahraničí za těchto podmínek:</g><x id="2"/>travels abroad under following conditions:</source>
+<target xml:lang="en-US"><g id="1">vycestovalo do zahraničí za těchto podmínek:</g><x id="2"/>travels abroad under following conditions:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu14" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Doba pobytu v zahraničí </g><x id="2"/>Period of stay abroad </source>
+<target xml:lang="en-US"><g id="1">Doba pobytu v zahraničí </g><x id="2"/>Period of stay abroad </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu15" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Od</g><x id="2"/>From</source>
+<target xml:lang="en-US"><g id="1">Od</g><x id="2"/>From</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu16" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Do </g><x id="2"/>Till</source>
+<target xml:lang="en-US"><g id="1">Do </g><x id="2"/>Till</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu17" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Místo pobytu v zahraničí </g><x id="2"/>Place of stay abroad</source>
+<target xml:lang="en-US"><g id="1">Místo pobytu v zahraničí </g><x id="2"/>Place of stay abroad</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu18" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Účel cesty do zahraničí <g id="2">(zaškrtněte)</g></g><x id="3"/>Purpose of the journey abroad <g id="4">(tick)</g></source>
+<target xml:lang="en-US"><g id="1">Účel cesty do zahraničí <g id="2">(zaškrtněte)</g></g><x id="3"/>Purpose of the journey abroad <g id="4">(tick)</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu19" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Dovolená</g><x id="2"/>Holiday</source>
+<target xml:lang="en-US"><g id="1">Dovolená</g><x id="2"/>Holiday</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu20" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Návštěva rodiny<x id="2"/></g>Family visit</source>
+<target xml:lang="en-US"><g id="1">Návštěva rodiny<x id="2"/></g>Family visit</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu21" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Jiné</g> <x id="2"/>Other</source>
+<target xml:lang="en-US"><g id="1">Jiné</g> <x id="2"/>Other</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu22" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Doprovod dítěte<x id="2"/></g>Person accompanying the child</source>
+<target xml:lang="en-US"><g id="1">Doprovod dítěte<x id="2"/></g>Person accompanying the child</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu23" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Vztah k dítěti <g id="2">(zaškrtněte)<x id="3"/></g></g>Relationship to child <g id="4">(tick)</g></source>
+<target xml:lang="en-US"><g id="1">Vztah k dítěti <g id="2">(zaškrtněte)<x id="3"/></g></g>Relationship to child <g id="4">(tick)</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu24" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Jméno a příjmení</g> <x id="2"/>Name and Surname</source>
+<target xml:lang="en-US"><g id="1">Jméno a příjmení</g> <x id="2"/>Name and Surname</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu25" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Datum narození<x id="2"/></g>Date of birth</source>
+<target xml:lang="en-US"><g id="1">Datum narození<x id="2"/></g>Date of birth</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu26" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Telefon a e-mail</g><x id="2"/>Phone and e-mail</source>
+<target xml:lang="en-US"><g id="1">Telefon a e-mail</g><x id="2"/>Phone and e-mail</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu27" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Matka</g> Mother</source>
+<target xml:lang="en-US"><g id="1">Matka</g> Mother</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu28" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Otec</g> Father</source>
+<target xml:lang="en-US"><g id="1">Otec</g> Father</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu29" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Jiné</g> Other</source>
+<target xml:lang="en-US"><g id="1">Jiné</g> Other</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu30" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">V<x id="2"/></g>Signed in</source>
+<target xml:lang="en-US"><g id="1">V<x id="2"/></g>Signed in</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu31" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">Dne<x id="2"/></g>Date</source>
+<target xml:lang="en-US"><g id="1">Dne<x id="2"/></g>Date</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu32" xml:space="preserve">
+<source xml:lang="cs-EN">___________________________________</source>
+<target xml:lang="en-US">___________________________________</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu33" xml:space="preserve">
+<source xml:lang="cs-EN"><g id="1">ověřený podpis osoby, která uděluje souhlas</g><x id="2"/>verified signiture of the person giving consent</source>
+<target xml:lang="en-US"><g id="1">ověřený podpis osoby, která uděluje souhlas</g><x id="2"/>verified signiture of the person giving consent</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu34" xml:space="preserve">
+<source xml:lang="cs-EN"></source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="NA1D63717-sub1" xml:space="preserve">
+<source xml:lang="cs-EN">Obdélník 17</source>
+<target xml:lang="en-US">Obdélník 17</target>
+</trans-unit>
+<trans-unit id="NA1D63717-sub2" xml:space="preserve">
+<source xml:lang="cs-EN">ne</source>
+<target xml:lang="en-US">ne</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/footnotes.xml" source-language="cs-EN" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/footer1.xml" source-language="cs-EN" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P3953B09A-tu1" xml:space="preserve">
+<source xml:lang="cs-EN">/<x id="1"/></source>
+<target xml:lang="en-US">/<x id="1"/></target>
+</trans-unit>
+</body>
+</file>
+<file original="word/endnotes.xml" source-language="cs-EN" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/settings.xml" source-language="cs-EN" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="cs-EN" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="cs-EN">Dopis</source>
+<target xml:lang="en-US">Dopis</target>
+</trans-unit>
+<trans-unit id="tu2" xml:space="preserve">
+<source xml:lang="cs-EN">umpod34</source>
+<target xml:lang="en-US">umpod34</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

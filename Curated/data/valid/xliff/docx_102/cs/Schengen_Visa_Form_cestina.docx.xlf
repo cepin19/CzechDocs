@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="word/document.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NFDBB2FA9-tu1" xml:space="preserve">
+<source xml:lang="cs"><g id="1"> </g><g id="2">Jednotný formulář žádosti</g></source>
+<target xml:lang="en-US"><g id="1"> </g><g id="2">Jednotný formulář žádosti</g></target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub1" xml:space="preserve">
+<source xml:lang="cs">Picture 3</source>
+<target xml:lang="en-US">Picture 3</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub2" xml:space="preserve">
+<source xml:lang="cs">Picture 3</source>
+<target xml:lang="en-US">Picture 3</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub3" xml:space="preserve">
+<source xml:lang="cs">Textové pole 1</source>
+<target xml:lang="en-US">Textové pole 1</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub4" xml:space="preserve">
+<source xml:lang="cs">FOTO</source>
+<target xml:lang="en-US">FOTO</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu2" xml:space="preserve">
+<source xml:lang="cs">Žádost o udělení schengenského víza</source>
+<target xml:lang="en-US">Žádost o udělení schengenského víza</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu3" xml:space="preserve">
+<source xml:lang="cs">Tento formulář žádosti je zdarma<x id="1"/></source>
+<target xml:lang="en-US">Tento formulář žádosti je zdarma<x id="1"/></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu4" xml:space="preserve">
+<source xml:lang="cs">Rodinní příslušníci občanů EU, EHP a Švýcarska nevyplňují pole č. 21, 22, 30, 31 a 32 (označená*).</source>
+<target xml:lang="en-US">Rodinní příslušníci občanů EU, EHP a Švýcarska nevyplňují pole č. 21, 22, 30, 31 a 32 (označená*).</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu5" xml:space="preserve">
+<source xml:lang="cs">Pole 1–3 je třeba vyplnit v souladu s údaji v cestovním dokladu.</source>
+<target xml:lang="en-US">Pole 1–3 je třeba vyplnit v souladu s údaji v cestovním dokladu.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu6" xml:space="preserve">
+<source xml:lang="cs">1. Příjmení:</source>
+<target xml:lang="en-US">1. Příjmení:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu7" xml:space="preserve">
+<source xml:lang="cs">Část vyhrazená úřadům</source>
+<target xml:lang="en-US">Část vyhrazená úřadům</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu8" xml:space="preserve">
+<source xml:lang="cs">Datum podání žádosti:</source>
+<target xml:lang="en-US">Datum podání žádosti:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu9" xml:space="preserve">
+<source xml:lang="cs">Číslo žádosti:</source>
+<target xml:lang="en-US">Číslo žádosti:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu10" xml:space="preserve">
+<source xml:lang="cs">Místo podání žádosti:</source>
+<target xml:lang="en-US">Místo podání žádosti:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu11" xml:space="preserve">
+<source xml:lang="cs">□ velvyslanectví/konzulát</source>
+<target xml:lang="en-US">□ velvyslanectví/konzulát</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu12" xml:space="preserve">
+<source xml:lang="cs">□ poskytovatel služeb</source>
+<target xml:lang="en-US">□ poskytovatel služeb</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu13" xml:space="preserve">
+<source xml:lang="cs">□ obchodní zprostředkovatel</source>
+<target xml:lang="en-US">□ obchodní zprostředkovatel</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu14" xml:space="preserve">
+<source xml:lang="cs">□ hranice (název):</source>
+<target xml:lang="en-US">□ hranice (název):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu15" xml:space="preserve">
+<source xml:lang="cs">……………</source>
+<target xml:lang="en-US">……………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu16" xml:space="preserve">
+<source xml:lang="cs">□ jinde</source>
+<target xml:lang="en-US">□ jinde</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu17" xml:space="preserve">
+<source xml:lang="cs">Spis zpracoval(a):</source>
+<target xml:lang="en-US">Spis zpracoval(a):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu18" xml:space="preserve">
+<source xml:lang="cs">Podpůrné doklady:</source>
+<target xml:lang="en-US">Podpůrné doklady:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu19" xml:space="preserve">
+<source xml:lang="cs">□ cestovní doklad</source>
+<target xml:lang="en-US">□ cestovní doklad</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu20" xml:space="preserve">
+<source xml:lang="cs">□ prostředky k obživě</source>
+<target xml:lang="en-US">□ prostředky k obživě</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu21" xml:space="preserve">
+<source xml:lang="cs">□ pozvání</source>
+<target xml:lang="en-US">□ pozvání</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu22" xml:space="preserve">
+<source xml:lang="cs">□ cestovní zdravotní pojištění (TMI)</source>
+<target xml:lang="en-US">□ cestovní zdravotní pojištění (TMI)</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu23" xml:space="preserve">
+<source xml:lang="cs">□ dopravní prostředek</source>
+<target xml:lang="en-US">□ dopravní prostředek</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu24" xml:space="preserve">
+<source xml:lang="cs">□ jiné:</source>
+<target xml:lang="en-US">□ jiné:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu25" xml:space="preserve">
+<source xml:lang="cs">Rozhodnutí o vízu:</source>
+<target xml:lang="en-US">Rozhodnutí o vízu:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu26" xml:space="preserve">
+<source xml:lang="cs">□ zamítnuto</source>
+<target xml:lang="en-US">□ zamítnuto</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu27" xml:space="preserve">
+<source xml:lang="cs">□ uděleno:</source>
+<target xml:lang="en-US">□ uděleno:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu28" xml:space="preserve">
+<source xml:lang="cs">□ A</source>
+<target xml:lang="en-US">□ A</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu29" xml:space="preserve">
+<source xml:lang="cs">□ C</source>
+<target xml:lang="en-US">□ C</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu30" xml:space="preserve">
+<source xml:lang="cs">□ Vízum s omezenou územní platností</source>
+<target xml:lang="en-US">□ Vízum s omezenou územní platností</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu31" xml:space="preserve">
+<source xml:lang="cs">□ Platnost:</source>
+<target xml:lang="en-US">□ Platnost:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu32" xml:space="preserve">
+<source xml:lang="cs">Od:</source>
+<target xml:lang="en-US">Od:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu33" xml:space="preserve">
+<source xml:lang="cs">Do:</source>
+<target xml:lang="en-US">Do:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu34" xml:space="preserve">
+<source xml:lang="cs">Počet vstupů:</source>
+<target xml:lang="en-US">Počet vstupů:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu35" xml:space="preserve">
+<source xml:lang="cs">□ 1      □ 2           □ více</source>
+<target xml:lang="en-US">□ 1      □ 2           □ více</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu36" xml:space="preserve">
+<source xml:lang="cs">Počet dnů:</source>
+<target xml:lang="en-US">Počet dnů:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu37" xml:space="preserve">
+<source xml:lang="cs">2. Rodné příjmení (dříve užívané(á) příjmení):</source>
+<target xml:lang="en-US">2. Rodné příjmení (dříve užívané(á) příjmení):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu38" xml:space="preserve">
+<source xml:lang="cs">3. Jméno (jména):</source>
+<target xml:lang="en-US">3. Jméno (jména):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu39" xml:space="preserve">
+<source xml:lang="cs">4. Datum narození <x id="1"/>(den–měsíc–rok):</source>
+<target xml:lang="en-US">4. Datum narození <x id="1"/>(den–měsíc–rok):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu40" xml:space="preserve">
+<source xml:lang="cs">5. Místo narození:</source>
+<target xml:lang="en-US">5. Místo narození:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu41" xml:space="preserve">
+<source xml:lang="cs">6. Země narození:</source>
+<target xml:lang="en-US">6. Země narození:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu42" xml:space="preserve">
+<source xml:lang="cs">7. Současná státní příslušnost:</source>
+<target xml:lang="en-US">7. Současná státní příslušnost:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu43" xml:space="preserve">
+<source xml:lang="cs">Státní příslušnost při narození, pokud se liší:</source>
+<target xml:lang="en-US">Státní příslušnost při narození, pokud se liší:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu44" xml:space="preserve">
+<source xml:lang="cs">Další státní příslušnosti:</source>
+<target xml:lang="en-US">Další státní příslušnosti:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu45" xml:space="preserve">
+<source xml:lang="cs">8. Pohlaví:</source>
+<target xml:lang="en-US">8. Pohlaví:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu46" xml:space="preserve">
+<source xml:lang="cs">□ muž</source>
+<target xml:lang="en-US">□ muž</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu47" xml:space="preserve">
+<source xml:lang="cs">□ žena</source>
+<target xml:lang="en-US">□ žena</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu48" xml:space="preserve">
+<source xml:lang="cs">11. Případně národní identifikační číslo:</source>
+<target xml:lang="en-US">11. Případně národní identifikační číslo:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu49" xml:space="preserve">
+<source xml:lang="cs">12. Druh cestovního dokladu:</source>
+<target xml:lang="en-US">12. Druh cestovního dokladu:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu50" xml:space="preserve">
+<source xml:lang="cs">□  běžný cestovní pas                            □ diplomatický pas                    □ služební pas</source>
+<target xml:lang="en-US">□  běžný cestovní pas                            □ diplomatický pas                    □ služební pas</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu51" xml:space="preserve">
+<source xml:lang="cs">□ úřední pas                                           □ zvláštní pas</source>
+<target xml:lang="en-US">□ úřední pas                                           □ zvláštní pas</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu52" xml:space="preserve">
+<source xml:lang="cs">□ jiný cestovní doklad (prosím upřesněte):</source>
+<target xml:lang="en-US">□ jiný cestovní doklad (prosím upřesněte):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu54" xml:space="preserve">
+<source xml:lang="cs">13. Číslo cestovního dokladu:</source>
+<target xml:lang="en-US">13. Číslo cestovního dokladu:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu55" xml:space="preserve">
+<source xml:lang="cs">14. Datum vydání:</source>
+<target xml:lang="en-US">14. Datum vydání:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu56" xml:space="preserve">
+<source xml:lang="cs">15. Platnost do:</source>
+<target xml:lang="en-US">15. Platnost do:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu57" xml:space="preserve">
+<source xml:lang="cs">16. Vydal(a) (země):</source>
+<target xml:lang="en-US">16. Vydal(a) (země):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu58" xml:space="preserve">
+<source xml:lang="cs">17. V příslušných případech osobní údaje rodinného příslušníka, který je občanem EU, EHP nebo Švýcarska</source>
+<target xml:lang="en-US">17. V příslušných případech osobní údaje rodinného příslušníka, který je občanem EU, EHP nebo Švýcarska</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu59" xml:space="preserve">
+<source xml:lang="cs">Příjmení:</source>
+<target xml:lang="en-US">Příjmení:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu60" xml:space="preserve">
+<source xml:lang="cs">Jméno (jména):</source>
+<target xml:lang="en-US">Jméno (jména):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu61" xml:space="preserve">
+<source xml:lang="cs">Datum narození (den-měsíc-rok):</source>
+<target xml:lang="en-US">Datum narození (den-měsíc-rok):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu62" xml:space="preserve">
+<source xml:lang="cs">Státní příslušnost:</source>
+<target xml:lang="en-US">Státní příslušnost:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu63" xml:space="preserve">
+<source xml:lang="cs">Číslo cestovního dokladu nebo průkazu totožnosti:</source>
+<target xml:lang="en-US">Číslo cestovního dokladu nebo průkazu totožnosti:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu64" xml:space="preserve">
+<source xml:lang="cs">18. V příslušných případech příbuzenský vztah k občanu EU, EHP nebo Švýcarska:</source>
+<target xml:lang="en-US">18. V příslušných případech příbuzenský vztah k občanu EU, EHP nebo Švýcarska:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu65" xml:space="preserve">
+<source xml:lang="cs">□ manžel(ka)                        □ dítě                  □ vnuk/vnučka                □ závislý předek v přímé linii</source>
+<target xml:lang="en-US">□ manžel(ka)                        □ dítě                  □ vnuk/vnučka                □ závislý předek v přímé linii</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu66" xml:space="preserve">
+<source xml:lang="cs"><x id="1"/>□ registrovaný partner/registrovaná partnerka                 □ jiné</source>
+<target xml:lang="en-US"><x id="1"/>□ registrovaný partner/registrovaná partnerka                 □ jiné</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu67" xml:space="preserve">
+<source xml:lang="cs">19. Adresa bydliště a e-mailová adresa žadatele:</source>
+<target xml:lang="en-US">19. Adresa bydliště a e-mailová adresa žadatele:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu68" xml:space="preserve">
+<source xml:lang="cs">Telefonní číslo:</source>
+<target xml:lang="en-US">Telefonní číslo:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu69" xml:space="preserve">
+<source xml:lang="cs">20. Bydliště v jiné zemi, než je země, jejímž je žadatel v současné době státním příslušníkem:</source>
+<target xml:lang="en-US">20. Bydliště v jiné zemi, než je země, jejímž je žadatel v současné době státním příslušníkem:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu70" xml:space="preserve">
+<source xml:lang="cs">□ Ne<x id="1"/>□ Ano.</source>
+<target xml:lang="en-US">□ Ne<x id="1"/>□ Ano.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu71" xml:space="preserve">
+<source xml:lang="cs">Povolení k pobytu nebo jiný odpovídající doklad ………….. č. …………..   Platnost do …………</source>
+<target xml:lang="en-US">Povolení k pobytu nebo jiný odpovídající doklad ………….. č. …………..   Platnost do …………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu72" xml:space="preserve">
+<source xml:lang="cs">*21. Současné zaměstnání:</source>
+<target xml:lang="en-US">*21. Současné zaměstnání:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu73" xml:space="preserve">
+<source xml:lang="cs">*22. Zaměstnavatel, jeho adresa a telefonní číslo. U studentů název a adresa vzdělávací instituce:</source>
+<target xml:lang="en-US">*22. Zaměstnavatel, jeho adresa a telefonní číslo. U studentů název a adresa vzdělávací instituce:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu74" xml:space="preserve">
+<source xml:lang="cs">23. Účel(y) cesty:</source>
+<target xml:lang="en-US">23. Účel(y) cesty:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu75" xml:space="preserve">
+<source xml:lang="cs">□ turistika                □ obchod                        □ návštěva rodiny nebo přátel             □ kultura</source>
+<target xml:lang="en-US">□ turistika                □ obchod                        □ návštěva rodiny nebo přátel             □ kultura</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu76" xml:space="preserve">
+<source xml:lang="cs">□ sport                     □ oficiální návštěva        □ zdravotní důvody                             □ studium</source>
+<target xml:lang="en-US">□ sport                     □ oficiální návštěva        □ zdravotní důvody                             □ studium</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu77" xml:space="preserve">
+<source xml:lang="cs">□ letištní průjezd     □ jiné (prosím upřesněte):</source>
+<target xml:lang="en-US">□ letištní průjezd     □ jiné (prosím upřesněte):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu78" xml:space="preserve">
+<source xml:lang="cs">24. Další informace týkající se účelu pobytu:</source>
+<target xml:lang="en-US">24. Další informace týkající se účelu pobytu:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu79" xml:space="preserve">
+<source xml:lang="cs">25. Hlavní cílový členský stát (a případné další cílové <x id="1"/>členské státy):</source>
+<target xml:lang="en-US">25. Hlavní cílový členský stát (a případné další cílové <x id="1"/>členské státy):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu80" xml:space="preserve">
+<source xml:lang="cs">26. Členský stát prvního vstupu:</source>
+<target xml:lang="en-US">26. Členský stát prvního vstupu:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu81" xml:space="preserve">
+<source xml:lang="cs">27. Počet požadovaných vstupů:</source>
+<target xml:lang="en-US">27. Počet požadovaných vstupů:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu82" xml:space="preserve">
+<source xml:lang="cs">□ jeden vstup                                    □ dva vstupy                                    □ více vstupů</source>
+<target xml:lang="en-US">□ jeden vstup                                    □ dva vstupy                                    □ více vstupů</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu83" xml:space="preserve">
+<source xml:lang="cs">Předpokládané datum příjezdu do schengenského prostoru při prvním předpokládaném pobytu:</source>
+<target xml:lang="en-US">Předpokládané datum příjezdu do schengenského prostoru při prvním předpokládaném pobytu:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu84" xml:space="preserve">
+<source xml:lang="cs"><x id="1"/>Předpokládané datum odjezdu ze schengenského prostoru po prvním předpokládaném pobytu:</source>
+<target xml:lang="en-US"><x id="1"/>Předpokládané datum odjezdu ze schengenského prostoru po prvním předpokládaném pobytu:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu86" xml:space="preserve">
+<source xml:lang="cs">28. Dříve odebrané otisky prstů za účelem žádosti o udělení schengenského víza:</source>
+<target xml:lang="en-US">28. Dříve odebrané otisky prstů za účelem žádosti o udělení schengenského víza:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu87" xml:space="preserve">
+<source xml:lang="cs">□ Ne</source>
+<target xml:lang="en-US">□ Ne</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu88" xml:space="preserve">
+<source xml:lang="cs">□ Ano      Datum, je-li známé …………………………………………..</source>
+<target xml:lang="en-US">□ Ano      Datum, je-li známé …………………………………………..</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu89" xml:space="preserve">
+<source xml:lang="cs">Číslo vízového štítku, je-li známé ……………………………</source>
+<target xml:lang="en-US">Číslo vízového štítku, je-li známé ……………………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu90" xml:space="preserve">
+<source xml:lang="cs">29. Případné povolení ke vstupu do cílové země:</source>
+<target xml:lang="en-US">29. Případné povolení ke vstupu do cílové země:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu91" xml:space="preserve">
+<source xml:lang="cs">Udělil(a) ……………………………………………………..</source>
+<target xml:lang="en-US">Udělil(a) ……………………………………………………..</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu92" xml:space="preserve">
+<source xml:lang="cs">Doba platnosti od ……………………do……………………</source>
+<target xml:lang="en-US">Doba platnosti od ……………………do……………………</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu93" xml:space="preserve">
+<source xml:lang="cs">* 30. Příjmení a jméno zvoucí osoby (osob) v členském státě (státech). Pokud nejsou, uveďte jméno hotelu (hotelů) nebo adresu (adresy) dočasného ubytování v členském státě (státech):</source>
+<target xml:lang="en-US">* 30. Příjmení a jméno zvoucí osoby (osob) v členském státě (státech). Pokud nejsou, uveďte jméno hotelu (hotelů) nebo adresu (adresy) dočasného ubytování v členském státě (státech):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu94" xml:space="preserve">
+<source xml:lang="cs">Adresa a e-mailová adresa zvoucí osoby (osob) / hotelu (hotelů)/ dočasného ubytování:</source>
+<target xml:lang="en-US">Adresa a e-mailová adresa zvoucí osoby (osob) / hotelu (hotelů)/ dočasného ubytování:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu95" xml:space="preserve">
+<source xml:lang="cs">Telefonní číslo:</source>
+<target xml:lang="en-US">Telefonní číslo:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu96" xml:space="preserve">
+<source xml:lang="cs">*31. Název a adresa zvoucí společnosti/organizace:</source>
+<target xml:lang="en-US">*31. Název a adresa zvoucí společnosti/organizace:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu97" xml:space="preserve">
+<source xml:lang="cs">Příjmení, jméno, adresa, telefonní číslo a e-mailová adresa kontaktní osoby ve zvoucí společnosti/organizaci</source>
+<target xml:lang="en-US">Příjmení, jméno, adresa, telefonní číslo a e-mailová adresa kontaktní osoby ve zvoucí společnosti/organizaci</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu98" xml:space="preserve">
+<source xml:lang="cs">Telefonní číslo společnosti/organizace:</source>
+<target xml:lang="en-US">Telefonní číslo společnosti/organizace:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu99" xml:space="preserve">
+<source xml:lang="cs">*32. Náklady spojené s cestou a s pobytem žadatele hradí:</source>
+<target xml:lang="en-US">*32. Náklady spojené s cestou a s pobytem žadatele hradí:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu100" xml:space="preserve">
+<source xml:lang="cs">□ žadatel sám</source>
+<target xml:lang="en-US">□ žadatel sám</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu101" xml:space="preserve">
+<source xml:lang="cs">Prostředky podpory:</source>
+<target xml:lang="en-US">Prostředky podpory:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu102" xml:space="preserve">
+<source xml:lang="cs">□ hotovost</source>
+<target xml:lang="en-US">□ hotovost</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu103" xml:space="preserve">
+<source xml:lang="cs">□ cestovní šeky</source>
+<target xml:lang="en-US">□ cestovní šeky</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu104" xml:space="preserve">
+<source xml:lang="cs">□ kreditní karta</source>
+<target xml:lang="en-US">□ kreditní karta</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu105" xml:space="preserve">
+<source xml:lang="cs">□ předplacené ubytování</source>
+<target xml:lang="en-US">□ předplacené ubytování</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu106" xml:space="preserve">
+<source xml:lang="cs">□ předplacená doprava</source>
+<target xml:lang="en-US">□ předplacená doprava</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu107" xml:space="preserve">
+<source xml:lang="cs">□ jiné (prosím upřesněte):</source>
+<target xml:lang="en-US">□ jiné (prosím upřesněte):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu108" xml:space="preserve">
+<source xml:lang="cs">□ sponzor (zvoucí osoba,společnost, organizace), prosím upřesněte:</source>
+<target xml:lang="en-US">□ sponzor (zvoucí osoba,společnost, organizace), prosím upřesněte:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu109" xml:space="preserve">
+<source xml:lang="cs">□ uvedený v poli 30 nebo 31</source>
+<target xml:lang="en-US">□ uvedený v poli 30 nebo 31</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu110" xml:space="preserve">
+<source xml:lang="cs">□ jiný (upřesněte):</source>
+<target xml:lang="en-US">□ jiný (upřesněte):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu111" xml:space="preserve">
+<source xml:lang="cs">Prostředky podpory:</source>
+<target xml:lang="en-US">Prostředky podpory:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu112" xml:space="preserve">
+<source xml:lang="cs">□ hotovost</source>
+<target xml:lang="en-US">□ hotovost</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu113" xml:space="preserve">
+<source xml:lang="cs">□ poskytnutí ubytování</source>
+<target xml:lang="en-US">□ poskytnutí ubytování</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu114" xml:space="preserve">
+<source xml:lang="cs">□ pokrytí všech nákladů během pobytu</source>
+<target xml:lang="en-US">□ pokrytí všech nákladů během pobytu</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu115" xml:space="preserve">
+<source xml:lang="cs">□ předplacená doprava</source>
+<target xml:lang="en-US">□ předplacená doprava</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu116" xml:space="preserve">
+<source xml:lang="cs">□ jiné (prosím upřesněte):</source>
+<target xml:lang="en-US">□ jiné (prosím upřesněte):</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu118" xml:space="preserve">
+<source xml:lang="cs">Jsem si vědom(a), že vízový poplatek se v případě zamítnutí žádosti nevrací.</source>
+<target xml:lang="en-US">Jsem si vědom(a), že vízový poplatek se v případě zamítnutí žádosti nevrací.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu119" xml:space="preserve">
+<source xml:lang="cs">V případě žádosti o udělení víza pro více vstupů:</source>
+<target xml:lang="en-US">V případě žádosti o udělení víza pro více vstupů:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu120" xml:space="preserve">
+<source xml:lang="cs">Jsem si vědom(a) nutnosti uzavřít na dobu svého prvního pobytu i následujících návštěv na území členských států dostatečné cestovní zdravotní pojištění.</source>
+<target xml:lang="en-US">Jsem si vědom(a) nutnosti uzavřít na dobu svého prvního pobytu i následujících návštěv na území členských států dostatečné cestovní zdravotní pojištění.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu121" xml:space="preserve">
+<source xml:lang="cs">Jsem si vědom(a) následující skutečnosti a jsem s ní srozuměn(a): shromažďování údajů požadovaných v tomto formuláři žádosti a pořízení mé fotografie, případně odebrání otisků prstů, jsou povinné pro posouzení žádosti; veškeré moje osobní údaje, které tato žádost obsahuje, jakož i otisky prstů a fotografie budou předány příslušným orgánům členských států a těmito orgány pro účely rozhodnutí o mé žádosti zpracovány.</source>
+<target xml:lang="en-US">Jsem si vědom(a) následující skutečnosti a jsem s ní srozuměn(a): shromažďování údajů požadovaných v tomto formuláři žádosti a pořízení mé fotografie, případně odebrání otisků prstů, jsou povinné pro posouzení žádosti; veškeré moje osobní údaje, které tato žádost obsahuje, jakož i otisky prstů a fotografie budou předány příslušným orgánům členských států a těmito orgány pro účely rozhodnutí o mé žádosti zpracovány.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu122" xml:space="preserve">
+<source xml:lang="cs">Tyto údaje, jakož i údaje týkající se rozhodnutí o mé žádosti nebo rozhodnutí o prohlášení uděleného víza za neplatné, jeho zrušení nebo prodloužení se vloží do Vízového informačního systému (VIS), kde budou uloženy po dobu nejdéle pěti let, během nichž k nim budou mít přístup vízové orgány a orgány provádějící kontroly víz na vnějších hranicích a v členských státech, azylové a přistěhovalecké orgány v členských státech za účelem ověření, zda jsou splněny podmínky k povolení vstupu a pobytu na území členských států, za účelem odhalení osob, které tyto podmínky nesplňují nebo je přestaly splňovat, posouzení žádostí o azyl a určení, kdo je k takovému posouzení příslušný. Za určitých podmínek budou mít k těmto údajům přístup také určené orgány členských států a Europol za účelem prevence, odhalování a vyšetřování teroristických trestných činů a dalších závažných trestných činů. Orgán členského státu, který odpovídá za zpracovávání údajů: Ministerstvo zahraničních věcí ČR, Loretánské náměstí 5, 118 00 Praha 1; Ředitelství služby cizinecké policie PČR, Olšanská 2, P.O. BOX 78, 130 51 Praha 3 a Ministerstvo vnitra ČR, Nad Štolou 3, 170 34 Praha 7.</source>
+<target xml:lang="en-US">Tyto údaje, jakož i údaje týkající se rozhodnutí o mé žádosti nebo rozhodnutí o prohlášení uděleného víza za neplatné, jeho zrušení nebo prodloužení se vloží do Vízového informačního systému (VIS), kde budou uloženy po dobu nejdéle pěti let, během nichž k nim budou mít přístup vízové orgány a orgány provádějící kontroly víz na vnějších hranicích a v členských státech, azylové a přistěhovalecké orgány v členských státech za účelem ověření, zda jsou splněny podmínky k povolení vstupu a pobytu na území členských států, za účelem odhalení osob, které tyto podmínky nesplňují nebo je přestaly splňovat, posouzení žádostí o azyl a určení, kdo je k takovému posouzení příslušný. Za určitých podmínek budou mít k těmto údajům přístup také určené orgány členských států a Europol za účelem prevence, odhalování a vyšetřování teroristických trestných činů a dalších závažných trestných činů. Orgán členského státu, který odpovídá za zpracovávání údajů: Ministerstvo zahraničních věcí ČR, Loretánské náměstí 5, 118 00 Praha 1; Ředitelství služby cizinecké policie PČR, Olšanská 2, P.O. BOX 78, 130 51 Praha 3 a Ministerstvo vnitra ČR, Nad Štolou 3, 170 34 Praha 7.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu123" xml:space="preserve">
+<source xml:lang="cs">Je mi známo, že mám právo v jakémkoli členském státu získat informaci o údajích týkajících se mé osoby, které byly zaznamenány do VIS, a o členském státu, který údaje předal, a právo požadovat, aby údaje, jež se týkají mé osoby a jsou nesprávné, byly opraveny, a aby údaje, které se mne týkají a které byly zpracovány nezákonně, byly vymazány. Orgán, který moji žádost posuzuje, mne bude na mou výslovnou žádost informovat, jakým způsobem mohu vykonávat své právo na kontrolu osobních údajů, které se mne týkají, a jak je mohu podle právních předpisů dotčeného členského státu nechat opravit nebo vymazat, včetně práva na podání opravných prostředků. Stížnosti ve věci ochrany osobních údajů přijímá vnitrostátní dozorový úřad tohoto členského státu: Úřad pro ochranu osobních údajů, ul. Pplk. Sochora 727/27, 170 00 Praha 7.</source>
+<target xml:lang="en-US">Je mi známo, že mám právo v jakémkoli členském státu získat informaci o údajích týkajících se mé osoby, které byly zaznamenány do VIS, a o členském státu, který údaje předal, a právo požadovat, aby údaje, jež se týkají mé osoby a jsou nesprávné, byly opraveny, a aby údaje, které se mne týkají a které byly zpracovány nezákonně, byly vymazány. Orgán, který moji žádost posuzuje, mne bude na mou výslovnou žádost informovat, jakým způsobem mohu vykonávat své právo na kontrolu osobních údajů, které se mne týkají, a jak je mohu podle právních předpisů dotčeného členského státu nechat opravit nebo vymazat, včetně práva na podání opravných prostředků. Stížnosti ve věci ochrany osobních údajů přijímá vnitrostátní dozorový úřad tohoto členského státu: Úřad pro ochranu osobních údajů, ul. Pplk. Sochora 727/27, 170 00 Praha 7.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu124" xml:space="preserve">
+<source xml:lang="cs">Prohlašuji, že jsem všechny výše uvedené údaje poskytl(a) podle svého nejlepšího vědomí a svědomí a že jsou správné a úplné. Jsem si vědom(a) toho, že jakékoli nepravdivé prohlášení povede k zamítnutí mé žádosti nebo prohlášení již uděleného víza za neplatné a může vést také k trestnímu stíhání podle práva členského státu, ve kterém se moje žádost vyřizuje.</source>
+<target xml:lang="en-US">Prohlašuji, že jsem všechny výše uvedené údaje poskytl(a) podle svého nejlepšího vědomí a svědomí a že jsou správné a úplné. Jsem si vědom(a) toho, že jakékoli nepravdivé prohlášení povede k zamítnutí mé žádosti nebo prohlášení již uděleného víza za neplatné a může vést také k trestnímu stíhání podle práva členského státu, ve kterém se moje žádost vyřizuje.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu125" xml:space="preserve">
+<source xml:lang="cs">Zavazuji se, že opustím území členských států předtím, než skončí platnost víza, bylo-li mi uděleno. Byl(a) jsem informován(a) o tom, že samotné vízum je pouze jedním z předpokladů ke vstupu na evropské území členských států. Udělení víza samo o sobě neznamená, že mám právo na náhradu škody, pokud nesplním příslušná ustanovení čl. 6 odst. 1 nařízení (EU) 2016/399 (Schengenský hraniční kodex), a bude mi z tohoto důvodu odepřen vstup. Splnění podmínek ke vstupu bude znovu posouzeno při vstupu na evropské území členských států.</source>
+<target xml:lang="en-US">Zavazuji se, že opustím území členských států předtím, než skončí platnost víza, bylo-li mi uděleno. Byl(a) jsem informován(a) o tom, že samotné vízum je pouze jedním z předpokladů ke vstupu na evropské území členských států. Udělení víza samo o sobě neznamená, že mám právo na náhradu škody, pokud nesplním příslušná ustanovení čl. 6 odst. 1 nařízení (EU) 2016/399 (Schengenský hraniční kodex), a bude mi z tohoto důvodu odepřen vstup. Splnění podmínek ke vstupu bude znovu posouzeno při vstupu na evropské území členských států.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu126" xml:space="preserve">
+<source xml:lang="cs">Místo a datum:</source>
+<target xml:lang="en-US">Místo a datum:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu127" xml:space="preserve">
+<source xml:lang="cs">Podpis (podpis rodiče/zákonného zástupce, pokud je třeba):</source>
+<target xml:lang="en-US">Podpis (podpis rodiče/zákonného zástupce, pokud je třeba):</target>
+</trans-unit>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="cs">mesarva</source>
+<target xml:lang="en-US">mesarva</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/footnotes.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P67A78077-tu3" xml:space="preserve">
+<source xml:lang="cs"><g id="1"><x id="2"/>No logo is required for Norway, Iceland, Liechtenstein and Switzerland.</g></source>
+<target xml:lang="en-US"><g id="1"><x id="2"/>No logo is required for Norway, Iceland, Liechtenstein and Switzerland.</g></target>
+</trans-unit>
+</body>
+</file>
+<file original="word/settings.xml" source-language="cs" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+</xliff>

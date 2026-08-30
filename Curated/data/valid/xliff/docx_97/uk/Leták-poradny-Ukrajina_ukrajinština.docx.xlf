@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="word/document.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NFDBB2FA9-tu1" xml:space="preserve">
+<source xml:lang="uk"></source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub1" xml:space="preserve">
+<source xml:lang="uk">Obrázek 1</source>
+<target xml:lang="en-US">Obrázek 1</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BB-sub2" xml:space="preserve">
+<source xml:lang="uk">Picture 1</source>
+<target xml:lang="en-US">Picture 1</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu2" xml:space="preserve">
+<source xml:lang="uk"></source>
+<target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="NBAE5E0BC-sub1" xml:space="preserve">
+<source xml:lang="uk">obrázek 1</source>
+<target xml:lang="en-US">obrázek 1</target>
+</trans-unit>
+<trans-unit id="NBAE5E0BC-sub2" xml:space="preserve">
+<source xml:lang="uk">Picture 1</source>
+<target xml:lang="en-US">Picture 1</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu3" xml:space="preserve">
+<source xml:lang="uk"><g id="1">Консультація Національної ради людей з інвалідністю Чеської Республіки</g></source>
+<target xml:lang="en-US"><g id="1">Консультація Національної ради людей з інвалідністю Чеської Республіки</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu4" xml:space="preserve">
+<source xml:lang="uk">Інформація для громадян України, їхнє становище впливає на конфлікт в Україні</source>
+<target xml:lang="en-US">Інформація для громадян України, їхнє становище впливає на конфлікт в Україні</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu5" xml:space="preserve">
+<source xml:lang="uk">Для кого послуга?</source>
+<target xml:lang="en-US">Для кого послуга?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu6" xml:space="preserve">
+<source xml:lang="uk">Люди з обмеженими можливостями</source>
+<target xml:lang="en-US">Люди з обмеженими можливостями</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu7" xml:space="preserve">
+<source xml:lang="uk">Пенсіонери</source>
+<target xml:lang="en-US">Пенсіонери</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu8" xml:space="preserve">
+<source xml:lang="uk">Батьки, члени сім'ї та опікуни</source>
+<target xml:lang="en-US">Батьки, члени сім'ї та опікуни</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu9" xml:space="preserve">
+<source xml:lang="uk">Чим ми можемо допомогти?</source>
+<target xml:lang="en-US">Чим ми можемо допомогти?</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu10" xml:space="preserve">
+<source xml:lang="uk">контакти з регіональними центрами допомоги КАЦПУ,</source>
+<target xml:lang="en-US">контакти з регіональними центрами допомоги КАЦПУ,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu11" xml:space="preserve">
+<source xml:lang="uk">посилання на послуги перекладача,</source>
+<target xml:lang="en-US">посилання на послуги перекладача,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu12" xml:space="preserve">
+<source xml:lang="uk">допомога в оформленні візи з метою толерантності, або інший статус, наданий ¨</source>
+<target xml:lang="en-US">допомога в оформленні візи з метою толерантності, або інший статус, наданий ¨</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu13" xml:space="preserve">
+<source xml:lang="uk">МВС,</source>
+<target xml:lang="en-US">МВС,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu14" xml:space="preserve">
+<source xml:lang="uk">пропозиції допомоги (матеріальна допомога, невідкладна допомога, гуманітарні </source>
+<target xml:lang="en-US">пропозиції допомоги (матеріальна допомога, невідкладна допомога, гуманітарні </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu15" xml:space="preserve">
+<source xml:lang="uk">допомоги, переклад, транспорт, продовольча допомога, житло, питання праці </source>
+<target xml:lang="en-US">допомоги, переклад, транспорт, продовольча допомога, житло, питання праці </target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu16" xml:space="preserve">
+<source xml:lang="uk">тощо),</source>
+<target xml:lang="en-US">тощо),</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu17" xml:space="preserve">
+<source xml:lang="uk">інформація про охорону здоров'я та освіту,</source>
+<target xml:lang="en-US">інформація про охорону здоров'я та освіту,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu18" xml:space="preserve">
+<source xml:lang="uk">інформація про систему соціальних послуг,</source>
+<target xml:lang="en-US">інформація про систему соціальних послуг,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu19" xml:space="preserve">
+<source xml:lang="uk">контакти для психологічної допомоги,</source>
+<target xml:lang="en-US">контакти для психологічної допомоги,</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu20" xml:space="preserve">
+<source xml:lang="uk">інші поточні ділянки згідно з умовами послуги.</source>
+<target xml:lang="en-US">інші поточні ділянки згідно з умовами послуги.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu21" xml:space="preserve">
+<source xml:lang="uk">Контакти на робочому місці:<g id="1"> <g id="2">https://nrzp.cz/poradna/</g></g></source>
+<target xml:lang="en-US">Контакти на робочому місці:<g id="1"> <g id="2">https://nrzp.cz/poradna/</g></g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu22" xml:space="preserve">
+<source xml:lang="uk"><g id="1">              <g id="2">Прага </g>               poradnanrzp@nrzp.cz, 266 753 427, Партизанський</g> <g id="3">1/7, Прага 7</g></source>
+<target xml:lang="en-US"><g id="1">              <g id="2">Прага </g>               poradnanrzp@nrzp.cz, 266 753 427, Партизанський</g> <g id="3">1/7, Прага 7</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu23" xml:space="preserve">
+<source xml:lang="uk"><g id="1">Брно</g>                 poradnabrno@nrzp.cz, 542 214 110, Cejl 892/32, Брно</source>
+<target xml:lang="en-US"><g id="1">Брно</g>                 poradnabrno@nrzp.cz, 542 214 110, Cejl 892/32, Брно</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu24" xml:space="preserve">
+<source xml:lang="uk"><g id="1">Острава</g>            poradnaostrava@nrzp.cz, 596 110 282, 30. Дубна 2944/1, Острава</source>
+<target xml:lang="en-US"><g id="1">Острава</g>            poradnaostrava@nrzp.cz, 596 110 282, 30. Дубна 2944/1, Острава</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu25" xml:space="preserve">
+<source xml:lang="uk"><g id="1">Оломоуц</g><g id="2">          poradnaolomouc@nrzp.cz, 585 242 865</g>, C<g id="3">ловацька</g><g id="4"> 594/5,Оломоуц</g></source>
+<target xml:lang="en-US"><g id="1">Оломоуц</g><g id="2">          poradnaolomouc@nrzp.cz, 585 242 865</g>, C<g id="3">ловацька</g><g id="4"> 594/5,Оломоуц</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu26" xml:space="preserve">
+<source xml:lang="uk"><g id="1">Пльзень</g><g id="2">            poradnaplzen@nrzp.cz, 377 224 879, </g>нас<g id="3">. Республіки 202/28, Пльзень</g></source>
+<target xml:lang="en-US"><g id="1">Пльзень</g><g id="2">            poradnaplzen@nrzp.cz, 377 224 879, </g>нас<g id="3">. Республіки 202/28, Пльзень</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu27" xml:space="preserve">
+<source xml:lang="uk"><g id="1">Пардубіце</g>        poradnapardubice@nrzp.cz, 466 952 423, До процвітання 1763, Пардубіце</source>
+<target xml:lang="en-US"><g id="1">Пардубіце</g>        poradnapardubice@nrzp.cz, 466 952 423, До процвітання 1763, Пардубіце</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu28" xml:space="preserve">
+<source xml:lang="uk"><g id="1">Ліберецька </g>     poradnaliberec@nrzp.cz, 731 504 057, Воронеж144, Ліберець</source>
+<target xml:lang="en-US"><g id="1">Ліберецька </g>     poradnaliberec@nrzp.cz, 731 504 057, Воронеж144, Ліберець</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu29" xml:space="preserve">
+<source xml:lang="uk"><g id="1">Отроковиче</g>     poradnaotrokovice@nrzp.cz, 736 577 168,Tř. Освобожені 1388, Отроковице</source>
+<target xml:lang="en-US"><g id="1">Отроковиче</g>     poradnaotrokovice@nrzp.cz, 736 577 168,Tř. Освобожені 1388, Отроковице</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu30" xml:space="preserve">
+<source xml:lang="uk"><g id="1">Чеські Будейовіце</g>  poradnacb@nrzp.cz, 383 134 006, Старе місто 2607, Чеські Будейовіце  </source>
+<target xml:lang="en-US"><g id="1">Чеські Будейовіце</g>  poradnacb@nrzp.cz, 383 134 006, Старе місто 2607, Чеські Будейовіце  </target>
+</trans-unit>
+</body>
+</file>
+<file original="word/settings.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="uk" target-language="en-US" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="uk">Ivana Julínková</source>
+<target xml:lang="en-US">Ivana Julínková</target>
+</trans-unit>
+</body>
+</file>
+</xliff>
